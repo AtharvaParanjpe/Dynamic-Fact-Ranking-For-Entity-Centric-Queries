@@ -1,0 +1,340 @@
+08 toyota tundra,assembly,princeton  indiana,0
+08 toyota tundra,assembly,san antonio,0
+08 toyota tundra,assembly,texas,0
+08 toyota tundra,assembly,toyota motor manufacturing indiana,2
+08 toyota tundra,assembly,united states,1
+08 toyota tundra,class,pickup truck,1
+08 toyota tundra,layout,automobile layout,0
+08 toyota tundra,layout,four wheel drive,0
+08 toyota tundra,layout,front engine design,0
+08 toyota tundra,manufacturer,toyota,2
+08 toyota tundra,predecessor,ALPHANUM,0
+08 toyota tundra,related mean of transportation,toyota sequoia,0
+08 toyota tundra,related,toyota sequoia,1
+1994 short story collection alice munro is open,author,alice munro,2
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,1
+1994 short story collection alice munro is open,publisher,ryerson press,0
+1994 short story collection alice munro is open,cinematography,harry makin,0
+1994 short story collection alice munro is open,director,ronald wilson,0
+1994 short story collection alice munro is open,editing,susan shipton,0
+1994 short story collection alice munro is open,genre,bildungsroman,0
+1994 short story collection alice munro is open,genre,short story cycle,0
+1994 short story collection alice munro is open,music,lawrence shragge,0
+1994 short story collection alice munro is open,producer,richard borchiver,0
+1994 short story collection alice munro is open,starring,tanya allen,0
+1994 short story collection alice munro is open,starring,wendy crewson,0
+1994 short story collection alice munro is open,writer,kelly rebar,0
+axis powers of world war ii,event,pact of steel,0
+axis powers of world war ii,event,tripartite pact,0
+axis powers of world war ii,event end,dissolution  law,0
+axis powers of world war ii,event start,anti comintern pact,0
+axis powers of world war ii,status,collective security,0
+axis powers of world war ii,owl different from,socialist republic of croatia,0
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,capital,baguio,1
+baguio quezon city manila official independence 1945,capital,manila,1
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,0
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,0
+baguio quezon city manila official independence 1945,common languages,tagalog language,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,0
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+directed bela glen glenda bride monster plan 9 outer space,cinematography,ted allan,0
+directed bela glen glenda bride monster plan 9 outer space,cinematography,william c  thompson,0
+directed bela glen glenda bride monster plan 9 outer space,country,ALPHANUM,0
+directed bela glen glenda bride monster plan 9 outer space,director,ed wood,0
+directed bela glen glenda bride monster plan 9 outer space,distributor,banner pictures,0
+directed bela glen glenda bride monster plan 9 outer space,editing,warren adams,0
+directed bela glen glenda bride monster plan 9 outer space,music composer,frank worth,0
+directed bela glen glenda bride monster plan 9 outer space,producer,ed wood,0
+directed bela glen glenda bride monster plan 9 outer space,starring,bela lugosi,0
+directed bela glen glenda bride monster plan 9 outer space,starring,loretta king hadler,2
+directed bela glen glenda bride monster plan 9 outer space,starring,tor johnson,0
+directed bela glen glenda bride monster plan 9 outer space,writer,alex gordon  writer producer,0
+directed bela glen glenda bride monster plan 9 outer space,writer,ed wood,0
+directed bela glen glenda bride monster plan 9 outer space,music,frank worth,0
+give me the apollo 14 astronauts,birth place,durango  colorado,1
+give me the apollo 14 astronauts,death place,falls church  virginia,0
+give me the apollo 14 astronauts,nationality,united states,1
+give me the apollo 14 astronauts,occupation,fighter pilot,0
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,previous occupation,fighter pilot,0
+give me the apollo 14 astronauts,previous occupation,test pilot,0
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+most beautiful railway stations world cities located,country,india,1
+most beautiful railway stations world cities located,is part of,kerala,1
+most beautiful railway stations world cities located,is part of,malappuram,2
+most beautiful railway stations world cities located,time zone,indian standard time,0
+most beautiful railway stations world cities located,postal code type,postal index number,0
+most beautiful railway stations world cities located,subdivision name,kerala,0
+most beautiful railway stations world cities located,subdivision type,list of districts in india,0
+most beautiful railway stations world cities located,subdivision type,states and union territories of india,0
+motorola bluetooth hs850,manufacturer,motorola,2
+motorola bluetooth hs850,operating system,binary runtime environment for wireless,0
+motorola bluetooth hs850,operating system,monta vista,0
+motorola bluetooth hs850,operating system,moto magx,0
+motorola bluetooth hs850,operating system,ALPHANUM,0
+motorola bluetooth hs850,battery,ALPHANUM,0
+motorola bluetooth hs850,carrier,at t,0
+motorola bluetooth hs850,carrier,t mobile,0
+motorola bluetooth hs850,connectivity,bluetooth,0
+motorola bluetooth hs850,connectivity,evolution data optimized,0
+motorola bluetooth hs850,memory,secure digital,0
+motorola bluetooth hs850,memory card,ALPHANUM,0
+motorola bluetooth hs850,music,fm broadcasting,0
+motorola bluetooth hs850,music,i radio,0
+motorola bluetooth hs850,music,real player,0
+motorola bluetooth hs850,networks,general packet radio service,0
+motorola bluetooth hs850,predecessor,ALPHANUM,0
+motorola bluetooth hs850,predecessor,ALPHANUM,1
+motorola bluetooth hs850,ringtone,advanced audio coding,0
+motorola bluetooth hs850,ringtone,midi,0
+motorola bluetooth hs850,ringtone,ALPHANUM,0
+motorola bluetooth hs850,ringtone,polyphony,0
+motorola bluetooth hs850,ringtone,wav,0
+motorola bluetooth hs850,successor,motorola aura,0
+motorola bluetooth hs850,successor,ALPHANUM,0
+nelson mandela john dube,birth place,cape province,1
+nelson mandela john dube,birth place,mvezo,0
+nelson mandela john dube,birth place,union of south africa,2
+nelson mandela john dube,death place,gauteng,2
+nelson mandela john dube,death place,johannesburg,2
+nelson mandela john dube,death place,south africa,0
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,other party,south african communist party,0
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,0
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,1
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,1
+nelson mandela john dube,spouse,gra a machel,1
+nelson mandela john dube,spouse,winnie madikizela mandela,1
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,0
+nelson mandela john dube,honorific suffix,order of the elephant,0
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,place of birth,cape province,1
+nelson mandela john dube,place of birth,mvezo,1
+nelson mandela john dube,place of birth,union of south africa,2
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,0
+nelson mandela john dube,title,president of south africa,2
+professional baseball team in japan,after,taih  k ki,0
+professional baseball team in japan,ballpark,tokyo dome,0
+professional baseball team in japan,before,shozo saijo,1
+professional baseball team in japan,former leagues,japanese baseball league,0
+professional baseball team in japan,manager,tatsunori hara,0
+professional baseball team in japan,owner,yomiuri shimbun,1
+professional baseball team in japan,pastparks,korakuen stadium,0
+steak express,country,belgium,0
+steak express,country,france,1
+steak express,ingredient,potato,1
+steak express,ingredient,steak,2
+steak express,course,main course,0
+tango dance history,derivative,maxixe  dance,0
+tango dance history,instrument,accordion,0
+tango dance history,instrument,bandoneon,0
+tango dance history,instrument,double bass,0
+tango dance history,instrument,guitar,0
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,0
+tango dance history,instrument,violin,0
+tango dance history,music subgenre,argentine tango,2
+tango dance history,music subgenre,ballroom tango,1
+tango dance history,music subgenre,finnish tango,1
+tango dance history,music subgenre,nuevo tango,1
+tango dance history,stylistic origin,candombe,1
+tango dance history,stylistic origin,contradanza,1
+tango dance history,stylistic origin,milonga  music,0
+tango dance history,stylistic origin,payada,2
+tango dance history,stylistic origin,polka,1
+tango dance history,stylistic origin,tango  flamenco,2
+tango dance history,stylistic origin,waltz  music,1
+tango dance history,stylistic origin,zarzuela,1
+tango dance history,derivatives,maxixe  dance,0
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,0
+tango dance history,instruments,double bass,0
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,0
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,1
+tango dance history,stylistic origins,candombe,2
+tango dance history,stylistic origins,contradanza,1
+tango dance history,stylistic origins,milonga  music,0
+tango dance history,stylistic origins,payada,2
+tango dance history,stylistic origins,polka,1
+tango dance history,stylistic origins,tango  flamenco,1
+tango dance history,stylistic origins,waltz  music,1
+tango dance history,stylistic origins,zarzuela,1
+tango dance history,subgenres,argentine tango,1
+tango dance history,subgenres,ballroom tango,1
+tango dance history,subgenres,finnish tango,1
+tango dance history,subgenres,nuevo tango,1
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,1
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,literary genre,beat generation,0
+which books by kerouac were published by viking press,literary genre,short story collection,0
+which books by kerouac were published by viking press,media type,hardcover,0
+which books by kerouac were published by viking press,previous work,old angel midnight,0
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,0
+which cities does the weser flow through,country,germany,1
+which cities does the weser flow through,federal state,bremen,2
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,0
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,0
+which countries have places with more than two caves,languages,welsh language,0
+which countries have places with more than two caves,languages type,languages of wales,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,0
+which countries have places with more than two caves,prime minister,david cameron,1
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,0
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,0
+which european countries have a constitutional monarchy,anthem,honors music,0
+which european countries have a constitutional monarchy,anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,anthem,kongesangen,0
+which european countries have a constitutional monarchy,capital,oslo,1
+which european countries have a constitutional monarchy,currency,norwegian krone,1
+which european countries have a constitutional monarchy,ethnic group,forest finns,0
+which european countries have a constitutional monarchy,ethnic group,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic group,jews,0
+which european countries have a constitutional monarchy,ethnic group,kven people,0
+which european countries have a constitutional monarchy,ethnic group,norwegians,0
+which european countries have a constitutional monarchy,ethnic group,romani people,0
+which european countries have a constitutional monarchy,ethnic group,sami people,0
+which european countries have a constitutional monarchy,government type,unitary state,0
+which european countries have a constitutional monarchy,language,kven language,0
+which european countries have a constitutional monarchy,language,latin alphabet,0
+which european countries have a constitutional monarchy,language,lule sami language,0
+which european countries have a constitutional monarchy,language,northern sami,0
+which european countries have a constitutional monarchy,language,norwegian language,0
+which european countries have a constitutional monarchy,language,romani language,0
+which european countries have a constitutional monarchy,language,scandoromani language,0
+which european countries have a constitutional monarchy,language,southern sami language,0
+which european countries have a constitutional monarchy,leader,erna solberg,1
+which european countries have a constitutional monarchy,leader,harald v of norway,2
+which european countries have a constitutional monarchy,leader,olemic thommessen,0
+which european countries have a constitutional monarchy,leader,tore schei,0
+which european countries have a constitutional monarchy,official language,lule sami language,0
+which european countries have a constitutional monarchy,official language,northern sami,0
+which european countries have a constitutional monarchy,official language,norwegian language,0
+which european countries have a constitutional monarchy,official language,southern sami language,0
+which european countries have a constitutional monarchy,regional language,kven language,0
+which european countries have a constitutional monarchy,regional language,romani language,0
+which european countries have a constitutional monarchy,regional language,scandoromani language,0
+which european countries have a constitutional monarchy,time zone,central european time,0
+which european countries have a constitutional monarchy,calling code,telephone numbers in norway,0
+which european countries have a constitutional monarchy,established event,constitution of norway,1
+which european countries have a constitutional monarchy,established event,denmark norway,2
+which european countries have a constitutional monarchy,established event,dissolution of the union between norway and sweden,1
+which european countries have a constitutional monarchy,established event,german occupation of norway,0
+which european countries have a constitutional monarchy,established event,kalmar union,1
+which european countries have a constitutional monarchy,established event,unification of norway,0
+which european countries have a constitutional monarchy,established event,union between sweden and norway,0
+which european countries have a constitutional monarchy,ethnic groups,forest finns,0
+which european countries have a constitutional monarchy,ethnic groups,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic groups,jews,0
+which european countries have a constitutional monarchy,ethnic groups,kven people,0
+which european countries have a constitutional monarchy,ethnic groups,norwegians,1
+which european countries have a constitutional monarchy,ethnic groups,romani people,0
+which european countries have a constitutional monarchy,ethnic groups,sami people,0
+which european countries have a constitutional monarchy,languages type,writing system,0
+which european countries have a constitutional monarchy,leader name,erna solberg,0
+which european countries have a constitutional monarchy,leader name,harald v of norway,1
+which european countries have a constitutional monarchy,leader name,olemic thommessen,0
+which european countries have a constitutional monarchy,leader name,tore schei,1
+which european countries have a constitutional monarchy,national anthem,honors music,0
+which european countries have a constitutional monarchy,national anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,national anthem,kongesangen,0
+which european countries have a constitutional monarchy,official languages,lule sami language,0
+which european countries have a constitutional monarchy,official languages,northern sami,0
+which european countries have a constitutional monarchy,official languages,norwegian language,1
+which european countries have a constitutional monarchy,official languages,southern sami language,0
+which european countries have a constitutional monarchy,patron saint,olaf ii of norway,0
+which european countries have a constitutional monarchy,regional languages,kven language,0
+which european countries have a constitutional monarchy,regional languages,romani language,0
+which european countries have a constitutional monarchy,regional languages,scandoromani language,0
+which european countries have a constitutional monarchy,religion,church of norway,0
+which european countries have a constitutional monarchy,sovereignty type,history of norway,2
+which european countries have a constitutional monarchy,state religion,church of norway,1
+which european countries have a constitutional monarchy,time zone dst,central european summer time,0
+which european countries have a constitutional monarchy,owl different from,noriega,0
+who produced the most films,birth place,elmira  new york,0
+who produced the most films,child,hal roach  jr,0
+who produced the most films,death cause,pneumonia,0
+who produced the most films,occupation,ALPHANUM,1
+who produced the most films,resting place,woodlawn cemetery  elmira  new york,0
+who produced the most films,spouse,marguerite nichols,0
+who produced the most films,children,hal roach  jr,0
+who produces orangina,industry,drink,0
+who produces orangina,key person,roger white  executive,0
+who produces orangina,location,cumbernauld,0
+who produces orangina,location,north lanarkshire,0
+who produces orangina,location,scotland,0
+who produces orangina,location,united kingdom,0
+who produces orangina,product,ade  drink suffix,0
+who produces orangina,product,barr cola,0
+who produces orangina,product,cherryade,0
+who produces orangina,product,ginger beer,0
+who produces orangina,product,irn bru,0
+who produces orangina,product,lemonade,0
+who produces orangina,product,lipton,0
+who produces orangina,product,red kola,0
+who produces orangina,product,saint clement s  cocktail,0
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,0
+who produces orangina,products,ade  drink suffix,0
+who produces orangina,products,barr cola,0
+who produces orangina,products,cherryade,0
+who produces orangina,products,ginger beer,0
+who produces orangina,products,irn bru,0
+who produces orangina,products,lemonade,0
+who produces orangina,products,lipton,0
+who produces orangina,products,red kola,0
+who produces orangina,products,saint clement s  cocktail,0
+who produces orangina,products,shandy,0
+who produces orangina,products,tizer,0

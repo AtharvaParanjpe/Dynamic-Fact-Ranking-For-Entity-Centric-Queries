@@ -1,0 +1,696 @@
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,capital,baguio,1
+baguio quezon city manila official independence 1945,capital,manila,1
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,0
+baguio quezon city manila official independence 1945,dissolution date,NUM,1
+baguio quezon city manila official independence 1945,dissolution year,NUM,1
+baguio quezon city manila official independence 1945,founding date,NUM,1
+baguio quezon city manila official independence 1945,founding year,NUM,2
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,0
+baguio quezon city manila official independence 1945,common languages,tagalog language,0
+baguio quezon city manila official independence 1945,continent,moved from category asia to southeast asia,0
+baguio quezon city manila official independence 1945,country,philippines,1
+baguio quezon city manila official independence 1945,date end,NUM,0
+baguio quezon city manila official independence 1945,date start,NUM,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,0
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,era,world war ii,1
+baguio quezon city manila official independence 1945,leader,jos  p  laurel,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,0
+baguio quezon city manila official independence 1945,national anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,national anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,native name,rep blik  ng pilipinas  tagalog,0
+baguio quezon city manila official independence 1945,region,southeast asia,0
+baguio quezon city manila official independence 1945,stat area,NUM,0
+baguio quezon city manila official independence 1945,stat pop,NUM,0
+baguio quezon city manila official independence 1945,stat year,NUM,0
+baguio quezon city manila official independence 1945,status,client state,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title deputy,speaker of the,0
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+baguio quezon city manila official independence 1945,year end,NUM,1
+baguio quezon city manila official independence 1945,year start,NUM,0
+bond girls,active years end year,NUM,0
+bond girls,active years start year,NUM,0
+bond girls,alias,andress  ursula,2
+bond girls,birth date,NUM,1
+bond girls,birth place,ostermundigen,1
+bond girls,birth place,switzerland,1
+bond girls,birth year,NUM,1
+bond girls,nationality,british people,0
+bond girls,nationality,swiss people,1
+bond girls,occupation,ALPHANUM,2
+bond girls,partner,harry hamlin,0
+bond girls,spouse,john derek,0
+bond girls,state of origin,british people,0
+bond girls,state of origin,swiss people,2
+bond girls,children,dimitri hamlin,0
+bond girls,date of birth,NUM,2
+bond girls,place of birth,ostermundigen,1
+bond girls,place of birth,switzerland,1
+bond girls,short description,swiss actress and model,1
+bond girls,title,bond girl,2
+bond girls,years,NUM,0
+bond girls,years active,NUM,0
+carl lewis,person height,NUM,0
+carl lewis,person weight,NUM,0
+carl lewis,birth date,NUM,2
+carl lewis,birth place,alabama,1
+carl lewis,birth place,birmingham  alabama,2
+carl lewis,height,NUM,0
+carl lewis,residence,houston,0
+carl lewis,residence,texas,0
+carl lewis,weight,NUM,0
+carl lewis,children,bakim k  lewis,2
+carl lewis,club,santa monica track club,2
+carl lewis,collegeteam,houston cougars,0
+carl lewis,country,united states national athletics team,2
+carl lewis,event,NUM,0
+carl lewis,nationality,american,2
+carl lewis,nicknames,carl lewis,2
+carl lewis,retired,NUM,1
+carl lewis,show medals,yes,0
+carl lewis,sport,athletics,1
+carl lewis,foaf homepage,http   www carllewis com,1
+give me all canadian grunge record labels,country,canada,1
+give me all canadian grunge record labels,founded by,sloan  band,1
+give me all canadian grunge record labels,founding year,NUM,0
+give me all canadian grunge record labels,genre,alternative rock,1
+give me all canadian grunge record labels,genre,grunge,2
+give me all canadian grunge record labels,genre,indie rock,0
+give me all canadian grunge record labels,location,halifax  nova scotia,0
+give me all canadian grunge record labels,location,nova scotia,0
+give me all canadian grunge record labels,location,ontario,0
+give me all canadian grunge record labels,location,toronto,0
+give me all canadian grunge record labels,parent company,mca records,1
+give me all canadian grunge record labels,founded,NUM,0
+give me all canadian grunge record labels,founder,sloan  band,0
+give me all canadian grunge record labels,parent,mca records,0
+give me all canadian grunge record labels,url,http   www sloanmusic com murderecords,0
+give me all canadian grunge record labels,foaf homepage,http   www sloanmusic com murderecords,2
+give me all female german chancellors,alias,merkel  angela dorothea  full name,2
+give me all female german chancellors,alma mater,leipzig university,1
+give me all female german chancellors,birth date,NUM,0
+give me all female german chancellors,birth place,hamburg,1
+give me all female german chancellors,birth place,west germany,1
+give me all female german chancellors,birth year,NUM,0
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,0
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,0
+give me all female german chancellors,deputy,sigmar gabriel,1
+give me all female german chancellors,office,chancellor of germany,1
+give me all female german chancellors,office,leader of the christian democratic union of germany,2
+give me all female german chancellors,office,minister for women and youth,0
+give me all female german chancellors,office,minister for the environment,1
+give me all female german chancellors,party,christian democratic union of germany,1
+give me all female german chancellors,party,democratic awakening,1
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,predecessor,gerhard schr der,1
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,2
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,0
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,1
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,before,norbert lammert,1
+give me all female german chancellors,chancellor,helmut kohl,1
+give me all female german chancellors,date of birth,NUM,0
+give me all female german chancellors,place of birth,hamburg  germany,1
+give me all female german chancellors,short description,german politician,1
+give me all female german chancellors,term end,NUM,0
+give me all female german chancellors,term end,NUM,0
+give me all female german chancellors,term start,NUM,0
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,0
+give me all female german chancellors,term start,NUM,0
+give me all female german chancellors,title,chancellor of germany,1
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,1
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,0
+give me all female german chancellors,title,german order of precedence,0
+give me all female german chancellors,title,ALPHANUM,0
+give me all female german chancellors,title,general secretary of the christian democratic union,1
+give me all female german chancellors,title,leader of the christian democratic union,1
+give me all female german chancellors,title,speaker at the invocation of the college of europe,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,foaf homepage,http   www bundeskanzlerin de webs bk en,0
+guitar classical bach,birth date,NUM,0
+guitar classical bach,birth year,NUM,0
+guitar classical bach,death date,NUM,0
+guitar classical bach,death year,NUM,0
+guitar classical bach,bot,ALPHANUM,0
+guitar classical bach,date,ALPHANUM,0
+guitar classical bach,date of birth,NUM,2
+guitar classical bach,date of death,NUM,0
+guitar classical bach,place of birth,sopiki  greece,0
+guitar classical bach,place of death,alexandria  virginia  usa,0
+guitar classical bach,short description,greek musician,0
+in which uk city are the headquarters of the mi6,populated place area total,NUM,0
+in which uk city are the headquarters of the mi6,populated place population density,NUM,0
+in which uk city are the headquarters of the mi6,area total,NUM,0
+in which uk city are the headquarters of the mi6,country,united kingdom,2
+in which uk city are the headquarters of the mi6,elevation,NUM,0
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,0
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,elected body,0
+in which uk city are the headquarters of the mi6,leader title,european parliament,0
+in which uk city are the headquarters of the mi6,leader title,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,mayor,0
+in which uk city are the headquarters of the mi6,leader title,uk parliament,0
+in which uk city are the headquarters of the mi6,population density,NUM,0
+in which uk city are the headquarters of the mi6,population total,NUM,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,0
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr mean c,NUM,0
+in which uk city are the headquarters of the mi6,apr precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,apr record high c,NUM,0
+in which uk city are the headquarters of the mi6,apr record low c,NUM,0
+in which uk city are the headquarters of the mi6,apr sun,NUM,0
+in which uk city are the headquarters of the mi6,area total km,NUM,0
+in which uk city are the headquarters of the mi6,aug high c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug mean c,NUM,0
+in which uk city are the headquarters of the mi6,aug precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,aug record high c,NUM,0
+in which uk city are the headquarters of the mi6,aug record low c,NUM,0
+in which uk city are the headquarters of the mi6,aug sun,NUM,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name,police,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,color,blue,0
+in which uk city are the headquarters of the mi6,color,green,0
+in which uk city are the headquarters of the mi6,color,orange,0
+in which uk city are the headquarters of the mi6,color,purple,0
+in which uk city are the headquarters of the mi6,color,red,0
+in which uk city are the headquarters of the mi6,color,yellow,0
+in which uk city are the headquarters of the mi6,coordinates region,gb,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec mean c,NUM,0
+in which uk city are the headquarters of the mi6,dec precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,dec record high c,NUM,0
+in which uk city are the headquarters of the mi6,dec record low c,NUM,0
+in which uk city are the headquarters of the mi6,dec sun,NUM,0
+in which uk city are the headquarters of the mi6,direction,vertical,0
+in which uk city are the headquarters of the mi6,elevation m,NUM,0
+in which uk city are the headquarters of the mi6,established date,ALPHANUM,0
+in which uk city are the headquarters of the mi6,established title,settled by romans,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb mean c,NUM,0
+in which uk city are the headquarters of the mi6,feb precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,feb record high c,NUM,0
+in which uk city are the headquarters of the mi6,feb record low c,NUM,0
+in which uk city are the headquarters of the mi6,feb sun,NUM,0
+in which uk city are the headquarters of the mi6,header,ALPHANUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan mean c,NUM,0
+in which uk city are the headquarters of the mi6,jan precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jan record high c,NUM,0
+in which uk city are the headquarters of the mi6,jan record low c,NUM,0
+in which uk city are the headquarters of the mi6,jan sun,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul mean c,NUM,0
+in which uk city are the headquarters of the mi6,jul precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jul record high c,NUM,0
+in which uk city are the headquarters of the mi6,jul record low c,NUM,0
+in which uk city are the headquarters of the mi6,jul sun,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun mean c,NUM,0
+in which uk city are the headquarters of the mi6,jun precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jun record high c,NUM,0
+in which uk city are the headquarters of the mi6,jun record low c,NUM,0
+in which uk city are the headquarters of the mi6,jun sun,NUM,0
+in which uk city are the headquarters of the mi6,latd,NUM,0
+in which uk city are the headquarters of the mi6,latm,NUM,0
+in which uk city are the headquarters of the mi6,lats,NUM,0
+in which uk city are the headquarters of the mi6,location,ALPHANUM,0
+in which uk city are the headquarters of the mi6,location,london weather centre uhi,0
+in which uk city are the headquarters of the mi6,longd,NUM,0
+in which uk city are the headquarters of the mi6,longm,NUM,0
+in which uk city are the headquarters of the mi6,longs,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar mean c,NUM,0
+in which uk city are the headquarters of the mi6,mar precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,mar record high c,NUM,0
+in which uk city are the headquarters of the mi6,mar record low c,NUM,0
+in which uk city are the headquarters of the mi6,mar sun,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may mean c,NUM,0
+in which uk city are the headquarters of the mi6,may precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,may record high c,NUM,0
+in which uk city are the headquarters of the mi6,may record low c,NUM,0
+in which uk city are the headquarters of the mi6,may sun,NUM,0
+in which uk city are the headquarters of the mi6,metric first,yes,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov mean c,NUM,0
+in which uk city are the headquarters of the mi6,nov precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,nov record high c,NUM,0
+in which uk city are the headquarters of the mi6,nov record low c,NUM,0
+in which uk city are the headquarters of the mi6,nov sun,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct mean c,NUM,0
+in which uk city are the headquarters of the mi6,oct precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,oct record high c,NUM,0
+in which uk city are the headquarters of the mi6,oct record low c,NUM,0
+in which uk city are the headquarters of the mi6,oct sun,NUM,0
+in which uk city are the headquarters of the mi6,parts,NUM,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,population as of,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population demonym,londoner,1
+in which uk city are the headquarters of the mi6,population density km,NUM,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep mean c,NUM,0
+in which uk city are the headquarters of the mi6,sep precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,sep record high c,NUM,0
+in which uk city are the headquarters of the mi6,sep record low c,NUM,0
+in which uk city are the headquarters of the mi6,sep sun,NUM,0
+in which uk city are the headquarters of the mi6,single line,yes,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,2
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,thumb,left,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,0
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,title,articles related to london,1
+in which uk city are the headquarters of the mi6,total type,greater london,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,website,https   london gov uk,2
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year mean c,NUM,0
+in which uk city are the headquarters of the mi6,year precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,year record high c,NUM,0
+in which uk city are the headquarters of the mi6,year record low c,NUM,0
+in which uk city are the headquarters of the mi6,year sun,NUM,0
+in which uk city are the headquarters of the mi6,foaf homepage,https   london gov uk,1
+in which uk city are the headquarters of the mi6,geo lat,NUM,0
+in which uk city are the headquarters of the mi6,geo long,NUM,0
+in which uk city are the headquarters of the mi6,georss point,NUM,0
+list of films from the surrealist category,work runtime,NUM,0
+list of films from the surrealist category,budget,NUM,0
+list of films from the surrealist category,director,alejandro jodorowsky,0
+list of films from the surrealist category,music composer,simon boswell,0
+list of films from the surrealist category,producer,claudio argento,0
+list of films from the surrealist category,runtime,NUM,0
+list of films from the surrealist category,starring,adan jodorowsky,0
+list of films from the surrealist category,starring,blanca guerra,0
+list of films from the surrealist category,starring,crist bal jodorowsky,1
+list of films from the surrealist category,starring,guy stockwell,0
+list of films from the surrealist category,writer,alejandro jodorowsky,0
+list of films from the surrealist category,writer,claudio argento,1
+list of films from the surrealist category,writer,roberto leoni,0
+list of films from the surrealist category,cinematography,daniele nannuzzi,0
+list of films from the surrealist category,country,italy,0
+list of films from the surrealist category,country,mexico,0
+list of films from the surrealist category,distributor,expanded entertainment,0
+list of films from the surrealist category,distributor,mainline pictures,0
+list of films from the surrealist category,editing,mauro bonanni,0
+list of films from the surrealist category,language,english,0
+list of films from the surrealist category,music,simon boswell,0
+major leagues in the united states,current season,ALPHANUM,1
+major leagues in the united states,founding year,NUM,0
+major leagues in the united states,founding year,NUM,0
+major leagues in the united states,participant,NUM,0
+major leagues in the united states,participant,ALPHANUM,1
+major leagues in the united states,participant,ALPHANUM,1
+major leagues in the united states,champion,san francisco giants,1
+major leagues in the united states,commissioner,rob manfred,0
+major leagues in the united states,commons,category major league baseball,2
+major leagues in the united states,continent,north america,0
+major leagues in the united states,countries,canada,0
+major leagues in the united states,countries,united states,1
+major leagues in the united states,founded,NUM,1
+major leagues in the united states,most champs,new york yankees,1
+major leagues in the united states,pixels,NUM,0
+major leagues in the united states,scale,NUM,0
+major leagues in the united states,species,no,0
+major leagues in the united states,sport,baseball,2
+major leagues in the united states,teams,NUM,1
+major leagues in the united states,width,NUM,0
+major leagues in the united states,wikt,major league baseball,2
+major leagues in the united states,foaf homepage,http   mlb com,1
+major leagues in the united states,foaf homepage,http   www mlb com,1
+movies with eight or more academy awards,work runtime,NUM,0
+movies with eight or more academy awards,budget,NUM,0
+movies with eight or more academy awards,cinematography,boris kaufman,0
+movies with eight or more academy awards,director,elia kazan,1
+movies with eight or more academy awards,distributor,columbia pictures,0
+movies with eight or more academy awards,editing,gene milford,0
+movies with eight or more academy awards,gross,NUM,0
+movies with eight or more academy awards,music composer,leonard bernstein,0
+movies with eight or more academy awards,producer,sam spiegel,1
+movies with eight or more academy awards,runtime,NUM,0
+movies with eight or more academy awards,writer,budd schulberg,0
+movies with eight or more academy awards,country,united states,1
+movies with eight or more academy awards,language,english,0
+movies with eight or more academy awards,music,leonard bernstein,0
+movies with eight or more academy awards,state,collapsed,0
+movies with eight or more academy awards,studio,horizon pictures,0
+movies with eight or more academy awards,title,articles and topics related to on the waterfront,1
+professional baseball team in japan,after,taih  k ki,0
+professional baseball team in japan,ballpark,tokyo dome,0
+professional baseball team in japan,before,shozo saijo,1
+professional baseball team in japan,color,black,0
+professional baseball team in japan,colors,black  orange  white,0
+professional baseball team in japan,current,NUM,0
+professional baseball team in japan,division champ type,central league pennants,0
+professional baseball team in japan,division champs,NUM,1
+professional baseball team in japan,established,NUM,0
+professional baseball team in japan,former leagues,japanese baseball league,0
+professional baseball team in japan,league,nippon professional baseball,0
+professional baseball team in japan,league champ type,japanese baseball league titles,1
+professional baseball team in japan,league champs,NUM,0
+professional baseball team in japan,manager,tatsunori hara,0
+professional baseball team in japan,owner,yomiuri shimbun,1
+professional baseball team in japan,pastparks,korakuen stadium,0
+professional baseball team in japan,retirednumbers,NUM,0
+professional baseball team in japan,series,japan series,1
+professional baseball team in japan,series champs,NUM,0
+professional baseball team in japan,title,japan professional sports grand prize winner,0
+professional baseball team in japan,years,NUM,0
+professional baseball team in japan,foaf homepage,http   bis npb or jp eng teams index g html,1
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,1
+radio italia online,broadcast area,fm broadcasting,0
+radio italia online,broadcast area,internet radio,1
+radio italia online,broadcast area,italy,1
+radio italia online,broadcast area,monaco,0
+radio italia online,broadcast area,san marino,1
+radio italia online,owner,rcs media group,1
+radio italia online,programme format,rock music,1
+radio italia online,sister station,ALPHANUM,1
+radio italia online,sister station,radio monte carlo,0
+radio italia online,slogan,style rock,0
+radio italia online,slogan,the music we all love,1
+radio italia online,webcast,ALPHANUM,2
+radio italia online,airdate,NUM,0
+radio italia online,area,fm frequencies in italy and monaco  dab  dab   dvb s on hotbird and worldwide with live audio streaming,0
+radio italia online,format,rock music,0
+radio italia online,frequency,fm several frequencies  change from geographical side to side,0
+radio italia online,frequency,ALPHANUM,0
+radio italia online,sister stations,ALPHANUM,1
+radio italia online,sister stations,radio monte carlo,1
+radio italia online,website,http   www virginradioitaly it,2
+radio italia online,foaf homepage,http   www virginradioitaly it,1
+science fiction book written in the 1980,author,robert l  forward,1
+science fiction book written in the 1980,cover artist,darrell k  sweet,0
+science fiction book written in the 1980,dcc,NUM,0
+science fiction book written in the 1980,isbn,NUM,0
+science fiction book written in the 1980,lcc,ALPHANUM,0
+science fiction book written in the 1980,literary genre,list of science fiction novels,0
+science fiction book written in the 1980,media type,hardcover,0
+science fiction book written in the 1980,number of pages,NUM,0
+science fiction book written in the 1980,oclc,NUM,0
+science fiction book written in the 1980,publisher,del rey books,1
+science fiction book written in the 1980,subsequent work,starquake  novel,0
+science fiction book written in the 1980,congress,ALPHANUM,0
+science fiction book written in the 1980,country,united states,0
+science fiction book written in the 1980,dewey,NUM,0
+science fiction book written in the 1980,followed by,starquake  novel,2
+science fiction book written in the 1980,genre,list of science fiction novels,1
+science fiction book written in the 1980,language,english,1
+science fiction book written in the 1980,pages,NUM,0
+science fiction book written in the 1980,release date,NUM,2
+science fiction book written in the 1980,series,cheela,1
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place population density,NUM,0
+toledo bend realty,area code,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,country,united states,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,is part of,lucas county  ohio,0
+toledo bend realty,is part of,ohio,2
+toledo bend realty,leader name,paula hicks hudson,0
+toledo bend realty,leader title,mayor,0
+toledo bend realty,population density,NUM,0
+toledo bend realty,population metro,NUM,0
+toledo bend realty,population total,NUM,0
+toledo bend realty,population total ranking,NUM,0
+toledo bend realty,population urban,NUM,0
+toledo bend realty,time zone,eastern time zone,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,area land km,NUM,0
+toledo bend realty,area land sq mi,NUM,0
+toledo bend realty,area total km,NUM,0
+toledo bend realty,area total sq mi,NUM,0
+toledo bend realty,area water km,NUM,0
+toledo bend realty,area water sq mi,NUM,0
+toledo bend realty,blank info,NUM,0
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,centre,toledo,2
+toledo bend realty,coordinates region,us oh,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,elevation ft,NUM,0
+toledo bend realty,elevation m,NUM,0
+toledo bend realty,established date,NUM,0
+toledo bend realty,established title,founded,0
+toledo bend realty,latd,NUM,0
+toledo bend realty,latm,NUM,0
+toledo bend realty,lats,NUM,0
+toledo bend realty,longd,NUM,0
+toledo bend realty,longm,NUM,0
+toledo bend realty,longs,NUM,0
+toledo bend realty,north,bedford township,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,northeast,erie township,0
+toledo bend realty,northwest,whiteford township,0
+toledo bend realty,official name,city of toledo,2
+toledo bend realty,pop est as of,NUM,0
+toledo bend realty,population as of,NUM,0
+toledo bend realty,population blank,toledoan,0
+toledo bend realty,population density km,NUM,0
+toledo bend realty,population est,NUM,0
+toledo bend realty,population rank,ALPHANUM,0
+toledo bend realty,postal code type,zip codes,0
+toledo bend realty,pushpin map,usa,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,0
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,0
+toledo bend realty,unit pref,imperial,0
+toledo bend realty,utc offset dst,NUM,0
+toledo bend realty,website,http   www toledo oh gov,2
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+toledo bend realty,foaf homepage,http   www toledo oh gov,0
+toledo bend realty,foaf nick,the glass city  t town  frogtown,0
+toledo bend realty,geo lat,NUM,0
+toledo bend realty,geo long,NUM,0
+toledo bend realty,georss point,NUM,0
+vietnam travel airports,city,hanoi,1
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,iata location identifier,han,0
+vietnam travel airports,icao location identifier,vvnb,0
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway surface,asphalt,0
+vietnam travel airports,runway surface,concrete,0
+vietnam travel airports,city served,hanoi,1
+vietnam travel airports,elevation f,NUM,0
+vietnam travel airports,elevation m,NUM,0
+vietnam travel airports,iata,han,0
+vietnam travel airports,icao,vvnb,0
+vietnam travel airports,latd,NUM,0
+vietnam travel airports,latm,NUM,0
+vietnam travel airports,lats,NUM,0
+vietnam travel airports,longd,NUM,0
+vietnam travel airports,longm,NUM,0
+vietnam travel airports,longs,NUM,0
+vietnam travel airports,operator,noi bai international airport operation,1
+vietnam travel airports,owner,airports corporation of vietnam,1
+vietnam travel airports,pushpin label,han,0
+vietnam travel airports,pushpin map,vietnam,1
+vietnam travel airports,pushpin mapsize,NUM,0
+vietnam travel airports,stat year,NUM,0
+vietnam travel airports,geo lat,NUM,0
+vietnam travel airports,geo long,NUM,0
+vietnam travel airports,georss point,NUM,0
+vietnam war facts,casualties,NUM,0
+vietnam war facts,date,NUM,0
+vietnam war facts,executed by,ALPHANUM,1
+vietnam war facts,location,south vietnam,1
+vietnam war facts,objective,to support south vietnam against communist attacks,1
+vietnam war facts,partof,the vietnam war,2
+vietnamese food blog,begins,NUM,0
+vietnamese food blog,duration,NUM,0
+vietnamese food blog,ends,NUM,0
+vietnamese food blog,frequency,annual,0
+vietnamese food blog,hangul,NUM,0
+vietnamese food blog,hanja,NUM,0
+vietnamese food blog,holiday name,cold food festival,1
+vietnamese food blog,longtype,cultural,0
+vietnamese food blog,observedby,chinese  koreans  vietnamese,0
+vietnamese food blog,official name,hanshi festival,0
+vietnamese food blog,relatedto,t t h n th c  hanshik,0
+vietnamese food blog,vie,t t h n th c,0
+vietnamese food blog,foaf nick,cold food festival,0
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,2
+what books did paul of tarsus write,booknum,NUM,0
+what books did paul of tarsus write,category,pauline epistles,0
+what books did paul of tarsus write,letname,NUM,0
+what books did paul of tarsus write,nextletter,ALPHANUM,0
+what books did paul of tarsus write,nextlink,NUM,0
+what books did paul of tarsus write,previousletter,ALPHANUM,0
+what books did paul of tarsus write,previouslink,NUM,0
+what books did paul of tarsus write,size,NUM,0
+which mountain is the highest after the annapurna,elevation,NUM,0
+which mountain is the highest after the annapurna,first ascent person,adam bielecki  climber,0
+which mountain is the highest after the annapurna,first ascent person,janusz go  b,0
+which mountain is the highest after the annapurna,first ascent year,NUM,0
+which mountain is the highest after the annapurna,first ascent year,NUM,0
+which mountain is the highest after the annapurna,located in area,pakistan,1
+which mountain is the highest after the annapurna,mountain range,karakoram,1
+which mountain is the highest after the annapurna,prominence,NUM,0
+which mountain is the highest after the annapurna,easiest route,snow ice climb,0
+which mountain is the highest after the annapurna,elevation m,NUM,0
+which mountain is the highest after the annapurna,elevation ref,ALPHANUM,1
+which mountain is the highest after the annapurna,first ascent,NUM,0
+which mountain is the highest after the annapurna,label position,right,0
+which mountain is the highest after the annapurna,lat d,NUM,0
+which mountain is the highest after the annapurna,lat m,NUM,0
+which mountain is the highest after the annapurna,lat s,NUM,0
+which mountain is the highest after the annapurna,listing,eight thousander,0
+which mountain is the highest after the annapurna,listing,ultra prominent peak,1
+which mountain is the highest after the annapurna,location,pakistan china border,0
+which mountain is the highest after the annapurna,long d,NUM,0
+which mountain is the highest after the annapurna,long m,NUM,0
+which mountain is the highest after the annapurna,long s,NUM,0
+which mountain is the highest after the annapurna,prominence m,NUM,0
+which mountain is the highest after the annapurna,range,karakoram,0
+which mountain is the highest after the annapurna,geo lat,NUM,0
+which mountain is the highest after the annapurna,geo long,NUM,0
+which mountain is the highest after the annapurna,georss point,NUM,0
+who founded intel,alias,noyce  bob,2
+who founded intel,alma mater,grinnell college,0
+who founded intel,alma mater,massachusetts institute of technology,0
+who founded intel,award,faraday medal,0
+who founded intel,award,harold pender award,0
+who founded intel,award,john fritz medal,1
+who founded intel,birth date,NUM,2
+who founded intel,birth place,burlington  iowa,2
+who founded intel,birth place,iowa,0
+who founded intel,birth year,NUM,1
+who founded intel,death date,NUM,1
+who founded intel,death place,austin  texas,0
+who founded intel,death place,texas,1
+who founded intel,death year,NUM,1
+who founded intel,occupation,fairchild semiconductor,1
+who founded intel,occupation,intel,2
+who founded intel,occupation,ALPHANUM,2
+who founded intel,spouse,elizabeth noyce,1
+who founded intel,awards,faraday medal,0
+who founded intel,awards,harold pender award,0
+who founded intel,awards,john fritz medal,1
+who founded intel,children,william b  noyce pendred noyce priscilla noyce margaret noyce,0
+who founded intel,date of birth,NUM,1
+who founded intel,date of death,NUM,2
+who founded intel,parents,ralph brewster noyce  harriet may norton,0
+who founded intel,place of birth,burlington  iowa,0
+who founded intel,place of death,austin  texas,1
+who founded intel,short description,co founder of fairchild semiconductor and intel,2
+who founded intel,title,intel ceo,2
+who founded intel,years,NUM,0

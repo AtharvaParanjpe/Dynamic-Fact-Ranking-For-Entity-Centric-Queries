@@ -1,0 +1,734 @@
+08 toyota tundra,assembly,princeton  indiana,1
+08 toyota tundra,assembly,san antonio,0
+08 toyota tundra,assembly,texas,0
+08 toyota tundra,assembly,toyota motor manufacturing indiana,3
+08 toyota tundra,assembly,united states,3
+08 toyota tundra,class,pickup truck,2
+08 toyota tundra,layout,automobile layout,1
+08 toyota tundra,layout,four wheel drive,0
+08 toyota tundra,layout,front engine design,0
+08 toyota tundra,manufacturer,toyota,4
+08 toyota tundra,model start year,NUM,1
+08 toyota tundra,predecessor,ALPHANUM,1
+08 toyota tundra,production start year,NUM,2
+08 toyota tundra,related mean of transportation,toyota sequoia,1
+08 toyota tundra,designer,craig kember,2
+08 toyota tundra,designer,hideo kondo  yusuku fukushima,2
+08 toyota tundra,designer,matt sperling,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,2
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,2
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,double cab,0
+08 toyota tundra,model years,NUM,1
+08 toyota tundra,production,ALPHANUM,2
+08 toyota tundra,production,ALPHANUM,3
+08 toyota tundra,production,ALPHANUM,1
+08 toyota tundra,related,toyota sequoia,2
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,weight,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,double cab,0
+08 toyota tundra,width,NUM,0
+08 toyota tundra,width,double cab   limited,0
+08 toyota tundra,width,limited double cab,0
+1994 short story collection alice munro is open,author,alice munro,4
+1994 short story collection alice munro is open,isbn,NUM,0
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,3
+1994 short story collection alice munro is open,number of pages,NUM,1
+1994 short story collection alice munro is open,oclc,NUM,0
+1994 short story collection alice munro is open,publisher,ryerson press,1
+1994 short story collection alice munro is open,cinematography,harry makin,1
+1994 short story collection alice munro is open,country,canada,1
+1994 short story collection alice munro is open,director,ronald wilson,2
+1994 short story collection alice munro is open,distributor,octapixx international,1
+1994 short story collection alice munro is open,editing,susan shipton,1
+1994 short story collection alice munro is open,genre,bildungsroman,1
+1994 short story collection alice munro is open,genre,short story cycle,1
+1994 short story collection alice munro is open,language,english,1
+1994 short story collection alice munro is open,music,lawrence shragge,1
+1994 short story collection alice munro is open,pages,NUM,0
+1994 short story collection alice munro is open,producer,richard borchiver,2
+1994 short story collection alice munro is open,pub date,NUM,1
+1994 short story collection alice munro is open,runtime,NUM,0
+1994 short story collection alice munro is open,starring,tanya allen,2
+1994 short story collection alice munro is open,starring,wendy crewson,2
+1994 short story collection alice munro is open,studio,paragon entertainment corporation,1
+1994 short story collection alice munro is open,writer,kelly rebar,2
+1994 short story collection alice munro is open,writer,book alice munro,4
+1994 short story collection alice munro is open,writer,writer charles k  pitts,2
+airlines that currently use boeing 747 planes,alliance,sky team,1
+airlines that currently use boeing 747 planes,headquarter,jeddah,3
+airlines that currently use boeing 747 planes,headquarter,saudi arabia,2
+airlines that currently use boeing 747 planes,hub airport,king abdulaziz international airport,2
+airlines that currently use boeing 747 planes,hub airport,king fahd international airport,1
+airlines that currently use boeing 747 planes,hub airport,king khalid international airport,1
+airlines that currently use boeing 747 planes,hub airport,prince mohammad bin abdulaziz airport,1
+airlines that currently use boeing 747 planes,iata airline code,sv,0
+airlines that currently use boeing 747 planes,icao airline code,sva,0
+airlines that currently use boeing 747 planes,industry,aviation,1
+airlines that currently use boeing 747 planes,airline,saudia,3
+airlines that currently use boeing 747 planes,callsign,saudia,1
+airlines that currently use boeing 747 planes,company slogan,welcome to your world,0
+airlines that currently use boeing 747 planes,destinations,NUM,0
+airlines that currently use boeing 747 planes,fleet size,NUM,0
+airlines that currently use boeing 747 planes,frequent flyer,al fursan,0
+airlines that currently use boeing 747 planes,headquarters,jeddah,3
+airlines that currently use boeing 747 planes,headquarters,saudi arabia,3
+airlines that currently use boeing 747 planes,hubs,king abdulaziz international airport,2
+airlines that currently use boeing 747 planes,hubs,king fahd international airport,0
+airlines that currently use boeing 747 planes,hubs,king khalid international airport,1
+airlines that currently use boeing 747 planes,hubs,prince mohammad bin abdulaziz airport,1
+airlines that currently use boeing 747 planes,iata,sv,0
+airlines that currently use boeing 747 planes,icao,sva,0
+airlines that currently use boeing 747 planes,key people,chairman,0
+airlines that currently use boeing 747 planes,key people,chief executive officer,0
+airlines that currently use boeing 747 planes,key people,director general,0
+airlines that currently use boeing 747 planes,parent,saudi arabian government,2
+airlines that currently use boeing 747 planes,website,http   www saudiairlines com,2
+airlines that currently use boeing 747 planes,foaf homepage,http   www saudiairlines com,3
+axis powers of world war ii,dissolution date,NUM,2
+axis powers of world war ii,dissolution year,NUM,2
+axis powers of world war ii,founding date,NUM,3
+axis powers of world war ii,founding year,NUM,2
+axis powers of world war ii,noautocat,yes,0
+axis powers of world war ii,continent,europe,2
+axis powers of world war ii,date end,NUM,1
+axis powers of world war ii,date event,NUM,1
+axis powers of world war ii,date event,NUM,2
+axis powers of world war ii,date start,NUM,2
+axis powers of world war ii,era,world war ii,2
+axis powers of world war ii,event,pact of steel,1
+axis powers of world war ii,event,tripartite pact,0
+axis powers of world war ii,event end,dissolution  law,0
+axis powers of world war ii,event start,anti comintern pact,1
+axis powers of world war ii,life span,NUM,1
+axis powers of world war ii,native name,achsenm chte,2
+axis powers of world war ii,native name,potenze dell asse,0
+axis powers of world war ii,native name,NUM,1
+axis powers of world war ii,status,collective security,1
+axis powers of world war ii,year end,NUM,3
+axis powers of world war ii,year start,NUM,2
+axis powers of world war ii,owl different from,socialist republic of croatia,0
+bond girls,active years end year,NUM,1
+bond girls,active years start year,NUM,1
+bond girls,alias,andress  ursula,3
+bond girls,birth date,NUM,3
+bond girls,birth place,ostermundigen,3
+bond girls,birth place,switzerland,3
+bond girls,birth year,NUM,3
+bond girls,nationality,british people,1
+bond girls,nationality,swiss people,2
+bond girls,occupation,ALPHANUM,2
+bond girls,partner,harry hamlin,1
+bond girls,spouse,john derek,1
+bond girls,state of origin,british people,0
+bond girls,state of origin,swiss people,3
+bond girls,children,dimitri hamlin,1
+bond girls,date of birth,NUM,4
+bond girls,place of birth,ostermundigen,3
+bond girls,place of birth,switzerland,3
+bond girls,short description,swiss actress and model,3
+bond girls,title,bond girl,3
+bond girls,years,NUM,0
+bond girls,years active,NUM,1
+carolina,populated place area total,NUM,0
+carolina,area land,NUM,0
+carolina,area total,NUM,0
+carolina,area water,NUM,0
+carolina,capital,columbia  south carolina,4
+carolina,country,united states,3
+carolina,demonym,south carolinian,2
+carolina,maximum elevation,NUM,0
+carolina,minimum elevation,NUM,0
+carolina,admittancedate,NUM,0
+carolina,admittanceorder,NUM,0
+carolina,amphibian,salamander,0
+carolina,arearank,NUM,0
+carolina,beverage,milk  tea,0
+carolina,bird,carolina wren,0
+carolina,bird,wild turkey,0
+carolina,borderingstates,georgia  u s  state,0
+carolina,borderingstates,north carolina,0
+carolina,butterfly,papilio glaucus,0
+carolina,centre,south carolina  outline   index,1
+carolina,city,charleston  south carolina charleston,1
+carolina,city,columbia  south carolina columbia,0
+carolina,city,goose creek  south carolina goose creek,1
+carolina,city,greenville  south carolina greenville,2
+carolina,city,hilton head island  south carolina hilton head island,2
+carolina,city,mount pleasant  south carolina mount pleasant,0
+carolina,city,north charleston  south carolina north charleston,1
+carolina,city,rock hill  south carolina rock hill,2
+carolina,city,summerville  south carolina summerville,1
+carolina,city,sumter  south carolina sumter,2
+carolina,class,nav,0
+carolina,dance,carolina shag,0
+carolina,date,ALPHANUM,0
+carolina,densityrank,NUM,0
+carolina,div,beaufort county  south carolina beaufort,0
+carolina,div,berkeley county  south carolina berkeley,1
+carolina,div,charleston county  south carolina charleston,0
+carolina,div,dorchester county  south carolina dorchester,0
+carolina,div,greenville county  south carolina greenville,1
+carolina,div,richland county  south carolina richland,1
+carolina,div,sumter county  south carolina sumter,1
+carolina,div,york county  south carolina york,0
+carolina,div link,counties of south carolina county,0
+carolina,fish,striped bass,0
+carolina,flaglink,flag of south carolina,1
+carolina,flower,gelsemium sempervirens,0
+carolina,food,boiled peanuts,0
+carolina,food,collard greens,0
+carolina,food,peach,0
+carolina,former,province of south carolina,1
+carolina,fossil,columbian mammoth,0
+carolina,governor,nikki haley,2
+carolina,highestelev,NUM,0
+carolina,highestelevus,NUM,0
+carolina,highestpoint,sassafras mountain,0
+carolina,incomerank,NUM,0
+carolina,insect,carolina mantis,0
+carolina,isocode,us sc,0
+carolina,landarea,NUM,0
+carolina,landareaus,NUM,0
+carolina,largestcity,capital,0
+carolina,largestmetro,greenville  south carolina metropolitan area,0
+carolina,latitude,NUM,0
+carolina,legislature,south carolina general assembly,0
+carolina,length,NUM,0
+carolina,lengthus,NUM,0
+carolina,lieutenant governor,henry mc master,2
+carolina,line,crescent,0
+carolina,line,palmetto,0
+carolina,line,silver meteor,0
+carolina,line,silver star,0
+carolina,longitude,NUM,0
+carolina,lowerhouse,south carolina house of representatives,1
+carolina,lowestelev,NUM,0
+carolina,lowestelevus,NUM,0
+carolina,lowestpoint,atlantic ocean,0
+carolina,mammal,boykin spaniel,0
+carolina,mammal,carolina marsh tacky,0
+carolina,mammal,white tailed deer,0
+carolina,meanelev,NUM,0
+carolina,meanelevus,NUM,0
+carolina,medianhouseholdincome,NUM,0
+carolina,mineral,amethyst,0
+carolina,motto,animis opibusque parati    prepared in mind and resources,0
+carolina,motto,dum spiro spero    while i breathe i hope,0
+carolina,mottoenglish,ready in soul and resource,0
+carolina,mottoenglish,while i breathe  i hope,0
+carolina,officiallang,english,2
+carolina,pcwater,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,1
+carolina,pop,NUM,1
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,poprank,NUM,0
+carolina,postalabbreviation,sc,1
+carolina,quarterreleasedate,NUM,0
+carolina,reason,source says nothing about sc being first state to declare independence,0
+carolina,representative,NUM,0
+carolina,reptile,loggerhead sea turtle,0
+carolina,rock,blue granite,0
+carolina,senators,lindsey graham,2
+carolina,senators,tim scott,1
+carolina,slogan,smiling faces  beautiful places,0
+carolina,southeast,atlantic ocean,0
+carolina,stat ref,source,0
+carolina,state,expanded,0
+carolina,system,amtrak,0
+carolina,timezone,coordinated universal time,0
+carolina,timezone,eastern time zone,1
+carolina,title,list of u s  states by date of admission to the union,0
+carolina,title,the palmetto state,2
+carolina,title,topics related to south carolina,1
+carolina,totalarea,NUM,2
+carolina,totalareaus,NUM,0
+carolina,tree,sabal palmetto,0
+carolina,upperhouse,south carolina senate,1
+carolina,waterarea,NUM,0
+carolina,waterareaus,NUM,0
+carolina,website,www sc gov,3
+carolina,width,NUM,0
+carolina,widthus,NUM,0
+carolina,years,NUM,0
+carolina,foaf homepage,http   www sc gov,3
+computer systems that have a recursive acronym for the name,genre,mathematical software,1
+computer systems that have a recursive acronym for the name,latest release version,NUM,1
+computer systems that have a recursive acronym for the name,license,gnu general public license,3
+computer systems that have a recursive acronym for the name,programming language,c,2
+computer systems that have a recursive acronym for the name,developer,christian bauer  alexander frink  richard b  kreckel  et al,2
+computer systems that have a recursive acronym for the name,operating system,cross platform,2
+computer systems that have a recursive acronym for the name,foaf homepage,http   www ginac de,3
+england football player highest paid,person height,NUM,1
+england football player highest paid,person weight,NUM,0
+england football player highest paid,active years end year,NUM,0
+england football player highest paid,active years start year,NUM,1
+england football player highest paid,birth date,NUM,2
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,2
+england football player highest paid,birth year,NUM,2
+england football player highest paid,former team,harlequin f c,1
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,height,NUM,2
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,1
+england football player highest paid,team,harlequin f c,3
+england football player highest paid,weight,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,clubnumber,NUM,0
+england football player highest paid,clubs,yorkshire carnegie,1
+england football player highest paid,clubs,harlequins,3
+england football player highest paid,currentclub,harlequin f c,1
+england football player highest paid,date of birth,NUM,2
+england football player highest paid,place of birth,leeds  yorkshire  england,2
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repteam,saxons,1
+england football player highest paid,repteam,england,2
+england football player highest paid,repteam,england xv,1
+england football player highest paid,repupdate,NUM,0
+england football player highest paid,repyears,NUM,0
+england football player highest paid,ru sevensnationalcomp,NUM,0
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,2
+england football player highest paid,ru sevensnationalyears,NUM,0
+england football player highest paid,short description,english rugby union player,2
+england football player highest paid,years,NUM,0
+england football player highest paid,years,NUM,0
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthclubs,west park bramhope,1
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,1
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+give me a list of all american inventions,designer,john g  kemeny,3
+give me a list of all american inventions,designer,thomas e  kurtz,3
+give me a list of all american inventions,influenced,auto hotkey,1
+give me a list of all american inventions,influenced,auto it,1
+give me a list of all american inventions,influenced,comal,1
+give me a list of all american inventions,influenced,grass  programming language,1
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,1
+give me a list of all american inventions,influenced,xojo,1
+give me a list of all american inventions,influenced by,ALPHANUM,1
+give me a list of all american inventions,influenced by,fortran,1
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,generation,NUM,0
+give me a list of all american inventions,implementations,atari basic,2
+give me a list of all american inventions,implementations,bbc basic,1
+give me a list of all american inventions,implementations,commodore basic,2
+give me a list of all american inventions,implementations,dartmouth basic,1
+give me a list of all american inventions,implementations,free basic,1
+give me a list of all american inventions,implementations,integer basic,1
+give me a list of all american inventions,implementations,liberty basic,1
+give me a list of all american inventions,implementations,microsoft basic,1
+give me a list of all american inventions,implementations,sinclair basic,1
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,1
+give me a list of all american inventions,paradigm,unstructured  later procedural  later object oriented,0
+give me all canadian grunge record labels,country,canada,2
+give me all canadian grunge record labels,founded by,sloan  band,3
+give me all canadian grunge record labels,founding year,NUM,2
+give me all canadian grunge record labels,genre,alternative rock,2
+give me all canadian grunge record labels,genre,grunge,3
+give me all canadian grunge record labels,genre,indie rock,1
+give me all canadian grunge record labels,location,halifax  nova scotia,2
+give me all canadian grunge record labels,location,nova scotia,2
+give me all canadian grunge record labels,location,ontario,2
+give me all canadian grunge record labels,location,toronto,1
+give me all canadian grunge record labels,parent company,mca records,3
+give me all canadian grunge record labels,founded,NUM,2
+give me all canadian grunge record labels,founder,sloan  band,2
+give me all canadian grunge record labels,parent,mca records,1
+give me all canadian grunge record labels,url,http   www sloanmusic com murderecords,1
+give me all canadian grunge record labels,foaf homepage,http   www sloanmusic com murderecords,3
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,1
+give me all current methodist national leaders,alma mater,madison business college,1
+give me all current methodist national leaders,alma mater,university of colorado boulder,1
+give me all current methodist national leaders,birth date,NUM,2
+give me all current methodist national leaders,birth place,liberia,3
+give me all current methodist national leaders,birth place,monrovia,2
+give me all current methodist national leaders,birth year,NUM,3
+give me all current methodist national leaders,office,ALPHANUM,3
+give me all current methodist national leaders,party,unity party  liberia,2
+give me all current methodist national leaders,predecessor,gyude bryant,1
+give me all current methodist national leaders,religion,methodism,2
+give me all current methodist national leaders,term period,ALPHANUM,1
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,children,NUM,1
+give me all current methodist national leaders,date of birth,NUM,3
+give me all current methodist national leaders,minister,amara mohamed konneh,1
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,1
+give me all current methodist national leaders,minister,george wallace  diplomat,1
+give me all current methodist national leaders,minister,joseph boakai,1
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,1
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,alphonso gaye,1
+give me all current methodist national leaders,minister,ambullai johnson,0
+give me all current methodist national leaders,minister,antoinette weeks,2
+give me all current methodist national leaders,minister,augustine ngafuan,0
+give me all current methodist national leaders,minister,axel addy,0
+give me all current methodist national leaders,minister,benedict f  sannoh,0
+give me all current methodist national leaders,minister,blamo nelson,0
+give me all current methodist national leaders,minister,christiana tah,1
+give me all current methodist national leaders,minister,christopher toe,2
+give me all current methodist national leaders,minister,e  othello gongar,2
+give me all current methodist national leaders,minister,edward b  mc clain  jr,1
+give me all current methodist national leaders,minister,ellen johnson sirleaf,2
+give me all current methodist national leaders,minister,etmonia david tarpeh,0
+give me all current methodist national leaders,minister,etmonia tarpeh,1
+give me all current methodist national leaders,minister,eugene shannon,1
+give me all current methodist national leaders,minister,florence chenoweth,1
+give me all current methodist national leaders,minister,frances johnson morris,0
+give me all current methodist national leaders,minister,frederick b  norkeh,1
+give me all current methodist national leaders,minister,gyude moore,0
+give me all current methodist national leaders,minister,harrison kahnweah,2
+give me all current methodist national leaders,minister,jackson e  doe,0
+give me all current methodist national leaders,minister,jamesetta howard wolokollie,0
+give me all current methodist national leaders,minister,jeremiah sulunteh,0
+give me all current methodist national leaders,minister,johnny mc clain,0
+give me all current methodist national leaders,minister,juah lawson,0
+give me all current methodist national leaders,minister,julia duncan cassell,1
+give me all current methodist national leaders,minister,lawrence bropleh,0
+give me all current methodist national leaders,minister,lenn eugene nagbe,2
+give me all current methodist national leaders,minister,lewis brown,0
+give me all current methodist national leaders,minister,luseni donzo,1
+give me all current methodist national leaders,minister,miatta beysolow,0
+give me all current methodist national leaders,minister,morris dukuly,2
+give me all current methodist national leaders,minister,neto z  lighe,0
+give me all current methodist national leaders,minister,patrick sendolo,1
+give me all current methodist national leaders,minister,philip a  z  banks,1
+give me all current methodist national leaders,minister,roosevelt jayjay,1
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,tiawon gongloe,1
+give me all current methodist national leaders,minister,toga mc intosh,1
+give me all current methodist national leaders,minister,tornorlah vapilah,0
+give me all current methodist national leaders,minister,vabah gayflor,1
+give me all current methodist national leaders,minister,walter gwenigale,1
+give me all current methodist national leaders,minister,willard russell,1
+give me all current methodist national leaders,minister,willis knuckles,0
+give me all current methodist national leaders,place of birth,monrovia  liberia,2
+give me all current methodist national leaders,short description,president of liberia,4
+give me all current methodist national leaders,spouse,james sirleaf,1
+give me all current methodist national leaders,term start,NUM,2
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,4
+give me all current methodist national leaders,title,vice president of liberia,3
+give me all current methodist national leaders,title,culture and tourism,0
+give me all current methodist national leaders,title,economic affairs,0
+give me all current methodist national leaders,title,minister of agriculture,0
+give me all current methodist national leaders,title,minister of commerce,2
+give me all current methodist national leaders,title,minister of education,1
+give me all current methodist national leaders,title,minister of finance,0
+give me all current methodist national leaders,title,minister of foreign affairs,0
+give me all current methodist national leaders,title,minister of gender  children,0
+give me all current methodist national leaders,title,minister of health and,0
+give me all current methodist national leaders,title,minister of information,1
+give me all current methodist national leaders,title,minister of internal affairs,0
+give me all current methodist national leaders,title,minister of justice,1
+give me all current methodist national leaders,title,minister of labor,1
+give me all current methodist national leaders,title,minister of lands  mines,1
+give me all current methodist national leaders,title,minister of national defense,2
+give me all current methodist national leaders,title,minister of planning and,0
+give me all current methodist national leaders,title,minister of posts and,0
+give me all current methodist national leaders,title,minister of public works,1
+give me all current methodist national leaders,title,minister of state for,1
+give me all current methodist national leaders,title,minister of transport,2
+give me all current methodist national leaders,title,minister of youth and,0
+give me all current methodist national leaders,title,presidential affairs,1
+give me all current methodist national leaders,title,social welfare,0
+give me all current methodist national leaders,title,sports,0
+give me all current methodist national leaders,title,telecommunications,0
+give me all current methodist national leaders,title,the sirleaf cabinet,0
+give me all current methodist national leaders,title,and attorney general,0
+give me all current methodist national leaders,title,and energy,0
+give me all current methodist national leaders,title,and industry,0
+give me all current methodist national leaders,title,and social protection,0
+give me all current methodist national leaders,with,leymah gbowee,1
+give me all current methodist national leaders,with,tawakkol karman,0
+give me all current methodist national leaders,years,NUM,1
+give me all current methodist national leaders,years,NUM,0
+give me all current methodist national leaders,foaf homepage,http   www emansion gov lr,1
+overeaters anonymous,location,milwaukee,2
+overeaters anonymous,area served,worldwide  but primarily united states and canada,1
+overeaters anonymous,founded date,NUM,2
+overeaters anonymous,founder,esther s  manz,2
+overeaters anonymous,homepage,http   www tops org,0
+overeaters anonymous,key people,barbara cady  president,2
+overeaters anonymous,non profit slogan,take off pounds sensibly,0
+overeaters anonymous,num members,NUM,0
+overeaters anonymous,foaf homepage,http   www tops org,1
+plymouth police department,agencyname,devon and cornwall police,2
+plymouth police department,airbases,NUM,0
+plymouth police department,aircraft,NUM,0
+plymouth police department,budget,ALPHANUM,1
+plymouth police department,constitution,ALPHANUM,1
+plymouth police department,country,united kingdom,3
+plymouth police department,countryabbr,uk,0
+plymouth police department,divname,england,0
+plymouth police department,divtype,country,0
+plymouth police department,electeetype,police and crime commissioner,1
+plymouth police department,employees,NUM,0
+plymouth police department,formedmonthday,NUM,0
+plymouth police department,formedyear,NUM,2
+plymouth police department,headquarters,middlemoor  exeter,2
+plymouth police department,legaljuris,england and wales,0
+plymouth police department,local,yes,0
+plymouth police department,mission,building safer communities together,0
+plymouth police department,motto,in auxilium omnium,1
+plymouth police department,mottotranslated,to the assistance of everybody,0
+plymouth police department,overviewbody,her majesty s inspectorate of constabulary,0
+plymouth police department,overviewbody,independent police complaints commission,0
+plymouth police department,police,yes,0
+plymouth police department,preceding,cornwall county constabulary,0
+plymouth police department,preceding,devon county constabulary,2
+plymouth police department,preceding,plymouth city police,2
+plymouth police department,sizearea,NUM,0
+plymouth police department,sizepopulation,NUM,0
+plymouth police department,stations,NUM,0
+plymouth police department,stationtype,police station,0
+plymouth police department,subdivname,devon and cornwall,0
+plymouth police department,subdivtype,police area,0
+plymouth police department,sworn,NUM,0
+plymouth police department,sworntype,constable,0
+plymouth police department,unitname,NUM,0
+plymouth police department,unittype,basic command unit,1
+plymouth police department,unsworn,NUM,0
+plymouth police department,unsworntype,police community support officer,0
+plymouth police department,volunteers,NUM,2
+plymouth police department,website,http   www devon cornwall police uk,3
+plymouth police department,foaf homepage,http   www devon cornwall police uk,4
+scott county,added,NUM,0
+scott county,location,georgetown  kentucky,4
+scott county,nrhp reference number,NUM,0
+scott county,year of construction,NUM,4
+scott county,architect,j w  lucas  j  t  brooks,2
+scott county,architecture,italianate architecture,1
+scott county,architecture,romanesque architecture,0
+scott county,area,less than one acre,0
+scott county,built,NUM,2
+scott county,coord display,inline title,0
+scott county,governing body,local,0
+scott county,lat degrees,NUM,0
+scott county,lat minutes,NUM,0
+scott county,lat seconds,NUM,0
+scott county,locmapin,kentucky,0
+scott county,long degrees,NUM,0
+scott county,long minutes,NUM,0
+scott county,long seconds,NUM,0
+scott county,nrhp type,nrhp,0
+scott county,refnum,NUM,0
+scott county,foaf homepage,http   www artsandculturalcenter org,0
+scott county,geo lat,NUM,0
+scott county,geo long,NUM,0
+scott county,georss point,NUM,0
+tango culture movies,birth date,NUM,2
+tango culture movies,birth place,buenos aires,2
+tango culture movies,birth year,NUM,3
+tango culture movies,death date,NUM,2
+tango culture movies,death year,NUM,2
+tango culture movies,date of birth,NUM,2
+tango culture movies,date of death,NUM,2
+tango culture movies,place of birth,buenos aires,4
+tango culture movies,short description,argentine musician,2
+to which countries does the himalayan mountain system extend,populated place area total,NUM,0
+to which countries does the himalayan mountain system extend,populated place area total,NUM,1
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,anthem,druk tsendhen,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,capital,thimphu,3
+to which countries does the himalayan mountain system extend,currency,bhutanese ngultrum,1
+to which countries does the himalayan mountain system extend,currency,ALPHANUM,0
+to which countries does the himalayan mountain system extend,currency,indian rupee,1
+to which countries does the himalayan mountain system extend,demonym,bhutanese,1
+to which countries does the himalayan mountain system extend,founding date,NUM,2
+to which countries does the himalayan mountain system extend,founding date,NUM,3
+to which countries does the himalayan mountain system extend,government type,unitary state,0
+to which countries does the himalayan mountain system extend,language,dzongkha,2
+to which countries does the himalayan mountain system extend,leader,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader,tshering tobgay,2
+to which countries does the himalayan mountain system extend,leader title,king,1
+to which countries does the himalayan mountain system extend,leader title,prime minister,0
+to which countries does the himalayan mountain system extend,official language,dzongkha,1
+to which countries does the himalayan mountain system extend,percentage of area water,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population total,NUM,0
+to which countries does the himalayan mountain system extend,time zone,bhutan time,0
+to which countries does the himalayan mountain system extend,area km,NUM,1
+to which countries does the himalayan mountain system extend,area magnitude,NUM,0
+to which countries does the himalayan mountain system extend,area rank,NUM,0
+to which countries does the himalayan mountain system extend,area sq mi,NUM,0
+to which countries does the himalayan mountain system extend,calling code,telephone numbers in bhutan,0
+to which countries does the himalayan mountain system extend,cctld,bt,0
+to which countries does the himalayan mountain system extend,drives on,right  and left hand traffic,0
+to which countries does the himalayan mountain system extend,established date,NUM,3
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established event,bhutan india relations,0
+to which countries does the himalayan mountain system extend,established event,constitutional monarchy,1
+to which countries does the himalayan mountain system extend,established event,house of wangchuck,0
+to which countries does the himalayan mountain system extend,gdp nominal,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp nominal per capita,NUM,1
+to which countries does the himalayan mountain system extend,gdp nominal per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp nominal year,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp year,NUM,0
+to which countries does the himalayan mountain system extend,gini,NUM,0
+to which countries does the himalayan mountain system extend,gini year,NUM,0
+to which countries does the himalayan mountain system extend,hdi,NUM,0
+to which countries does the himalayan mountain system extend,hdi change,steadu,0
+to which countries does the himalayan mountain system extend,hdi rank,NUM,0
+to which countries does the himalayan mountain system extend,hdi year,NUM,0
+to which countries does the himalayan mountain system extend,height,NUM,0
+to which countries does the himalayan mountain system extend,largest city,capital,0
+to which countries does the himalayan mountain system extend,latd,NUM,0
+to which countries does the himalayan mountain system extend,latm,NUM,0
+to which countries does the himalayan mountain system extend,leader name,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader name,tshering tobgay,2
+to which countries does the himalayan mountain system extend,legislature,parliament of bhutan,0
+to which countries does the himalayan mountain system extend,longd,NUM,0
+to which countries does the himalayan mountain system extend,longm,NUM,0
+to which countries does the himalayan mountain system extend,lower house,national assembly  bhutan,0
+to which countries does the himalayan mountain system extend,national anthem,druk tsendhen,1
+to which countries does the himalayan mountain system extend,official languages,dzongkha,2
+to which countries does the himalayan mountain system extend,percent water,NUM,0
+to which countries does the himalayan mountain system extend,population census,NUM,0
+to which countries does the himalayan mountain system extend,population census year,NUM,0
+to which countries does the himalayan mountain system extend,population density km,NUM,0
+to which countries does the himalayan mountain system extend,population density rank,NUM,0
+to which countries does the himalayan mountain system extend,population density sq mi,NUM,0
+to which countries does the himalayan mountain system extend,population estimate,NUM,0
+to which countries does the himalayan mountain system extend,population estimate rank,NUM,0
+to which countries does the himalayan mountain system extend,population estimate year,NUM,0
+to which countries does the himalayan mountain system extend,religion,vajrayana,1
+to which countries does the himalayan mountain system extend,sovereignty note,ALPHANUM,0
+to which countries does the himalayan mountain system extend,sovereignty type,history of bhutan,1
+to which countries does the himalayan mountain system extend,symbol type,emblem,0
+to which countries does the himalayan mountain system extend,time zone dst,not observed,0
+to which countries does the himalayan mountain system extend,title,religions of bhutan,0
+to which countries does the himalayan mountain system extend,upper house,national council  bhutan,1
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,foaf homepage,http   www bhutan gov bt,2
+to which countries does the himalayan mountain system extend,geo lat,NUM,0
+to which countries does the himalayan mountain system extend,geo long,NUM,0
+to which countries does the himalayan mountain system extend,georss point,NUM,0
+to which countries does the himalayan mountain system extend,owl different from,bohtan,0
+to which countries does the himalayan mountain system extend,owl different from,butuan,0
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,ingredient name,deep fried dried starch and other ingredients  the most popular is prawn,2
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,2
+vietnam food recipes,serving temperature,room temperature,0
+vietnam food recipes,course,snack,0
+vietnam food recipes,creator,traditional food,2
+vietnam food recipes,main ingredient,deep fried dried starch and other ingredients  the most popular is prawn,3
+vietnam food recipes,served,room temperature,2
+vietnam food recipes,variations,different variations according to ingredients,0
+vietnam food recipes,dc type,snack,1
+vietnam war facts,casualties,NUM,0
+vietnam war facts,date,NUM,0
+vietnam war facts,executed by,ALPHANUM,2
+vietnam war facts,location,south vietnam,3
+vietnam war facts,objective,to support south vietnam against communist attacks,3
+vietnam war facts,partof,the vietnam war,2
+vietnamese food blog,begins,NUM,0
+vietnamese food blog,duration,NUM,0
+vietnamese food blog,ends,NUM,0
+vietnamese food blog,frequency,annual,1
+vietnamese food blog,hangul,NUM,0
+vietnamese food blog,hanja,NUM,0
+vietnamese food blog,holiday name,cold food festival,3
+vietnamese food blog,longtype,cultural,0
+vietnamese food blog,observedby,chinese  koreans  vietnamese,1
+vietnamese food blog,official name,hanshi festival,2
+vietnamese food blog,relatedto,t t h n th c  hanshik,0
+vietnamese food blog,vie,t t h n th c,0
+vietnamese food blog,foaf nick,cold food festival,0
+which books by kerouac were published by viking press,author,jack kerouac,4
+which books by kerouac were published by viking press,isbn,NUM,1
+which books by kerouac were published by viking press,literary genre,beat generation,1
+which books by kerouac were published by viking press,literary genre,short story collection,1
+which books by kerouac were published by viking press,media type,hardcover,1
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,1
+which books by kerouac were published by viking press,publisher,viking press,4
+which books by kerouac were published by viking press,subsequent work,good blonde   others,2
+which books by kerouac were published by viking press,country,united states,2
+which books by kerouac were published by viking press,followed by,good blonde   others,2
+which books by kerouac were published by viking press,genre,beat generation,2
+which books by kerouac were published by viking press,genre,short story collection,1
+which books by kerouac were published by viking press,language,english,1
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,1
+which books by kerouac were published by viking press,release date,NUM,2

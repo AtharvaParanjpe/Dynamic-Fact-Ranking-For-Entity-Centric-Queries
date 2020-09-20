@@ -1,0 +1,1005 @@
+08 toyota tundra,assembly,princeton  indiana,1
+08 toyota tundra,assembly,san antonio,0
+08 toyota tundra,assembly,texas,0
+08 toyota tundra,assembly,toyota motor manufacturing indiana,3
+08 toyota tundra,assembly,united states,3
+08 toyota tundra,class,pickup truck,2
+08 toyota tundra,layout,automobile layout,1
+08 toyota tundra,layout,four wheel drive,0
+08 toyota tundra,layout,front engine design,0
+08 toyota tundra,manufacturer,toyota,4
+08 toyota tundra,model start year,NUM,1
+08 toyota tundra,predecessor,ALPHANUM,1
+08 toyota tundra,production start year,NUM,2
+08 toyota tundra,related mean of transportation,toyota sequoia,1
+08 toyota tundra,designer,craig kember,2
+08 toyota tundra,designer,hideo kondo  yusuku fukushima,2
+08 toyota tundra,designer,matt sperling,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,2
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,2
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,double cab,0
+08 toyota tundra,model years,NUM,1
+08 toyota tundra,production,ALPHANUM,2
+08 toyota tundra,production,ALPHANUM,3
+08 toyota tundra,production,ALPHANUM,1
+08 toyota tundra,related,toyota sequoia,2
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,weight,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,double cab,0
+08 toyota tundra,width,NUM,0
+08 toyota tundra,width,double cab   limited,0
+08 toyota tundra,width,limited double cab,0
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,1
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,capital,baguio,3
+baguio quezon city manila official independence 1945,capital,manila,3
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,1
+baguio quezon city manila official independence 1945,dissolution date,NUM,3
+baguio quezon city manila official independence 1945,dissolution year,NUM,3
+baguio quezon city manila official independence 1945,founding date,NUM,3
+baguio quezon city manila official independence 1945,founding year,NUM,4
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,2
+baguio quezon city manila official independence 1945,common languages,tagalog language,1
+baguio quezon city manila official independence 1945,continent,moved from category asia to southeast asia,0
+baguio quezon city manila official independence 1945,country,philippines,3
+baguio quezon city manila official independence 1945,date end,NUM,0
+baguio quezon city manila official independence 1945,date start,NUM,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,1
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,era,world war ii,1
+baguio quezon city manila official independence 1945,leader,jos  p  laurel,2
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,national anthem,awit sa paglikha ng bagong pilipinas,2
+baguio quezon city manila official independence 1945,national anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,native name,rep blik  ng pilipinas  tagalog,1
+baguio quezon city manila official independence 1945,region,southeast asia,1
+baguio quezon city manila official independence 1945,stat area,NUM,0
+baguio quezon city manila official independence 1945,stat pop,NUM,2
+baguio quezon city manila official independence 1945,stat year,NUM,1
+baguio quezon city manila official independence 1945,status,client state,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,2
+baguio quezon city manila official independence 1945,title deputy,speaker of the,0
+baguio quezon city manila official independence 1945,title leader,president of the philippines,2
+baguio quezon city manila official independence 1945,year end,NUM,3
+baguio quezon city manila official independence 1945,year start,NUM,2
+eloan line of credit,founded by,chris larsen,3
+eloan line of credit,founding year,NUM,2
+eloan line of credit,industry,financial services,3
+eloan line of credit,location,rosemont  illinois,2
+eloan line of credit,location,united states,3
+eloan line of credit,number of employees,NUM,2
+eloan line of credit,parent company,popular  inc,2
+eloan line of credit,company slogan,radically simple,0
+eloan line of credit,foundation,NUM,2
+eloan line of credit,founder,janina pawlowski and chris larsen,2
+eloan line of credit,homepage,http   www eloan com,2
+eloan line of credit,key people,mark lefanowicz  president,2
+eloan line of credit,num employees,NUM,0
+eloan line of credit,parent,popular  inc,2
+eloan line of credit,products,savings accounts   c ds,2
+eloan line of credit,foaf homepage,http   www eloan com,3
+frequently visited sharks gulf indian ocean,average depth,NUM,0
+frequently visited sharks gulf indian ocean,country,india,2
+frequently visited sharks gulf indian ocean,country,sri lanka,3
+frequently visited sharks gulf indian ocean,length,NUM,0
+frequently visited sharks gulf indian ocean,area km square,NUM,0
+frequently visited sharks gulf indian ocean,basin countries,india,2
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,3
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+frequently visited sharks gulf indian ocean,geo lat,NUM,0
+frequently visited sharks gulf indian ocean,geo long,NUM,0
+frequently visited sharks gulf indian ocean,georss point,NUM,0
+in which uk city are the headquarters of the mi6,populated place area total,NUM,1
+in which uk city are the headquarters of the mi6,populated place population density,NUM,0
+in which uk city are the headquarters of the mi6,area total,NUM,0
+in which uk city are the headquarters of the mi6,country,united kingdom,4
+in which uk city are the headquarters of the mi6,elevation,NUM,0
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,1
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,elected body,0
+in which uk city are the headquarters of the mi6,leader title,european parliament,1
+in which uk city are the headquarters of the mi6,leader title,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,mayor,0
+in which uk city are the headquarters of the mi6,leader title,uk parliament,0
+in which uk city are the headquarters of the mi6,population density,NUM,0
+in which uk city are the headquarters of the mi6,population total,NUM,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,1
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr mean c,NUM,0
+in which uk city are the headquarters of the mi6,apr precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,apr record high c,NUM,0
+in which uk city are the headquarters of the mi6,apr record low c,NUM,0
+in which uk city are the headquarters of the mi6,apr sun,NUM,0
+in which uk city are the headquarters of the mi6,area total km,NUM,2
+in which uk city are the headquarters of the mi6,aug high c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug mean c,NUM,0
+in which uk city are the headquarters of the mi6,aug precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,aug record high c,NUM,0
+in which uk city are the headquarters of the mi6,aug record low c,NUM,0
+in which uk city are the headquarters of the mi6,aug sun,NUM,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name,police,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,color,blue,0
+in which uk city are the headquarters of the mi6,color,green,0
+in which uk city are the headquarters of the mi6,color,orange,0
+in which uk city are the headquarters of the mi6,color,purple,0
+in which uk city are the headquarters of the mi6,color,red,0
+in which uk city are the headquarters of the mi6,color,yellow,0
+in which uk city are the headquarters of the mi6,coordinates region,gb,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec mean c,NUM,0
+in which uk city are the headquarters of the mi6,dec precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,dec record high c,NUM,0
+in which uk city are the headquarters of the mi6,dec record low c,NUM,0
+in which uk city are the headquarters of the mi6,dec sun,NUM,0
+in which uk city are the headquarters of the mi6,direction,vertical,0
+in which uk city are the headquarters of the mi6,elevation m,NUM,0
+in which uk city are the headquarters of the mi6,established date,ALPHANUM,0
+in which uk city are the headquarters of the mi6,established title,settled by romans,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb mean c,NUM,0
+in which uk city are the headquarters of the mi6,feb precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,feb record high c,NUM,0
+in which uk city are the headquarters of the mi6,feb record low c,NUM,0
+in which uk city are the headquarters of the mi6,feb sun,NUM,0
+in which uk city are the headquarters of the mi6,header,ALPHANUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan mean c,NUM,0
+in which uk city are the headquarters of the mi6,jan precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jan record high c,NUM,0
+in which uk city are the headquarters of the mi6,jan record low c,NUM,0
+in which uk city are the headquarters of the mi6,jan sun,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul mean c,NUM,0
+in which uk city are the headquarters of the mi6,jul precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jul record high c,NUM,0
+in which uk city are the headquarters of the mi6,jul record low c,NUM,0
+in which uk city are the headquarters of the mi6,jul sun,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun mean c,NUM,0
+in which uk city are the headquarters of the mi6,jun precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jun record high c,NUM,0
+in which uk city are the headquarters of the mi6,jun record low c,NUM,0
+in which uk city are the headquarters of the mi6,jun sun,NUM,0
+in which uk city are the headquarters of the mi6,latd,NUM,0
+in which uk city are the headquarters of the mi6,latm,NUM,0
+in which uk city are the headquarters of the mi6,lats,NUM,0
+in which uk city are the headquarters of the mi6,location,ALPHANUM,0
+in which uk city are the headquarters of the mi6,location,london weather centre uhi,0
+in which uk city are the headquarters of the mi6,longd,NUM,0
+in which uk city are the headquarters of the mi6,longm,NUM,0
+in which uk city are the headquarters of the mi6,longs,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar mean c,NUM,0
+in which uk city are the headquarters of the mi6,mar precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,mar record high c,NUM,0
+in which uk city are the headquarters of the mi6,mar record low c,NUM,0
+in which uk city are the headquarters of the mi6,mar sun,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may mean c,NUM,0
+in which uk city are the headquarters of the mi6,may precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,may record high c,NUM,0
+in which uk city are the headquarters of the mi6,may record low c,NUM,0
+in which uk city are the headquarters of the mi6,may sun,NUM,0
+in which uk city are the headquarters of the mi6,metric first,yes,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov mean c,NUM,0
+in which uk city are the headquarters of the mi6,nov precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,nov record high c,NUM,0
+in which uk city are the headquarters of the mi6,nov record low c,NUM,0
+in which uk city are the headquarters of the mi6,nov sun,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct mean c,NUM,0
+in which uk city are the headquarters of the mi6,oct precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,oct record high c,NUM,0
+in which uk city are the headquarters of the mi6,oct record low c,NUM,0
+in which uk city are the headquarters of the mi6,oct sun,NUM,0
+in which uk city are the headquarters of the mi6,parts,NUM,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,population as of,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population demonym,londoner,1
+in which uk city are the headquarters of the mi6,population density km,NUM,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep mean c,NUM,0
+in which uk city are the headquarters of the mi6,sep precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,sep record high c,NUM,0
+in which uk city are the headquarters of the mi6,sep record low c,NUM,0
+in which uk city are the headquarters of the mi6,sep sun,NUM,0
+in which uk city are the headquarters of the mi6,single line,yes,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,3
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,thumb,left,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,1
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,title,articles related to london,1
+in which uk city are the headquarters of the mi6,total type,greater london,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,website,https   london gov uk,2
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year mean c,NUM,0
+in which uk city are the headquarters of the mi6,year precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,year record high c,NUM,0
+in which uk city are the headquarters of the mi6,year record low c,NUM,0
+in which uk city are the headquarters of the mi6,year sun,NUM,0
+in which uk city are the headquarters of the mi6,foaf homepage,https   london gov uk,2
+in which uk city are the headquarters of the mi6,geo lat,NUM,0
+in which uk city are the headquarters of the mi6,geo long,NUM,0
+in which uk city are the headquarters of the mi6,georss point,NUM,0
+japanese players in major league baseball,birth date,NUM,4
+japanese players in major league baseball,birth place,osaka,3
+japanese players in major league baseball,birth year,NUM,2
+japanese players in major league baseball,debut team,osaka kintetsu buffaloes,1
+japanese players in major league baseball,position,pitcher,3
+japanese players in major league baseball,after,a  j  burnett,0
+japanese players in major league baseball,after,al leiter,0
+japanese players in major league baseball,after,derek lowe,0
+japanese players in major league baseball,after,john smoltz,0
+japanese players in major league baseball,after,joichiro tatsuyoshi,1
+japanese players in major league baseball,after,kevin brown  right handed pitcher,0
+japanese players in major league baseball,bats,right,1
+japanese players in major league baseball,before,chiyonofuji mitsugu,0
+japanese players in major league baseball,before,dwight gooden,0
+japanese players in major league baseball,before,eric milton,0
+japanese players in major league baseball,before,greg maddux,0
+japanese players in major league baseball,before,kevin brown  right handed pitcher,0
+japanese players in major league baseball,brm,ALPHANUM,0
+japanese players in major league baseball,cube,hideo nomo,1
+japanese players in major league baseball,date of birth,NUM,2
+japanese players in major league baseball,debutdate,NUM,0
+japanese players in major league baseball,debutleague,nippon professional baseball,2
+japanese players in major league baseball,debutyear,NUM,2
+japanese players in major league baseball,fangraphs,NUM,0
+japanese players in major league baseball,finalleague,npb,1
+japanese players in major league baseball,finalteam,kintetsu buffaloes,1
+japanese players in major league baseball,finalyear,NUM,1
+japanese players in major league baseball,highlights,npb,0
+japanese players in major league baseball,hofdate,NUM,0
+japanese players in major league baseball,hoflink,japanese baseball hall of fame,1
+japanese players in major league baseball,hoftype,japanese,2
+japanese players in major league baseball,place of birth,osaka,2
+japanese players in major league baseball,short description,baseball player,2
+japanese players in major league baseball,statleague,npb,0
+japanese players in major league baseball,throws,right,1
+japanese players in major league baseball,title,hits per nine innings,0
+japanese players in major league baseball,title,japan professional sports grand prize,1
+japanese players in major league baseball,title,los angeles dodgers,1
+japanese players in major league baseball,title,no hitter,0
+japanese players in major league baseball,title,opening day,0
+japanese players in major league baseball,title,national league all star game starting pitcher,1
+japanese players in major league baseball,title,starting pitcher,2
+japanese players in major league baseball,years,NUM,1
+japanese players in major league baseball,years,NUM,1
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+major leagues in the united states,current season,ALPHANUM,1
+major leagues in the united states,founding year,NUM,2
+major leagues in the united states,founding year,NUM,2
+major leagues in the united states,participant,NUM,0
+major leagues in the united states,participant,ALPHANUM,2
+major leagues in the united states,participant,ALPHANUM,2
+major leagues in the united states,champion,san francisco giants,3
+major leagues in the united states,commissioner,rob manfred,2
+major leagues in the united states,commons,category major league baseball,2
+major leagues in the united states,continent,north america,1
+major leagues in the united states,countries,canada,0
+major leagues in the united states,countries,united states,3
+major leagues in the united states,founded,NUM,3
+major leagues in the united states,most champs,new york yankees,2
+major leagues in the united states,pixels,NUM,0
+major leagues in the united states,scale,NUM,0
+major leagues in the united states,species,no,0
+major leagues in the united states,sport,baseball,4
+major leagues in the united states,teams,NUM,2
+major leagues in the united states,width,NUM,0
+major leagues in the united states,wikt,major league baseball,2
+major leagues in the united states,foaf homepage,http   mlb com,2
+major leagues in the united states,foaf homepage,http   www mlb com,2
+most beautiful railway stations world cities located,populated place area total,NUM,0
+most beautiful railway stations world cities located,area code,NUM,0
+most beautiful railway stations world cities located,area total,NUM,0
+most beautiful railway stations world cities located,country,india,3
+most beautiful railway stations world cities located,is part of,kerala,2
+most beautiful railway stations world cities located,is part of,malappuram,3
+most beautiful railway stations world cities located,postal code,NUM,1
+most beautiful railway stations world cities located,synonym,parappnad,0
+most beautiful railway stations world cities located,time zone,indian standard time,1
+most beautiful railway stations world cities located,area code type,telephone code,0
+most beautiful railway stations world cities located,area total km,NUM,1
+most beautiful railway stations world cities located,demographics type,languages,0
+most beautiful railway stations world cities located,governing body,parappanangadi panchayat,1
+most beautiful railway stations world cities located,latd,NUM,0
+most beautiful railway stations world cities located,latm,NUM,0
+most beautiful railway stations world cities located,lats,NUM,0
+most beautiful railway stations world cities located,longd,NUM,0
+most beautiful railway stations world cities located,longm,NUM,0
+most beautiful railway stations world cities located,longs,NUM,0
+most beautiful railway stations world cities located,population density km,auto,0
+most beautiful railway stations world cities located,postal code type,postal index number,0
+most beautiful railway stations world cities located,pushpin label position,right,0
+most beautiful railway stations world cities located,pushpin map,india kerala,2
+most beautiful railway stations world cities located,registration plate,ALPHANUM,0
+most beautiful railway stations world cities located,settlement type,town,1
+most beautiful railway stations world cities located,subdivision name,kerala,1
+most beautiful railway stations world cities located,subdivision name,malappuram,2
+most beautiful railway stations world cities located,subdivision type,list of districts in india,0
+most beautiful railway stations world cities located,subdivision type,states and union territories of india,1
+most beautiful railway stations world cities located,subdivision type,country,0
+most beautiful railway stations world cities located,unit pref,metric,0
+most beautiful railway stations world cities located,website,http   www parappanangadipanchayath com,1
+most beautiful railway stations world cities located,foaf homepage,http   www parappanangadipanchayath com,0
+most beautiful railway stations world cities located,geo lat,NUM,0
+most beautiful railway stations world cities located,geo long,NUM,0
+most beautiful railway stations world cities located,georss point,NUM,0
+music conferences,genre,electronic music,1
+music conferences,location,worldwide,0
+music conferences,website,http   www computermusic org,2
+music conferences,years active,NUM,1
+music conferences,foaf homepage,http   www computermusic org,3
+new england coffee,location,old compton street,3
+new england coffee,location,soho,3
+new england coffee,closed,NUM,2
+new england coffee,opened,NUM,3
+new england coffee,owner,paul lincoln,2
+nordic authors who are known for children s literature,birth date,NUM,4
+nordic authors who are known for children s literature,birth place,denmark,3
+nordic authors who are known for children s literature,birth place,funen,3
+nordic authors who are known for children s literature,birth place,odense,4
+nordic authors who are known for children s literature,birth year,NUM,3
+nordic authors who are known for children s literature,death date,NUM,2
+nordic authors who are known for children s literature,death place,copenhagen,3
+nordic authors who are known for children s literature,death place,denmark,2
+nordic authors who are known for children s literature,death year,NUM,2
+nordic authors who are known for children s literature,genre,children s literature,3
+nordic authors who are known for children s literature,genre,travel literature,1
+nordic authors who are known for children s literature,influenced by,brothers grimm,3
+nordic authors who are known for children s literature,influenced by,heinrich heine,1
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,1
+nordic authors who are known for children s literature,date of birth,NUM,2
+nordic authors who are known for children s literature,date of death,NUM,3
+nordic authors who are known for children s literature,death cause,liver cancer,1
+nordic authors who are known for children s literature,influences,brothers grimm,1
+nordic authors who are known for children s literature,influences,heinrich heine,1
+nordic authors who are known for children s literature,influences,ludvig holberg,1
+nordic authors who are known for children s literature,influences,william shakespeare,1
+nordic authors who are known for children s literature,language,danish,2
+nordic authors who are known for children s literature,nationality,danish,3
+nordic authors who are known for children s literature,occupation,writer,3
+nordic authors who are known for children s literature,place of birth,odense  denmark,2
+nordic authors who are known for children s literature,place of death,copenhagen  denmark,3
+nordic authors who are known for children s literature,short description,danish novelist  short story writer  fairy tales writer  and poet,4
+nordic authors who are known for children s literature,width,NUM,0
+provinces and territories of canada,admittancedate,NUM,0
+provinces and territories of canada,admittanceorder,NUM,0
+provinces and territories of canada,arearank,NUM,0
+provinces and territories of canada,bird,gyrfalcon,0
+provinces and territories of canada,capital,yellowknife,3
+provinces and territories of canada,demonym,northwest territorian,2
+provinces and territories of canada,density km,NUM,0
+provinces and territories of canada,densityrank,NUM,0
+provinces and territories of canada,entityadjective,territorial,0
+provinces and territories of canada,flower,dryas octopetala,0
+provinces and territories of canada,gdp per capita,ALPHANUM,0
+provinces and territories of canada,gdp per capita rank,NUM,0
+provinces and territories of canada,gdp rank,NUM,0
+provinces and territories of canada,gdp total,ALPHANUM,0
+provinces and territories of canada,gdp year,NUM,0
+provinces and territories of canada,houseseats,NUM,0
+provinces and territories of canada,isocode,ca nt,0
+provinces and territories of canada,label map,no,0
+provinces and territories of canada,landarea km,NUM,0
+provinces and territories of canada,largestcity,yellowknife,1
+provinces and territories of canada,largestmetro,yellowknife,0
+provinces and territories of canada,legislature,legislative assembly of the northwest territories,1
+provinces and territories of canada,officiallang,chipewyan language,1
+provinces and territories of canada,officiallang,cree language,1
+provinces and territories of canada,officiallang,dogrib language,1
+provinces and territories of canada,officiallang,english language,2
+provinces and territories of canada,officiallang,french language,2
+provinces and territories of canada,officiallang,gwich in language,1
+provinces and territories of canada,officiallang,inuinnaqtun,1
+provinces and territories of canada,officiallang,inuktitut,1
+provinces and territories of canada,officiallang,inuvialuktun,2
+provinces and territories of canada,officiallang,slavey language,1
+provinces and territories of canada,percentwater,NUM,0
+provinces and territories of canada,population,NUM,0
+provinces and territories of canada,populationrank,NUM,0
+provinces and territories of canada,populationyear,NUM,0
+provinces and territories of canada,postalabbreviation,nt,1
+provinces and territories of canada,postalcodeprefix,list of x postal codes of canada,0
+provinces and territories of canada,premier,bob mc leod  politician,2
+provinces and territories of canada,premierparty,consensus government in canada,0
+provinces and territories of canada,senateseats,NUM,0
+provinces and territories of canada,timezone,ALPHANUM,0
+provinces and territories of canada,totalarea km,NUM,0
+provinces and territories of canada,tree,larix laricina,0
+provinces and territories of canada,viceroy,george tuccaro,0
+provinces and territories of canada,viceroytype,commissioner,0
+provinces and territories of canada,waterarea km,NUM,0
+provinces and territories of canada,website,www gov nt ca,2
+provinces and territories of canada,foaf homepage,http   www gov nt ca,1
+revolutionaries of 1959 in cuba,birth date,NUM,3
+revolutionaries of 1959 in cuba,birth place,cuba,3
+revolutionaries of 1959 in cuba,birth place,havana,3
+revolutionaries of 1959 in cuba,birth place,lawton  havana,2
+revolutionaries of 1959 in cuba,birth year,NUM,3
+revolutionaries of 1959 in cuba,death date,NUM,3
+revolutionaries of 1959 in cuba,death place,cuba,3
+revolutionaries of 1959 in cuba,death place,straits of florida,1
+revolutionaries of 1959 in cuba,death year,NUM,2
+revolutionaries of 1959 in cuba,nationality,cuba,4
+revolutionaries of 1959 in cuba,state of origin,cuba,2
+revolutionaries of 1959 in cuba,date of birth,NUM,4
+revolutionaries of 1959 in cuba,date of death,NUM,3
+revolutionaries of 1959 in cuba,organization,NUM,0
+revolutionaries of 1959 in cuba,place of birth,cuba,4
+revolutionaries of 1959 in cuba,place of birth,havana,3
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,4
+revolutionaries of 1959 in cuba,place of death,straits of florida,2
+revolutionaries of 1959 in cuba,short description,cuban revolutionary,4
+star trek captains,affiliation,starfleet,1
+star trek captains,affiliation,united federation of planets,1
+star trek captains,born,NUM,3
+star trek captains,planet,earth,0
+star trek captains,portrayer,chris pine,3
+star trek captains,portrayer,jimmy bennett,1
+star trek captains,portrayer,sandra smith,3
+star trek captains,portrayer,william shatner,3
+star trek captains,posting,ALPHANUM,2
+star trek captains,posting,chief of starfleet operations,2
+star trek captains,posting,commanding officer,1
+star trek captains,posting,executive officer,1
+star trek captains,rank,admiral,3
+star trek captains,rank,captain,3
+star trek captains,rank,commander,1
+star trek captains,species,human,0
+star trek captains,title,james tiberius kirk,4
+ten ancient greek city kingdoms of cyprus,latd,NUM,0
+ten ancient greek city kingdoms of cyprus,latm,NUM,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,4
+ten ancient greek city kingdoms of cyprus,location,famagusta district,3
+ten ancient greek city kingdoms of cyprus,longd,NUM,0
+ten ancient greek city kingdoms of cyprus,longm,NUM,0
+ten ancient greek city kingdoms of cyprus,map type,cyprus,1
+ten ancient greek city kingdoms of cyprus,native name,NUM,0
+to which countries does the himalayan mountain system extend,populated place area total,NUM,0
+to which countries does the himalayan mountain system extend,populated place area total,NUM,1
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,anthem,druk tsendhen,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,capital,thimphu,3
+to which countries does the himalayan mountain system extend,currency,bhutanese ngultrum,1
+to which countries does the himalayan mountain system extend,currency,ALPHANUM,0
+to which countries does the himalayan mountain system extend,currency,indian rupee,1
+to which countries does the himalayan mountain system extend,demonym,bhutanese,1
+to which countries does the himalayan mountain system extend,founding date,NUM,2
+to which countries does the himalayan mountain system extend,founding date,NUM,3
+to which countries does the himalayan mountain system extend,government type,unitary state,0
+to which countries does the himalayan mountain system extend,language,dzongkha,2
+to which countries does the himalayan mountain system extend,leader,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader,tshering tobgay,2
+to which countries does the himalayan mountain system extend,leader title,king,1
+to which countries does the himalayan mountain system extend,leader title,prime minister,0
+to which countries does the himalayan mountain system extend,official language,dzongkha,1
+to which countries does the himalayan mountain system extend,percentage of area water,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population total,NUM,0
+to which countries does the himalayan mountain system extend,time zone,bhutan time,0
+to which countries does the himalayan mountain system extend,area km,NUM,1
+to which countries does the himalayan mountain system extend,area magnitude,NUM,0
+to which countries does the himalayan mountain system extend,area rank,NUM,0
+to which countries does the himalayan mountain system extend,area sq mi,NUM,0
+to which countries does the himalayan mountain system extend,calling code,telephone numbers in bhutan,0
+to which countries does the himalayan mountain system extend,cctld,bt,0
+to which countries does the himalayan mountain system extend,drives on,right  and left hand traffic,0
+to which countries does the himalayan mountain system extend,established date,NUM,3
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established event,bhutan india relations,0
+to which countries does the himalayan mountain system extend,established event,constitutional monarchy,1
+to which countries does the himalayan mountain system extend,established event,house of wangchuck,0
+to which countries does the himalayan mountain system extend,gdp nominal,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp nominal per capita,NUM,1
+to which countries does the himalayan mountain system extend,gdp nominal per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp nominal year,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp year,NUM,0
+to which countries does the himalayan mountain system extend,gini,NUM,0
+to which countries does the himalayan mountain system extend,gini year,NUM,0
+to which countries does the himalayan mountain system extend,hdi,NUM,0
+to which countries does the himalayan mountain system extend,hdi change,steadu,0
+to which countries does the himalayan mountain system extend,hdi rank,NUM,0
+to which countries does the himalayan mountain system extend,hdi year,NUM,0
+to which countries does the himalayan mountain system extend,height,NUM,0
+to which countries does the himalayan mountain system extend,largest city,capital,0
+to which countries does the himalayan mountain system extend,latd,NUM,0
+to which countries does the himalayan mountain system extend,latm,NUM,0
+to which countries does the himalayan mountain system extend,leader name,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader name,tshering tobgay,2
+to which countries does the himalayan mountain system extend,legislature,parliament of bhutan,0
+to which countries does the himalayan mountain system extend,longd,NUM,0
+to which countries does the himalayan mountain system extend,longm,NUM,0
+to which countries does the himalayan mountain system extend,lower house,national assembly  bhutan,0
+to which countries does the himalayan mountain system extend,national anthem,druk tsendhen,1
+to which countries does the himalayan mountain system extend,official languages,dzongkha,2
+to which countries does the himalayan mountain system extend,percent water,NUM,0
+to which countries does the himalayan mountain system extend,population census,NUM,0
+to which countries does the himalayan mountain system extend,population census year,NUM,0
+to which countries does the himalayan mountain system extend,population density km,NUM,0
+to which countries does the himalayan mountain system extend,population density rank,NUM,0
+to which countries does the himalayan mountain system extend,population density sq mi,NUM,0
+to which countries does the himalayan mountain system extend,population estimate,NUM,0
+to which countries does the himalayan mountain system extend,population estimate rank,NUM,0
+to which countries does the himalayan mountain system extend,population estimate year,NUM,0
+to which countries does the himalayan mountain system extend,religion,vajrayana,1
+to which countries does the himalayan mountain system extend,sovereignty note,ALPHANUM,0
+to which countries does the himalayan mountain system extend,sovereignty type,history of bhutan,1
+to which countries does the himalayan mountain system extend,symbol type,emblem,0
+to which countries does the himalayan mountain system extend,time zone dst,not observed,0
+to which countries does the himalayan mountain system extend,title,religions of bhutan,0
+to which countries does the himalayan mountain system extend,upper house,national council  bhutan,1
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,foaf homepage,http   www bhutan gov bt,2
+to which countries does the himalayan mountain system extend,geo lat,NUM,0
+to which countries does the himalayan mountain system extend,geo long,NUM,0
+to which countries does the himalayan mountain system extend,georss point,NUM,0
+to which countries does the himalayan mountain system extend,owl different from,bohtan,0
+to which countries does the himalayan mountain system extend,owl different from,butuan,0
+which cities does the weser flow through,populated place area total,NUM,0
+which cities does the weser flow through,area code,NUM,0
+which cities does the weser flow through,area code,ALPHANUM,0
+which cities does the weser flow through,area total,NUM,0
+which cities does the weser flow through,country,germany,3
+which cities does the weser flow through,elevation,NUM,0
+which cities does the weser flow through,federal state,bremen,3
+which cities does the weser flow through,founding year,NUM,2
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,leader title,oberb rgermeister,0
+which cities does the weser flow through,population as of,NUM,0
+which cities does the weser flow through,population total,NUM,2
+which cities does the weser flow through,postal code,NUM,1
+which cities does the weser flow through,adresse,NUM,0
+which cities does the weser flow through,adresse,hinrich schmalfeldt stra e,0
+which cities does the weser flow through,adresse,stadthaus,0
+which cities does the weser flow through,apr high c,NUM,0
+which cities does the weser flow through,apr high c,NUM,0
+which cities does the weser flow through,apr low c,NUM,0
+which cities does the weser flow through,apr low c,NUM,0
+which cities does the weser flow through,apr mean c,NUM,0
+which cities does the weser flow through,apr mean c,NUM,0
+which cities does the weser flow through,apr precipitation mm,NUM,0
+which cities does the weser flow through,apr precipitation mm,NUM,0
+which cities does the weser flow through,apr record high c,NUM,0
+which cities does the weser flow through,apr record low c,NUM,0
+which cities does the weser flow through,apr sun,NUM,0
+which cities does the weser flow through,apr sun,NUM,0
+which cities does the weser flow through,area,NUM,0
+which cities does the weser flow through,aug high c,NUM,0
+which cities does the weser flow through,aug high c,NUM,0
+which cities does the weser flow through,aug low c,NUM,0
+which cities does the weser flow through,aug low c,NUM,0
+which cities does the weser flow through,aug mean c,NUM,0
+which cities does the weser flow through,aug mean c,NUM,0
+which cities does the weser flow through,aug precipitation mm,NUM,0
+which cities does the weser flow through,aug precipitation mm,NUM,0
+which cities does the weser flow through,aug record high c,NUM,0
+which cities does the weser flow through,aug record low c,NUM,0
+which cities does the weser flow through,aug sun,NUM,0
+which cities does the weser flow through,aug sun,NUM,0
+which cities does the weser flow through,b rgermeistertitel,oberb rgermeister,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,dec high c,NUM,0
+which cities does the weser flow through,dec high c,NUM,0
+which cities does the weser flow through,dec low c,NUM,0
+which cities does the weser flow through,dec low c,NUM,0
+which cities does the weser flow through,dec mean c,NUM,0
+which cities does the weser flow through,dec mean c,NUM,0
+which cities does the weser flow through,dec precipitation mm,NUM,0
+which cities does the weser flow through,dec precipitation mm,NUM,0
+which cities does the weser flow through,dec record high c,NUM,0
+which cities does the weser flow through,dec record low c,NUM,0
+which cities does the weser flow through,dec sun,NUM,0
+which cities does the weser flow through,dec sun,NUM,0
+which cities does the weser flow through,district,kreisfreie stadt,0
+which cities does the weser flow through,divisions,NUM,0
+which cities does the weser flow through,feb high c,NUM,0
+which cities does the weser flow through,feb high c,NUM,0
+which cities does the weser flow through,feb low c,NUM,0
+which cities does the weser flow through,feb low c,NUM,0
+which cities does the weser flow through,feb mean c,NUM,0
+which cities does the weser flow through,feb mean c,NUM,0
+which cities does the weser flow through,feb precipitation mm,NUM,0
+which cities does the weser flow through,feb precipitation mm,NUM,0
+which cities does the weser flow through,feb record high c,NUM,0
+which cities does the weser flow through,feb record low c,NUM,0
+which cities does the weser flow through,feb sun,NUM,0
+which cities does the weser flow through,feb sun,NUM,0
+which cities does the weser flow through,gemeindeschl ssel,NUM,0
+which cities does the weser flow through,jan high c,NUM,0
+which cities does the weser flow through,jan high c,NUM,0
+which cities does the weser flow through,jan low c,NUM,0
+which cities does the weser flow through,jan low c,NUM,0
+which cities does the weser flow through,jan mean c,NUM,0
+which cities does the weser flow through,jan mean c,NUM,0
+which cities does the weser flow through,jan precipitation mm,NUM,0
+which cities does the weser flow through,jan precipitation mm,NUM,0
+which cities does the weser flow through,jan record high c,NUM,0
+which cities does the weser flow through,jan record low c,NUM,0
+which cities does the weser flow through,jan sun,NUM,0
+which cities does the weser flow through,jan sun,NUM,0
+which cities does the weser flow through,jul high c,NUM,0
+which cities does the weser flow through,jul high c,NUM,0
+which cities does the weser flow through,jul low c,NUM,0
+which cities does the weser flow through,jul low c,NUM,0
+which cities does the weser flow through,jul mean c,NUM,0
+which cities does the weser flow through,jul mean c,NUM,0
+which cities does the weser flow through,jul precipitation mm,NUM,0
+which cities does the weser flow through,jul precipitation mm,NUM,0
+which cities does the weser flow through,jul record high c,NUM,0
+which cities does the weser flow through,jul record low c,NUM,0
+which cities does the weser flow through,jul sun,NUM,0
+which cities does the weser flow through,jul sun,NUM,0
+which cities does the weser flow through,jun high c,NUM,0
+which cities does the weser flow through,jun high c,NUM,0
+which cities does the weser flow through,jun low c,NUM,0
+which cities does the weser flow through,jun low c,NUM,0
+which cities does the weser flow through,jun mean c,NUM,0
+which cities does the weser flow through,jun mean c,NUM,0
+which cities does the weser flow through,jun precipitation mm,NUM,0
+which cities does the weser flow through,jun precipitation mm,NUM,0
+which cities does the weser flow through,jun record high c,NUM,0
+which cities does the weser flow through,jun record low c,NUM,0
+which cities does the weser flow through,jun sun,NUM,0
+which cities does the weser flow through,jun sun,NUM,0
+which cities does the weser flow through,lat deg,NUM,0
+which cities does the weser flow through,lat min,NUM,0
+which cities does the weser flow through,lat sec,NUM,0
+which cities does the weser flow through,licence,hb,0
+which cities does the weser flow through,location,bremerhaven,2
+which cities does the weser flow through,locode,de brv,0
+which cities does the weser flow through,lon deg,NUM,0
+which cities does the weser flow through,lon min,NUM,0
+which cities does the weser flow through,lon sec,NUM,0
+which cities does the weser flow through,mar high c,NUM,0
+which cities does the weser flow through,mar high c,NUM,0
+which cities does the weser flow through,mar low c,NUM,0
+which cities does the weser flow through,mar low c,NUM,0
+which cities does the weser flow through,mar mean c,NUM,0
+which cities does the weser flow through,mar mean c,NUM,0
+which cities does the weser flow through,mar precipitation mm,NUM,0
+which cities does the weser flow through,mar precipitation mm,NUM,0
+which cities does the weser flow through,mar record high c,NUM,0
+which cities does the weser flow through,mar record low c,NUM,0
+which cities does the weser flow through,mar sun,NUM,0
+which cities does the weser flow through,mar sun,NUM,0
+which cities does the weser flow through,may high c,NUM,0
+which cities does the weser flow through,may high c,NUM,0
+which cities does the weser flow through,may low c,NUM,0
+which cities does the weser flow through,may low c,NUM,0
+which cities does the weser flow through,may mean c,NUM,0
+which cities does the weser flow through,may mean c,NUM,0
+which cities does the weser flow through,may precipitation mm,NUM,0
+which cities does the weser flow through,may precipitation mm,NUM,0
+which cities does the weser flow through,may record high c,NUM,0
+which cities does the weser flow through,may record low c,NUM,0
+which cities does the weser flow through,may sun,NUM,0
+which cities does the weser flow through,may sun,NUM,0
+which cities does the weser flow through,mayor,melf grantz,1
+which cities does the weser flow through,metric first,yes,0
+which cities does the weser flow through,nov high c,NUM,0
+which cities does the weser flow through,nov high c,NUM,0
+which cities does the weser flow through,nov low c,NUM,0
+which cities does the weser flow through,nov low c,NUM,0
+which cities does the weser flow through,nov mean c,NUM,0
+which cities does the weser flow through,nov mean c,NUM,0
+which cities does the weser flow through,nov precipitation mm,NUM,0
+which cities does the weser flow through,nov precipitation mm,NUM,0
+which cities does the weser flow through,nov record high c,NUM,0
+which cities does the weser flow through,nov record low c,NUM,0
+which cities does the weser flow through,nov sun,NUM,0
+which cities does the weser flow through,nov sun,NUM,0
+which cities does the weser flow through,nuts,ALPHANUM,0
+which cities does the weser flow through,oct high c,NUM,0
+which cities does the weser flow through,oct high c,NUM,0
+which cities does the weser flow through,oct low c,NUM,0
+which cities does the weser flow through,oct low c,NUM,0
+which cities does the weser flow through,oct mean c,NUM,0
+which cities does the weser flow through,oct mean c,NUM,0
+which cities does the weser flow through,oct precipitation mm,NUM,0
+which cities does the weser flow through,oct precipitation mm,NUM,0
+which cities does the weser flow through,oct record high c,NUM,0
+which cities does the weser flow through,oct record low c,NUM,0
+which cities does the weser flow through,oct sun,NUM,0
+which cities does the weser flow through,oct sun,NUM,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,population,NUM,0
+which cities does the weser flow through,sep high c,NUM,0
+which cities does the weser flow through,sep high c,NUM,0
+which cities does the weser flow through,sep low c,NUM,0
+which cities does the weser flow through,sep low c,NUM,0
+which cities does the weser flow through,sep mean c,NUM,0
+which cities does the weser flow through,sep mean c,NUM,0
+which cities does the weser flow through,sep precipitation mm,NUM,0
+which cities does the weser flow through,sep precipitation mm,NUM,0
+which cities does the weser flow through,sep record high c,NUM,0
+which cities does the weser flow through,sep record low c,NUM,0
+which cities does the weser flow through,sep sun,NUM,0
+which cities does the weser flow through,sep sun,NUM,0
+which cities does the weser flow through,single line,yes,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which cities does the weser flow through,stand,NUM,0
+which cities does the weser flow through,state,bremen,3
+which cities does the weser flow through,website,http   www bremerhaven de,2
+which cities does the weser flow through,year,NUM,2
+which cities does the weser flow through,year high c,NUM,0
+which cities does the weser flow through,year high c,NUM,0
+which cities does the weser flow through,year low c,NUM,0
+which cities does the weser flow through,year low c,NUM,0
+which cities does the weser flow through,year mean c,NUM,0
+which cities does the weser flow through,year mean c,NUM,0
+which cities does the weser flow through,year record high c,NUM,0
+which cities does the weser flow through,year record low c,NUM,0
+which cities does the weser flow through,year sun,NUM,0
+which cities does the weser flow through,foaf homepage,http   www bremerhaven de,2
+which cities does the weser flow through,geo lat,NUM,0
+which cities does the weser flow through,geo long,NUM,0
+which cities does the weser flow through,georss point,NUM,0
+which music albums contain the song last christmas,work runtime,NUM,0
+which music albums contain the song last christmas,artist,alcazar  band,2
+which music albums contain the song last christmas,genre,eurodance,1
+which music albums contain the song last christmas,genre,europop,1
+which music albums contain the song last christmas,genre,nu disco,1
+which music albums contain the song last christmas,previous work,a tribute to abba  alcazar album,1
+which music albums contain the song last christmas,producer,anders hansson  songwriter,1
+which music albums contain the song last christmas,producer,figge bostr m,1
+which music albums contain the song last christmas,record label,universal music group,1
+which music albums contain the song last christmas,release date,NUM,2
+which music albums contain the song last christmas,runtime,NUM,0
+which music albums contain the song last christmas,collapsed,yes,0
+which music albums contain the song last christmas,headline,ALPHANUM,0
+which music albums contain the song last christmas,headline,ALPHANUM,0
+which music albums contain the song last christmas,headline,german and polish edition,0
+which music albums contain the song last christmas,last album,a tribute to abba,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,next album,NUM,0
+which music albums contain the song last christmas,next album,disco defenders  greatest hits,1
+which music albums contain the song last christmas,note,extended version,0
+which music albums contain the song last christmas,note,music video,0
+which music albums contain the song last christmas,recorded,NUM,2
+which music albums contain the song last christmas,released,NUM,3
+which music albums contain the song last christmas,rev,teentoday co uk,0
+which music albums contain the song last christmas,this album,disco defenders,3
+which music albums contain the song last christmas,title,alcastar,0
+which music albums contain the song last christmas,title,burning  alcazar song,1
+which music albums contain the song last christmas,title,crying at the discoteque,2
+which music albums contain the song last christmas,title,disco defenders,2
+which music albums contain the song last christmas,title,don t you want me,1
+which music albums contain the song last christmas,title,funkytown,1
+which music albums contain the song last christmas,title,inhibitions  song,1
+which music albums contain the song last christmas,title,last christmas,3
+which music albums contain the song last christmas,title,love life  song,1
+which music albums contain the song last christmas,title,m nage   trois  song,1
+which music albums contain the song last christmas,title,not a sinner nor a saint,3
+which music albums contain the song last christmas,title,physical  alcazar song,0
+which music albums contain the song last christmas,title,ritmo del amor,2
+which music albums contain the song last christmas,title,sexual guarantee,1
+which music albums contain the song last christmas,title,shine on  alcazar song,1
+which music albums contain the song last christmas,title,someday  alcazar song,1
+which music albums contain the song last christmas,title,start the fire  alcazar song,1
+which music albums contain the song last christmas,title,stay the night  alcazar song,3
+which music albums contain the song last christmas,title,this is the world we live in,1
+which music albums contain the song last christmas,title,we keep on rockin,2
+which music albums contain the song last christmas,title,baby,0
+which music albums contain the song last christmas,title,harlem nights,1
+which music albums contain the song last christmas,title,jump straight into the fire,1
+which music albums contain the song last christmas,title,my my me and mine,1
+which music albums contain the song last christmas,title,one two three four,0
+which music albums contain the song last christmas,title,put the top down,1
+which music albums contain the song last christmas,title,stay the night,1
+which music albums contain the song last christmas,title,thank you,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,writer,a  hansson,1
+which music albums contain the song last christmas,writer,a  hansson  f  persson  m  grauers  anton malmberg hard af segerstad,1
+which music albums contain the song last christmas,writer,a  hansson  m  sanden  t  merkel  a  lundstedt  l  hedlund,2
+which music albums contain the song last christmas,writer,a  hansson  n  chinn,2
+which music albums contain the song last christmas,writer,a  hansson  s  vaughn,1
+which music albums contain the song last christmas,writer,a  hansson  s  vaughn  t  merkel  a  lundstedt  l  hedlund,1
+which music albums contain the song last christmas,writer,fredrik figge bostrom  jackie kavan,1
+which music albums contain the song last christmas,writer,joakim udd  karl euren  johan fjellstrom,2
+which music albums contain the song last christmas,writer,n  tennant  c  lowe,2
+which music albums contain the song last christmas,writer,oscar g rres  danny saucedo,1
+which music albums contain the song last christmas,writer,steven greenberg,1
+which music albums contain the song last christmas,writer,thomas thornholm  danne attlerud  figge bostrom,3
+which music albums contain the song last christmas,writing credits,yes,0
+which music albums contain the song last christmas,foaf homepage,http   www alcazarofficial com,1
+who founded intel,alias,noyce  bob,3
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,2
+who founded intel,birth date,NUM,4
+who founded intel,birth place,burlington  iowa,4
+who founded intel,birth place,iowa,2
+who founded intel,birth year,NUM,3
+who founded intel,death date,NUM,3
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,3
+who founded intel,death year,NUM,3
+who founded intel,occupation,fairchild semiconductor,2
+who founded intel,occupation,intel,3
+who founded intel,occupation,ALPHANUM,2
+who founded intel,spouse,elizabeth noyce,2
+who founded intel,awards,faraday medal,1
+who founded intel,awards,harold pender award,1
+who founded intel,awards,john fritz medal,2
+who founded intel,children,william b  noyce pendred noyce priscilla noyce margaret noyce,2
+who founded intel,date of birth,NUM,3
+who founded intel,date of death,NUM,4
+who founded intel,parents,ralph brewster noyce  harriet may norton,1
+who founded intel,place of birth,burlington  iowa,2
+who founded intel,place of death,austin  texas,2
+who founded intel,short description,co founder of fairchild semiconductor and intel,4
+who founded intel,title,intel ceo,4
+who founded intel,years,NUM,1
+ymca tampa,headquarter,geneva,2
+ymca tampa,headquarter,switzerland,2
+ymca tampa,area,worldwide,1
+ymca tampa,founded date,NUM,3
+ymca tampa,founded place,london,3
+ymca tampa,founded place,united kingdom of great britain and ireland,2
+ymca tampa,founder,george williams  ymca,3
+ymca tampa,headquarters,geneva,2
+ymca tampa,headquarters,switzerland,2
+ymca tampa,main classification,community,0
+ymca tampa,website,http   www ymca int,4
+ymca tampa,foaf homepage,http   www ymca int,3

@@ -1,0 +1,305 @@
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,1
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,capital,baguio,3
+baguio quezon city manila official independence 1945,capital,manila,3
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,1
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,2
+baguio quezon city manila official independence 1945,common languages,tagalog language,1
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,1
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,2
+baguio quezon city manila official independence 1945,title leader,president of the philippines,2
+bicycle holiday nature,location,cook county  illinois,3
+bicycle holiday nature,location,illinois,2
+bicycle holiday nature,nearest city,schaumburg  illinois,0
+carolina,capital,columbia  south carolina,4
+carolina,country,united states,3
+carolina,amphibian,salamander,0
+carolina,bird,carolina wren,0
+carolina,bird,wild turkey,0
+carolina,borderingstates,georgia  u s  state,0
+carolina,borderingstates,north carolina,0
+carolina,butterfly,papilio glaucus,0
+carolina,dance,carolina shag,0
+carolina,fish,striped bass,0
+carolina,flaglink,flag of south carolina,1
+carolina,flower,gelsemium sempervirens,0
+carolina,food,boiled peanuts,0
+carolina,food,collard greens,0
+carolina,food,peach,0
+carolina,fossil,columbian mammoth,0
+carolina,governor,nikki haley,2
+carolina,highestpoint,sassafras mountain,0
+carolina,insect,carolina mantis,0
+carolina,largestmetro,greenville  south carolina metropolitan area,0
+carolina,legislature,south carolina general assembly,0
+carolina,lieutenant governor,henry mc master,2
+carolina,lowerhouse,south carolina house of representatives,1
+carolina,mammal,boykin spaniel,0
+carolina,mammal,carolina marsh tacky,0
+carolina,mammal,white tailed deer,0
+carolina,mineral,amethyst,0
+carolina,reptile,loggerhead sea turtle,0
+carolina,senators,lindsey graham,2
+carolina,senators,tim scott,1
+carolina,timezone,coordinated universal time,0
+carolina,timezone,eastern time zone,1
+carolina,title,list of u s  states by date of admission to the union,0
+carolina,tree,sabal palmetto,0
+carolina,upperhouse,south carolina senate,1
+eloan line of credit,founded by,chris larsen,3
+eloan line of credit,industry,financial services,3
+eloan line of credit,location,rosemont  illinois,2
+eloan line of credit,location,united states,3
+eloan line of credit,parent company,popular  inc,2
+eloan line of credit,parent,popular  inc,2
+espresso tv stands,author,julian more,2
+espresso tv stands,author,wolf mankowitz,2
+espresso tv stands,lyrics,julian more,1
+espresso tv stands,lyrics,monty norman,2
+espresso tv stands,music by,david heneker,1
+espresso tv stands,music by,monty norman,1
+espresso tv stands,director,val guest,2
+espresso tv stands,distributor,british lion films,1
+espresso tv stands,editing,bill lenny,1
+espresso tv stands,music,david heneker,2
+espresso tv stands,music,monty norman,2
+espresso tv stands,music,robert farnon,2
+espresso tv stands,producer,jon penington,2
+espresso tv stands,starring,cliff richard,2
+espresso tv stands,starring,eric pohlmann,2
+espresso tv stands,starring,gilbert harding,3
+espresso tv stands,starring,hermione baddeley,2
+espresso tv stands,starring,laurence harvey,2
+espresso tv stands,starring,sylvia syms,1
+espresso tv stands,starring,yolande donlan,2
+espresso tv stands,writer,wolf mankowitz,2
+give me all canadian grunge record labels,country,canada,2
+give me all canadian grunge record labels,founded by,sloan  band,3
+give me all canadian grunge record labels,genre,alternative rock,2
+give me all canadian grunge record labels,genre,grunge,3
+give me all canadian grunge record labels,genre,indie rock,1
+give me all canadian grunge record labels,location,halifax  nova scotia,2
+give me all canadian grunge record labels,location,nova scotia,2
+give me all canadian grunge record labels,location,ontario,2
+give me all canadian grunge record labels,location,toronto,1
+give me all canadian grunge record labels,parent company,mca records,3
+give me all canadian grunge record labels,founder,sloan  band,2
+give me all canadian grunge record labels,parent,mca records,1
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,1
+give me all current methodist national leaders,alma mater,madison business college,1
+give me all current methodist national leaders,alma mater,university of colorado boulder,1
+give me all current methodist national leaders,birth place,liberia,3
+give me all current methodist national leaders,birth place,monrovia,2
+give me all current methodist national leaders,party,unity party  liberia,2
+give me all current methodist national leaders,predecessor,gyude bryant,1
+give me all current methodist national leaders,religion,methodism,2
+give me all current methodist national leaders,term period,ALPHANUM,1
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,minister,amara mohamed konneh,1
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,1
+give me all current methodist national leaders,minister,george wallace  diplomat,1
+give me all current methodist national leaders,minister,joseph boakai,1
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,1
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,4
+give me all current methodist national leaders,title,vice president of liberia,3
+give me all current methodist national leaders,with,leymah gbowee,1
+give me all current methodist national leaders,with,tawakkol karman,0
+give me all people with first name jimmy,birth place,taiwan,3
+give me all people with first name jimmy,birth place,yilan county  taiwan,2
+japanese players in major league baseball,birth place,osaka,3
+japanese players in major league baseball,debut team,osaka kintetsu buffaloes,1
+japanese players in major league baseball,position,pitcher,3
+japanese players in major league baseball,after,a  j  burnett,0
+japanese players in major league baseball,after,al leiter,0
+japanese players in major league baseball,after,derek lowe,0
+japanese players in major league baseball,after,john smoltz,0
+japanese players in major league baseball,after,joichiro tatsuyoshi,1
+japanese players in major league baseball,after,kevin brown  right handed pitcher,0
+japanese players in major league baseball,before,chiyonofuji mitsugu,0
+japanese players in major league baseball,before,dwight gooden,0
+japanese players in major league baseball,before,eric milton,0
+japanese players in major league baseball,before,greg maddux,0
+japanese players in major league baseball,before,kevin brown  right handed pitcher,0
+japanese players in major league baseball,debutleague,nippon professional baseball,2
+japanese players in major league baseball,place of birth,osaka,2
+japanese players in major league baseball,title,hits per nine innings,0
+japanese players in major league baseball,title,japan professional sports grand prize,1
+japanese players in major league baseball,title,los angeles dodgers,1
+japanese players in major league baseball,title,no hitter,0
+japanese players in major league baseball,title,opening day,0
+john lennon  parents,artist,john lennon,4
+john lennon  parents,genre,rock music,2
+john lennon  parents,previous work,lennon legend  the very best of john lennon,0
+john lennon  parents,producer,yoko ono,2
+john lennon  parents,record label,capitol records,2
+john lennon  parents,record label,emi,1
+john lennon  parents,subsequent work,instant karma  all time greatest hits,0
+john lennon  parents,rev,all music,0
+movies about english hooligans,country,united states,1
+movies about english hooligans,director,lexi alexander,2
+movies about english hooligans,distributor,freestyle releasing,1
+movies about english hooligans,distributor,universal studios,1
+movies about english hooligans,music composer,christopher franke,2
+movies about english hooligans,producer,deborah del prete,2
+movies about english hooligans,starring,charlie hunnam,3
+movies about english hooligans,starring,claire forlani,4
+movies about english hooligans,starring,elijah wood,2
+movies about english hooligans,starring,leo gregory,1
+movies about english hooligans,writer,dougie brimson,1
+movies about english hooligans,writer,lexi alexander,2
+movies about english hooligans,music,christopher franke,1
+movies about english hooligans,screenplay,dougie brimson,2
+movies about english hooligans,screenplay,lexi alexander,1
+movies about english hooligans,studio,odd lot entertainment,1
+music conferences,genre,electronic music,1
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,2
+radio italia online,broadcast area,fm broadcasting,2
+radio italia online,broadcast area,internet radio,1
+radio italia online,broadcast area,italy,2
+radio italia online,broadcast area,monaco,2
+radio italia online,broadcast area,san marino,3
+radio italia online,owner,rcs media group,3
+radio italia online,programme format,rock music,3
+radio italia online,sister station,ALPHANUM,2
+radio italia online,sister station,radio monte carlo,0
+radio italia online,format,rock music,1
+revolutionaries of 1959 in cuba,birth place,cuba,3
+revolutionaries of 1959 in cuba,birth place,havana,3
+revolutionaries of 1959 in cuba,birth place,lawton  havana,2
+revolutionaries of 1959 in cuba,death place,cuba,3
+revolutionaries of 1959 in cuba,death place,straits of florida,1
+revolutionaries of 1959 in cuba,nationality,cuba,4
+revolutionaries of 1959 in cuba,state of origin,cuba,2
+revolutionaries of 1959 in cuba,place of birth,cuba,4
+revolutionaries of 1959 in cuba,place of birth,havana,3
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,4
+revolutionaries of 1959 in cuba,place of death,straits of florida,2
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,2
+twelve tribes or sons of israel,majorsites,bethlehem,2
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,2
+what is the capital of canada,country,canada,3
+what is the capital of canada,is part of,national capital region  canada,3
+what is the capital of canada,is part of,ontario,2
+what is the capital of canada,leader name,jim watson  canadian politician,1
+what is the capital of canada,leader name,ottawa city council,1
+what is the capital of canada,time zone,eastern time zone,1
+what is the capital of canada,east,clarence rockland,0
+what is the capital of canada,established title,merger  politics,0
+what is the capital of canada,established title,municipal corporation,0
+what is the capital of canada,north,gatineau,0
+what is the capital of canada,north,pontiac  quebec,0
+what is the capital of canada,northeast,lochaber partie ouest  quebec,0
+what is the capital of canada,northwest,arnprior,0
+what is the capital of canada,source,environment canada,0
+what is the capital of canada,south,north dundas  ontario,0
+what is the capital of canada,south,north grenville,0
+what is the capital of canada,southeast,russell  ontario,1
+what is the capital of canada,southeast,the nation  ontario,0
+what is the capital of canada,southwest,merrickville wolford,0
+what is the capital of canada,subdivision name,canada,2
+what is the capital of canada,subdivision name,national capital region  canada,0
+what is the capital of canada,subdivision name,ontario,1
+what is the capital of canada,subdivision type,list of regions of canada,0
+what is the capital of canada,subdivision type,provinces and territories of canada,0
+what is the capital of canada,timezone dst,eastern time zone,1
+what is the capital of canada,west,beckwith  ontario,0
+what is the capital of canada,west,mississippi mills  ontario,0
+what is the capital of canada,west,montague  ontario,0
+which country does the creator of miffy come from,capital,amsterdam,3
+which country does the creator of miffy come from,currency,caribbean netherlands,1
+which country does the creator of miffy come from,currency,euro,2
+which country does the creator of miffy come from,currency,ALPHANUM,0
+which country does the creator of miffy come from,currency,united states dollar,2
+which country does the creator of miffy come from,ethnic group,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic group,dutch people,0
+which country does the creator of miffy come from,ethnic group,european union,0
+which country does the creator of miffy come from,ethnic group,moroccan dutch,1
+which country does the creator of miffy come from,ethnic group,overseas indonesian,0
+which country does the creator of miffy come from,ethnic group,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic group,turks in the netherlands,0
+which country does the creator of miffy come from,government type,unitary state,1
+which country does the creator of miffy come from,language,dutch low saxon,1
+which country does the creator of miffy come from,language,dutch language,2
+which country does the creator of miffy come from,language,english language,1
+which country does the creator of miffy come from,language,limburgish language,1
+which country does the creator of miffy come from,language,papiamento,1
+which country does the creator of miffy come from,language,west frisian language,1
+which country does the creator of miffy come from,leader,mark rutte,2
+which country does the creator of miffy come from,leader,willem alexander of the netherlands,3
+which country does the creator of miffy come from,official language,dutch language,3
+which country does the creator of miffy come from,official language,english language,1
+which country does the creator of miffy come from,official language,papiamento,2
+which country does the creator of miffy come from,official language,west frisian language,2
+which country does the creator of miffy come from,regional language,dutch low saxon,1
+which country does the creator of miffy come from,regional language,limburgish language,1
+which country does the creator of miffy come from,time zone,atlantic time zone,0
+which country does the creator of miffy come from,time zone,central european time,1
+which country does the creator of miffy come from,calling code,telephone numbers in cura ao and the caribbean netherlands,0
+which country does the creator of miffy come from,calling code,telephone numbers in the netherlands,0
+which country does the creator of miffy come from,country code,nld,1
+which country does the creator of miffy come from,established event,act of abjuration,0
+which country does the creator of miffy come from,established event,charter for the kingdom of the netherlands,0
+which country does the creator of miffy come from,established event,peace of m nster,1
+which country does the creator of miffy come from,ethnic groups,caribbean netherlands,1
+which country does the creator of miffy come from,ethnic groups,dutch people,1
+which country does the creator of miffy come from,ethnic groups,european union,0
+which country does the creator of miffy come from,ethnic groups,moroccan dutch,1
+which country does the creator of miffy come from,ethnic groups,overseas indonesian,0
+which country does the creator of miffy come from,ethnic groups,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic groups,turks in the netherlands,0
+which country does the creator of miffy come from,leader name,mark rutte,1
+which country does the creator of miffy come from,leader name,willem alexander of the netherlands,1
+which country does the creator of miffy come from,legislature,states general of the netherlands,1
+which country does the creator of miffy come from,lower house,house of representatives  netherlands,1
+which country does the creator of miffy come from,time zone dst,atlantic time zone,0
+which country does the creator of miffy come from,time zone dst,central european summer time,1
+which country does the creator of miffy come from,upper house,senate  netherlands,0
+which country does the creator of miffy come from,owl different from,holland,1
+which music albums contain the song last christmas,artist,alcazar  band,2
+which music albums contain the song last christmas,genre,eurodance,1
+which music albums contain the song last christmas,genre,europop,1
+which music albums contain the song last christmas,genre,nu disco,1
+which music albums contain the song last christmas,previous work,a tribute to abba  alcazar album,1
+which music albums contain the song last christmas,producer,anders hansson  songwriter,1
+which music albums contain the song last christmas,producer,figge bostr m,1
+which music albums contain the song last christmas,record label,universal music group,1
+which music albums contain the song last christmas,rev,teentoday co uk,0
+which music albums contain the song last christmas,title,alcastar,0
+which music albums contain the song last christmas,title,burning  alcazar song,1
+which music albums contain the song last christmas,title,crying at the discoteque,2
+which music albums contain the song last christmas,title,disco defenders,2
+which music albums contain the song last christmas,title,don t you want me,1
+which music albums contain the song last christmas,title,funkytown,1
+which music albums contain the song last christmas,title,inhibitions  song,1
+which music albums contain the song last christmas,title,last christmas,3
+which music albums contain the song last christmas,title,love life  song,1
+which music albums contain the song last christmas,title,m nage   trois  song,1
+which music albums contain the song last christmas,title,not a sinner nor a saint,3
+which music albums contain the song last christmas,title,physical  alcazar song,0
+which music albums contain the song last christmas,title,ritmo del amor,2
+which music albums contain the song last christmas,title,sexual guarantee,1
+which music albums contain the song last christmas,title,shine on  alcazar song,1
+which music albums contain the song last christmas,title,someday  alcazar song,1
+which music albums contain the song last christmas,title,start the fire  alcazar song,1
+which music albums contain the song last christmas,title,stay the night  alcazar song,3
+which music albums contain the song last christmas,title,this is the world we live in,1
+which music albums contain the song last christmas,title,we keep on rockin,2
+who painted the storm on the sea of galilee,birth place,dutch republic,2
+who painted the storm on the sea of galilee,birth place,leiden,3
+who painted the storm on the sea of galilee,birth place,netherlands,3
+who painted the storm on the sea of galilee,death place,amsterdam,2
+who painted the storm on the sea of galilee,death place,netherlands,3
+who painted the storm on the sea of galilee,field,printmaking,2
+who painted the storm on the sea of galilee,movement,baroque,1
+who painted the storm on the sea of galilee,movement,dutch golden age painting,2
+who painted the storm on the sea of galilee,nationality,dutch people,2

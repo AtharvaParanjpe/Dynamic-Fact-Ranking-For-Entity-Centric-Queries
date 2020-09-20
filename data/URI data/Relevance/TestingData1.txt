@@ -1,0 +1,233 @@
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,capital,baguio,1
+baguio quezon city manila official independence 1945,capital,manila,1
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,0
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,0
+baguio quezon city manila official independence 1945,common languages,tagalog language,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,0
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+did nicole kidman have any siblings,birth place,australia,1
+did nicole kidman have any siblings,birth place,melbourne,1
+did nicole kidman have any siblings,occupation,ALPHANUM,2
+did nicole kidman have any siblings,occupation,journalist,0
+did nicole kidman have any siblings,relative,nicole kidman,2
+did nicole kidman have any siblings,place of birth,australia,1
+did nicole kidman have any siblings,place of birth,melbourne,1
+did nicole kidman have any siblings,relatives,nicole kidman,2
+eloan line of credit,founded by,chris larsen,1
+eloan line of credit,industry,financial services,1
+eloan line of credit,location,rosemont  illinois,1
+eloan line of credit,location,united states,1
+eloan line of credit,parent company,popular  inc,1
+eloan line of credit,parent,popular  inc,0
+give me all canadian grunge record labels,country,canada,1
+give me all canadian grunge record labels,founded by,sloan  band,1
+give me all canadian grunge record labels,genre,alternative rock,1
+give me all canadian grunge record labels,genre,grunge,2
+give me all canadian grunge record labels,genre,indie rock,0
+give me all canadian grunge record labels,location,halifax  nova scotia,0
+give me all canadian grunge record labels,location,nova scotia,0
+give me all canadian grunge record labels,location,ontario,0
+give me all canadian grunge record labels,location,toronto,0
+give me all canadian grunge record labels,parent company,mca records,1
+give me all canadian grunge record labels,founder,sloan  band,0
+give me all canadian grunge record labels,parent,mca records,0
+give me all members of prodigy,associated band,the prodigy,2
+give me all members of prodigy,associated musical artist,the prodigy,2
+give me all members of prodigy,birth place,braintree  essex,0
+give me all members of prodigy,genre,alternative dance,0
+give me all members of prodigy,genre,alternative rock,0
+give me all members of prodigy,genre,big beat,0
+give me all members of prodigy,genre,breakbeat,0
+give me all members of prodigy,genre,breakbeat hardcore,0
+give me all members of prodigy,genre,electronic dance music,0
+give me all members of prodigy,genre,electropunk,0
+give me all members of prodigy,genre,hardcore  electronic dance music genre,0
+give me all members of prodigy,instrument,direct drive turntable,0
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,0
+give me all members of prodigy,record label,xl recordings,0
+give me all people with first name jimmy,birth place,taiwan,1
+give me all people with first name jimmy,birth place,yilan county  taiwan,0
+in which uk city are the headquarters of the mi6,country,united kingdom,2
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,0
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,0
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,2
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,0
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,total type,greater london,0
+major leagues in the united states,champion,san francisco giants,1
+major leagues in the united states,commissioner,rob manfred,0
+major leagues in the united states,countries,canada,0
+major leagues in the united states,countries,united states,1
+major leagues in the united states,most champs,new york yankees,1
+members of the beaux arts trio,birth place,newark  new jersey,0
+members of the beaux arts trio,death place,wellfleet  massachusetts,0
+members of the beaux arts trio,occupation,ALPHANUM,0
+members of the beaux arts trio,occupation,cello,0
+members of the beaux arts trio,place of birth,newark  new jersey,1
+members of the beaux arts trio,place of death,wellfleet  massachusetts,0
+movies about english hooligans,country,united states,0
+movies about english hooligans,director,lexi alexander,0
+movies about english hooligans,distributor,freestyle releasing,0
+movies about english hooligans,distributor,universal studios,0
+movies about english hooligans,music composer,christopher franke,0
+movies about english hooligans,producer,deborah del prete,0
+movies about english hooligans,starring,charlie hunnam,1
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,0
+movies about english hooligans,starring,leo gregory,0
+movies about english hooligans,writer,dougie brimson,0
+movies about english hooligans,writer,lexi alexander,0
+movies about english hooligans,music,christopher franke,0
+movies about english hooligans,screenplay,dougie brimson,0
+movies about english hooligans,screenplay,lexi alexander,0
+movies about english hooligans,studio,odd lot entertainment,0
+music conferences,genre,electronic music,0
+nordic authors who are known for children s literature,birth place,denmark,1
+nordic authors who are known for children s literature,birth place,funen,1
+nordic authors who are known for children s literature,birth place,odense,2
+nordic authors who are known for children s literature,death place,copenhagen,1
+nordic authors who are known for children s literature,death place,denmark,0
+nordic authors who are known for children s literature,genre,children s literature,2
+nordic authors who are known for children s literature,genre,travel literature,0
+nordic authors who are known for children s literature,influenced by,brothers grimm,2
+nordic authors who are known for children s literature,influenced by,heinrich heine,0
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,0
+nordic authors who are known for children s literature,influences,brothers grimm,0
+nordic authors who are known for children s literature,influences,heinrich heine,0
+nordic authors who are known for children s literature,influences,ludvig holberg,0
+nordic authors who are known for children s literature,influences,william shakespeare,0
+professional baseball team in japan,after,taih  k ki,0
+professional baseball team in japan,ballpark,tokyo dome,0
+professional baseball team in japan,before,shozo saijo,1
+professional baseball team in japan,former leagues,japanese baseball league,0
+professional baseball team in japan,manager,tatsunori hara,0
+professional baseball team in japan,owner,yomiuri shimbun,1
+professional baseball team in japan,pastparks,korakuen stadium,0
+sacred heart u,city,coconut grove,1
+sacred heart u,city,miami,0
+sacred heart u,county,miami dade county  florida,0
+sacred heart u,grades,pre kindergarten,0
+sacred heart u,religion,catholic church,0
+sacred heart u,religion,society of the sacred heart,1
+sacred heart u,state,florida,1
+sacred heart u,accreditation,southern association of colleges and schools,0
+sean parnell is the governor of which u s  state,capital,juneau  alaska,1
+sean parnell is the governor of which u s  state,country,united states,0
+sean parnell is the governor of which u s  state,language,ahtna language,0
+sean parnell is the governor of which u s  state,language,aleut language,0
+sean parnell is the governor of which u s  state,language,alutiiq language,0
+sean parnell is the governor of which u s  state,language,central alaskan yup ik language,0
+sean parnell is the governor of which u s  state,language,central siberian yupik language,0
+sean parnell is the governor of which u s  state,language,deg xinag language,0
+sean parnell is the governor of which u s  state,language,dena ina language,0
+sean parnell is the governor of which u s  state,language,english language,0
+sean parnell is the governor of which u s  state,language,eskimo aleut languages,0
+sean parnell is the governor of which u s  state,language,eyak language,0
+sean parnell is the governor of which u s  state,language,gwich in language,0
+sean parnell is the governor of which u s  state,language,haida language,0
+sean parnell is the governor of which u s  state,language,holikachuk language,0
+sean parnell is the governor of which u s  state,language,h n language,0
+sean parnell is the governor of which u s  state,language,inupiat language,0
+sean parnell is the governor of which u s  state,language,koyukon language,0
+sean parnell is the governor of which u s  state,language,lower tanana language,0
+sean parnell is the governor of which u s  state,language,na dene languages,0
+sean parnell is the governor of which u s  state,language,spanish language,0
+sean parnell is the governor of which u s  state,language,tanacross language,0
+sean parnell is the governor of which u s  state,language,tlingit language,0
+sean parnell is the governor of which u s  state,language,tsimshianic languages,0
+sean parnell is the governor of which u s  state,language,upper kuskokwim language,0
+sean parnell is the governor of which u s  state,language,upper tanana language,0
+sean parnell is the governor of which u s  state,largest city,anchorage  alaska,2
+sean parnell is the governor of which u s  state,flaglink,flag of alaska,1
+sean parnell is the governor of which u s  state,highestpoint,denali,0
+sean parnell is the governor of which u s  state,legislature,alaska legislature,0
+sean parnell is the governor of which u s  state,lowerhouse,alaska house of representatives,0
+sean parnell is the governor of which u s  state,northeast,beaufort sea,0
+sean parnell is the governor of which u s  state,northwest,chukchi sea,0
+sean parnell is the governor of which u s  state,officiallang,ahtna language,0
+sean parnell is the governor of which u s  state,officiallang,aleut language,0
+sean parnell is the governor of which u s  state,officiallang,alutiiq language,0
+sean parnell is the governor of which u s  state,officiallang,central alaskan yup ik language,0
+sean parnell is the governor of which u s  state,officiallang,central siberian yupik language,0
+sean parnell is the governor of which u s  state,officiallang,deg xinag language,0
+sean parnell is the governor of which u s  state,officiallang,dena ina language,0
+sean parnell is the governor of which u s  state,officiallang,english language,0
+sean parnell is the governor of which u s  state,officiallang,eyak language,0
+sean parnell is the governor of which u s  state,officiallang,gwich in language,0
+sean parnell is the governor of which u s  state,officiallang,haida language,0
+sean parnell is the governor of which u s  state,officiallang,holikachuk language,0
+sean parnell is the governor of which u s  state,officiallang,h n language,0
+sean parnell is the governor of which u s  state,officiallang,inupiat language,0
+sean parnell is the governor of which u s  state,officiallang,koyukon language,0
+sean parnell is the governor of which u s  state,officiallang,lower tanana language,0
+sean parnell is the governor of which u s  state,officiallang,tanacross language,0
+sean parnell is the governor of which u s  state,officiallang,tlingit language,0
+sean parnell is the governor of which u s  state,officiallang,tsimshianic languages,0
+sean parnell is the governor of which u s  state,officiallang,upper kuskokwim language,0
+sean parnell is the governor of which u s  state,officiallang,upper tanana language,0
+sean parnell is the governor of which u s  state,senators,lisa murkowski,0
+sean parnell is the governor of which u s  state,southwest,bering sea,0
+sean parnell is the governor of which u s  state,stateanthem,alaska s flag,0
+sean parnell is the governor of which u s  state,timezone,alaska time zone,0
+sean parnell is the governor of which u s  state,timezone,coordinated universal time,0
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian standard time,0
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian time zone,0
+sean parnell is the governor of which u s  state,title,list of u s  states by date of admission to the union,0
+sean parnell is the governor of which u s  state,upperhouse,alaska senate,1
+tango culture countries,album,rendez vous  in grid album,0
+tango culture countries,format,cd single,0
+tango culture countries,genre,dance pop,1
+tango culture countries,genre,tango music,2
+tango culture countries,musical artist,in grid,0
+tango culture countries,musical band,in grid,0
+tango culture countries,record label,universal music group,0
+tango culture countries,artist,in grid,0
+tango culture countries,from album,rendez vous  in grid album,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,1
+which software has been developed by organizations founded in california,author,yahoo,2
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,1
+which software has been developed by organizations founded in california,content license,proprietary software,0
+ymca tampa,headquarter,geneva,0
+ymca tampa,headquarter,switzerland,0
+ymca tampa,founded place,london,1
+ymca tampa,founded place,united kingdom of great britain and ireland,0
+ymca tampa,founder,george williams  ymca,1
+ymca tampa,headquarters,geneva,0
+ymca tampa,headquarters,switzerland,0
+ymca tampa,main classification,community,0

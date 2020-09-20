@@ -1,0 +1,929 @@
+carl lewis,person height,NUM,0
+carl lewis,person weight,NUM,0
+carl lewis,birth date,NUM,2
+carl lewis,birth place,alabama,1
+carl lewis,birth place,birmingham  alabama,2
+carl lewis,height,NUM,0
+carl lewis,residence,houston,0
+carl lewis,residence,texas,0
+carl lewis,weight,NUM,0
+carl lewis,children,bakim k  lewis,2
+carl lewis,club,santa monica track club,2
+carl lewis,collegeteam,houston cougars,0
+carl lewis,country,united states national athletics team,2
+carl lewis,event,NUM,0
+carl lewis,nationality,american,2
+carl lewis,nicknames,carl lewis,2
+carl lewis,retired,NUM,1
+carl lewis,show medals,yes,0
+carl lewis,sport,athletics,1
+carl lewis,foaf homepage,http   www carllewis com,1
+carolina,populated place area total,NUM,0
+carolina,area land,NUM,0
+carolina,area total,NUM,0
+carolina,area water,NUM,0
+carolina,capital,columbia  south carolina,2
+carolina,country,united states,1
+carolina,demonym,south carolinian,1
+carolina,maximum elevation,NUM,0
+carolina,minimum elevation,NUM,0
+carolina,admittancedate,NUM,0
+carolina,admittanceorder,NUM,0
+carolina,amphibian,salamander,0
+carolina,arearank,NUM,0
+carolina,beverage,milk  tea,0
+carolina,bird,carolina wren,0
+carolina,bird,wild turkey,0
+carolina,borderingstates,georgia  u s  state,0
+carolina,borderingstates,north carolina,0
+carolina,butterfly,papilio glaucus,0
+carolina,centre,south carolina  outline   index,1
+carolina,city,charleston  south carolina charleston,1
+carolina,city,columbia  south carolina columbia,0
+carolina,city,goose creek  south carolina goose creek,1
+carolina,city,greenville  south carolina greenville,1
+carolina,city,hilton head island  south carolina hilton head island,1
+carolina,city,mount pleasant  south carolina mount pleasant,0
+carolina,city,north charleston  south carolina north charleston,1
+carolina,city,rock hill  south carolina rock hill,1
+carolina,city,summerville  south carolina summerville,0
+carolina,city,sumter  south carolina sumter,1
+carolina,class,nav,0
+carolina,dance,carolina shag,0
+carolina,date,ALPHANUM,0
+carolina,densityrank,NUM,0
+carolina,div,beaufort county  south carolina beaufort,0
+carolina,div,berkeley county  south carolina berkeley,1
+carolina,div,charleston county  south carolina charleston,0
+carolina,div,dorchester county  south carolina dorchester,0
+carolina,div,greenville county  south carolina greenville,1
+carolina,div,richland county  south carolina richland,1
+carolina,div,sumter county  south carolina sumter,1
+carolina,div,york county  south carolina york,0
+carolina,div link,counties of south carolina county,0
+carolina,fish,striped bass,0
+carolina,flaglink,flag of south carolina,1
+carolina,flower,gelsemium sempervirens,0
+carolina,food,boiled peanuts,0
+carolina,food,collard greens,0
+carolina,food,peach,0
+carolina,former,province of south carolina,1
+carolina,fossil,columbian mammoth,0
+carolina,governor,nikki haley,1
+carolina,highestelev,NUM,0
+carolina,highestelevus,NUM,0
+carolina,highestpoint,sassafras mountain,0
+carolina,incomerank,NUM,0
+carolina,insect,carolina mantis,0
+carolina,isocode,us sc,0
+carolina,landarea,NUM,0
+carolina,landareaus,NUM,0
+carolina,largestcity,capital,0
+carolina,largestmetro,greenville  south carolina metropolitan area,0
+carolina,latitude,NUM,0
+carolina,legislature,south carolina general assembly,0
+carolina,length,NUM,0
+carolina,lengthus,NUM,0
+carolina,lieutenant governor,henry mc master,1
+carolina,line,crescent,0
+carolina,line,palmetto,0
+carolina,line,silver meteor,0
+carolina,line,silver star,0
+carolina,longitude,NUM,0
+carolina,lowerhouse,south carolina house of representatives,1
+carolina,lowestelev,NUM,0
+carolina,lowestelevus,NUM,0
+carolina,lowestpoint,atlantic ocean,0
+carolina,mammal,boykin spaniel,0
+carolina,mammal,carolina marsh tacky,0
+carolina,mammal,white tailed deer,0
+carolina,meanelev,NUM,0
+carolina,meanelevus,NUM,0
+carolina,medianhouseholdincome,NUM,0
+carolina,mineral,amethyst,0
+carolina,motto,animis opibusque parati    prepared in mind and resources,0
+carolina,motto,dum spiro spero    while i breathe i hope,0
+carolina,mottoenglish,ready in soul and resource,0
+carolina,mottoenglish,while i breathe  i hope,0
+carolina,officiallang,english,0
+carolina,pcwater,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,pop,NUM,0
+carolina,poprank,NUM,0
+carolina,postalabbreviation,sc,0
+carolina,quarterreleasedate,NUM,0
+carolina,reason,source says nothing about sc being first state to declare independence,0
+carolina,representative,NUM,0
+carolina,reptile,loggerhead sea turtle,0
+carolina,rock,blue granite,0
+carolina,senators,lindsey graham,1
+carolina,senators,tim scott,0
+carolina,slogan,smiling faces  beautiful places,0
+carolina,southeast,atlantic ocean,0
+carolina,stat ref,source,0
+carolina,state,expanded,0
+carolina,system,amtrak,0
+carolina,timezone,coordinated universal time,0
+carolina,timezone,eastern time zone,0
+carolina,title,list of u s  states by date of admission to the union,0
+carolina,title,the palmetto state,2
+carolina,title,topics related to south carolina,1
+carolina,totalarea,NUM,0
+carolina,totalareaus,NUM,0
+carolina,tree,sabal palmetto,0
+carolina,upperhouse,south carolina senate,1
+carolina,waterarea,NUM,0
+carolina,waterareaus,NUM,0
+carolina,website,www sc gov,2
+carolina,width,NUM,0
+carolina,widthus,NUM,0
+carolina,years,NUM,0
+carolina,foaf homepage,http   www sc gov,1
+computer systems that have a recursive acronym for the name,genre,mathematical software,0
+computer systems that have a recursive acronym for the name,latest release version,NUM,0
+computer systems that have a recursive acronym for the name,license,gnu general public license,1
+computer systems that have a recursive acronym for the name,programming language,c,1
+computer systems that have a recursive acronym for the name,developer,christian bauer  alexander frink  richard b  kreckel  et al,1
+computer systems that have a recursive acronym for the name,operating system,cross platform,1
+computer systems that have a recursive acronym for the name,foaf homepage,http   www ginac de,1
+einstein relativity theory,birth date,NUM,0
+einstein relativity theory,birth year,NUM,0
+einstein relativity theory,death date,NUM,0
+einstein relativity theory,death year,NUM,0
+einstein relativity theory,date of birth,NUM,0
+einstein relativity theory,date of death,NUM,0
+einstein relativity theory,short description,german physicist,1
+give me a list of all american inventions,designer,john g  kemeny,1
+give me a list of all american inventions,designer,thomas e  kurtz,1
+give me a list of all american inventions,influenced,auto hotkey,0
+give me a list of all american inventions,influenced,auto it,0
+give me a list of all american inventions,influenced,comal,0
+give me a list of all american inventions,influenced,grass  programming language,0
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,0
+give me a list of all american inventions,influenced,xojo,0
+give me a list of all american inventions,influenced by,ALPHANUM,0
+give me a list of all american inventions,influenced by,fortran,0
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,generation,NUM,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,0
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,0
+give me a list of all american inventions,implementations,free basic,0
+give me a list of all american inventions,implementations,integer basic,0
+give me a list of all american inventions,implementations,liberty basic,0
+give me a list of all american inventions,implementations,microsoft basic,0
+give me a list of all american inventions,implementations,sinclair basic,0
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,0
+give me a list of all american inventions,paradigm,unstructured  later procedural  later object oriented,0
+give me all canadian grunge record labels,country,canada,1
+give me all canadian grunge record labels,founded by,sloan  band,1
+give me all canadian grunge record labels,founding year,NUM,0
+give me all canadian grunge record labels,genre,alternative rock,1
+give me all canadian grunge record labels,genre,grunge,2
+give me all canadian grunge record labels,genre,indie rock,0
+give me all canadian grunge record labels,location,halifax  nova scotia,0
+give me all canadian grunge record labels,location,nova scotia,0
+give me all canadian grunge record labels,location,ontario,0
+give me all canadian grunge record labels,location,toronto,0
+give me all canadian grunge record labels,parent company,mca records,1
+give me all canadian grunge record labels,founded,NUM,0
+give me all canadian grunge record labels,founder,sloan  band,0
+give me all canadian grunge record labels,parent,mca records,0
+give me all canadian grunge record labels,url,http   www sloanmusic com murderecords,0
+give me all canadian grunge record labels,foaf homepage,http   www sloanmusic com murderecords,2
+guitar classical bach,birth date,NUM,0
+guitar classical bach,birth year,NUM,0
+guitar classical bach,death date,NUM,0
+guitar classical bach,death year,NUM,0
+guitar classical bach,bot,ALPHANUM,0
+guitar classical bach,date,ALPHANUM,0
+guitar classical bach,date of birth,NUM,2
+guitar classical bach,date of death,NUM,0
+guitar classical bach,place of birth,sopiki  greece,0
+guitar classical bach,place of death,alexandria  virginia  usa,0
+guitar classical bach,short description,greek musician,0
+most famous award winning actor singer,active years start year,NUM,0
+most famous award winning actor singer,birth date,NUM,0
+most famous award winning actor singer,birth place,myanmar,0
+most famous award winning actor singer,birth place,yangon,0
+most famous award winning actor singer,birth year,NUM,1
+most famous award winning actor singer,occupation,actor,2
+most famous award winning actor singer,occupation,singing,0
+most famous award winning actor singer,occupation,ALPHANUM,0
+most famous award winning actor singer,parent,kawleikgyin ne win,0
+most famous award winning actor singer,date of birth,NUM,1
+most famous award winning actor singer,parents,kawleikgyin ne win  khin marla,0
+most famous award winning actor singer,place of birth,myanmar,0
+most famous award winning actor singer,place of birth,yangon,0
+most famous award winning actor singer,short description,burmese actor,0
+most famous award winning actor singer,yearsactive,NUM,0
+permanent members of the un security council,membership,full member,1
+permanent members of the un security council,nation,the united states of america,2
+permanent members of the un security council,representative,samantha power,0
+permanent members of the un security council,representative title,united states ambassador to the united nations,1
+permanent members of the un security council,sc seat,permanent members of the united nations security council,2
+permanent members of the un security council,foaf homepage,http   www usunnewyork usmission gov,1
+plymouth police department,agencyname,devon and cornwall police,2
+plymouth police department,airbases,NUM,0
+plymouth police department,aircraft,NUM,0
+plymouth police department,budget,ALPHANUM,0
+plymouth police department,constitution,ALPHANUM,0
+plymouth police department,country,united kingdom,1
+plymouth police department,countryabbr,uk,0
+plymouth police department,divname,england,0
+plymouth police department,divtype,country,0
+plymouth police department,electeetype,police and crime commissioner,1
+plymouth police department,employees,NUM,0
+plymouth police department,formedmonthday,NUM,0
+plymouth police department,formedyear,NUM,0
+plymouth police department,headquarters,middlemoor  exeter,0
+plymouth police department,legaljuris,england and wales,0
+plymouth police department,local,yes,0
+plymouth police department,mission,building safer communities together,0
+plymouth police department,motto,in auxilium omnium,0
+plymouth police department,mottotranslated,to the assistance of everybody,0
+plymouth police department,overviewbody,her majesty s inspectorate of constabulary,0
+plymouth police department,overviewbody,independent police complaints commission,0
+plymouth police department,police,yes,0
+plymouth police department,preceding,cornwall county constabulary,0
+plymouth police department,preceding,devon county constabulary,1
+plymouth police department,preceding,plymouth city police,2
+plymouth police department,sizearea,NUM,0
+plymouth police department,sizepopulation,NUM,0
+plymouth police department,stations,NUM,0
+plymouth police department,stationtype,police station,0
+plymouth police department,subdivname,devon and cornwall,0
+plymouth police department,subdivtype,police area,0
+plymouth police department,sworn,NUM,0
+plymouth police department,sworntype,constable,0
+plymouth police department,unitname,NUM,0
+plymouth police department,unittype,basic command unit,0
+plymouth police department,unsworn,NUM,0
+plymouth police department,unsworntype,police community support officer,0
+plymouth police department,volunteers,NUM,0
+plymouth police department,website,http   www devon cornwall police uk,2
+plymouth police department,foaf homepage,http   www devon cornwall police uk,2
+professional baseball team in japan,after,taih  k ki,0
+professional baseball team in japan,ballpark,tokyo dome,0
+professional baseball team in japan,before,shozo saijo,1
+professional baseball team in japan,color,black,0
+professional baseball team in japan,colors,black  orange  white,0
+professional baseball team in japan,current,NUM,0
+professional baseball team in japan,division champ type,central league pennants,0
+professional baseball team in japan,division champs,NUM,1
+professional baseball team in japan,established,NUM,0
+professional baseball team in japan,former leagues,japanese baseball league,0
+professional baseball team in japan,league,nippon professional baseball,0
+professional baseball team in japan,league champ type,japanese baseball league titles,1
+professional baseball team in japan,league champs,NUM,0
+professional baseball team in japan,manager,tatsunori hara,0
+professional baseball team in japan,owner,yomiuri shimbun,1
+professional baseball team in japan,pastparks,korakuen stadium,0
+professional baseball team in japan,retirednumbers,NUM,0
+professional baseball team in japan,series,japan series,1
+professional baseball team in japan,series champs,NUM,0
+professional baseball team in japan,title,japan professional sports grand prize winner,0
+professional baseball team in japan,years,NUM,0
+professional baseball team in japan,foaf homepage,http   bis npb or jp eng teams index g html,1
+revolutionaries of 1959 in cuba,birth date,NUM,1
+revolutionaries of 1959 in cuba,birth place,cuba,1
+revolutionaries of 1959 in cuba,birth place,havana,1
+revolutionaries of 1959 in cuba,birth place,lawton  havana,0
+revolutionaries of 1959 in cuba,birth year,NUM,1
+revolutionaries of 1959 in cuba,death date,NUM,1
+revolutionaries of 1959 in cuba,death place,cuba,1
+revolutionaries of 1959 in cuba,death place,straits of florida,0
+revolutionaries of 1959 in cuba,death year,NUM,0
+revolutionaries of 1959 in cuba,nationality,cuba,2
+revolutionaries of 1959 in cuba,state of origin,cuba,1
+revolutionaries of 1959 in cuba,date of birth,NUM,2
+revolutionaries of 1959 in cuba,date of death,NUM,1
+revolutionaries of 1959 in cuba,organization,NUM,0
+revolutionaries of 1959 in cuba,place of birth,cuba,2
+revolutionaries of 1959 in cuba,place of birth,havana,1
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,2
+revolutionaries of 1959 in cuba,place of death,straits of florida,0
+revolutionaries of 1959 in cuba,short description,cuban revolutionary,2
+sacred heart u,address,ALPHANUM,0
+sacred heart u,city,coconut grove,1
+sacred heart u,city,miami,0
+sacred heart u,county,miami dade county  florida,0
+sacred heart u,founding year,NUM,0
+sacred heart u,grades,pre kindergarten,0
+sacred heart u,head label,headmistress,0
+sacred heart u,number of students,NUM,0
+sacred heart u,postal code,NUM,0
+sacred heart u,religion,catholic church,0
+sacred heart u,religion,society of the sacred heart,1
+sacred heart u,state,florida,1
+sacred heart u,team name,cyclones,0
+sacred heart u,accreditation,southern association of colleges and schools,0
+sacred heart u,colors,blue and gold,0
+sacred heart u,country,us,1
+sacred heart u,established,NUM,0
+sacred heart u,free label,admissions director,0
+sacred heart u,free label,athletic director,0
+sacred heart u,free text,ana roye,0
+sacred heart u,free text,matt althage,0
+sacred heart u,head,suzanne cooke  rscj,0
+sacred heart u,homepage,http   www carrollton org,0
+sacred heart u,president,suzanne cooke  rscj,0
+sacred heart u,streetaddress,NUM,0
+sacred heart u,students,NUM,0
+sacred heart u,zipcode,NUM,0
+sacred heart u,foaf homepage,http   www carrollton org,1
+sacred heart u,geo lat,NUM,0
+sacred heart u,geo long,NUM,0
+sacred heart u,georss point,NUM,0
+tango culture countries,work runtime,NUM,0
+tango culture countries,album,rendez vous  in grid album,0
+tango culture countries,format,cd single,0
+tango culture countries,genre,dance pop,1
+tango culture countries,genre,tango music,2
+tango culture countries,musical artist,in grid,0
+tango culture countries,musical band,in grid,0
+tango culture countries,record label,universal music group,0
+tango culture countries,runtime,NUM,0
+tango culture countries,artist,in grid,0
+tango culture countries,from album,rendez vous  in grid album,0
+tango culture countries,length,NUM,0
+tango culture countries,producer,alfredo larry pignagnoli,0
+tango culture countries,writer,marco soncini  ingrid alberini,0
+ten ancient greek city kingdoms of cyprus,latd,NUM,0
+ten ancient greek city kingdoms of cyprus,latm,NUM,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,1
+ten ancient greek city kingdoms of cyprus,longd,NUM,0
+ten ancient greek city kingdoms of cyprus,longm,NUM,0
+ten ancient greek city kingdoms of cyprus,map type,cyprus,1
+ten ancient greek city kingdoms of cyprus,native name,NUM,0
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place population density,NUM,0
+toledo bend realty,area code,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,country,united states,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,is part of,lucas county  ohio,0
+toledo bend realty,is part of,ohio,2
+toledo bend realty,leader name,paula hicks hudson,0
+toledo bend realty,leader title,mayor,0
+toledo bend realty,population density,NUM,0
+toledo bend realty,population metro,NUM,0
+toledo bend realty,population total,NUM,0
+toledo bend realty,population total ranking,NUM,0
+toledo bend realty,population urban,NUM,0
+toledo bend realty,time zone,eastern time zone,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,area land km,NUM,0
+toledo bend realty,area land sq mi,NUM,0
+toledo bend realty,area total km,NUM,0
+toledo bend realty,area total sq mi,NUM,0
+toledo bend realty,area water km,NUM,0
+toledo bend realty,area water sq mi,NUM,0
+toledo bend realty,blank info,NUM,0
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,centre,toledo,2
+toledo bend realty,coordinates region,us oh,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,elevation ft,NUM,0
+toledo bend realty,elevation m,NUM,0
+toledo bend realty,established date,NUM,0
+toledo bend realty,established title,founded,0
+toledo bend realty,latd,NUM,0
+toledo bend realty,latm,NUM,0
+toledo bend realty,lats,NUM,0
+toledo bend realty,longd,NUM,0
+toledo bend realty,longm,NUM,0
+toledo bend realty,longs,NUM,0
+toledo bend realty,north,bedford township,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,northeast,erie township,0
+toledo bend realty,northwest,whiteford township,0
+toledo bend realty,official name,city of toledo,2
+toledo bend realty,pop est as of,NUM,0
+toledo bend realty,population as of,NUM,0
+toledo bend realty,population blank,toledoan,0
+toledo bend realty,population density km,NUM,0
+toledo bend realty,population est,NUM,0
+toledo bend realty,population rank,ALPHANUM,0
+toledo bend realty,postal code type,zip codes,0
+toledo bend realty,pushpin map,usa,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,0
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,0
+toledo bend realty,unit pref,imperial,0
+toledo bend realty,utc offset dst,NUM,0
+toledo bend realty,website,http   www toledo oh gov,2
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+toledo bend realty,foaf homepage,http   www toledo oh gov,0
+toledo bend realty,foaf nick,the glass city  t town  frogtown,0
+toledo bend realty,geo lat,NUM,0
+toledo bend realty,geo long,NUM,0
+toledo bend realty,georss point,NUM,0
+vietnam travel airports,city,hanoi,1
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,iata location identifier,han,0
+vietnam travel airports,icao location identifier,vvnb,0
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway surface,asphalt,0
+vietnam travel airports,runway surface,concrete,0
+vietnam travel airports,city served,hanoi,1
+vietnam travel airports,elevation f,NUM,0
+vietnam travel airports,elevation m,NUM,0
+vietnam travel airports,iata,han,0
+vietnam travel airports,icao,vvnb,0
+vietnam travel airports,latd,NUM,0
+vietnam travel airports,latm,NUM,0
+vietnam travel airports,lats,NUM,0
+vietnam travel airports,longd,NUM,0
+vietnam travel airports,longm,NUM,0
+vietnam travel airports,longs,NUM,0
+vietnam travel airports,operator,noi bai international airport operation,1
+vietnam travel airports,owner,airports corporation of vietnam,1
+vietnam travel airports,pushpin label,han,0
+vietnam travel airports,pushpin map,vietnam,1
+vietnam travel airports,pushpin mapsize,NUM,0
+vietnam travel airports,stat year,NUM,0
+vietnam travel airports,geo lat,NUM,0
+vietnam travel airports,geo long,NUM,0
+vietnam travel airports,georss point,NUM,0
+what is the capital of canada,populated place area metro,NUM,0
+what is the capital of canada,populated place area total,NUM,0
+what is the capital of canada,populated place area total,NUM,0
+what is the capital of canada,populated place area urban,NUM,0
+what is the capital of canada,populated place population density,NUM,0
+what is the capital of canada,populated place population metro density,NUM,0
+what is the capital of canada,populated place population urban density,NUM,0
+what is the capital of canada,area code,NUM,0
+what is the capital of canada,area metro,NUM,0
+what is the capital of canada,area total,NUM,0
+what is the capital of canada,area total,NUM,0
+what is the capital of canada,area urban,NUM,0
+what is the capital of canada,country,canada,1
+what is the capital of canada,elevation,NUM,0
+what is the capital of canada,elevation,NUM,0
+what is the capital of canada,founding date,NUM,0
+what is the capital of canada,is part of,national capital region  canada,1
+what is the capital of canada,is part of,ontario,1
+what is the capital of canada,leader name,jim watson  canadian politician,0
+what is the capital of canada,leader name,ottawa city council,0
+what is the capital of canada,leader title,city council,0
+what is the capital of canada,leader title,mp ps,0
+what is the capital of canada,leader title,m ps,0
+what is the capital of canada,leader title,mayor,0
+what is the capital of canada,motto,written in thetwo official languages,0
+what is the capital of canada,population density,NUM,0
+what is the capital of canada,population metro,NUM,0
+what is the capital of canada,population metro density,NUM,0
+what is the capital of canada,population total,NUM,0
+what is the capital of canada,population urban,NUM,0
+what is the capital of canada,population urban density,NUM,0
+what is the capital of canada,postal code,ALPHANUM,0
+what is the capital of canada,time zone,eastern time zone,0
+what is the capital of canada,utc offset,NUM,0
+what is the capital of canada,utc offset,NUM,0
+what is the capital of canada,apr chill,NUM,0
+what is the capital of canada,apr high c,NUM,0
+what is the capital of canada,apr humidity,NUM,0
+what is the capital of canada,apr low c,NUM,0
+what is the capital of canada,apr maximum humidex,NUM,0
+what is the capital of canada,apr mean c,NUM,0
+what is the capital of canada,apr percentsun,NUM,0
+what is the capital of canada,apr precipitation days,NUM,0
+what is the capital of canada,apr precipitation mm,NUM,0
+what is the capital of canada,apr rain days,NUM,0
+what is the capital of canada,apr rain mm,NUM,0
+what is the capital of canada,apr record high c,NUM,0
+what is the capital of canada,apr record low c,NUM,0
+what is the capital of canada,apr snow cm,NUM,0
+what is the capital of canada,apr snow days,NUM,0
+what is the capital of canada,apr sun,NUM,0
+what is the capital of canada,area metro km,NUM,0
+what is the capital of canada,area total km,NUM,0
+what is the capital of canada,area total sq mi,NUM,0
+what is the capital of canada,area urban km,NUM,0
+what is the capital of canada,aug chill,NUM,0
+what is the capital of canada,aug high c,NUM,0
+what is the capital of canada,aug humidity,NUM,0
+what is the capital of canada,aug low c,NUM,0
+what is the capital of canada,aug maximum humidex,NUM,0
+what is the capital of canada,aug mean c,NUM,0
+what is the capital of canada,aug percentsun,NUM,0
+what is the capital of canada,aug precipitation days,NUM,0
+what is the capital of canada,aug precipitation mm,NUM,0
+what is the capital of canada,aug rain days,NUM,0
+what is the capital of canada,aug rain mm,NUM,0
+what is the capital of canada,aug record high c,NUM,0
+what is the capital of canada,aug record low c,NUM,0
+what is the capital of canada,aug snow cm,NUM,0
+what is the capital of canada,aug snow days,NUM,0
+what is the capital of canada,aug sun,NUM,0
+what is the capital of canada,blank info sec,ALPHANUM,0
+what is the capital of canada,blank name sec,gdp,0
+what is the capital of canada,centre,ottawa,2
+what is the capital of canada,commons,ottawa,2
+what is the capital of canada,coordinates region,ca on,0
+what is the capital of canada,date,ALPHANUM,0
+what is the capital of canada,dec chill,NUM,0
+what is the capital of canada,dec high c,NUM,0
+what is the capital of canada,dec humidity,NUM,0
+what is the capital of canada,dec low c,NUM,0
+what is the capital of canada,dec maximum humidex,NUM,0
+what is the capital of canada,dec mean c,NUM,0
+what is the capital of canada,dec percentsun,NUM,0
+what is the capital of canada,dec precipitation days,NUM,0
+what is the capital of canada,dec precipitation mm,NUM,0
+what is the capital of canada,dec rain days,NUM,0
+what is the capital of canada,dec rain mm,NUM,0
+what is the capital of canada,dec record high c,NUM,0
+what is the capital of canada,dec record low c,NUM,0
+what is the capital of canada,dec snow cm,NUM,0
+what is the capital of canada,dec snow days,NUM,0
+what is the capital of canada,dec sun,NUM,0
+what is the capital of canada,display,ottawa,2
+what is the capital of canada,east,clarence rockland,0
+what is the capital of canada,elevation ft,NUM,0
+what is the capital of canada,elevation m,NUM,0
+what is the capital of canada,established date,NUM,0
+what is the capital of canada,established date,NUM,0
+what is the capital of canada,established date,NUM,0
+what is the capital of canada,established title,merger  politics,0
+what is the capital of canada,established title,municipal corporation,0
+what is the capital of canada,established title,established,0
+what is the capital of canada,established title,incorporation,0
+what is the capital of canada,feb chill,NUM,0
+what is the capital of canada,feb high c,NUM,0
+what is the capital of canada,feb humidity,NUM,0
+what is the capital of canada,feb low c,NUM,0
+what is the capital of canada,feb maximum humidex,NUM,0
+what is the capital of canada,feb mean c,NUM,0
+what is the capital of canada,feb percentsun,NUM,0
+what is the capital of canada,feb precipitation days,NUM,0
+what is the capital of canada,feb precipitation mm,NUM,0
+what is the capital of canada,feb rain days,NUM,0
+what is the capital of canada,feb rain mm,NUM,0
+what is the capital of canada,feb record high c,NUM,0
+what is the capital of canada,feb record low c,NUM,0
+what is the capital of canada,feb snow cm,NUM,0
+what is the capital of canada,feb snow days,NUM,0
+what is the capital of canada,feb sun,NUM,0
+what is the capital of canada,jan chill,NUM,0
+what is the capital of canada,jan high c,NUM,0
+what is the capital of canada,jan humidity,NUM,0
+what is the capital of canada,jan low c,NUM,0
+what is the capital of canada,jan maximum humidex,NUM,0
+what is the capital of canada,jan mean c,NUM,0
+what is the capital of canada,jan percentsun,NUM,0
+what is the capital of canada,jan precipitation days,NUM,0
+what is the capital of canada,jan precipitation mm,NUM,0
+what is the capital of canada,jan rain days,NUM,0
+what is the capital of canada,jan rain mm,NUM,0
+what is the capital of canada,jan record high c,NUM,0
+what is the capital of canada,jan record low c,NUM,0
+what is the capital of canada,jan snow cm,NUM,0
+what is the capital of canada,jan snow days,NUM,0
+what is the capital of canada,jan sun,NUM,0
+what is the capital of canada,jul chill,NUM,0
+what is the capital of canada,jul high c,NUM,0
+what is the capital of canada,jul humidity,NUM,0
+what is the capital of canada,jul low c,NUM,0
+what is the capital of canada,jul maximum humidex,NUM,0
+what is the capital of canada,jul mean c,NUM,0
+what is the capital of canada,jul percentsun,NUM,0
+what is the capital of canada,jul precipitation days,NUM,0
+what is the capital of canada,jul precipitation mm,NUM,0
+what is the capital of canada,jul rain days,NUM,0
+what is the capital of canada,jul rain mm,NUM,0
+what is the capital of canada,jul record high c,NUM,0
+what is the capital of canada,jul record low c,NUM,0
+what is the capital of canada,jul snow cm,NUM,0
+what is the capital of canada,jul snow days,NUM,0
+what is the capital of canada,jul sun,NUM,0
+what is the capital of canada,jun chill,NUM,0
+what is the capital of canada,jun high c,NUM,0
+what is the capital of canada,jun humidity,NUM,0
+what is the capital of canada,jun low c,NUM,0
+what is the capital of canada,jun maximum humidex,NUM,0
+what is the capital of canada,jun mean c,NUM,0
+what is the capital of canada,jun percentsun,NUM,0
+what is the capital of canada,jun precipitation days,NUM,0
+what is the capital of canada,jun precipitation mm,NUM,0
+what is the capital of canada,jun rain days,NUM,0
+what is the capital of canada,jun rain mm,NUM,0
+what is the capital of canada,jun record high c,NUM,0
+what is the capital of canada,jun record low c,NUM,0
+what is the capital of canada,jun snow cm,NUM,0
+what is the capital of canada,jun snow days,NUM,0
+what is the capital of canada,jun sun,NUM,0
+what is the capital of canada,latd,NUM,0
+what is the capital of canada,latm,NUM,0
+what is the capital of canada,location,ottawa  canada,2
+what is the capital of canada,longd,NUM,0
+what is the capital of canada,longm,NUM,0
+what is the capital of canada,mar chill,NUM,0
+what is the capital of canada,mar high c,NUM,0
+what is the capital of canada,mar humidity,NUM,0
+what is the capital of canada,mar low c,NUM,0
+what is the capital of canada,mar maximum humidex,NUM,0
+what is the capital of canada,mar mean c,NUM,0
+what is the capital of canada,mar percentsun,NUM,0
+what is the capital of canada,mar precipitation days,NUM,0
+what is the capital of canada,mar precipitation mm,NUM,0
+what is the capital of canada,mar rain days,NUM,0
+what is the capital of canada,mar rain mm,NUM,0
+what is the capital of canada,mar record high c,NUM,0
+what is the capital of canada,mar record low c,NUM,0
+what is the capital of canada,mar snow cm,NUM,0
+what is the capital of canada,mar snow days,NUM,0
+what is the capital of canada,mar sun,NUM,0
+what is the capital of canada,may chill,NUM,0
+what is the capital of canada,may high c,NUM,0
+what is the capital of canada,may humidity,NUM,0
+what is the capital of canada,may low c,NUM,0
+what is the capital of canada,may maximum humidex,NUM,0
+what is the capital of canada,may mean c,NUM,0
+what is the capital of canada,may percentsun,NUM,0
+what is the capital of canada,may precipitation days,NUM,0
+what is the capital of canada,may precipitation mm,NUM,0
+what is the capital of canada,may rain days,NUM,0
+what is the capital of canada,may rain mm,NUM,0
+what is the capital of canada,may record high c,NUM,0
+what is the capital of canada,may record low c,NUM,0
+what is the capital of canada,may snow cm,NUM,0
+what is the capital of canada,may snow days,NUM,0
+what is the capital of canada,may sun,NUM,0
+what is the capital of canada,north,gatineau,0
+what is the capital of canada,north,pontiac  quebec,0
+what is the capital of canada,north,ottawa river,0
+what is the capital of canada,northeast,lochaber partie ouest  quebec,0
+what is the capital of canada,northeast,ottawa river,0
+what is the capital of canada,northwest,arnprior,0
+what is the capital of canada,nov chill,NUM,0
+what is the capital of canada,nov high c,NUM,0
+what is the capital of canada,nov humidity,NUM,0
+what is the capital of canada,nov low c,NUM,0
+what is the capital of canada,nov maximum humidex,NUM,0
+what is the capital of canada,nov mean c,NUM,0
+what is the capital of canada,nov percentsun,NUM,0
+what is the capital of canada,nov precipitation days,NUM,0
+what is the capital of canada,nov precipitation mm,NUM,0
+what is the capital of canada,nov rain days,NUM,0
+what is the capital of canada,nov rain mm,NUM,0
+what is the capital of canada,nov record high c,NUM,0
+what is the capital of canada,nov record low c,NUM,0
+what is the capital of canada,nov snow cm,NUM,0
+what is the capital of canada,nov snow days,NUM,0
+what is the capital of canada,nov sun,NUM,0
+what is the capital of canada,oct chill,NUM,0
+what is the capital of canada,oct high c,NUM,0
+what is the capital of canada,oct humidity,NUM,0
+what is the capital of canada,oct low c,NUM,0
+what is the capital of canada,oct maximum humidex,NUM,0
+what is the capital of canada,oct mean c,NUM,0
+what is the capital of canada,oct percentsun,NUM,0
+what is the capital of canada,oct precipitation days,NUM,0
+what is the capital of canada,oct precipitation mm,NUM,0
+what is the capital of canada,oct rain days,NUM,0
+what is the capital of canada,oct rain mm,NUM,0
+what is the capital of canada,oct record high c,NUM,0
+what is the capital of canada,oct record low c,NUM,0
+what is the capital of canada,oct snow cm,NUM,0
+what is the capital of canada,oct snow days,NUM,0
+what is the capital of canada,oct sun,NUM,0
+what is the capital of canada,official name,city of ottawa,2
+what is the capital of canada,official name,ville d ottawa,1
+what is the capital of canada,population as of,NUM,0
+what is the capital of canada,population blank,ottawan,0
+what is the capital of canada,population density km,NUM,0
+what is the capital of canada,population density metro km,NUM,0
+what is the capital of canada,population density urban km,NUM,0
+what is the capital of canada,postal code type,postal code span,0
+what is the capital of canada,precipitation colour,green,0
+what is the capital of canada,pushpin label,ottawa,2
+what is the capital of canada,pushpin map,canada,1
+what is the capital of canada,rain colour,green,0
+what is the capital of canada,sep chill,NUM,0
+what is the capital of canada,sep high c,NUM,0
+what is the capital of canada,sep humidity,NUM,0
+what is the capital of canada,sep low c,NUM,0
+what is the capital of canada,sep maximum humidex,NUM,0
+what is the capital of canada,sep mean c,NUM,0
+what is the capital of canada,sep percentsun,NUM,0
+what is the capital of canada,sep precipitation days,NUM,0
+what is the capital of canada,sep precipitation mm,NUM,0
+what is the capital of canada,sep rain days,NUM,0
+what is the capital of canada,sep rain mm,NUM,0
+what is the capital of canada,sep record high c,NUM,0
+what is the capital of canada,sep record low c,NUM,0
+what is the capital of canada,sep snow cm,NUM,0
+what is the capital of canada,sep snow days,NUM,0
+what is the capital of canada,sep sun,NUM,0
+what is the capital of canada,settlement type,city,0
+what is the capital of canada,snow colour,green,0
+what is the capital of canada,source,environment canada,0
+what is the capital of canada,south,north dundas  ontario,0
+what is the capital of canada,south,north grenville,0
+what is the capital of canada,southeast,russell  ontario,0
+what is the capital of canada,southeast,the nation  ontario,0
+what is the capital of canada,southwest,merrickville wolford,0
+what is the capital of canada,species,no,0
+what is the capital of canada,subdivision name,canada,2
+what is the capital of canada,subdivision name,national capital region  canada,0
+what is the capital of canada,subdivision name,ontario,0
+what is the capital of canada,subdivision type,list of regions of canada,0
+what is the capital of canada,subdivision type,provinces and territories of canada,0
+what is the capital of canada,subdivision type,country,0
+what is the capital of canada,timezone dst,eastern time zone,0
+what is the capital of canada,unit precipitation days,NUM,0
+what is the capital of canada,unit rain days,NUM,0
+what is the capital of canada,unit snow days,NUM,0
+what is the capital of canada,utc offset dst,NUM,0
+what is the capital of canada,voy,ottawa,2
+what is the capital of canada,website,http   www ottawa ca,2
+what is the capital of canada,west,beckwith  ontario,0
+what is the capital of canada,west,mississippi mills  ontario,0
+what is the capital of canada,west,montague  ontario,0
+what is the capital of canada,wikt,no,0
+what is the capital of canada,year chill,NUM,0
+what is the capital of canada,year high c,NUM,0
+what is the capital of canada,year humidity,NUM,0
+what is the capital of canada,year low c,NUM,0
+what is the capital of canada,year maximum humidex,NUM,0
+what is the capital of canada,year mean c,NUM,0
+what is the capital of canada,year percentsun,NUM,0
+what is the capital of canada,year precipitation days,NUM,0
+what is the capital of canada,year precipitation mm,NUM,0
+what is the capital of canada,year rain days,NUM,0
+what is the capital of canada,year rain mm,NUM,0
+what is the capital of canada,year record high c,NUM,0
+what is the capital of canada,year record low c,NUM,0
+what is the capital of canada,year snow cm,NUM,0
+what is the capital of canada,year snow days,NUM,0
+what is the capital of canada,year sun,NUM,0
+what is the capital of canada,foaf homepage,http   www ottawa ca,2
+what is the capital of canada,geo lat,NUM,0
+what is the capital of canada,geo long,NUM,0
+what is the capital of canada,georss point,NUM,0
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,isbn,NUM,0
+which books by kerouac were published by viking press,literary genre,beat generation,0
+which books by kerouac were published by viking press,literary genre,short story collection,0
+which books by kerouac were published by viking press,media type,hardcover,0
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,0
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,country,united states,0
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,0
+which books by kerouac were published by viking press,language,english,0
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,0
+which books by kerouac were published by viking press,release date,NUM,0
+which countries have places with more than two caves,area km,NUM,0
+which countries have places with more than two caves,area magnitude,NUM,0
+which countries have places with more than two caves,area sq mi,NUM,0
+which countries have places with more than two caves,capital,cardiff,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,city,aberdare,0
+which countries have places with more than two caves,city,barry  wales barry,0
+which countries have places with more than two caves,city,blackwood  wales blackwood,2
+which countries have places with more than two caves,city,bridgend,0
+which countries have places with more than two caves,city,caerphilly,0
+which countries have places with more than two caves,city,cardiff,1
+which countries have places with more than two caves,city,colwyn bay,0
+which countries have places with more than two caves,city,cwmbran,0
+which countries have places with more than two caves,city,llanelli,0
+which countries have places with more than two caves,city,maesteg,1
+which countries have places with more than two caves,city,merthyr tydfil,0
+which countries have places with more than two caves,city,neath,0
+which countries have places with more than two caves,city,newport  wales newport,0
+which countries have places with more than two caves,city,penarth,0
+which countries have places with more than two caves,city,pontypool,0
+which countries have places with more than two caves,city,pontypridd,0
+which countries have places with more than two caves,city,port talbot,0
+which countries have places with more than two caves,city,rhyl,0
+which countries have places with more than two caves,city,swansea,0
+which countries have places with more than two caves,city,wrexham,0
+which countries have places with more than two caves,class,info,0
+which countries have places with more than two caves,country,wales,2
+which countries have places with more than two caves,demonym,welsh,0
+which countries have places with more than two caves,div,bridgend county borough,0
+which countries have places with more than two caves,div,caerphilly county borough,0
+which countries have places with more than two caves,div,cardiff council city   county of cardiff,0
+which countries have places with more than two caves,div,carmarthenshire,0
+which countries have places with more than two caves,div,city and county of swansea council city   county of swansea,0
+which countries have places with more than two caves,div,conwy county borough,0
+which countries have places with more than two caves,div,denbighshire,0
+which countries have places with more than two caves,div,merthyr tydfil,0
+which countries have places with more than two caves,div,neath port talbot,0
+which countries have places with more than two caves,div,newport city council newport city,0
+which countries have places with more than two caves,div,rhondda cynon taf,0
+which countries have places with more than two caves,div,torfaen,0
+which countries have places with more than two caves,div,vale of glamorgan,0
+which countries have places with more than two caves,div,wrexham county borough,0
+which countries have places with more than two caves,div name,council area,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,established event,unification by,0
+which countries have places with more than two caves,first minister,carwyn jones,0
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,gdp ppp,ALPHANUM,0
+which countries have places with more than two caves,gdp ppp per capita,NUM,0
+which countries have places with more than two caves,gdp year,NUM,0
+which countries have places with more than two caves,government type,devolved parliamentary legislature within parliamentary constitutional monarchy,0
+which countries have places with more than two caves,languages,english language,0
+which countries have places with more than two caves,languages,welsh language,0
+which countries have places with more than two caves,languages type,languages of wales,0
+which countries have places with more than two caves,largest city,capital,0
+which countries have places with more than two caves,latd,NUM,0
+which countries have places with more than two caves,latm,NUM,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,list by pop,list of towns and cities in wales by population,0
+which countries have places with more than two caves,longd,NUM,0
+which countries have places with more than two caves,longm,NUM,0
+which countries have places with more than two caves,monarch,elizabeth ii,0
+which countries have places with more than two caves,patron saint,saint david,0
+which countries have places with more than two caves,politics link,politics of wales,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,population census,NUM,0
+which countries have places with more than two caves,population census year,NUM,0
+which countries have places with more than two caves,population density km,NUM,0
+which countries have places with more than two caves,population density sq mi,NUM,0
+which countries have places with more than two caves,prime minister,david cameron,1
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,0
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,stat ref,ALPHANUM,0
+which countries have places with more than two caves,status,countries of the united kingdom,0
+which countries have places with more than two caves,title,articles relating to wales,0
+which countries have places with more than two caves,foaf homepage,http   www visitwales com,1

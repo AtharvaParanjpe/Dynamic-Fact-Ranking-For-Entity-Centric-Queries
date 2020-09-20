@@ -1,0 +1,973 @@
+ashley wagner,person height,NUM,0
+ashley wagner,birth date,NUM,4
+ashley wagner,birth place,germany,4
+ashley wagner,birth place,heidelberg,4
+ashley wagner,birth year,NUM,3
+ashley wagner,choreographer,shae lynn bourne,1
+ashley wagner,coach,nadezda kanaeva,2
+ashley wagner,coach,rafael arutyunyan,1
+ashley wagner,country,united states,3
+ashley wagner,former choreographer,adam rippon,2
+ashley wagner,former choreographer,david wilson  figure skating,0
+ashley wagner,former choreographer,irina romanova  figure skater,1
+ashley wagner,former choreographer,jeffrey buttle,1
+ashley wagner,former choreographer,shawn sawyer,1
+ashley wagner,former coach,john nicks,1
+ashley wagner,former coach,priscilla hill,2
+ashley wagner,height,NUM,0
+ashley wagner,residence,aliso viejo  california,2
+ashley wagner,beganskating,NUM,1
+ashley wagner,combined date,NUM,0
+ashley wagner,combined total,NUM,0
+ashley wagner,currenttraininglocations,artesia  california,1
+ashley wagner,date of birth,NUM,4
+ashley wagner,formertraininglocations,aliso viejo  california,1
+ashley wagner,formertraininglocations,lake arrowhead  california,0
+ashley wagner,formertraininglocations,wilmington  delaware,2
+ashley wagner,fs date,NUM,0
+ashley wagner,fs score,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,1
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,place of birth,heidelberg  germany,3
+ashley wagner,short description,american figure skater,4
+ashley wagner,show medals,yes,0
+ashley wagner,skating club,sc of wilmington,2
+ashley wagner,sp date,NUM,0
+ashley wagner,sp score,NUM,0
+ashley wagner,worldranking,NUM,1
+ashley wagner,foaf homepage,http   www figureskatersonline com ashleywagner,2
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,after,ALPHANUM,1
+astronauts who landed on the moon,apsis,selene,0
+astronauts who landed on the moon,before,ALPHANUM,1
+astronauts who landed on the moon,crew callsign,csm  columbia,0
+astronauts who landed on the moon,crew callsign,lm  eagle,0
+astronauts who landed on the moon,crew callsign,on surface  tranquility base,0
+astronauts who landed on the moon,crew members,buzz aldrin,3
+astronauts who landed on the moon,crew members,michael collins  astronaut,4
+astronauts who landed on the moon,crew members,neil armstrong,4
+astronauts who landed on the moon,crew size,NUM,1
+astronauts who landed on the moon,direction,horizontal,0
+astronauts who landed on the moon,docking,NUM,0
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,interplanetary,NUM,0
+astronauts who landed on the moon,landing date,NUM,2
+astronauts who landed on the moon,landing site,north pacific ocean,1
+astronauts who landed on the moon,launch date,NUM,1
+astronauts who landed on the moon,launch rocket,ALPHANUM,1
+astronauts who landed on the moon,launch site,kennedy space center,1
+astronauts who landed on the moon,launch site,ALPHANUM,2
+astronauts who landed on the moon,manufacturer,csm  north american rockwell,2
+astronauts who landed on the moon,manufacturer,lm  grumman,2
+astronauts who landed on the moon,mission duration,NUM,0
+astronauts who landed on the moon,mission type,manned lunar landing,3
+astronauts who landed on the moon,next mission,ALPHANUM,2
+astronauts who landed on the moon,operator,nasa,2
+astronauts who landed on the moon,orbit epoch,NUM,0
+astronauts who landed on the moon,orbit inclination,NUM,0
+astronauts who landed on the moon,orbit period,NUM,0
+astronauts who landed on the moon,orbit reference,lunar orbit,1
+astronauts who landed on the moon,pos,left,0
+astronauts who landed on the moon,position,command module pilot,0
+astronauts who landed on the moon,position,commander,1
+astronauts who landed on the moon,position,lunar module pilot,1
+astronauts who landed on the moon,previous mission,ALPHANUM,1
+astronauts who landed on the moon,programme,apollo program,1
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,spacecraft,ALPHANUM,2
+astronauts who landed on the moon,spacecraft,ALPHANUM,2
+astronauts who landed on the moon,terminology,astronaut,1
+astronauts who landed on the moon,title,ALPHANUM,2
+astronauts who landed on the moon,title,ALPHANUM,2
+astronauts who landed on the moon,title,ALPHANUM,1
+astronauts who landed on the moon,title,ALPHANUM,1
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,foaf homepage,http   buzzaldrin com the man space missions,2
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,1
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,capital,baguio,3
+baguio quezon city manila official independence 1945,capital,manila,3
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,1
+baguio quezon city manila official independence 1945,dissolution date,NUM,3
+baguio quezon city manila official independence 1945,dissolution year,NUM,3
+baguio quezon city manila official independence 1945,founding date,NUM,3
+baguio quezon city manila official independence 1945,founding year,NUM,4
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,2
+baguio quezon city manila official independence 1945,common languages,tagalog language,1
+baguio quezon city manila official independence 1945,continent,moved from category asia to southeast asia,0
+baguio quezon city manila official independence 1945,country,philippines,3
+baguio quezon city manila official independence 1945,date end,NUM,0
+baguio quezon city manila official independence 1945,date start,NUM,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,1
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,era,world war ii,1
+baguio quezon city manila official independence 1945,leader,jos  p  laurel,2
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,national anthem,awit sa paglikha ng bagong pilipinas,2
+baguio quezon city manila official independence 1945,national anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,native name,rep blik  ng pilipinas  tagalog,1
+baguio quezon city manila official independence 1945,region,southeast asia,1
+baguio quezon city manila official independence 1945,stat area,NUM,0
+baguio quezon city manila official independence 1945,stat pop,NUM,2
+baguio quezon city manila official independence 1945,stat year,NUM,1
+baguio quezon city manila official independence 1945,status,client state,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,2
+baguio quezon city manila official independence 1945,title deputy,speaker of the,0
+baguio quezon city manila official independence 1945,title leader,president of the philippines,2
+baguio quezon city manila official independence 1945,year end,NUM,3
+baguio quezon city manila official independence 1945,year start,NUM,2
+earl may,blazon,the coat of arms of the earls of carnarvon,0
+earl may,creation date,NUM,2
+earl may,family seat,highclere castle,1
+earl may,first holder,ALPHANUM,2
+earl may,heir apparent,george kenneth oliver molyneux herbert,0
+earl may,monarch,george iii of the united kingdom,1
+earl may,peerage,peerage of great britain,0
+earl may,present holder,ALPHANUM,2
+earl may,subsidiary titles,lord porchester,0
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,1
+give me all current methodist national leaders,alma mater,madison business college,1
+give me all current methodist national leaders,alma mater,university of colorado boulder,1
+give me all current methodist national leaders,birth date,NUM,2
+give me all current methodist national leaders,birth place,liberia,3
+give me all current methodist national leaders,birth place,monrovia,2
+give me all current methodist national leaders,birth year,NUM,3
+give me all current methodist national leaders,office,ALPHANUM,3
+give me all current methodist national leaders,party,unity party  liberia,2
+give me all current methodist national leaders,predecessor,gyude bryant,1
+give me all current methodist national leaders,religion,methodism,2
+give me all current methodist national leaders,term period,ALPHANUM,1
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,children,NUM,1
+give me all current methodist national leaders,date of birth,NUM,3
+give me all current methodist national leaders,minister,amara mohamed konneh,1
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,1
+give me all current methodist national leaders,minister,george wallace  diplomat,1
+give me all current methodist national leaders,minister,joseph boakai,1
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,1
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,alphonso gaye,1
+give me all current methodist national leaders,minister,ambullai johnson,0
+give me all current methodist national leaders,minister,antoinette weeks,2
+give me all current methodist national leaders,minister,augustine ngafuan,0
+give me all current methodist national leaders,minister,axel addy,0
+give me all current methodist national leaders,minister,benedict f  sannoh,0
+give me all current methodist national leaders,minister,blamo nelson,0
+give me all current methodist national leaders,minister,christiana tah,1
+give me all current methodist national leaders,minister,christopher toe,2
+give me all current methodist national leaders,minister,e  othello gongar,2
+give me all current methodist national leaders,minister,edward b  mc clain  jr,1
+give me all current methodist national leaders,minister,ellen johnson sirleaf,2
+give me all current methodist national leaders,minister,etmonia david tarpeh,0
+give me all current methodist national leaders,minister,etmonia tarpeh,1
+give me all current methodist national leaders,minister,eugene shannon,1
+give me all current methodist national leaders,minister,florence chenoweth,1
+give me all current methodist national leaders,minister,frances johnson morris,0
+give me all current methodist national leaders,minister,frederick b  norkeh,1
+give me all current methodist national leaders,minister,gyude moore,0
+give me all current methodist national leaders,minister,harrison kahnweah,2
+give me all current methodist national leaders,minister,jackson e  doe,0
+give me all current methodist national leaders,minister,jamesetta howard wolokollie,0
+give me all current methodist national leaders,minister,jeremiah sulunteh,0
+give me all current methodist national leaders,minister,johnny mc clain,0
+give me all current methodist national leaders,minister,juah lawson,0
+give me all current methodist national leaders,minister,julia duncan cassell,1
+give me all current methodist national leaders,minister,lawrence bropleh,0
+give me all current methodist national leaders,minister,lenn eugene nagbe,2
+give me all current methodist national leaders,minister,lewis brown,0
+give me all current methodist national leaders,minister,luseni donzo,1
+give me all current methodist national leaders,minister,miatta beysolow,0
+give me all current methodist national leaders,minister,morris dukuly,2
+give me all current methodist national leaders,minister,neto z  lighe,0
+give me all current methodist national leaders,minister,patrick sendolo,1
+give me all current methodist national leaders,minister,philip a  z  banks,1
+give me all current methodist national leaders,minister,roosevelt jayjay,1
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,tiawon gongloe,1
+give me all current methodist national leaders,minister,toga mc intosh,1
+give me all current methodist national leaders,minister,tornorlah vapilah,0
+give me all current methodist national leaders,minister,vabah gayflor,1
+give me all current methodist national leaders,minister,walter gwenigale,1
+give me all current methodist national leaders,minister,willard russell,1
+give me all current methodist national leaders,minister,willis knuckles,0
+give me all current methodist national leaders,place of birth,monrovia  liberia,2
+give me all current methodist national leaders,short description,president of liberia,4
+give me all current methodist national leaders,spouse,james sirleaf,1
+give me all current methodist national leaders,term start,NUM,2
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,4
+give me all current methodist national leaders,title,vice president of liberia,3
+give me all current methodist national leaders,title,culture and tourism,0
+give me all current methodist national leaders,title,economic affairs,0
+give me all current methodist national leaders,title,minister of agriculture,0
+give me all current methodist national leaders,title,minister of commerce,2
+give me all current methodist national leaders,title,minister of education,1
+give me all current methodist national leaders,title,minister of finance,0
+give me all current methodist national leaders,title,minister of foreign affairs,0
+give me all current methodist national leaders,title,minister of gender  children,0
+give me all current methodist national leaders,title,minister of health and,0
+give me all current methodist national leaders,title,minister of information,1
+give me all current methodist national leaders,title,minister of internal affairs,0
+give me all current methodist national leaders,title,minister of justice,1
+give me all current methodist national leaders,title,minister of labor,1
+give me all current methodist national leaders,title,minister of lands  mines,1
+give me all current methodist national leaders,title,minister of national defense,2
+give me all current methodist national leaders,title,minister of planning and,0
+give me all current methodist national leaders,title,minister of posts and,0
+give me all current methodist national leaders,title,minister of public works,1
+give me all current methodist national leaders,title,minister of state for,1
+give me all current methodist national leaders,title,minister of transport,2
+give me all current methodist national leaders,title,minister of youth and,0
+give me all current methodist national leaders,title,presidential affairs,1
+give me all current methodist national leaders,title,social welfare,0
+give me all current methodist national leaders,title,sports,0
+give me all current methodist national leaders,title,telecommunications,0
+give me all current methodist national leaders,title,the sirleaf cabinet,0
+give me all current methodist national leaders,title,and attorney general,0
+give me all current methodist national leaders,title,and energy,0
+give me all current methodist national leaders,title,and industry,0
+give me all current methodist national leaders,title,and social protection,0
+give me all current methodist national leaders,with,leymah gbowee,1
+give me all current methodist national leaders,with,tawakkol karman,0
+give me all current methodist national leaders,years,NUM,1
+give me all current methodist national leaders,years,NUM,0
+give me all current methodist national leaders,foaf homepage,http   www emansion gov lr,1
+james clayton md,alma mater,university of delaware,1
+james clayton md,birth date,NUM,2
+james clayton md,birth place,cecil county  maryland,4
+james clayton md,birth place,maryland,2
+james clayton md,birth year,NUM,2
+james clayton md,death date,NUM,3
+james clayton md,death place,delaware,2
+james clayton md,death place,new castle  delaware,2
+james clayton md,death year,NUM,4
+james clayton md,office,chief justice of delaware,1
+james clayton md,office,united states senator,1
+james clayton md,office,from delaware,0
+james clayton md,party,federalist party,1
+james clayton md,party,whig party  united states,1
+james clayton md,predecessor,caesar augustus rodney,1
+james clayton md,predecessor,henry m  ridgely,0
+james clayton md,predecessor,john m  clayton,1
+james clayton md,region,delaware s at large congressional district,1
+james clayton md,region,delaware,1
+james clayton md,religion,presbyterian church in the united states of america,1
+james clayton md,residence,delaware,1
+james clayton md,residence,dover  delaware,1
+james clayton md,successor,john m  clayton,0
+james clayton md,successor,louis mc lane,1
+james clayton md,successor,presley spruance,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,after,louis mc lane,0
+james clayton md,after,presley spruance,0
+james clayton md,before,caesar augustus rodney,0
+james clayton md,before,henry m  ridgely,0
+james clayton md,before,john m  clayton,1
+james clayton md,date of birth,NUM,4
+james clayton md,date of death,NUM,2
+james clayton md,district,delaware s at large congressional district,0
+james clayton md,district,al,0
+james clayton md,place of birth,cecil county  maryland,4
+james clayton md,place of birth,maryland,2
+james clayton md,place of death,delaware,3
+james clayton md,place of death,new castle  delaware,2
+james clayton md,profession,lawyer,2
+james clayton md,short description,american politician,1
+james clayton md,spouse,jennette macomb,2
+james clayton md,state,delaware,1
+james clayton md,state,delaware,2
+james clayton md,term end,NUM,1
+james clayton md,term end,NUM,1
+james clayton md,term end,NUM,1
+james clayton md,term end,NUM,2
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,2
+james clayton md,years,NUM,0
+james clayton md,years,NUM,0
+james clayton md,years,NUM,0
+music conferences,genre,electronic music,1
+music conferences,location,worldwide,0
+music conferences,website,http   www computermusic org,2
+music conferences,years active,NUM,1
+music conferences,foaf homepage,http   www computermusic org,3
+nelson mandela john dube,alias,mandela  rolihlahla,0
+nelson mandela john dube,birth date,NUM,4
+nelson mandela john dube,birth place,cape province,3
+nelson mandela john dube,birth place,mvezo,2
+nelson mandela john dube,birth place,union of south africa,4
+nelson mandela john dube,birth year,NUM,4
+nelson mandela john dube,death date,NUM,4
+nelson mandela john dube,death place,gauteng,4
+nelson mandela john dube,death place,johannesburg,4
+nelson mandela john dube,death place,south africa,2
+nelson mandela john dube,death year,NUM,4
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,office,ALPHANUM,3
+nelson mandela john dube,other party,south african communist party,1
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,1
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,2
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,3
+nelson mandela john dube,spouse,gra a machel,2
+nelson mandela john dube,spouse,winnie madikizela mandela,2
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,blank,awards,0
+nelson mandela john dube,blank,known for,0
+nelson mandela john dube,blank,notable work,0
+nelson mandela john dube,commons,nelson mandela,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,data,long walk to freedom,0
+nelson mandela john dube,date of birth,NUM,4
+nelson mandela john dube,date of death,NUM,4
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,1
+nelson mandela john dube,honorific suffix,order of the elephant,1
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,nationality,south african,4
+nelson mandela john dube,place of birth,cape province,3
+nelson mandela john dube,place of birth,mvezo,3
+nelson mandela john dube,place of birth,union of south africa,4
+nelson mandela john dube,place of death,johannesburg  south africa,4
+nelson mandela john dube,quote,that south africa belongs to all who live in it  black and white  and that no government can justly claim authority unless it is based on the will of the people,1
+nelson mandela john dube,short description,south african politician and anti apartheid fighter  president of south africa,4
+nelson mandela john dube,source,ALPHANUM,1
+nelson mandela john dube,source,opening words of the freedom charter,0
+nelson mandela john dube,source,ALPHANUM,0
+nelson mandela john dube,species,no,0
+nelson mandela john dube,term end,NUM,2
+nelson mandela john dube,term start,NUM,1
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,1
+nelson mandela john dube,title,president of south africa,4
+nelson mandela john dube,width,NUM,0
+nelson mandela john dube,wikt,no,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,foaf nick,dalibunga,0
+nelson mandela john dube,foaf nick,madiba,1
+nelson mandela john dube,foaf nick,tata,0
+plymouth police department,agencyname,devon and cornwall police,2
+plymouth police department,airbases,NUM,0
+plymouth police department,aircraft,NUM,0
+plymouth police department,budget,ALPHANUM,1
+plymouth police department,constitution,ALPHANUM,1
+plymouth police department,country,united kingdom,3
+plymouth police department,countryabbr,uk,0
+plymouth police department,divname,england,0
+plymouth police department,divtype,country,0
+plymouth police department,electeetype,police and crime commissioner,1
+plymouth police department,employees,NUM,0
+plymouth police department,formedmonthday,NUM,0
+plymouth police department,formedyear,NUM,2
+plymouth police department,headquarters,middlemoor  exeter,2
+plymouth police department,legaljuris,england and wales,0
+plymouth police department,local,yes,0
+plymouth police department,mission,building safer communities together,0
+plymouth police department,motto,in auxilium omnium,1
+plymouth police department,mottotranslated,to the assistance of everybody,0
+plymouth police department,overviewbody,her majesty s inspectorate of constabulary,0
+plymouth police department,overviewbody,independent police complaints commission,0
+plymouth police department,police,yes,0
+plymouth police department,preceding,cornwall county constabulary,0
+plymouth police department,preceding,devon county constabulary,2
+plymouth police department,preceding,plymouth city police,2
+plymouth police department,sizearea,NUM,0
+plymouth police department,sizepopulation,NUM,0
+plymouth police department,stations,NUM,0
+plymouth police department,stationtype,police station,0
+plymouth police department,subdivname,devon and cornwall,0
+plymouth police department,subdivtype,police area,0
+plymouth police department,sworn,NUM,0
+plymouth police department,sworntype,constable,0
+plymouth police department,unitname,NUM,0
+plymouth police department,unittype,basic command unit,1
+plymouth police department,unsworn,NUM,0
+plymouth police department,unsworntype,police community support officer,0
+plymouth police department,volunteers,NUM,2
+plymouth police department,website,http   www devon cornwall police uk,3
+plymouth police department,foaf homepage,http   www devon cornwall police uk,4
+provinces and territories of canada,admittancedate,NUM,0
+provinces and territories of canada,admittanceorder,NUM,0
+provinces and territories of canada,arearank,NUM,0
+provinces and territories of canada,bird,gyrfalcon,0
+provinces and territories of canada,capital,yellowknife,3
+provinces and territories of canada,demonym,northwest territorian,2
+provinces and territories of canada,density km,NUM,0
+provinces and territories of canada,densityrank,NUM,0
+provinces and territories of canada,entityadjective,territorial,0
+provinces and territories of canada,flower,dryas octopetala,0
+provinces and territories of canada,gdp per capita,ALPHANUM,0
+provinces and territories of canada,gdp per capita rank,NUM,0
+provinces and territories of canada,gdp rank,NUM,0
+provinces and territories of canada,gdp total,ALPHANUM,0
+provinces and territories of canada,gdp year,NUM,0
+provinces and territories of canada,houseseats,NUM,0
+provinces and territories of canada,isocode,ca nt,0
+provinces and territories of canada,label map,no,0
+provinces and territories of canada,landarea km,NUM,0
+provinces and territories of canada,largestcity,yellowknife,1
+provinces and territories of canada,largestmetro,yellowknife,0
+provinces and territories of canada,legislature,legislative assembly of the northwest territories,1
+provinces and territories of canada,officiallang,chipewyan language,1
+provinces and territories of canada,officiallang,cree language,1
+provinces and territories of canada,officiallang,dogrib language,1
+provinces and territories of canada,officiallang,english language,2
+provinces and territories of canada,officiallang,french language,2
+provinces and territories of canada,officiallang,gwich in language,1
+provinces and territories of canada,officiallang,inuinnaqtun,1
+provinces and territories of canada,officiallang,inuktitut,1
+provinces and territories of canada,officiallang,inuvialuktun,2
+provinces and territories of canada,officiallang,slavey language,1
+provinces and territories of canada,percentwater,NUM,0
+provinces and territories of canada,population,NUM,0
+provinces and territories of canada,populationrank,NUM,0
+provinces and territories of canada,populationyear,NUM,0
+provinces and territories of canada,postalabbreviation,nt,1
+provinces and territories of canada,postalcodeprefix,list of x postal codes of canada,0
+provinces and territories of canada,premier,bob mc leod  politician,2
+provinces and territories of canada,premierparty,consensus government in canada,0
+provinces and territories of canada,senateseats,NUM,0
+provinces and territories of canada,timezone,ALPHANUM,0
+provinces and territories of canada,totalarea km,NUM,0
+provinces and territories of canada,tree,larix laricina,0
+provinces and territories of canada,viceroy,george tuccaro,0
+provinces and territories of canada,viceroytype,commissioner,0
+provinces and territories of canada,waterarea km,NUM,0
+provinces and territories of canada,website,www gov nt ca,2
+provinces and territories of canada,foaf homepage,http   www gov nt ca,1
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,2
+radio italia online,broadcast area,fm broadcasting,2
+radio italia online,broadcast area,internet radio,1
+radio italia online,broadcast area,italy,2
+radio italia online,broadcast area,monaco,2
+radio italia online,broadcast area,san marino,3
+radio italia online,owner,rcs media group,3
+radio italia online,programme format,rock music,3
+radio italia online,sister station,ALPHANUM,2
+radio italia online,sister station,radio monte carlo,0
+radio italia online,slogan,style rock,0
+radio italia online,slogan,the music we all love,1
+radio italia online,webcast,ALPHANUM,3
+radio italia online,airdate,NUM,2
+radio italia online,area,fm frequencies in italy and monaco  dab  dab   dvb s on hotbird and worldwide with live audio streaming,1
+radio italia online,format,rock music,1
+radio italia online,frequency,fm several frequencies  change from geographical side to side,0
+radio italia online,frequency,ALPHANUM,0
+radio italia online,sister stations,ALPHANUM,1
+radio italia online,sister stations,radio monte carlo,2
+radio italia online,website,http   www virginradioitaly it,3
+radio italia online,foaf homepage,http   www virginradioitaly it,1
+star trek captains,affiliation,starfleet,1
+star trek captains,affiliation,united federation of planets,1
+star trek captains,born,NUM,3
+star trek captains,planet,earth,0
+star trek captains,portrayer,chris pine,3
+star trek captains,portrayer,jimmy bennett,1
+star trek captains,portrayer,sandra smith,3
+star trek captains,portrayer,william shatner,3
+star trek captains,posting,ALPHANUM,2
+star trek captains,posting,chief of starfleet operations,2
+star trek captains,posting,commanding officer,1
+star trek captains,posting,executive officer,1
+star trek captains,rank,admiral,3
+star trek captains,rank,captain,3
+star trek captains,rank,commander,1
+star trek captains,species,human,0
+star trek captains,title,james tiberius kirk,4
+universities in catalunya,affiliation,xarxa vives d universitats,1
+universities in catalunya,city,barcelona,2
+universities in catalunya,country,spain,3
+universities in catalunya,endowment,ALPHANUM,0
+universities in catalunya,state,catalonia,3
+universities in catalunya,academic staff,NUM,0
+universities in catalunya,administrative staff,NUM,1
+universities in catalunya,affiliations,xarxa vives d universitats,2
+universities in catalunya,established,NUM,3
+universities in catalunya,financing,public,1
+universities in catalunya,rector,enric fossas colet,1
+universities in catalunya,traduction,polytechnic university of catalonia,2
+universities in catalunya,foaf homepage,http   www upc edu,2
+which books by kerouac were published by viking press,author,jack kerouac,4
+which books by kerouac were published by viking press,isbn,NUM,1
+which books by kerouac were published by viking press,literary genre,beat generation,1
+which books by kerouac were published by viking press,literary genre,short story collection,1
+which books by kerouac were published by viking press,media type,hardcover,1
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,1
+which books by kerouac were published by viking press,publisher,viking press,4
+which books by kerouac were published by viking press,subsequent work,good blonde   others,2
+which books by kerouac were published by viking press,country,united states,2
+which books by kerouac were published by viking press,followed by,good blonde   others,2
+which books by kerouac were published by viking press,genre,beat generation,2
+which books by kerouac were published by viking press,genre,short story collection,1
+which books by kerouac were published by viking press,language,english,1
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,1
+which books by kerouac were published by viking press,release date,NUM,2
+which cities does the weser flow through,populated place area total,NUM,0
+which cities does the weser flow through,area code,NUM,0
+which cities does the weser flow through,area code,ALPHANUM,0
+which cities does the weser flow through,area total,NUM,0
+which cities does the weser flow through,country,germany,3
+which cities does the weser flow through,elevation,NUM,0
+which cities does the weser flow through,federal state,bremen,3
+which cities does the weser flow through,founding year,NUM,2
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,leader title,oberb rgermeister,0
+which cities does the weser flow through,population as of,NUM,0
+which cities does the weser flow through,population total,NUM,2
+which cities does the weser flow through,postal code,NUM,1
+which cities does the weser flow through,adresse,NUM,0
+which cities does the weser flow through,adresse,hinrich schmalfeldt stra e,0
+which cities does the weser flow through,adresse,stadthaus,0
+which cities does the weser flow through,apr high c,NUM,0
+which cities does the weser flow through,apr high c,NUM,0
+which cities does the weser flow through,apr low c,NUM,0
+which cities does the weser flow through,apr low c,NUM,0
+which cities does the weser flow through,apr mean c,NUM,0
+which cities does the weser flow through,apr mean c,NUM,0
+which cities does the weser flow through,apr precipitation mm,NUM,0
+which cities does the weser flow through,apr precipitation mm,NUM,0
+which cities does the weser flow through,apr record high c,NUM,0
+which cities does the weser flow through,apr record low c,NUM,0
+which cities does the weser flow through,apr sun,NUM,0
+which cities does the weser flow through,apr sun,NUM,0
+which cities does the weser flow through,area,NUM,0
+which cities does the weser flow through,aug high c,NUM,0
+which cities does the weser flow through,aug high c,NUM,0
+which cities does the weser flow through,aug low c,NUM,0
+which cities does the weser flow through,aug low c,NUM,0
+which cities does the weser flow through,aug mean c,NUM,0
+which cities does the weser flow through,aug mean c,NUM,0
+which cities does the weser flow through,aug precipitation mm,NUM,0
+which cities does the weser flow through,aug precipitation mm,NUM,0
+which cities does the weser flow through,aug record high c,NUM,0
+which cities does the weser flow through,aug record low c,NUM,0
+which cities does the weser flow through,aug sun,NUM,0
+which cities does the weser flow through,aug sun,NUM,0
+which cities does the weser flow through,b rgermeistertitel,oberb rgermeister,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,date,ALPHANUM,0
+which cities does the weser flow through,dec high c,NUM,0
+which cities does the weser flow through,dec high c,NUM,0
+which cities does the weser flow through,dec low c,NUM,0
+which cities does the weser flow through,dec low c,NUM,0
+which cities does the weser flow through,dec mean c,NUM,0
+which cities does the weser flow through,dec mean c,NUM,0
+which cities does the weser flow through,dec precipitation mm,NUM,0
+which cities does the weser flow through,dec precipitation mm,NUM,0
+which cities does the weser flow through,dec record high c,NUM,0
+which cities does the weser flow through,dec record low c,NUM,0
+which cities does the weser flow through,dec sun,NUM,0
+which cities does the weser flow through,dec sun,NUM,0
+which cities does the weser flow through,district,kreisfreie stadt,0
+which cities does the weser flow through,divisions,NUM,0
+which cities does the weser flow through,feb high c,NUM,0
+which cities does the weser flow through,feb high c,NUM,0
+which cities does the weser flow through,feb low c,NUM,0
+which cities does the weser flow through,feb low c,NUM,0
+which cities does the weser flow through,feb mean c,NUM,0
+which cities does the weser flow through,feb mean c,NUM,0
+which cities does the weser flow through,feb precipitation mm,NUM,0
+which cities does the weser flow through,feb precipitation mm,NUM,0
+which cities does the weser flow through,feb record high c,NUM,0
+which cities does the weser flow through,feb record low c,NUM,0
+which cities does the weser flow through,feb sun,NUM,0
+which cities does the weser flow through,feb sun,NUM,0
+which cities does the weser flow through,gemeindeschl ssel,NUM,0
+which cities does the weser flow through,jan high c,NUM,0
+which cities does the weser flow through,jan high c,NUM,0
+which cities does the weser flow through,jan low c,NUM,0
+which cities does the weser flow through,jan low c,NUM,0
+which cities does the weser flow through,jan mean c,NUM,0
+which cities does the weser flow through,jan mean c,NUM,0
+which cities does the weser flow through,jan precipitation mm,NUM,0
+which cities does the weser flow through,jan precipitation mm,NUM,0
+which cities does the weser flow through,jan record high c,NUM,0
+which cities does the weser flow through,jan record low c,NUM,0
+which cities does the weser flow through,jan sun,NUM,0
+which cities does the weser flow through,jan sun,NUM,0
+which cities does the weser flow through,jul high c,NUM,0
+which cities does the weser flow through,jul high c,NUM,0
+which cities does the weser flow through,jul low c,NUM,0
+which cities does the weser flow through,jul low c,NUM,0
+which cities does the weser flow through,jul mean c,NUM,0
+which cities does the weser flow through,jul mean c,NUM,0
+which cities does the weser flow through,jul precipitation mm,NUM,0
+which cities does the weser flow through,jul precipitation mm,NUM,0
+which cities does the weser flow through,jul record high c,NUM,0
+which cities does the weser flow through,jul record low c,NUM,0
+which cities does the weser flow through,jul sun,NUM,0
+which cities does the weser flow through,jul sun,NUM,0
+which cities does the weser flow through,jun high c,NUM,0
+which cities does the weser flow through,jun high c,NUM,0
+which cities does the weser flow through,jun low c,NUM,0
+which cities does the weser flow through,jun low c,NUM,0
+which cities does the weser flow through,jun mean c,NUM,0
+which cities does the weser flow through,jun mean c,NUM,0
+which cities does the weser flow through,jun precipitation mm,NUM,0
+which cities does the weser flow through,jun precipitation mm,NUM,0
+which cities does the weser flow through,jun record high c,NUM,0
+which cities does the weser flow through,jun record low c,NUM,0
+which cities does the weser flow through,jun sun,NUM,0
+which cities does the weser flow through,jun sun,NUM,0
+which cities does the weser flow through,lat deg,NUM,0
+which cities does the weser flow through,lat min,NUM,0
+which cities does the weser flow through,lat sec,NUM,0
+which cities does the weser flow through,licence,hb,0
+which cities does the weser flow through,location,bremerhaven,2
+which cities does the weser flow through,locode,de brv,0
+which cities does the weser flow through,lon deg,NUM,0
+which cities does the weser flow through,lon min,NUM,0
+which cities does the weser flow through,lon sec,NUM,0
+which cities does the weser flow through,mar high c,NUM,0
+which cities does the weser flow through,mar high c,NUM,0
+which cities does the weser flow through,mar low c,NUM,0
+which cities does the weser flow through,mar low c,NUM,0
+which cities does the weser flow through,mar mean c,NUM,0
+which cities does the weser flow through,mar mean c,NUM,0
+which cities does the weser flow through,mar precipitation mm,NUM,0
+which cities does the weser flow through,mar precipitation mm,NUM,0
+which cities does the weser flow through,mar record high c,NUM,0
+which cities does the weser flow through,mar record low c,NUM,0
+which cities does the weser flow through,mar sun,NUM,0
+which cities does the weser flow through,mar sun,NUM,0
+which cities does the weser flow through,may high c,NUM,0
+which cities does the weser flow through,may high c,NUM,0
+which cities does the weser flow through,may low c,NUM,0
+which cities does the weser flow through,may low c,NUM,0
+which cities does the weser flow through,may mean c,NUM,0
+which cities does the weser flow through,may mean c,NUM,0
+which cities does the weser flow through,may precipitation mm,NUM,0
+which cities does the weser flow through,may precipitation mm,NUM,0
+which cities does the weser flow through,may record high c,NUM,0
+which cities does the weser flow through,may record low c,NUM,0
+which cities does the weser flow through,may sun,NUM,0
+which cities does the weser flow through,may sun,NUM,0
+which cities does the weser flow through,mayor,melf grantz,1
+which cities does the weser flow through,metric first,yes,0
+which cities does the weser flow through,nov high c,NUM,0
+which cities does the weser flow through,nov high c,NUM,0
+which cities does the weser flow through,nov low c,NUM,0
+which cities does the weser flow through,nov low c,NUM,0
+which cities does the weser flow through,nov mean c,NUM,0
+which cities does the weser flow through,nov mean c,NUM,0
+which cities does the weser flow through,nov precipitation mm,NUM,0
+which cities does the weser flow through,nov precipitation mm,NUM,0
+which cities does the weser flow through,nov record high c,NUM,0
+which cities does the weser flow through,nov record low c,NUM,0
+which cities does the weser flow through,nov sun,NUM,0
+which cities does the weser flow through,nov sun,NUM,0
+which cities does the weser flow through,nuts,ALPHANUM,0
+which cities does the weser flow through,oct high c,NUM,0
+which cities does the weser flow through,oct high c,NUM,0
+which cities does the weser flow through,oct low c,NUM,0
+which cities does the weser flow through,oct low c,NUM,0
+which cities does the weser flow through,oct mean c,NUM,0
+which cities does the weser flow through,oct mean c,NUM,0
+which cities does the weser flow through,oct precipitation mm,NUM,0
+which cities does the weser flow through,oct precipitation mm,NUM,0
+which cities does the weser flow through,oct record high c,NUM,0
+which cities does the weser flow through,oct record low c,NUM,0
+which cities does the weser flow through,oct sun,NUM,0
+which cities does the weser flow through,oct sun,NUM,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,population,NUM,0
+which cities does the weser flow through,sep high c,NUM,0
+which cities does the weser flow through,sep high c,NUM,0
+which cities does the weser flow through,sep low c,NUM,0
+which cities does the weser flow through,sep low c,NUM,0
+which cities does the weser flow through,sep mean c,NUM,0
+which cities does the weser flow through,sep mean c,NUM,0
+which cities does the weser flow through,sep precipitation mm,NUM,0
+which cities does the weser flow through,sep precipitation mm,NUM,0
+which cities does the weser flow through,sep record high c,NUM,0
+which cities does the weser flow through,sep record low c,NUM,0
+which cities does the weser flow through,sep sun,NUM,0
+which cities does the weser flow through,sep sun,NUM,0
+which cities does the weser flow through,single line,yes,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which cities does the weser flow through,stand,NUM,0
+which cities does the weser flow through,state,bremen,3
+which cities does the weser flow through,website,http   www bremerhaven de,2
+which cities does the weser flow through,year,NUM,2
+which cities does the weser flow through,year high c,NUM,0
+which cities does the weser flow through,year high c,NUM,0
+which cities does the weser flow through,year low c,NUM,0
+which cities does the weser flow through,year low c,NUM,0
+which cities does the weser flow through,year mean c,NUM,0
+which cities does the weser flow through,year mean c,NUM,0
+which cities does the weser flow through,year record high c,NUM,0
+which cities does the weser flow through,year record low c,NUM,0
+which cities does the weser flow through,year sun,NUM,0
+which cities does the weser flow through,foaf homepage,http   www bremerhaven de,2
+which cities does the weser flow through,geo lat,NUM,0
+which cities does the weser flow through,geo long,NUM,0
+which cities does the weser flow through,georss point,NUM,0
+which european countries have a constitutional monarchy,populated place area total,NUM,0
+which european countries have a constitutional monarchy,populated place area total,NUM,0
+which european countries have a constitutional monarchy,populated place population density,NUM,0
+which european countries have a constitutional monarchy,populated place population density,NUM,0
+which european countries have a constitutional monarchy,anthem,honors music,0
+which european countries have a constitutional monarchy,anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,anthem,kongesangen,1
+which european countries have a constitutional monarchy,area total,ALPHANUM,0
+which european countries have a constitutional monarchy,area total,ALPHANUM,0
+which european countries have a constitutional monarchy,capital,oslo,3
+which european countries have a constitutional monarchy,currency,norwegian krone,3
+which european countries have a constitutional monarchy,demonym,norwegian,1
+which european countries have a constitutional monarchy,ethnic group,forest finns,0
+which european countries have a constitutional monarchy,ethnic group,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic group,jews,0
+which european countries have a constitutional monarchy,ethnic group,kven people,0
+which european countries have a constitutional monarchy,ethnic group,norwegians,1
+which european countries have a constitutional monarchy,ethnic group,romani people,0
+which european countries have a constitutional monarchy,ethnic group,sami people,1
+which european countries have a constitutional monarchy,government type,unitary state,1
+which european countries have a constitutional monarchy,language,kven language,1
+which european countries have a constitutional monarchy,language,latin alphabet,1
+which european countries have a constitutional monarchy,language,lule sami language,1
+which european countries have a constitutional monarchy,language,northern sami,1
+which european countries have a constitutional monarchy,language,norwegian language,2
+which european countries have a constitutional monarchy,language,romani language,2
+which european countries have a constitutional monarchy,language,scandoromani language,2
+which european countries have a constitutional monarchy,language,southern sami language,1
+which european countries have a constitutional monarchy,leader,erna solberg,3
+which european countries have a constitutional monarchy,leader,harald v of norway,3
+which european countries have a constitutional monarchy,leader,olemic thommessen,1
+which european countries have a constitutional monarchy,leader,tore schei,2
+which european countries have a constitutional monarchy,leader title,chief justice,0
+which european countries have a constitutional monarchy,leader title,monarch,0
+which european countries have a constitutional monarchy,leader title,president of the storting,2
+which european countries have a constitutional monarchy,leader title,prime minister,0
+which european countries have a constitutional monarchy,official language,lule sami language,2
+which european countries have a constitutional monarchy,official language,northern sami,2
+which european countries have a constitutional monarchy,official language,norwegian language,2
+which european countries have a constitutional monarchy,official language,southern sami language,2
+which european countries have a constitutional monarchy,percentage of area water,NUM,0
+which european countries have a constitutional monarchy,population density,NUM,0
+which european countries have a constitutional monarchy,population density,NUM,0
+which european countries have a constitutional monarchy,regional language,kven language,1
+which european countries have a constitutional monarchy,regional language,romani language,1
+which european countries have a constitutional monarchy,regional language,scandoromani language,1
+which european countries have a constitutional monarchy,time zone,central european time,0
+which european countries have a constitutional monarchy,area km,NUM,2
+which european countries have a constitutional monarchy,area magnitude,NUM,0
+which european countries have a constitutional monarchy,area rank,NUM,0
+which european countries have a constitutional monarchy,area sq mi,NUM,0
+which european countries have a constitutional monarchy,calling code,telephone numbers in norway,0
+which european countries have a constitutional monarchy,currency code,nok,0
+which european countries have a constitutional monarchy,date format,dd mm yyyy,0
+which european countries have a constitutional monarchy,drives on,right,0
+which european countries have a constitutional monarchy,established date,NUM,2
+which european countries have a constitutional monarchy,established date,NUM,2
+which european countries have a constitutional monarchy,established date,NUM,3
+which european countries have a constitutional monarchy,established date,NUM,2
+which european countries have a constitutional monarchy,established date,NUM,3
+which european countries have a constitutional monarchy,established date,NUM,2
+which european countries have a constitutional monarchy,established date,NUM,1
+which european countries have a constitutional monarchy,established date,NUM,2
+which european countries have a constitutional monarchy,established event,constitution of norway,1
+which european countries have a constitutional monarchy,established event,denmark norway,2
+which european countries have a constitutional monarchy,established event,dissolution of the union between norway and sweden,1
+which european countries have a constitutional monarchy,established event,german occupation of norway,0
+which european countries have a constitutional monarchy,established event,kalmar union,1
+which european countries have a constitutional monarchy,established event,unification of norway,1
+which european countries have a constitutional monarchy,established event,union between sweden and norway,0
+which european countries have a constitutional monarchy,established event,restoration from german occupation,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,forest finns,0
+which european countries have a constitutional monarchy,ethnic groups,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic groups,jews,1
+which european countries have a constitutional monarchy,ethnic groups,kven people,1
+which european countries have a constitutional monarchy,ethnic groups,norwegians,1
+which european countries have a constitutional monarchy,ethnic groups,romani people,0
+which european countries have a constitutional monarchy,ethnic groups,sami people,0
+which european countries have a constitutional monarchy,gdp nominal,ALPHANUM,0
+which european countries have a constitutional monarchy,gdp nominal per capita,NUM,0
+which european countries have a constitutional monarchy,gdp nominal per capita rank,NUM,0
+which european countries have a constitutional monarchy,gdp nominal rank,NUM,0
+which european countries have a constitutional monarchy,gdp nominal year,NUM,0
+which european countries have a constitutional monarchy,gdp ppp,ALPHANUM,0
+which european countries have a constitutional monarchy,gdp ppp per capita,NUM,0
+which european countries have a constitutional monarchy,gdp ppp per capita rank,NUM,0
+which european countries have a constitutional monarchy,gdp ppp rank,NUM,0
+which european countries have a constitutional monarchy,gdp ppp year,NUM,0
+which european countries have a constitutional monarchy,gini,NUM,0
+which european countries have a constitutional monarchy,gini year,NUM,0
+which european countries have a constitutional monarchy,hdi,NUM,0
+which european countries have a constitutional monarchy,hdi change,steady,0
+which european countries have a constitutional monarchy,hdi rank,NUM,0
+which european countries have a constitutional monarchy,hdi year,NUM,0
+which european countries have a constitutional monarchy,languages,latin,1
+which european countries have a constitutional monarchy,languages type,writing system,0
+which european countries have a constitutional monarchy,largest city,capital,1
+which european countries have a constitutional monarchy,latd,NUM,0
+which european countries have a constitutional monarchy,latm,NUM,0
+which european countries have a constitutional monarchy,leader name,erna solberg,1
+which european countries have a constitutional monarchy,leader name,harald v of norway,3
+which european countries have a constitutional monarchy,leader name,olemic thommessen,1
+which european countries have a constitutional monarchy,leader name,tore schei,3
+which european countries have a constitutional monarchy,legislature,storting,1
+which european countries have a constitutional monarchy,longd,NUM,0
+which european countries have a constitutional monarchy,longm,NUM,0
+which european countries have a constitutional monarchy,motto,alt for noreg,0
+which european countries have a constitutional monarchy,motto,alt for norge,0
+which european countries have a constitutional monarchy,national anthem,honors music,2
+which european countries have a constitutional monarchy,national anthem,ja  vi elsker dette landet,1
+which european countries have a constitutional monarchy,national anthem,kongesangen,2
+which european countries have a constitutional monarchy,north,norwegian sea barents sea,0
+which european countries have a constitutional monarchy,northeast,barents sea,0
+which european countries have a constitutional monarchy,northwest,norwegian sea,0
+which european countries have a constitutional monarchy,official languages,lule sami language,1
+which european countries have a constitutional monarchy,official languages,northern sami,2
+which european countries have a constitutional monarchy,official languages,norwegian language,2
+which european countries have a constitutional monarchy,official languages,southern sami language,2
+which european countries have a constitutional monarchy,official languages,and,0
+which european countries have a constitutional monarchy,patron saint,olaf ii of norway,1
+which european countries have a constitutional monarchy,percent water,NUM,0
+which european countries have a constitutional monarchy,population census,NUM,0
+which european countries have a constitutional monarchy,population census year,NUM,0
+which european countries have a constitutional monarchy,population density km,NUM,0
+which european countries have a constitutional monarchy,population density rank,NUM,0
+which european countries have a constitutional monarchy,population density sq mi,NUM,0
+which european countries have a constitutional monarchy,regional languages,kven language,0
+which european countries have a constitutional monarchy,regional languages,romani language,1
+which european countries have a constitutional monarchy,regional languages,scandoromani language,1
+which european countries have a constitutional monarchy,religion,church of norway,1
+which european countries have a constitutional monarchy,south,skagerrak,0
+which european countries have a constitutional monarchy,southwest,north sea,0
+which european countries have a constitutional monarchy,sovereignty type,history of norway,2
+which european countries have a constitutional monarchy,state religion,church of norway,2
+which european countries have a constitutional monarchy,time zone dst,central european summer time,0
+which european countries have a constitutional monarchy,title,geographic locale,0
+which european countries have a constitutional monarchy,title,international organizations,0
+which european countries have a constitutional monarchy,west,north atlantic ocean,0
+which european countries have a constitutional monarchy,west,norwegian sea,0
+which european countries have a constitutional monarchy,foaf homepage,http   www norway no,3
+which european countries have a constitutional monarchy,geo lat,NUM,0
+which european countries have a constitutional monarchy,geo long,NUM,0
+which european countries have a constitutional monarchy,georss point,NUM,0
+which european countries have a constitutional monarchy,owl different from,noriega,0
+which software has been developed by organizations founded in california,author,yahoo,4
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,3
+which software has been developed by organizations founded in california,commercial,yes,0
+which software has been developed by organizations founded in california,content license,proprietary software,0
+which software has been developed by organizations founded in california,current status,online,1
+which software has been developed by organizations founded in california,num users,NUM,0
+which software has been developed by organizations founded in california,registration,required,0
+which software has been developed by organizations founded in california,screenshot,NUM,0
+which software has been developed by organizations founded in california,foaf homepage,https   mail yahoo com,3
+who is the mayor of berlin,alma mater,free university of berlin,2
+who is the mayor of berlin,birth date,NUM,2
+who is the mayor of berlin,birth place,berlin,2
+who is the mayor of berlin,birth place,west berlin,3
+who is the mayor of berlin,birth place,west germany,2
+who is the mayor of berlin,birth year,NUM,2
+who is the mayor of berlin,nationality,germany,2
+who is the mayor of berlin,office,governing mayor of berlin,3
+who is the mayor of berlin,office,member of the berlin house of representatives,1
+who is the mayor of berlin,office,vice chairman of spd,1
+who is the mayor of berlin,party,social democratic party of germany,2
+who is the mayor of berlin,predecessor,andrea nahles,1
+who is the mayor of berlin,predecessor,eberhard diepgen,2
+who is the mayor of berlin,predecessor,frank walter steinmeier,1
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,1
+who is the mayor of berlin,residence,berlin,2
+who is the mayor of berlin,successor,michael m ller  politician,3
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,2
+who is the mayor of berlin,after,michael m ller  politician,1
+who is the mayor of berlin,before,eberhard diepgen,2
+who is the mayor of berlin,date of birth,NUM,3
+who is the mayor of berlin,partner,j rn kubicki,1
+who is the mayor of berlin,place of birth,berlin  germany,4
+who is the mayor of berlin,short description,german politician,3
+who is the mayor of berlin,term end,NUM,1
+who is the mayor of berlin,term end,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,title,governing mayor of berlin,4
+who is the mayor of berlin,website,http   www klaus wowereit de,1
+who is the mayor of berlin,years,NUM,0
+who is the mayor of berlin,foaf homepage,http   www klaus wowereit de,3
+winners of the acm athena award,alias,needham  karen,0
+winners of the acm athena award,birth date,NUM,3
+winners of the acm athena award,birth place,huddersfield,2
+winners of the acm athena award,birth place,yorkshire,2
+winners of the acm athena award,birth year,NUM,2
+winners of the acm athena award,death date,NUM,2
+winners of the acm athena award,death place,willingham  cambridgeshire,2
+winners of the acm athena award,death year,NUM,3
+winners of the acm athena award,known for,natural language processing,1
+winners of the acm athena award,nationality,united kingdom,3
+winners of the acm athena award,spouse,roger needham,2
+winners of the acm athena award,after,martin kay,0
+winners of the acm athena award,alma mater,university of cambridge,2
+winners of the acm athena award,before,makoto nagao,1
+winners of the acm athena award,date of birth,NUM,3
+winners of the acm athena award,date of death,NUM,2
+winners of the acm athena award,doctoral advisor,richard braithwaite,1
+winners of the acm athena award,field,computer science,2
+winners of the acm athena award,place of birth,huddersfield,3
+winners of the acm athena award,place of birth,yorkshire,2
+winners of the acm athena award,place of death,willingham  cambridgeshire,2
+winners of the acm athena award,prizes,acl lifetime achievement award  bcs lovelace medal  acm aaai allen newell award  acm sigir salton award  american society for information science and technology s award of merit,2
+winners of the acm athena award,residence,united kingdom,1
+winners of the acm athena award,short description,computer science,2
+winners of the acm athena award,thesis title,synonymy and semantic classi cation,1
+winners of the acm athena award,thesis year,NUM,0
+winners of the acm athena award,title,acl lifetime achievement award,3
+winners of the acm athena award,work institution,computer laboratory  university of cambridge,1
+winners of the acm athena award,years,NUM,0
+ymca tampa,headquarter,geneva,2
+ymca tampa,headquarter,switzerland,2
+ymca tampa,area,worldwide,1
+ymca tampa,founded date,NUM,3
+ymca tampa,founded place,london,3
+ymca tampa,founded place,united kingdom of great britain and ireland,2
+ymca tampa,founder,george williams  ymca,3
+ymca tampa,headquarters,geneva,2
+ymca tampa,headquarters,switzerland,2
+ymca tampa,main classification,community,0
+ymca tampa,website,http   www ymca int,4
+ymca tampa,foaf homepage,http   www ymca int,3

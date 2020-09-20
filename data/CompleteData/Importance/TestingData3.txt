@@ -1,0 +1,901 @@
+american embassy nairobi,coordinates,and,0
+american embassy nairobi,date,NUM,2
+american embassy nairobi,fatalities,NUM,2
+american embassy nairobi,injuries,ALPHANUM,1
+american embassy nairobi,location,dar es salaam,2
+american embassy nairobi,location,kenya,2
+american embassy nairobi,location,nairobi,1
+american embassy nairobi,location,tanzania,2
+american embassy nairobi,perpetrators,al qaeda and egyptian islamic jihad,2
+american embassy nairobi,target,list of diplomatic missions of the united states,1
+american embassy nairobi,time,NUM,0
+american embassy nairobi,timezone,ALPHANUM,0
+american embassy nairobi,title,NUM,1
+american embassy nairobi,weapons,ammonium nitrate,1
+american embassy nairobi,weapons,pistol,0
+american embassy nairobi,weapons,stun grenade,1
+american embassy nairobi,weapons,trinitrotoluene,0
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,after,ALPHANUM,1
+astronauts who landed on the moon,apsis,selene,0
+astronauts who landed on the moon,before,ALPHANUM,1
+astronauts who landed on the moon,crew callsign,csm  columbia,0
+astronauts who landed on the moon,crew callsign,lm  eagle,0
+astronauts who landed on the moon,crew callsign,on surface  tranquility base,0
+astronauts who landed on the moon,crew members,buzz aldrin,1
+astronauts who landed on the moon,crew members,michael collins  astronaut,2
+astronauts who landed on the moon,crew members,neil armstrong,2
+astronauts who landed on the moon,crew size,NUM,1
+astronauts who landed on the moon,direction,horizontal,0
+astronauts who landed on the moon,docking,NUM,0
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,interplanetary,NUM,0
+astronauts who landed on the moon,landing date,NUM,2
+astronauts who landed on the moon,landing site,north pacific ocean,1
+astronauts who landed on the moon,launch date,NUM,1
+astronauts who landed on the moon,launch rocket,ALPHANUM,1
+astronauts who landed on the moon,launch site,kennedy space center,1
+astronauts who landed on the moon,launch site,ALPHANUM,2
+astronauts who landed on the moon,manufacturer,csm  north american rockwell,2
+astronauts who landed on the moon,manufacturer,lm  grumman,2
+astronauts who landed on the moon,mission duration,NUM,0
+astronauts who landed on the moon,mission type,manned lunar landing,2
+astronauts who landed on the moon,next mission,ALPHANUM,1
+astronauts who landed on the moon,operator,nasa,2
+astronauts who landed on the moon,orbit epoch,NUM,0
+astronauts who landed on the moon,orbit inclination,NUM,0
+astronauts who landed on the moon,orbit period,NUM,0
+astronauts who landed on the moon,orbit reference,lunar orbit,1
+astronauts who landed on the moon,pos,left,0
+astronauts who landed on the moon,position,command module pilot,0
+astronauts who landed on the moon,position,commander,0
+astronauts who landed on the moon,position,lunar module pilot,1
+astronauts who landed on the moon,previous mission,ALPHANUM,1
+astronauts who landed on the moon,programme,apollo program,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,spacecraft,ALPHANUM,2
+astronauts who landed on the moon,spacecraft,ALPHANUM,1
+astronauts who landed on the moon,terminology,astronaut,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,foaf homepage,http   buzzaldrin com the man space missions,1
+b  f  skinner,alma mater,hamilton college  new york,2
+b  f  skinner,alma mater,harvard university,2
+b  f  skinner,award,national medal of science,1
+b  f  skinner,birth date,NUM,2
+b  f  skinner,birth place,susquehanna depot  pennsylvania,2
+b  f  skinner,death date,NUM,2
+b  f  skinner,death place,cambridge  massachusetts,2
+b  f  skinner,field,linguistics,2
+b  f  skinner,field,philosophy,2
+b  f  skinner,field,psychology,2
+b  f  skinner,influenced by,charles darwin,1
+b  f  skinner,influenced by,edward thorndike,1
+b  f  skinner,influenced by,ernst mach,1
+b  f  skinner,influenced by,henry david thoreau,1
+b  f  skinner,influenced by,ivan pavlov,1
+b  f  skinner,influenced by,jacques loeb,1
+b  f  skinner,influenced by,jean jacques rousseau,1
+b  f  skinner,influenced by,william james,1
+b  f  skinner,known for,operant conditioning,2
+b  f  skinner,known for,operant conditioning chamber,1
+b  f  skinner,known for,radical behaviorism,1
+b  f  skinner,nationality,americans,2
+b  f  skinner,about,yes,0
+b  f  skinner,children,julie vargas,1
+b  f  skinner,children,deborah,0
+b  f  skinner,influences,charles darwin,1
+b  f  skinner,influences,edward thorndike,1
+b  f  skinner,influences,ernst mach,1
+b  f  skinner,influences,henry david thoreau,1
+b  f  skinner,influences,ivan pavlov,1
+b  f  skinner,influences,jacques loeb,1
+b  f  skinner,influences,jean jacques rousseau,1
+b  f  skinner,influences,william james,1
+b  f  skinner,onlinebooks,no,0
+b  f  skinner,prizes,national medal of science,1
+b  f  skinner,spouse,yvonne  blue,1
+b  f  skinner,work institutions,harvard university,1
+b  f  skinner,work institutions,indiana university,1
+b  f  skinner,work institutions,university of minnesota,1
+carl lewis,person height,NUM,0
+carl lewis,person weight,NUM,0
+carl lewis,birth date,NUM,2
+carl lewis,birth place,alabama,2
+carl lewis,birth place,birmingham  alabama,2
+carl lewis,height,NUM,0
+carl lewis,residence,houston,2
+carl lewis,residence,texas,1
+carl lewis,weight,NUM,0
+carl lewis,children,bakim k  lewis,1
+carl lewis,club,santa monica track club,0
+carl lewis,collegeteam,houston cougars,1
+carl lewis,country,united states national athletics team,1
+carl lewis,event,NUM,0
+carl lewis,nationality,american,2
+carl lewis,nicknames,carl lewis,0
+carl lewis,retired,NUM,1
+carl lewis,show medals,yes,0
+carl lewis,sport,athletics,2
+carl lewis,foaf homepage,http   www carllewis com,1
+earl may,blazon,the coat of arms of the earls of carnarvon,0
+earl may,creation date,NUM,2
+earl may,family seat,highclere castle,1
+earl may,first holder,ALPHANUM,2
+earl may,heir apparent,george kenneth oliver molyneux herbert,0
+earl may,monarch,george iii of the united kingdom,1
+earl may,peerage,peerage of great britain,0
+earl may,present holder,ALPHANUM,2
+earl may,subsidiary titles,lord porchester,0
+england football player highest paid,person height,NUM,1
+england football player highest paid,person weight,NUM,0
+england football player highest paid,active years end year,NUM,0
+england football player highest paid,active years start year,NUM,1
+england football player highest paid,birth date,NUM,2
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,2
+england football player highest paid,birth year,NUM,2
+england football player highest paid,former team,harlequin f c,1
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,height,NUM,2
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,1
+england football player highest paid,team,harlequin f c,2
+england football player highest paid,weight,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,clubnumber,NUM,0
+england football player highest paid,clubs,yorkshire carnegie,1
+england football player highest paid,clubs,harlequins,2
+england football player highest paid,currentclub,harlequin f c,1
+england football player highest paid,date of birth,NUM,2
+england football player highest paid,place of birth,leeds  yorkshire  england,2
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repteam,saxons,1
+england football player highest paid,repteam,england,2
+england football player highest paid,repteam,england xv,1
+england football player highest paid,repupdate,NUM,0
+england football player highest paid,repyears,NUM,0
+england football player highest paid,ru sevensnationalcomp,NUM,0
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,2
+england football player highest paid,ru sevensnationalyears,NUM,0
+england football player highest paid,short description,english rugby union player,2
+england football player highest paid,years,NUM,0
+england football player highest paid,years,NUM,0
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthclubs,west park bramhope,1
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,1
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+give me a list of all american inventions,designer,john g  kemeny,2
+give me a list of all american inventions,designer,thomas e  kurtz,2
+give me a list of all american inventions,influenced,auto hotkey,1
+give me a list of all american inventions,influenced,auto it,1
+give me a list of all american inventions,influenced,comal,1
+give me a list of all american inventions,influenced,grass  programming language,1
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,1
+give me a list of all american inventions,influenced,xojo,1
+give me a list of all american inventions,influenced by,ALPHANUM,1
+give me a list of all american inventions,influenced by,fortran,1
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,generation,NUM,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,1
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,1
+give me a list of all american inventions,implementations,free basic,1
+give me a list of all american inventions,implementations,integer basic,1
+give me a list of all american inventions,implementations,liberty basic,1
+give me a list of all american inventions,implementations,microsoft basic,1
+give me a list of all american inventions,implementations,sinclair basic,1
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,1
+give me a list of all american inventions,paradigm,unstructured  later procedural  later object oriented,0
+give me all canadian grunge record labels,country,canada,1
+give me all canadian grunge record labels,founded by,sloan  band,2
+give me all canadian grunge record labels,founding year,NUM,2
+give me all canadian grunge record labels,genre,alternative rock,1
+give me all canadian grunge record labels,genre,grunge,1
+give me all canadian grunge record labels,genre,indie rock,1
+give me all canadian grunge record labels,location,halifax  nova scotia,2
+give me all canadian grunge record labels,location,nova scotia,2
+give me all canadian grunge record labels,location,ontario,2
+give me all canadian grunge record labels,location,toronto,1
+give me all canadian grunge record labels,parent company,mca records,2
+give me all canadian grunge record labels,founded,NUM,2
+give me all canadian grunge record labels,founder,sloan  band,2
+give me all canadian grunge record labels,parent,mca records,1
+give me all canadian grunge record labels,url,http   www sloanmusic com murderecords,1
+give me all canadian grunge record labels,foaf homepage,http   www sloanmusic com murderecords,1
+give me the apollo 14 astronauts,astronaut time in space,NUM,0
+give me the apollo 14 astronauts,birth date,NUM,2
+give me the apollo 14 astronauts,birth place,durango  colorado,2
+give me the apollo 14 astronauts,birth year,NUM,2
+give me the apollo 14 astronauts,death date,NUM,2
+give me the apollo 14 astronauts,death place,falls church  virginia,1
+give me the apollo 14 astronauts,death year,NUM,2
+give me the apollo 14 astronauts,nationality,united states,2
+give me the apollo 14 astronauts,occupation,fighter pilot,1
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,status,deceased,1
+give me the apollo 14 astronauts,time in space,NUM,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,alma mater,ALPHANUM,2
+give me the apollo 14 astronauts,date of birth,NUM,2
+give me the apollo 14 astronauts,date of death,NUM,2
+give me the apollo 14 astronauts,date of ret,NUM,1
+give me the apollo 14 astronauts,insignia,NUM,0
+give me the apollo 14 astronauts,mission,ALPHANUM,0
+give me the apollo 14 astronauts,place of birth,durango  colorado  u s,2
+give me the apollo 14 astronauts,place of death,falls church  virginia  u s,2
+give me the apollo 14 astronauts,previous occupation,fighter pilot,1
+give me the apollo 14 astronauts,previous occupation,test pilot,1
+give me the apollo 14 astronauts,rank,colonel  united states,0
+give me the apollo 14 astronauts,rank,united states air force,0
+give me the apollo 14 astronauts,short description,american astronaut,1
+give me the apollo 14 astronauts,time,NUM,0
+give me the apollo 14 astronauts,foaf homepage,http   www jsc nasa gov bios htmlbios roosa sa html,1
+in which uk city are the headquarters of the mi6,populated place area total,NUM,1
+in which uk city are the headquarters of the mi6,populated place population density,NUM,0
+in which uk city are the headquarters of the mi6,area total,NUM,0
+in which uk city are the headquarters of the mi6,country,united kingdom,2
+in which uk city are the headquarters of the mi6,elevation,NUM,0
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,1
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,elected body,0
+in which uk city are the headquarters of the mi6,leader title,european parliament,1
+in which uk city are the headquarters of the mi6,leader title,london assembly,0
+in which uk city are the headquarters of the mi6,leader title,mayor,0
+in which uk city are the headquarters of the mi6,leader title,uk parliament,0
+in which uk city are the headquarters of the mi6,population density,NUM,0
+in which uk city are the headquarters of the mi6,population total,NUM,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,1
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr high c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr low c,NUM,0
+in which uk city are the headquarters of the mi6,apr mean c,NUM,0
+in which uk city are the headquarters of the mi6,apr precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,apr record high c,NUM,0
+in which uk city are the headquarters of the mi6,apr record low c,NUM,0
+in which uk city are the headquarters of the mi6,apr sun,NUM,0
+in which uk city are the headquarters of the mi6,area total km,NUM,2
+in which uk city are the headquarters of the mi6,aug high c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug low c,NUM,0
+in which uk city are the headquarters of the mi6,aug mean c,NUM,0
+in which uk city are the headquarters of the mi6,aug precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,aug record high c,NUM,0
+in which uk city are the headquarters of the mi6,aug record low c,NUM,0
+in which uk city are the headquarters of the mi6,aug sun,NUM,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name,police,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,color,blue,0
+in which uk city are the headquarters of the mi6,color,green,0
+in which uk city are the headquarters of the mi6,color,orange,0
+in which uk city are the headquarters of the mi6,color,purple,0
+in which uk city are the headquarters of the mi6,color,red,0
+in which uk city are the headquarters of the mi6,color,yellow,0
+in which uk city are the headquarters of the mi6,coordinates region,gb,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec high c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec low c,NUM,0
+in which uk city are the headquarters of the mi6,dec mean c,NUM,0
+in which uk city are the headquarters of the mi6,dec precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,dec record high c,NUM,0
+in which uk city are the headquarters of the mi6,dec record low c,NUM,0
+in which uk city are the headquarters of the mi6,dec sun,NUM,0
+in which uk city are the headquarters of the mi6,direction,vertical,0
+in which uk city are the headquarters of the mi6,elevation m,NUM,0
+in which uk city are the headquarters of the mi6,established date,ALPHANUM,0
+in which uk city are the headquarters of the mi6,established title,settled by romans,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb high c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb low c,NUM,0
+in which uk city are the headquarters of the mi6,feb mean c,NUM,0
+in which uk city are the headquarters of the mi6,feb precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,feb record high c,NUM,0
+in which uk city are the headquarters of the mi6,feb record low c,NUM,0
+in which uk city are the headquarters of the mi6,feb sun,NUM,0
+in which uk city are the headquarters of the mi6,header,ALPHANUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan high c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan low c,NUM,0
+in which uk city are the headquarters of the mi6,jan mean c,NUM,0
+in which uk city are the headquarters of the mi6,jan precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jan record high c,NUM,0
+in which uk city are the headquarters of the mi6,jan record low c,NUM,0
+in which uk city are the headquarters of the mi6,jan sun,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul high c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul low c,NUM,0
+in which uk city are the headquarters of the mi6,jul mean c,NUM,0
+in which uk city are the headquarters of the mi6,jul precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jul record high c,NUM,0
+in which uk city are the headquarters of the mi6,jul record low c,NUM,0
+in which uk city are the headquarters of the mi6,jul sun,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun high c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun low c,NUM,0
+in which uk city are the headquarters of the mi6,jun mean c,NUM,0
+in which uk city are the headquarters of the mi6,jun precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,jun record high c,NUM,0
+in which uk city are the headquarters of the mi6,jun record low c,NUM,0
+in which uk city are the headquarters of the mi6,jun sun,NUM,0
+in which uk city are the headquarters of the mi6,latd,NUM,0
+in which uk city are the headquarters of the mi6,latm,NUM,0
+in which uk city are the headquarters of the mi6,lats,NUM,0
+in which uk city are the headquarters of the mi6,location,ALPHANUM,0
+in which uk city are the headquarters of the mi6,location,london weather centre uhi,0
+in which uk city are the headquarters of the mi6,longd,NUM,0
+in which uk city are the headquarters of the mi6,longm,NUM,0
+in which uk city are the headquarters of the mi6,longs,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar high c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar low c,NUM,0
+in which uk city are the headquarters of the mi6,mar mean c,NUM,0
+in which uk city are the headquarters of the mi6,mar precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,mar record high c,NUM,0
+in which uk city are the headquarters of the mi6,mar record low c,NUM,0
+in which uk city are the headquarters of the mi6,mar sun,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may high c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may low c,NUM,0
+in which uk city are the headquarters of the mi6,may mean c,NUM,0
+in which uk city are the headquarters of the mi6,may precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,may record high c,NUM,0
+in which uk city are the headquarters of the mi6,may record low c,NUM,0
+in which uk city are the headquarters of the mi6,may sun,NUM,0
+in which uk city are the headquarters of the mi6,metric first,yes,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov high c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov low c,NUM,0
+in which uk city are the headquarters of the mi6,nov mean c,NUM,0
+in which uk city are the headquarters of the mi6,nov precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,nov record high c,NUM,0
+in which uk city are the headquarters of the mi6,nov record low c,NUM,0
+in which uk city are the headquarters of the mi6,nov sun,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct high c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct low c,NUM,0
+in which uk city are the headquarters of the mi6,oct mean c,NUM,0
+in which uk city are the headquarters of the mi6,oct precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,oct record high c,NUM,0
+in which uk city are the headquarters of the mi6,oct record low c,NUM,0
+in which uk city are the headquarters of the mi6,oct sun,NUM,0
+in which uk city are the headquarters of the mi6,parts,NUM,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,population as of,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population blank,NUM,0
+in which uk city are the headquarters of the mi6,population demonym,londoner,0
+in which uk city are the headquarters of the mi6,population density km,NUM,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep high c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep low c,NUM,0
+in which uk city are the headquarters of the mi6,sep mean c,NUM,0
+in which uk city are the headquarters of the mi6,sep precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,sep record high c,NUM,0
+in which uk city are the headquarters of the mi6,sep record low c,NUM,0
+in which uk city are the headquarters of the mi6,sep sun,NUM,0
+in which uk city are the headquarters of the mi6,single line,yes,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,1
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,thumb,left,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,1
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,title,articles related to london,0
+in which uk city are the headquarters of the mi6,total type,greater london,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,value,NUM,0
+in which uk city are the headquarters of the mi6,website,https   london gov uk,0
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,width,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year high c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year low c,NUM,0
+in which uk city are the headquarters of the mi6,year mean c,NUM,0
+in which uk city are the headquarters of the mi6,year precipitation mm,NUM,0
+in which uk city are the headquarters of the mi6,year record high c,NUM,0
+in which uk city are the headquarters of the mi6,year record low c,NUM,0
+in which uk city are the headquarters of the mi6,year sun,NUM,0
+in which uk city are the headquarters of the mi6,foaf homepage,https   london gov uk,1
+in which uk city are the headquarters of the mi6,geo lat,NUM,0
+in which uk city are the headquarters of the mi6,geo long,NUM,0
+in which uk city are the headquarters of the mi6,georss point,NUM,0
+members of the beaux arts trio,birth date,NUM,2
+members of the beaux arts trio,birth date,NUM,2
+members of the beaux arts trio,birth place,newark  new jersey,2
+members of the beaux arts trio,birth year,NUM,2
+members of the beaux arts trio,death date,NUM,2
+members of the beaux arts trio,death place,wellfleet  massachusetts,2
+members of the beaux arts trio,death year,NUM,2
+members of the beaux arts trio,occupation,ALPHANUM,0
+members of the beaux arts trio,occupation,cello,2
+members of the beaux arts trio,date of birth,NUM,2
+members of the beaux arts trio,date of death,NUM,2
+members of the beaux arts trio,place of birth,newark  new jersey,2
+members of the beaux arts trio,place of death,wellfleet  massachusetts,2
+members of the beaux arts trio,short description,american musician,1
+members of the beaux arts trio,spouse,aurora de la luz fernandez y menendez,2
+niagara falls origin lake,infrastructure length,NUM,0
+niagara falls origin lake,length,NUM,0
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route end direction,north,0
+niagara falls origin lake,route start,fort erie  ontario,0
+niagara falls origin lake,route start direction,south,1
+niagara falls origin lake,col,NUM,0
+niagara falls origin lake,direction a,south,0
+niagara falls origin lake,direction b,north,0
+niagara falls origin lake,division,niagara,1
+niagara falls origin lake,keys,closed,0
+niagara falls origin lake,length km,NUM,0
+niagara falls origin lake,location,chippawa,2
+niagara falls origin lake,location,fort erie,2
+niagara falls origin lake,location,niagara falls,2
+niagara falls origin lake,location,queenston,0
+niagara falls origin lake,location special,niagara on the lake,0
+niagara falls origin lake,location special,black creek,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,parkway detours to cross welland river,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,tourist district for niagara falls,0
+niagara falls origin lake,province,on,1
+niagara falls origin lake,road,NUM,0
+niagara falls origin lake,road,clifton hill  niagara falls,1
+niagara falls origin lake,road,fort erie  ontario,1
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,road,queen street,0
+niagara falls origin lake,road,victoria avenue,0
+niagara falls origin lake,terminus a,fort erie  ontario,1
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,1
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,1
+radio italia online,broadcast area,fm broadcasting,2
+radio italia online,broadcast area,internet radio,0
+radio italia online,broadcast area,italy,1
+radio italia online,broadcast area,monaco,2
+radio italia online,broadcast area,san marino,2
+radio italia online,owner,rcs media group,2
+radio italia online,programme format,rock music,2
+radio italia online,sister station,ALPHANUM,1
+radio italia online,sister station,radio monte carlo,0
+radio italia online,slogan,style rock,0
+radio italia online,slogan,the music we all love,0
+radio italia online,webcast,ALPHANUM,1
+radio italia online,airdate,NUM,2
+radio italia online,area,fm frequencies in italy and monaco  dab  dab   dvb s on hotbird and worldwide with live audio streaming,1
+radio italia online,format,rock music,1
+radio italia online,frequency,fm several frequencies  change from geographical side to side,0
+radio italia online,frequency,ALPHANUM,0
+radio italia online,sister stations,ALPHANUM,0
+radio italia online,sister stations,radio monte carlo,1
+radio italia online,website,http   www virginradioitaly it,1
+radio italia online,foaf homepage,http   www virginradioitaly it,0
+scott county,added,NUM,0
+scott county,location,georgetown  kentucky,2
+scott county,nrhp reference number,NUM,0
+scott county,year of construction,NUM,2
+scott county,architect,j w  lucas  j  t  brooks,2
+scott county,architecture,italianate architecture,1
+scott county,architecture,romanesque architecture,0
+scott county,area,less than one acre,0
+scott county,built,NUM,2
+scott county,coord display,inline title,0
+scott county,governing body,local,0
+scott county,lat degrees,NUM,0
+scott county,lat minutes,NUM,0
+scott county,lat seconds,NUM,0
+scott county,locmapin,kentucky,0
+scott county,long degrees,NUM,0
+scott county,long minutes,NUM,0
+scott county,long seconds,NUM,0
+scott county,nrhp type,nrhp,0
+scott county,refnum,NUM,0
+scott county,foaf homepage,http   www artsandculturalcenter org,0
+scott county,geo lat,NUM,0
+scott county,geo long,NUM,0
+scott county,georss point,NUM,0
+tango culture movies,birth date,NUM,2
+tango culture movies,birth place,buenos aires,2
+tango culture movies,birth year,NUM,2
+tango culture movies,death date,NUM,2
+tango culture movies,death year,NUM,2
+tango culture movies,date of birth,NUM,2
+tango culture movies,date of death,NUM,2
+tango culture movies,place of birth,buenos aires,2
+tango culture movies,short description,argentine musician,2
+ten ancient greek city kingdoms of cyprus,latd,NUM,0
+ten ancient greek city kingdoms of cyprus,latm,NUM,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,2
+ten ancient greek city kingdoms of cyprus,longd,NUM,0
+ten ancient greek city kingdoms of cyprus,longm,NUM,0
+ten ancient greek city kingdoms of cyprus,map type,cyprus,0
+ten ancient greek city kingdoms of cyprus,native name,NUM,0
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,1
+twelve tribes or sons of israel,location,israel,2
+twelve tribes or sons of israel,majorsites,bethlehem,1
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,2
+universities in catalunya,affiliation,xarxa vives d universitats,0
+universities in catalunya,city,barcelona,1
+universities in catalunya,country,spain,2
+universities in catalunya,endowment,ALPHANUM,0
+universities in catalunya,state,catalonia,2
+universities in catalunya,academic staff,NUM,0
+universities in catalunya,administrative staff,NUM,1
+universities in catalunya,affiliations,xarxa vives d universitats,1
+universities in catalunya,established,NUM,2
+universities in catalunya,financing,public,1
+universities in catalunya,rector,enric fossas colet,1
+universities in catalunya,traduction,polytechnic university of catalonia,0
+universities in catalunya,foaf homepage,http   www upc edu,1
+which country does the creator of miffy come from,populated place area total,NUM,0
+which country does the creator of miffy come from,populated place area total,NUM,0
+which country does the creator of miffy come from,populated place population density,NUM,0
+which country does the creator of miffy come from,populated place population density,NUM,0
+which country does the creator of miffy come from,area total,NUM,0
+which country does the creator of miffy come from,area total,NUM,0
+which country does the creator of miffy come from,capital,amsterdam,2
+which country does the creator of miffy come from,currency,caribbean netherlands,1
+which country does the creator of miffy come from,currency,euro,2
+which country does the creator of miffy come from,currency,ALPHANUM,0
+which country does the creator of miffy come from,currency,united states dollar,2
+which country does the creator of miffy come from,demonym,dutch,0
+which country does the creator of miffy come from,ethnic group,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic group,dutch people,0
+which country does the creator of miffy come from,ethnic group,european union,0
+which country does the creator of miffy come from,ethnic group,moroccan dutch,1
+which country does the creator of miffy come from,ethnic group,overseas indonesian,0
+which country does the creator of miffy come from,ethnic group,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic group,turks in the netherlands,0
+which country does the creator of miffy come from,ethnic groups in year,NUM,0
+which country does the creator of miffy come from,founding date,NUM,2
+which country does the creator of miffy come from,founding date,NUM,2
+which country does the creator of miffy come from,government type,unitary state,1
+which country does the creator of miffy come from,language,dutch low saxon,1
+which country does the creator of miffy come from,language,dutch language,2
+which country does the creator of miffy come from,language,english language,1
+which country does the creator of miffy come from,language,limburgish language,1
+which country does the creator of miffy come from,language,papiamento,1
+which country does the creator of miffy come from,language,west frisian language,1
+which country does the creator of miffy come from,leader,mark rutte,2
+which country does the creator of miffy come from,leader,willem alexander of the netherlands,2
+which country does the creator of miffy come from,leader title,monarch,1
+which country does the creator of miffy come from,leader title,prime minister,0
+which country does the creator of miffy come from,official language,dutch language,2
+which country does the creator of miffy come from,official language,english language,1
+which country does the creator of miffy come from,official language,papiamento,2
+which country does the creator of miffy come from,official language,west frisian language,2
+which country does the creator of miffy come from,percentage of area water,NUM,0
+which country does the creator of miffy come from,population density,NUM,0
+which country does the creator of miffy come from,population density,NUM,0
+which country does the creator of miffy come from,population total,NUM,1
+which country does the creator of miffy come from,regional language,dutch low saxon,1
+which country does the creator of miffy come from,regional language,limburgish language,1
+which country does the creator of miffy come from,time zone,atlantic time zone,0
+which country does the creator of miffy come from,time zone,central european time,1
+which country does the creator of miffy come from,apr high c,NUM,0
+which country does the creator of miffy come from,apr humidity,NUM,0
+which country does the creator of miffy come from,apr low c,NUM,0
+which country does the creator of miffy come from,apr mean c,NUM,0
+which country does the creator of miffy come from,apr precipitation days,NUM,0
+which country does the creator of miffy come from,apr precipitation mm,NUM,0
+which country does the creator of miffy come from,apr record high c,NUM,0
+which country does the creator of miffy come from,apr record low c,NUM,0
+which country does the creator of miffy come from,apr snow days,NUM,0
+which country does the creator of miffy come from,apr sun,NUM,0
+which country does the creator of miffy come from,area km,NUM,0
+which country does the creator of miffy come from,area magnitude,NUM,0
+which country does the creator of miffy come from,area rank,NUM,0
+which country does the creator of miffy come from,area sq mi,NUM,1
+which country does the creator of miffy come from,aug high c,NUM,0
+which country does the creator of miffy come from,aug humidity,NUM,0
+which country does the creator of miffy come from,aug low c,NUM,0
+which country does the creator of miffy come from,aug mean c,NUM,0
+which country does the creator of miffy come from,aug precipitation days,NUM,0
+which country does the creator of miffy come from,aug precipitation mm,NUM,0
+which country does the creator of miffy come from,aug record high c,NUM,0
+which country does the creator of miffy come from,aug record low c,NUM,0
+which country does the creator of miffy come from,aug sun,NUM,0
+which country does the creator of miffy come from,calling code,telephone numbers in cura ao and the caribbean netherlands,0
+which country does the creator of miffy come from,calling code,telephone numbers in the netherlands,0
+which country does the creator of miffy come from,color,aqua,0
+which country does the creator of miffy come from,color,dark orchid,0
+which country does the creator of miffy come from,color,green,0
+which country does the creator of miffy come from,color,green yellow,0
+which country does the creator of miffy come from,color,orange,0
+which country does the creator of miffy come from,country code,nld,1
+which country does the creator of miffy come from,date,ALPHANUM,0
+which country does the creator of miffy come from,date format,dd mm yyyy,0
+which country does the creator of miffy come from,dec high c,NUM,0
+which country does the creator of miffy come from,dec humidity,NUM,0
+which country does the creator of miffy come from,dec low c,NUM,0
+which country does the creator of miffy come from,dec mean c,NUM,0
+which country does the creator of miffy come from,dec precipitation days,NUM,0
+which country does the creator of miffy come from,dec precipitation mm,NUM,0
+which country does the creator of miffy come from,dec record high c,NUM,0
+which country does the creator of miffy come from,dec record low c,NUM,0
+which country does the creator of miffy come from,dec snow days,NUM,0
+which country does the creator of miffy come from,dec sun,NUM,0
+which country does the creator of miffy come from,drives on,right,0
+which country does the creator of miffy come from,established date,NUM,2
+which country does the creator of miffy come from,established date,NUM,2
+which country does the creator of miffy come from,established date,NUM,2
+which country does the creator of miffy come from,established date,NUM,1
+which country does the creator of miffy come from,established event,act of abjuration,0
+which country does the creator of miffy come from,established event,charter for the kingdom of the netherlands,0
+which country does the creator of miffy come from,established event,peace of m nster,1
+which country does the creator of miffy come from,established event,kingdom established,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,NUM,0
+which country does the creator of miffy come from,ethnic groups,caribbean netherlands,1
+which country does the creator of miffy come from,ethnic groups,dutch people,1
+which country does the creator of miffy come from,ethnic groups,european union,0
+which country does the creator of miffy come from,ethnic groups,moroccan dutch,1
+which country does the creator of miffy come from,ethnic groups,overseas indonesian,0
+which country does the creator of miffy come from,ethnic groups,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic groups,turks in the netherlands,0
+which country does the creator of miffy come from,ethnic groups year,NUM,0
+which country does the creator of miffy come from,feb high c,NUM,0
+which country does the creator of miffy come from,feb humidity,NUM,0
+which country does the creator of miffy come from,feb low c,NUM,0
+which country does the creator of miffy come from,feb mean c,NUM,0
+which country does the creator of miffy come from,feb precipitation days,NUM,0
+which country does the creator of miffy come from,feb precipitation mm,NUM,0
+which country does the creator of miffy come from,feb record high c,NUM,0
+which country does the creator of miffy come from,feb record low c,NUM,0
+which country does the creator of miffy come from,feb snow days,NUM,0
+which country does the creator of miffy come from,feb sun,NUM,0
+which country does the creator of miffy come from,gdp nominal,ALPHANUM,0
+which country does the creator of miffy come from,gdp nominal per capita,NUM,0
+which country does the creator of miffy come from,gdp nominal per capita rank,NUM,0
+which country does the creator of miffy come from,gdp nominal rank,NUM,0
+which country does the creator of miffy come from,gdp nominal year,NUM,0
+which country does the creator of miffy come from,gdp ppp,ALPHANUM,0
+which country does the creator of miffy come from,gdp ppp per capita,NUM,0
+which country does the creator of miffy come from,gdp ppp per capita rank,NUM,0
+which country does the creator of miffy come from,gdp ppp rank,NUM,0
+which country does the creator of miffy come from,gdp ppp year,NUM,0
+which country does the creator of miffy come from,gini,NUM,0
+which country does the creator of miffy come from,gini rank,NUM,0
+which country does the creator of miffy come from,gini year,NUM,0
+which country does the creator of miffy come from,hdi,NUM,0
+which country does the creator of miffy come from,hdi change,steady,0
+which country does the creator of miffy come from,hdi rank,NUM,0
+which country does the creator of miffy come from,hdi year,NUM,0
+which country does the creator of miffy come from,jan high c,NUM,0
+which country does the creator of miffy come from,jan humidity,NUM,0
+which country does the creator of miffy come from,jan low c,NUM,0
+which country does the creator of miffy come from,jan mean c,NUM,0
+which country does the creator of miffy come from,jan precipitation days,NUM,0
+which country does the creator of miffy come from,jan precipitation mm,NUM,0
+which country does the creator of miffy come from,jan record high c,NUM,0
+which country does the creator of miffy come from,jan record low c,NUM,0
+which country does the creator of miffy come from,jan snow days,NUM,0
+which country does the creator of miffy come from,jan sun,NUM,0
+which country does the creator of miffy come from,jul high c,NUM,0
+which country does the creator of miffy come from,jul humidity,NUM,0
+which country does the creator of miffy come from,jul low c,NUM,0
+which country does the creator of miffy come from,jul mean c,NUM,0
+which country does the creator of miffy come from,jul precipitation days,NUM,0
+which country does the creator of miffy come from,jul precipitation mm,NUM,0
+which country does the creator of miffy come from,jul record high c,NUM,0
+which country does the creator of miffy come from,jul record low c,NUM,0
+which country does the creator of miffy come from,jul sun,NUM,0
+which country does the creator of miffy come from,jun high c,NUM,0
+which country does the creator of miffy come from,jun humidity,NUM,0
+which country does the creator of miffy come from,jun low c,NUM,0
+which country does the creator of miffy come from,jun mean c,NUM,0
+which country does the creator of miffy come from,jun precipitation days,NUM,0
+which country does the creator of miffy come from,jun precipitation mm,NUM,0
+which country does the creator of miffy come from,jun record high c,NUM,0
+which country does the creator of miffy come from,jun record low c,NUM,0
+which country does the creator of miffy come from,jun sun,NUM,0
+which country does the creator of miffy come from,largest city,capital,1
+which country does the creator of miffy come from,latd,NUM,0
+which country does the creator of miffy come from,latm,NUM,0
+which country does the creator of miffy come from,leader name,mark rutte,1
+which country does the creator of miffy come from,leader name,willem alexander of the netherlands,1
+which country does the creator of miffy come from,legislature,states general of the netherlands,0
+which country does the creator of miffy come from,location,de bilt   all knmi locations   snowy days,0
+which country does the creator of miffy come from,longd,NUM,0
+which country does the creator of miffy come from,longm,NUM,0
+which country does the creator of miffy come from,lower house,house of representatives  netherlands,1
+which country does the creator of miffy come from,mar high c,NUM,0
+which country does the creator of miffy come from,mar humidity,NUM,0
+which country does the creator of miffy come from,mar low c,NUM,0
+which country does the creator of miffy come from,mar mean c,NUM,0
+which country does the creator of miffy come from,mar precipitation days,NUM,0
+which country does the creator of miffy come from,mar precipitation mm,NUM,0
+which country does the creator of miffy come from,mar record high c,NUM,0
+which country does the creator of miffy come from,mar record low c,NUM,0
+which country does the creator of miffy come from,mar snow days,NUM,0
+which country does the creator of miffy come from,mar sun,NUM,0
+which country does the creator of miffy come from,may high c,NUM,0
+which country does the creator of miffy come from,may humidity,NUM,0
+which country does the creator of miffy come from,may low c,NUM,0
+which country does the creator of miffy come from,may mean c,NUM,0
+which country does the creator of miffy come from,may precipitation days,NUM,0
+which country does the creator of miffy come from,may precipitation mm,NUM,0
+which country does the creator of miffy come from,may record high c,NUM,0
+which country does the creator of miffy come from,may record low c,NUM,0
+which country does the creator of miffy come from,may snow days,NUM,0
+which country does the creator of miffy come from,may sun,NUM,0
+which country does the creator of miffy come from,membership type,sovereign state,0
+which country does the creator of miffy come from,metric first,yes,0
+which country does the creator of miffy come from,national anthem,noicon center,0
+which country does the creator of miffy come from,nov high c,NUM,0
+which country does the creator of miffy come from,nov humidity,NUM,0
+which country does the creator of miffy come from,nov low c,NUM,0
+which country does the creator of miffy come from,nov mean c,NUM,0
+which country does the creator of miffy come from,nov precipitation days,NUM,0
+which country does the creator of miffy come from,nov precipitation mm,NUM,0
+which country does the creator of miffy come from,nov record high c,NUM,0
+which country does the creator of miffy come from,nov record low c,NUM,0
+which country does the creator of miffy come from,nov snow days,NUM,0
+which country does the creator of miffy come from,nov sun,NUM,0
+which country does the creator of miffy come from,oct high c,NUM,0
+which country does the creator of miffy come from,oct humidity,NUM,0
+which country does the creator of miffy come from,oct low c,NUM,0
+which country does the creator of miffy come from,oct mean c,NUM,0
+which country does the creator of miffy come from,oct precipitation days,NUM,0
+which country does the creator of miffy come from,oct precipitation mm,NUM,0
+which country does the creator of miffy come from,oct record high c,NUM,0
+which country does the creator of miffy come from,oct record low c,NUM,0
+which country does the creator of miffy come from,oct snow days,NUM,0
+which country does the creator of miffy come from,oct sun,NUM,0
+which country does the creator of miffy come from,official languages,national  dutch,1
+which country does the creator of miffy come from,official languages,regional  west frisian  english  papiamento,2
+which country does the creator of miffy come from,percent water,NUM,0
+which country does the creator of miffy come from,population density rank,NUM,0
+which country does the creator of miffy come from,population estimate,NUM,0
+which country does the creator of miffy come from,population estimate rank,NUM,0
+which country does the creator of miffy come from,population estimate year,NUM,0
+which country does the creator of miffy come from,precipitation colour,green,0
+which country does the creator of miffy come from,regional languages,limburgish  dutch low saxon,1
+which country does the creator of miffy come from,sep high c,NUM,0
+which country does the creator of miffy come from,sep humidity,NUM,0
+which country does the creator of miffy come from,sep low c,NUM,0
+which country does the creator of miffy come from,sep mean c,NUM,0
+which country does the creator of miffy come from,sep precipitation days,NUM,0
+which country does the creator of miffy come from,sep precipitation mm,NUM,0
+which country does the creator of miffy come from,sep record high c,NUM,0
+which country does the creator of miffy come from,sep record low c,NUM,0
+which country does the creator of miffy come from,sep sun,NUM,0
+which country does the creator of miffy come from,single line,yes,0
+which country does the creator of miffy come from,source,knmi nl,0
+which country does the creator of miffy come from,sovereignty type,independence,0
+which country does the creator of miffy come from,thumb,right,0
+which country does the creator of miffy come from,time zone dst,atlantic time zone,0
+which country does the creator of miffy come from,time zone dst,central european summer time,1
+which country does the creator of miffy come from,title,articles related to the netherlands,0
+which country does the creator of miffy come from,title,provinces of netherlands,0
+which country does the creator of miffy come from,unit precipitation days,NUM,0
+which country does the creator of miffy come from,unit snow days,NUM,0
+which country does the creator of miffy come from,upper house,senate  netherlands,0
+which country does the creator of miffy come from,utc offset,NUM,0
+which country does the creator of miffy come from,utc offset dst,NUM,0
+which country does the creator of miffy come from,value,NUM,0
+which country does the creator of miffy come from,value,NUM,0
+which country does the creator of miffy come from,value,NUM,0
+which country does the creator of miffy come from,value,NUM,0
+which country does the creator of miffy come from,value,NUM,0
+which country does the creator of miffy come from,year high c,NUM,0
+which country does the creator of miffy come from,year humidity,NUM,0
+which country does the creator of miffy come from,year low c,NUM,0
+which country does the creator of miffy come from,year mean c,NUM,0
+which country does the creator of miffy come from,year precipitation days,NUM,0
+which country does the creator of miffy come from,year precipitation mm,NUM,0
+which country does the creator of miffy come from,year record high c,NUM,0
+which country does the creator of miffy come from,year record low c,NUM,0
+which country does the creator of miffy come from,year snow days,NUM,0
+which country does the creator of miffy come from,year sun,NUM,0
+which country does the creator of miffy come from,foaf homepage,http   overheid nl english,1
+which country does the creator of miffy come from,geo lat,NUM,0
+which country does the creator of miffy come from,geo long,NUM,0
+which country does the creator of miffy come from,georss point,NUM,0
+which country does the creator of miffy come from,owl different from,holland,0
+who founded intel,alias,noyce  bob,1
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,1
+who founded intel,birth date,NUM,2
+who founded intel,birth place,burlington  iowa,2
+who founded intel,birth place,iowa,2
+who founded intel,birth year,NUM,2
+who founded intel,death date,NUM,2
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,2
+who founded intel,death year,NUM,2
+who founded intel,occupation,fairchild semiconductor,1
+who founded intel,occupation,intel,1
+who founded intel,occupation,ALPHANUM,0
+who founded intel,spouse,elizabeth noyce,1
+who founded intel,awards,faraday medal,1
+who founded intel,awards,harold pender award,1
+who founded intel,awards,john fritz medal,1
+who founded intel,children,william b  noyce pendred noyce priscilla noyce margaret noyce,2
+who founded intel,date of birth,NUM,2
+who founded intel,date of death,NUM,2
+who founded intel,parents,ralph brewster noyce  harriet may norton,1
+who founded intel,place of birth,burlington  iowa,2
+who founded intel,place of death,austin  texas,1
+who founded intel,short description,co founder of fairchild semiconductor and intel,2
+who founded intel,title,intel ceo,2
+who founded intel,years,NUM,1

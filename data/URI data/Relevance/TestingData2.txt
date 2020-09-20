@@ -1,0 +1,313 @@
+1994 short story collection alice munro is open,author,alice munro,2
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,1
+1994 short story collection alice munro is open,publisher,ryerson press,0
+1994 short story collection alice munro is open,cinematography,harry makin,0
+1994 short story collection alice munro is open,director,ronald wilson,0
+1994 short story collection alice munro is open,editing,susan shipton,0
+1994 short story collection alice munro is open,genre,bildungsroman,0
+1994 short story collection alice munro is open,genre,short story cycle,0
+1994 short story collection alice munro is open,music,lawrence shragge,0
+1994 short story collection alice munro is open,producer,richard borchiver,0
+1994 short story collection alice munro is open,starring,tanya allen,0
+1994 short story collection alice munro is open,starring,wendy crewson,0
+1994 short story collection alice munro is open,writer,kelly rebar,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,crew members,buzz aldrin,2
+astronauts who landed on the moon,crew members,michael collins  astronaut,2
+astronauts who landed on the moon,crew members,neil armstrong,2
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,launch site,kennedy space center,0
+astronauts who landed on the moon,launch site,ALPHANUM,0
+astronauts who landed on the moon,next mission,ALPHANUM,1
+astronauts who landed on the moon,operator,nasa,0
+astronauts who landed on the moon,orbit reference,lunar orbit,0
+astronauts who landed on the moon,previous mission,ALPHANUM,0
+astronauts who landed on the moon,programme,apollo program,1
+axis powers of world war ii,event,pact of steel,0
+axis powers of world war ii,event,tripartite pact,0
+axis powers of world war ii,event end,dissolution  law,0
+axis powers of world war ii,event start,anti comintern pact,0
+axis powers of world war ii,status,collective security,0
+axis powers of world war ii,owl different from,socialist republic of croatia,0
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,capital,baguio,1
+baguio quezon city manila official independence 1945,capital,manila,1
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,0
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,0
+baguio quezon city manila official independence 1945,common languages,tagalog language,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,0
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+bicycle holiday nature,location,cook county  illinois,1
+bicycle holiday nature,location,illinois,0
+bicycle holiday nature,nearest city,schaumburg  illinois,0
+give me a list of all american inventions,designer,john g  kemeny,1
+give me a list of all american inventions,designer,thomas e  kurtz,1
+give me a list of all american inventions,influenced,auto hotkey,0
+give me a list of all american inventions,influenced,auto it,0
+give me a list of all american inventions,influenced,comal,0
+give me a list of all american inventions,influenced,grass  programming language,0
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,0
+give me a list of all american inventions,influenced,xojo,0
+give me a list of all american inventions,influenced by,ALPHANUM,0
+give me a list of all american inventions,influenced by,fortran,0
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,0
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,0
+give me a list of all american inventions,implementations,free basic,0
+give me a list of all american inventions,implementations,integer basic,0
+give me a list of all american inventions,implementations,liberty basic,0
+give me a list of all american inventions,implementations,microsoft basic,0
+give me a list of all american inventions,implementations,sinclair basic,0
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,0
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,0
+give me all current methodist national leaders,alma mater,madison business college,0
+give me all current methodist national leaders,alma mater,university of colorado boulder,0
+give me all current methodist national leaders,birth place,liberia,1
+give me all current methodist national leaders,birth place,monrovia,0
+give me all current methodist national leaders,party,unity party  liberia,0
+give me all current methodist national leaders,predecessor,gyude bryant,0
+give me all current methodist national leaders,religion,methodism,1
+give me all current methodist national leaders,term period,ALPHANUM,1
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,minister,amara mohamed konneh,1
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,0
+give me all current methodist national leaders,minister,george wallace  diplomat,1
+give me all current methodist national leaders,minister,joseph boakai,1
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,0
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,2
+give me all current methodist national leaders,title,vice president of liberia,2
+give me all current methodist national leaders,with,leymah gbowee,0
+give me all current methodist national leaders,with,tawakkol karman,0
+give me the apollo 14 astronauts,birth place,durango  colorado,1
+give me the apollo 14 astronauts,death place,falls church  virginia,0
+give me the apollo 14 astronauts,nationality,united states,1
+give me the apollo 14 astronauts,occupation,fighter pilot,0
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,previous occupation,fighter pilot,0
+give me the apollo 14 astronauts,previous occupation,test pilot,0
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+in which uk city are the headquarters of the mi6,country,united kingdom,2
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,0
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,0
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,2
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,0
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,total type,greater london,0
+members of the beaux arts trio,birth place,newark  new jersey,0
+members of the beaux arts trio,death place,wellfleet  massachusetts,0
+members of the beaux arts trio,occupation,ALPHANUM,0
+members of the beaux arts trio,occupation,cello,0
+members of the beaux arts trio,place of birth,newark  new jersey,1
+members of the beaux arts trio,place of death,wellfleet  massachusetts,0
+movies about english hooligans,country,united states,0
+movies about english hooligans,director,lexi alexander,0
+movies about english hooligans,distributor,freestyle releasing,0
+movies about english hooligans,distributor,universal studios,0
+movies about english hooligans,music composer,christopher franke,0
+movies about english hooligans,producer,deborah del prete,0
+movies about english hooligans,starring,charlie hunnam,1
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,0
+movies about english hooligans,starring,leo gregory,0
+movies about english hooligans,writer,dougie brimson,0
+movies about english hooligans,writer,lexi alexander,0
+movies about english hooligans,music,christopher franke,0
+movies about english hooligans,screenplay,dougie brimson,0
+movies about english hooligans,screenplay,lexi alexander,0
+movies about english hooligans,studio,odd lot entertainment,0
+new england coffee,location,old compton street,1
+new england coffee,location,soho,1
+nordic authors who are known for children s literature,birth place,denmark,1
+nordic authors who are known for children s literature,birth place,funen,1
+nordic authors who are known for children s literature,birth place,odense,2
+nordic authors who are known for children s literature,death place,copenhagen,1
+nordic authors who are known for children s literature,death place,denmark,0
+nordic authors who are known for children s literature,genre,children s literature,2
+nordic authors who are known for children s literature,genre,travel literature,0
+nordic authors who are known for children s literature,influenced by,brothers grimm,2
+nordic authors who are known for children s literature,influenced by,heinrich heine,0
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,0
+nordic authors who are known for children s literature,influences,brothers grimm,0
+nordic authors who are known for children s literature,influences,heinrich heine,0
+nordic authors who are known for children s literature,influences,ludvig holberg,0
+nordic authors who are known for children s literature,influences,william shakespeare,0
+tango culture movies,birth place,buenos aires,0
+tango culture movies,place of birth,buenos aires,2
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,1
+twelve tribes or sons of israel,majorsites,bethlehem,1
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,0
+vietnam travel airports,city,hanoi,1
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,city served,hanoi,1
+which cities does the weser flow through,country,germany,1
+which cities does the weser flow through,federal state,bremen,2
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which country does the creator of miffy come from,capital,amsterdam,1
+which country does the creator of miffy come from,currency,caribbean netherlands,0
+which country does the creator of miffy come from,currency,euro,0
+which country does the creator of miffy come from,currency,ALPHANUM,0
+which country does the creator of miffy come from,currency,united states dollar,0
+which country does the creator of miffy come from,ethnic group,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic group,dutch people,0
+which country does the creator of miffy come from,ethnic group,european union,0
+which country does the creator of miffy come from,ethnic group,moroccan dutch,0
+which country does the creator of miffy come from,ethnic group,overseas indonesian,0
+which country does the creator of miffy come from,ethnic group,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic group,turks in the netherlands,0
+which country does the creator of miffy come from,government type,unitary state,0
+which country does the creator of miffy come from,language,dutch low saxon,0
+which country does the creator of miffy come from,language,dutch language,0
+which country does the creator of miffy come from,language,english language,0
+which country does the creator of miffy come from,language,limburgish language,0
+which country does the creator of miffy come from,language,papiamento,0
+which country does the creator of miffy come from,language,west frisian language,0
+which country does the creator of miffy come from,leader,mark rutte,0
+which country does the creator of miffy come from,leader,willem alexander of the netherlands,1
+which country does the creator of miffy come from,official language,dutch language,1
+which country does the creator of miffy come from,official language,english language,0
+which country does the creator of miffy come from,official language,papiamento,0
+which country does the creator of miffy come from,official language,west frisian language,0
+which country does the creator of miffy come from,regional language,dutch low saxon,0
+which country does the creator of miffy come from,regional language,limburgish language,0
+which country does the creator of miffy come from,time zone,atlantic time zone,0
+which country does the creator of miffy come from,time zone,central european time,0
+which country does the creator of miffy come from,calling code,telephone numbers in cura ao and the caribbean netherlands,0
+which country does the creator of miffy come from,calling code,telephone numbers in the netherlands,0
+which country does the creator of miffy come from,country code,nld,0
+which country does the creator of miffy come from,established event,act of abjuration,0
+which country does the creator of miffy come from,established event,charter for the kingdom of the netherlands,0
+which country does the creator of miffy come from,established event,peace of m nster,0
+which country does the creator of miffy come from,ethnic groups,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic groups,dutch people,0
+which country does the creator of miffy come from,ethnic groups,european union,0
+which country does the creator of miffy come from,ethnic groups,moroccan dutch,0
+which country does the creator of miffy come from,ethnic groups,overseas indonesian,0
+which country does the creator of miffy come from,ethnic groups,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic groups,turks in the netherlands,0
+which country does the creator of miffy come from,leader name,mark rutte,0
+which country does the creator of miffy come from,leader name,willem alexander of the netherlands,0
+which country does the creator of miffy come from,legislature,states general of the netherlands,1
+which country does the creator of miffy come from,lower house,house of representatives  netherlands,0
+which country does the creator of miffy come from,time zone dst,atlantic time zone,0
+which country does the creator of miffy come from,time zone dst,central european summer time,0
+which country does the creator of miffy come from,upper house,senate  netherlands,0
+which country does the creator of miffy come from,owl different from,holland,1
+which european countries have a constitutional monarchy,anthem,honors music,0
+which european countries have a constitutional monarchy,anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,anthem,kongesangen,0
+which european countries have a constitutional monarchy,capital,oslo,1
+which european countries have a constitutional monarchy,currency,norwegian krone,1
+which european countries have a constitutional monarchy,ethnic group,forest finns,0
+which european countries have a constitutional monarchy,ethnic group,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic group,jews,0
+which european countries have a constitutional monarchy,ethnic group,kven people,0
+which european countries have a constitutional monarchy,ethnic group,norwegians,0
+which european countries have a constitutional monarchy,ethnic group,romani people,0
+which european countries have a constitutional monarchy,ethnic group,sami people,0
+which european countries have a constitutional monarchy,government type,unitary state,0
+which european countries have a constitutional monarchy,language,kven language,0
+which european countries have a constitutional monarchy,language,latin alphabet,0
+which european countries have a constitutional monarchy,language,lule sami language,0
+which european countries have a constitutional monarchy,language,northern sami,0
+which european countries have a constitutional monarchy,language,norwegian language,0
+which european countries have a constitutional monarchy,language,romani language,0
+which european countries have a constitutional monarchy,language,scandoromani language,0
+which european countries have a constitutional monarchy,language,southern sami language,0
+which european countries have a constitutional monarchy,leader,erna solberg,1
+which european countries have a constitutional monarchy,leader,harald v of norway,2
+which european countries have a constitutional monarchy,leader,olemic thommessen,0
+which european countries have a constitutional monarchy,leader,tore schei,0
+which european countries have a constitutional monarchy,official language,lule sami language,0
+which european countries have a constitutional monarchy,official language,northern sami,0
+which european countries have a constitutional monarchy,official language,norwegian language,0
+which european countries have a constitutional monarchy,official language,southern sami language,0
+which european countries have a constitutional monarchy,regional language,kven language,0
+which european countries have a constitutional monarchy,regional language,romani language,0
+which european countries have a constitutional monarchy,regional language,scandoromani language,0
+which european countries have a constitutional monarchy,time zone,central european time,0
+which european countries have a constitutional monarchy,calling code,telephone numbers in norway,0
+which european countries have a constitutional monarchy,established event,constitution of norway,1
+which european countries have a constitutional monarchy,established event,denmark norway,2
+which european countries have a constitutional monarchy,established event,dissolution of the union between norway and sweden,1
+which european countries have a constitutional monarchy,established event,german occupation of norway,0
+which european countries have a constitutional monarchy,established event,kalmar union,1
+which european countries have a constitutional monarchy,established event,unification of norway,0
+which european countries have a constitutional monarchy,established event,union between sweden and norway,0
+which european countries have a constitutional monarchy,ethnic groups,forest finns,0
+which european countries have a constitutional monarchy,ethnic groups,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic groups,jews,0
+which european countries have a constitutional monarchy,ethnic groups,kven people,0
+which european countries have a constitutional monarchy,ethnic groups,norwegians,1
+which european countries have a constitutional monarchy,ethnic groups,romani people,0
+which european countries have a constitutional monarchy,ethnic groups,sami people,0
+which european countries have a constitutional monarchy,languages type,writing system,0
+which european countries have a constitutional monarchy,leader name,erna solberg,0
+which european countries have a constitutional monarchy,leader name,harald v of norway,1
+which european countries have a constitutional monarchy,leader name,olemic thommessen,0
+which european countries have a constitutional monarchy,leader name,tore schei,1
+which european countries have a constitutional monarchy,national anthem,honors music,0
+which european countries have a constitutional monarchy,national anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,national anthem,kongesangen,0
+which european countries have a constitutional monarchy,official languages,lule sami language,0
+which european countries have a constitutional monarchy,official languages,northern sami,0
+which european countries have a constitutional monarchy,official languages,norwegian language,1
+which european countries have a constitutional monarchy,official languages,southern sami language,0
+which european countries have a constitutional monarchy,patron saint,olaf ii of norway,0
+which european countries have a constitutional monarchy,regional languages,kven language,0
+which european countries have a constitutional monarchy,regional languages,romani language,0
+which european countries have a constitutional monarchy,regional languages,scandoromani language,0
+which european countries have a constitutional monarchy,religion,church of norway,0
+which european countries have a constitutional monarchy,sovereignty type,history of norway,2
+which european countries have a constitutional monarchy,state religion,church of norway,1
+which european countries have a constitutional monarchy,time zone dst,central european summer time,0
+which european countries have a constitutional monarchy,owl different from,noriega,0

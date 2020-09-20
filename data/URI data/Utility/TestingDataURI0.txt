@@ -1,0 +1,194 @@
+b  f  skinner,alma mater,hamilton college  new york,3
+b  f  skinner,alma mater,harvard university,3
+b  f  skinner,award,national medal of science,2
+b  f  skinner,birth place,susquehanna depot  pennsylvania,4
+b  f  skinner,death place,cambridge  massachusetts,4
+b  f  skinner,field,linguistics,2
+b  f  skinner,field,philosophy,3
+b  f  skinner,field,psychology,3
+b  f  skinner,influenced by,charles darwin,2
+b  f  skinner,influenced by,edward thorndike,2
+b  f  skinner,influenced by,ernst mach,1
+b  f  skinner,influenced by,henry david thoreau,1
+b  f  skinner,influenced by,ivan pavlov,2
+b  f  skinner,influenced by,jacques loeb,1
+b  f  skinner,influenced by,jean jacques rousseau,2
+b  f  skinner,influenced by,william james,1
+b  f  skinner,known for,operant conditioning,2
+b  f  skinner,known for,operant conditioning chamber,1
+b  f  skinner,known for,radical behaviorism,1
+b  f  skinner,nationality,americans,3
+b  f  skinner,children,julie vargas,2
+b  f  skinner,influences,charles darwin,1
+b  f  skinner,influences,edward thorndike,2
+b  f  skinner,influences,ernst mach,2
+b  f  skinner,influences,henry david thoreau,2
+b  f  skinner,influences,ivan pavlov,1
+b  f  skinner,influences,jacques loeb,1
+b  f  skinner,influences,jean jacques rousseau,1
+b  f  skinner,influences,william james,1
+b  f  skinner,prizes,national medal of science,1
+b  f  skinner,work institutions,harvard university,2
+b  f  skinner,work institutions,indiana university,2
+b  f  skinner,work institutions,university of minnesota,2
+computer systems that have a recursive acronym for the name,genre,mathematical software,1
+computer systems that have a recursive acronym for the name,license,gnu general public license,3
+computer systems that have a recursive acronym for the name,programming language,c,2
+computer systems that have a recursive acronym for the name,operating system,cross platform,2
+directed bela glen glenda bride monster plan 9 outer space,cinematography,ted allan,1
+directed bela glen glenda bride monster plan 9 outer space,cinematography,william c  thompson,1
+directed bela glen glenda bride monster plan 9 outer space,country,ALPHANUM,1
+directed bela glen glenda bride monster plan 9 outer space,director,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,distributor,banner pictures,2
+directed bela glen glenda bride monster plan 9 outer space,editing,warren adams,1
+directed bela glen glenda bride monster plan 9 outer space,music composer,frank worth,1
+directed bela glen glenda bride monster plan 9 outer space,producer,ed wood,1
+directed bela glen glenda bride monster plan 9 outer space,starring,bela lugosi,2
+directed bela glen glenda bride monster plan 9 outer space,starring,loretta king hadler,4
+directed bela glen glenda bride monster plan 9 outer space,starring,tor johnson,2
+directed bela glen glenda bride monster plan 9 outer space,writer,alex gordon  writer producer,2
+directed bela glen glenda bride monster plan 9 outer space,writer,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,music,frank worth,1
+earl may,family seat,highclere castle,1
+earl may,first holder,ALPHANUM,2
+earl may,monarch,george iii of the united kingdom,1
+earl may,peerage,peerage of great britain,0
+earl may,present holder,ALPHANUM,2
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,2
+england football player highest paid,former team,harlequin f c,1
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,1
+england football player highest paid,team,harlequin f c,3
+england football player highest paid,clubs,yorkshire carnegie,1
+england football player highest paid,currentclub,harlequin f c,1
+england football player highest paid,repteam,saxons,1
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,2
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+frequently visited sharks gulf indian ocean,country,india,2
+frequently visited sharks gulf indian ocean,country,sri lanka,3
+frequently visited sharks gulf indian ocean,basin countries,india,2
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,3
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+give me a list of all lakes in denmark,country,denmark,3
+give me a list of all lakes in denmark,location,jutland,3
+give me all people with first name jimmy,birth place,taiwan,3
+give me all people with first name jimmy,birth place,yilan county  taiwan,2
+give me the apollo 14 astronauts,birth place,durango  colorado,3
+give me the apollo 14 astronauts,death place,falls church  virginia,1
+give me the apollo 14 astronauts,nationality,united states,3
+give me the apollo 14 astronauts,occupation,fighter pilot,1
+give me the apollo 14 astronauts,occupation,test pilot,2
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,previous occupation,fighter pilot,1
+give me the apollo 14 astronauts,previous occupation,test pilot,1
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+nordic authors who are known for children s literature,birth place,denmark,3
+nordic authors who are known for children s literature,birth place,funen,3
+nordic authors who are known for children s literature,birth place,odense,4
+nordic authors who are known for children s literature,death place,copenhagen,3
+nordic authors who are known for children s literature,death place,denmark,2
+nordic authors who are known for children s literature,genre,children s literature,3
+nordic authors who are known for children s literature,genre,travel literature,1
+nordic authors who are known for children s literature,influenced by,brothers grimm,3
+nordic authors who are known for children s literature,influenced by,heinrich heine,1
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,1
+nordic authors who are known for children s literature,influences,brothers grimm,1
+nordic authors who are known for children s literature,influences,heinrich heine,1
+nordic authors who are known for children s literature,influences,ludvig holberg,1
+nordic authors who are known for children s literature,influences,william shakespeare,1
+provinces and territories of canada,bird,gyrfalcon,0
+provinces and territories of canada,capital,yellowknife,3
+provinces and territories of canada,flower,dryas octopetala,0
+provinces and territories of canada,officiallang,chipewyan language,1
+provinces and territories of canada,officiallang,cree language,1
+provinces and territories of canada,officiallang,dogrib language,1
+provinces and territories of canada,officiallang,english language,2
+provinces and territories of canada,officiallang,french language,2
+provinces and territories of canada,officiallang,gwich in language,1
+provinces and territories of canada,officiallang,inuinnaqtun,1
+provinces and territories of canada,officiallang,inuktitut,1
+provinces and territories of canada,officiallang,inuvialuktun,2
+provinces and territories of canada,officiallang,slavey language,1
+provinces and territories of canada,postalcodeprefix,list of x postal codes of canada,0
+provinces and territories of canada,premier,bob mc leod  politician,2
+provinces and territories of canada,premierparty,consensus government in canada,0
+provinces and territories of canada,tree,larix laricina,0
+provinces and territories of canada,viceroy,george tuccaro,0
+tango culture movies,birth place,buenos aires,2
+tango culture movies,place of birth,buenos aires,4
+ten ancient greek city kingdoms of cyprus,location,cyprus,4
+ten ancient greek city kingdoms of cyprus,location,famagusta district,3
+universities in catalunya,affiliation,xarxa vives d universitats,1
+universities in catalunya,city,barcelona,2
+universities in catalunya,country,spain,3
+universities in catalunya,state,catalonia,3
+universities in catalunya,affiliations,xarxa vives d universitats,2
+vietnam travel airports,city,hanoi,3
+vietnam travel airports,location,hanoi,4
+vietnam travel airports,location,vietnam,4
+vietnam travel airports,city served,hanoi,3
+which cities does the weser flow through,country,germany,3
+which cities does the weser flow through,federal state,bremen,3
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,prime minister,david cameron,3
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,2
+who founded intel,birth place,burlington  iowa,4
+who founded intel,birth place,iowa,2
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,3
+who founded intel,occupation,fairchild semiconductor,2
+who founded intel,occupation,intel,3
+who founded intel,occupation,ALPHANUM,2
+who founded intel,spouse,elizabeth noyce,2
+who is the mayor of berlin,alma mater,free university of berlin,2
+who is the mayor of berlin,birth place,berlin,2
+who is the mayor of berlin,birth place,west berlin,3
+who is the mayor of berlin,birth place,west germany,2
+who is the mayor of berlin,nationality,germany,2
+who is the mayor of berlin,party,social democratic party of germany,2
+who is the mayor of berlin,predecessor,andrea nahles,1
+who is the mayor of berlin,predecessor,eberhard diepgen,2
+who is the mayor of berlin,predecessor,frank walter steinmeier,1
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,1
+who is the mayor of berlin,residence,berlin,2
+who is the mayor of berlin,successor,michael m ller  politician,3
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,2
+who is the mayor of berlin,after,michael m ller  politician,1
+who is the mayor of berlin,before,eberhard diepgen,2
+who is the mayor of berlin,title,governing mayor of berlin,4

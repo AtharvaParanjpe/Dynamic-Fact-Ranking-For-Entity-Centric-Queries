@@ -1,0 +1,736 @@
+08 toyota tundra,assembly,princeton  indiana,1
+08 toyota tundra,assembly,san antonio,0
+08 toyota tundra,assembly,texas,0
+08 toyota tundra,assembly,toyota motor manufacturing indiana,3
+08 toyota tundra,assembly,united states,3
+08 toyota tundra,class,pickup truck,2
+08 toyota tundra,layout,automobile layout,1
+08 toyota tundra,layout,four wheel drive,0
+08 toyota tundra,layout,front engine design,0
+08 toyota tundra,manufacturer,toyota,4
+08 toyota tundra,model start year,NUM,1
+08 toyota tundra,predecessor,ALPHANUM,1
+08 toyota tundra,production start year,NUM,2
+08 toyota tundra,related mean of transportation,toyota sequoia,1
+08 toyota tundra,designer,craig kember,2
+08 toyota tundra,designer,hideo kondo  yusuku fukushima,2
+08 toyota tundra,designer,matt sperling,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,0
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,1
+08 toyota tundra,engine,NUM,2
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,NUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,1
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,2
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,height,ALPHANUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,NUM,0
+08 toyota tundra,length,double cab,0
+08 toyota tundra,model years,NUM,1
+08 toyota tundra,production,ALPHANUM,2
+08 toyota tundra,production,ALPHANUM,3
+08 toyota tundra,production,ALPHANUM,1
+08 toyota tundra,related,toyota sequoia,2
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,transmission,NUM,1
+08 toyota tundra,weight,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,NUM,0
+08 toyota tundra,wheelbase,double cab,0
+08 toyota tundra,width,NUM,0
+08 toyota tundra,width,double cab   limited,0
+08 toyota tundra,width,limited double cab,0
+alexander nevsky cathedral bulgarian city liberation turks,architect,alexander pomerantsev,3
+alexander nevsky cathedral bulgarian city liberation turks,architecture,yes,0
+alexander nevsky cathedral bulgarian city liberation turks,dome height outer,ALPHANUM,1
+alexander nevsky cathedral bulgarian city liberation turks,height max,ALPHANUM,1
+alexander nevsky cathedral bulgarian city liberation turks,latitude,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,leadership,patriarch of all bulgaria,3
+alexander nevsky cathedral bulgarian city liberation turks,longitude,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,map type,bulgaria,0
+alexander nevsky cathedral bulgarian city liberation turks,province,sofia,2
+alexander nevsky cathedral bulgarian city liberation turks,religious affiliation,bulgarian orthodox church,3
+alexander nevsky cathedral bulgarian city liberation turks,specifications,yes,0
+alexander nevsky cathedral bulgarian city liberation turks,state,bulgaria,3
+alexander nevsky cathedral bulgarian city liberation turks,status,cathedral,2
+alexander nevsky cathedral bulgarian city liberation turks,year completed,NUM,2
+alexander nevsky cathedral bulgarian city liberation turks,geo lat,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,geo long,NUM,0
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,1
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,capital,baguio,3
+baguio quezon city manila official independence 1945,capital,manila,3
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,1
+baguio quezon city manila official independence 1945,dissolution date,NUM,3
+baguio quezon city manila official independence 1945,dissolution year,NUM,3
+baguio quezon city manila official independence 1945,founding date,NUM,3
+baguio quezon city manila official independence 1945,founding year,NUM,4
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,2
+baguio quezon city manila official independence 1945,common languages,tagalog language,1
+baguio quezon city manila official independence 1945,continent,moved from category asia to southeast asia,0
+baguio quezon city manila official independence 1945,country,philippines,3
+baguio quezon city manila official independence 1945,date end,NUM,0
+baguio quezon city manila official independence 1945,date start,NUM,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,1
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,era,world war ii,1
+baguio quezon city manila official independence 1945,leader,jos  p  laurel,2
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,national anthem,awit sa paglikha ng bagong pilipinas,2
+baguio quezon city manila official independence 1945,national anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,native name,rep blik  ng pilipinas  tagalog,1
+baguio quezon city manila official independence 1945,region,southeast asia,1
+baguio quezon city manila official independence 1945,stat area,NUM,0
+baguio quezon city manila official independence 1945,stat pop,NUM,2
+baguio quezon city manila official independence 1945,stat year,NUM,1
+baguio quezon city manila official independence 1945,status,client state,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,2
+baguio quezon city manila official independence 1945,title deputy,speaker of the,0
+baguio quezon city manila official independence 1945,title leader,president of the philippines,2
+baguio quezon city manila official independence 1945,year end,NUM,3
+baguio quezon city manila official independence 1945,year start,NUM,2
+bicycle holiday nature,area total,NUM,0
+bicycle holiday nature,location,cook county  illinois,3
+bicycle holiday nature,location,illinois,2
+bicycle holiday nature,nearest city,schaumburg  illinois,0
+bicycle holiday nature,lat d,NUM,0
+bicycle holiday nature,long d,NUM,0
+bicycle holiday nature,region,us il,0
+bicycle holiday nature,geo lat,NUM,0
+bicycle holiday nature,geo long,NUM,0
+bicycle holiday nature,georss point,NUM,0
+david suchet,active years start year,NUM,2
+david suchet,birth date,NUM,4
+david suchet,birth place,england,4
+david suchet,birth place,london,4
+david suchet,birth year,NUM,3
+david suchet,occupation,ALPHANUM,2
+david suchet,relative,john suchet,2
+david suchet,children,NUM,1
+david suchet,date of birth,NUM,4
+david suchet,honorific suffix,order of the british empire,0
+david suchet,place of birth,london  england  uk,4
+david suchet,relatives,john suchet,3
+david suchet,short description,actor,4
+david suchet,spouse,NUM,0
+david suchet,spouse,sheila ferris,3
+david suchet,whole name,david suchet,2
+david suchet,years active,NUM,1
+did nicole kidman have any siblings,birth date,NUM,2
+did nicole kidman have any siblings,birth place,australia,3
+did nicole kidman have any siblings,birth place,melbourne,3
+did nicole kidman have any siblings,birth year,NUM,3
+did nicole kidman have any siblings,imdb id,NUM,0
+did nicole kidman have any siblings,occupation,ALPHANUM,2
+did nicole kidman have any siblings,occupation,journalist,2
+did nicole kidman have any siblings,relative,nicole kidman,3
+did nicole kidman have any siblings,children,NUM,0
+did nicole kidman have any siblings,date of birth,NUM,3
+did nicole kidman have any siblings,nationality,australian,2
+did nicole kidman have any siblings,place of birth,australia,3
+did nicole kidman have any siblings,place of birth,melbourne,3
+did nicole kidman have any siblings,relatives,nicole kidman,3
+did nicole kidman have any siblings,residence,singapore,1
+did nicole kidman have any siblings,short description,australian journalist,3
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,angus hawley,1
+did nicole kidman have any siblings,spouse,craig marran,1
+give me all female german chancellors,alias,merkel  angela dorothea  full name,3
+give me all female german chancellors,alma mater,leipzig university,2
+give me all female german chancellors,birth date,NUM,2
+give me all female german chancellors,birth place,hamburg,3
+give me all female german chancellors,birth place,west germany,3
+give me all female german chancellors,birth year,NUM,2
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,2
+give me all female german chancellors,office,chancellor of germany,3
+give me all female german chancellors,office,leader of the christian democratic union of germany,3
+give me all female german chancellors,office,minister for women and youth,1
+give me all female german chancellors,office,minister for the environment,1
+give me all female german chancellors,party,christian democratic union of germany,3
+give me all female german chancellors,party,democratic awakening,2
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,2
+give me all female german chancellors,predecessor,gerhard schr der,2
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,3
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,1
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,before,norbert lammert,1
+give me all female german chancellors,chancellor,helmut kohl,2
+give me all female german chancellors,date of birth,NUM,2
+give me all female german chancellors,place of birth,hamburg  germany,3
+give me all female german chancellors,short description,german politician,3
+give me all female german chancellors,term end,NUM,0
+give me all female german chancellors,term end,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,2
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,2
+give me all female german chancellors,title,chancellor of germany,3
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,2
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+give me all female german chancellors,title,ALPHANUM,0
+give me all female german chancellors,title,general secretary of the christian democratic union,3
+give me all female german chancellors,title,leader of the christian democratic union,3
+give me all female german chancellors,title,speaker at the invocation of the college of europe,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,1
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,foaf homepage,http   www bundeskanzlerin de webs bk en,0
+john lennon  parents,work runtime,NUM,0
+john lennon  parents,work runtime,NUM,0
+john lennon  parents,artist,john lennon,4
+john lennon  parents,genre,rock music,2
+john lennon  parents,previous work,lennon legend  the very best of john lennon,0
+john lennon  parents,producer,yoko ono,2
+john lennon  parents,record label,capitol records,2
+john lennon  parents,record label,emi,1
+john lennon  parents,release date,NUM,2
+john lennon  parents,runtime,NUM,0
+john lennon  parents,runtime,NUM,0
+john lennon  parents,subsequent work,instant karma  all time greatest hits,0
+john lennon  parents,border,yes,0
+john lennon  parents,last album,john lennon anthology,1
+john lennon  parents,last album,lennon legend  the very best of john lennon,2
+john lennon  parents,length,NUM,0
+john lennon  parents,length,NUM,0
+john lennon  parents,next album,instant karma  all time greatest hits,2
+john lennon  parents,recorded,ALPHANUM,1
+john lennon  parents,recorded,ALPHANUM,2
+john lennon  parents,released,NUM,2
+john lennon  parents,rev,all music,0
+john lennon  parents,rev,paste,0
+john lennon  parents,rev,the rolling stone album guide,0
+john lennon  parents,this album,john lennon anthology,0
+john lennon  parents,this album,wonsaponatime,1
+list of films from the surrealist category,work runtime,NUM,0
+list of films from the surrealist category,budget,NUM,0
+list of films from the surrealist category,director,alejandro jodorowsky,2
+list of films from the surrealist category,music composer,simon boswell,1
+list of films from the surrealist category,producer,claudio argento,2
+list of films from the surrealist category,runtime,NUM,0
+list of films from the surrealist category,starring,adan jodorowsky,2
+list of films from the surrealist category,starring,blanca guerra,2
+list of films from the surrealist category,starring,crist bal jodorowsky,3
+list of films from the surrealist category,starring,guy stockwell,2
+list of films from the surrealist category,writer,alejandro jodorowsky,2
+list of films from the surrealist category,writer,claudio argento,3
+list of films from the surrealist category,writer,roberto leoni,2
+list of films from the surrealist category,cinematography,daniele nannuzzi,1
+list of films from the surrealist category,country,italy,2
+list of films from the surrealist category,country,mexico,1
+list of films from the surrealist category,distributor,expanded entertainment,1
+list of films from the surrealist category,distributor,mainline pictures,1
+list of films from the surrealist category,editing,mauro bonanni,1
+list of films from the surrealist category,language,english,1
+list of films from the surrealist category,music,simon boswell,2
+michael zimmerman,birth date,NUM,4
+michael zimmerman,birth year,NUM,4
+michael zimmerman,blp,yes,0
+michael zimmerman,date,ALPHANUM,0
+michael zimmerman,date of birth,NUM,4
+michael zimmerman,short description,american philosopher,4
+michael zimmerman,foaf homepage,http   www colorado edu arts sciences cha profiles zimmerman html,2
+nelson mandela john dube,alias,mandela  rolihlahla,0
+nelson mandela john dube,birth date,NUM,4
+nelson mandela john dube,birth place,cape province,3
+nelson mandela john dube,birth place,mvezo,2
+nelson mandela john dube,birth place,union of south africa,4
+nelson mandela john dube,birth year,NUM,4
+nelson mandela john dube,death date,NUM,4
+nelson mandela john dube,death place,gauteng,4
+nelson mandela john dube,death place,johannesburg,4
+nelson mandela john dube,death place,south africa,2
+nelson mandela john dube,death year,NUM,4
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,office,ALPHANUM,3
+nelson mandela john dube,other party,south african communist party,1
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,1
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,2
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,3
+nelson mandela john dube,spouse,gra a machel,2
+nelson mandela john dube,spouse,winnie madikizela mandela,2
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,blank,awards,0
+nelson mandela john dube,blank,known for,0
+nelson mandela john dube,blank,notable work,0
+nelson mandela john dube,commons,nelson mandela,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,data,long walk to freedom,0
+nelson mandela john dube,date of birth,NUM,4
+nelson mandela john dube,date of death,NUM,4
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,1
+nelson mandela john dube,honorific suffix,order of the elephant,1
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,nationality,south african,4
+nelson mandela john dube,place of birth,cape province,3
+nelson mandela john dube,place of birth,mvezo,3
+nelson mandela john dube,place of birth,union of south africa,4
+nelson mandela john dube,place of death,johannesburg  south africa,4
+nelson mandela john dube,quote,that south africa belongs to all who live in it  black and white  and that no government can justly claim authority unless it is based on the will of the people,1
+nelson mandela john dube,short description,south african politician and anti apartheid fighter  president of south africa,4
+nelson mandela john dube,source,ALPHANUM,1
+nelson mandela john dube,source,opening words of the freedom charter,0
+nelson mandela john dube,source,ALPHANUM,0
+nelson mandela john dube,species,no,0
+nelson mandela john dube,term end,NUM,2
+nelson mandela john dube,term start,NUM,1
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,1
+nelson mandela john dube,title,president of south africa,4
+nelson mandela john dube,width,NUM,0
+nelson mandela john dube,wikt,no,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,foaf nick,dalibunga,0
+nelson mandela john dube,foaf nick,madiba,1
+nelson mandela john dube,foaf nick,tata,0
+scott county,added,NUM,0
+scott county,location,georgetown  kentucky,4
+scott county,nrhp reference number,NUM,0
+scott county,year of construction,NUM,4
+scott county,architect,j w  lucas  j  t  brooks,2
+scott county,architecture,italianate architecture,1
+scott county,architecture,romanesque architecture,0
+scott county,area,less than one acre,0
+scott county,built,NUM,2
+scott county,coord display,inline title,0
+scott county,governing body,local,0
+scott county,lat degrees,NUM,0
+scott county,lat minutes,NUM,0
+scott county,lat seconds,NUM,0
+scott county,locmapin,kentucky,0
+scott county,long degrees,NUM,0
+scott county,long minutes,NUM,0
+scott county,long seconds,NUM,0
+scott county,nrhp type,nrhp,0
+scott county,refnum,NUM,0
+scott county,foaf homepage,http   www artsandculturalcenter org,0
+scott county,geo lat,NUM,0
+scott county,geo long,NUM,0
+scott county,georss point,NUM,0
+sealy mattress co,foundation place,sealy  texas,2
+sealy mattress co,founding year,NUM,4
+sealy mattress co,location city,trinity  north carolina,3
+sealy mattress co,location country,united states,2
+sealy mattress co,number of employees,NUM,1
+sealy mattress co,parent company,tempur sealy international,4
+sealy mattress co,foundation,sealy  texas,3
+sealy mattress co,founder,daniel haynes,3
+sealy mattress co,homepage,http   www sealy com,2
+sealy mattress co,industry,furnishings,2
+sealy mattress co,key people,larry rogers  president and chief executive officer,2
+sealy mattress co,num employees,NUM,1
+sealy mattress co,parent,tempur sealy international,2
+sealy mattress co,products,bedding,3
+sealy mattress co,foaf homepage,http   www sealy com,3
+tango dance history,derivative,maxixe  dance,1
+tango dance history,instrument,accordion,1
+tango dance history,instrument,bandoneon,1
+tango dance history,instrument,double bass,1
+tango dance history,instrument,guitar,1
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,1
+tango dance history,instrument,violin,1
+tango dance history,music subgenre,argentine tango,3
+tango dance history,music subgenre,ballroom tango,2
+tango dance history,music subgenre,finnish tango,2
+tango dance history,music subgenre,nuevo tango,1
+tango dance history,stylistic origin,candombe,2
+tango dance history,stylistic origin,contradanza,2
+tango dance history,stylistic origin,milonga  music,1
+tango dance history,stylistic origin,payada,3
+tango dance history,stylistic origin,polka,2
+tango dance history,stylistic origin,tango  flamenco,3
+tango dance history,stylistic origin,waltz  music,2
+tango dance history,stylistic origin,zarzuela,2
+tango dance history,bgcolor,blue,0
+tango dance history,color,white,0
+tango dance history,cultural origins,NUM,3
+tango dance history,derivatives,maxixe  dance,1
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,1
+tango dance history,instruments,double bass,1
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,1
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,1
+tango dance history,popularity,ALPHANUM,0
+tango dance history,stylistic origins,candombe,3
+tango dance history,stylistic origins,contradanza,2
+tango dance history,stylistic origins,milonga  music,1
+tango dance history,stylistic origins,payada,3
+tango dance history,stylistic origins,polka,2
+tango dance history,stylistic origins,tango  flamenco,2
+tango dance history,stylistic origins,waltz  music,2
+tango dance history,stylistic origins,zarzuela,2
+tango dance history,subgenrelist,list of tango genres,1
+tango dance history,subgenres,argentine tango,2
+tango dance history,subgenres,ballroom tango,2
+tango dance history,subgenres,finnish tango,2
+tango dance history,subgenres,nuevo tango,2
+toledo bend realty,populated place area total,NUM,1
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place population density,NUM,0
+toledo bend realty,area code,NUM,2
+toledo bend realty,area land,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,country,united states,2
+toledo bend realty,elevation,NUM,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,is part of,lucas county  ohio,1
+toledo bend realty,is part of,ohio,3
+toledo bend realty,leader name,paula hicks hudson,1
+toledo bend realty,leader title,mayor,0
+toledo bend realty,population density,NUM,0
+toledo bend realty,population metro,NUM,0
+toledo bend realty,population total,NUM,2
+toledo bend realty,population total ranking,NUM,0
+toledo bend realty,population urban,NUM,1
+toledo bend realty,time zone,eastern time zone,1
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,area land km,NUM,1
+toledo bend realty,area land sq mi,NUM,2
+toledo bend realty,area total km,NUM,0
+toledo bend realty,area total sq mi,NUM,0
+toledo bend realty,area water km,NUM,0
+toledo bend realty,area water sq mi,NUM,0
+toledo bend realty,blank info,NUM,0
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,centre,toledo,2
+toledo bend realty,coordinates region,us oh,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,elevation ft,NUM,0
+toledo bend realty,elevation m,NUM,0
+toledo bend realty,established date,NUM,2
+toledo bend realty,established title,founded,0
+toledo bend realty,latd,NUM,0
+toledo bend realty,latm,NUM,0
+toledo bend realty,lats,NUM,0
+toledo bend realty,longd,NUM,0
+toledo bend realty,longm,NUM,0
+toledo bend realty,longs,NUM,0
+toledo bend realty,north,bedford township,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,northeast,erie township,0
+toledo bend realty,northwest,whiteford township,0
+toledo bend realty,official name,city of toledo,2
+toledo bend realty,pop est as of,NUM,0
+toledo bend realty,population as of,NUM,0
+toledo bend realty,population blank,toledoan,0
+toledo bend realty,population density km,NUM,0
+toledo bend realty,population est,NUM,1
+toledo bend realty,population rank,ALPHANUM,0
+toledo bend realty,postal code type,zip codes,0
+toledo bend realty,pushpin map,usa,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,1
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,1
+toledo bend realty,unit pref,imperial,0
+toledo bend realty,utc offset dst,NUM,0
+toledo bend realty,website,http   www toledo oh gov,3
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+toledo bend realty,foaf homepage,http   www toledo oh gov,1
+toledo bend realty,foaf nick,the glass city  t town  frogtown,1
+toledo bend realty,geo lat,NUM,0
+toledo bend realty,geo long,NUM,0
+toledo bend realty,georss point,NUM,0
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,ingredient name,deep fried dried starch and other ingredients  the most popular is prawn,2
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,2
+vietnam food recipes,serving temperature,room temperature,0
+vietnam food recipes,course,snack,0
+vietnam food recipes,creator,traditional food,2
+vietnam food recipes,main ingredient,deep fried dried starch and other ingredients  the most popular is prawn,3
+vietnam food recipes,served,room temperature,2
+vietnam food recipes,variations,different variations according to ingredients,0
+vietnam food recipes,dc type,snack,1
+vietnam travel airports,city,hanoi,3
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,iata location identifier,han,1
+vietnam travel airports,icao location identifier,vvnb,0
+vietnam travel airports,location,hanoi,4
+vietnam travel airports,location,vietnam,4
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway surface,asphalt,1
+vietnam travel airports,runway surface,concrete,0
+vietnam travel airports,city served,hanoi,3
+vietnam travel airports,elevation f,NUM,0
+vietnam travel airports,elevation m,NUM,0
+vietnam travel airports,iata,han,0
+vietnam travel airports,icao,vvnb,0
+vietnam travel airports,latd,NUM,0
+vietnam travel airports,latm,NUM,0
+vietnam travel airports,lats,NUM,0
+vietnam travel airports,longd,NUM,0
+vietnam travel airports,longm,NUM,0
+vietnam travel airports,longs,NUM,0
+vietnam travel airports,operator,noi bai international airport operation,1
+vietnam travel airports,owner,airports corporation of vietnam,3
+vietnam travel airports,pushpin label,han,0
+vietnam travel airports,pushpin map,vietnam,1
+vietnam travel airports,pushpin mapsize,NUM,0
+vietnam travel airports,stat year,NUM,1
+vietnam travel airports,geo lat,NUM,0
+vietnam travel airports,geo long,NUM,0
+vietnam travel airports,georss point,NUM,0
+which books by kerouac were published by viking press,author,jack kerouac,4
+which books by kerouac were published by viking press,isbn,NUM,1
+which books by kerouac were published by viking press,literary genre,beat generation,1
+which books by kerouac were published by viking press,literary genre,short story collection,1
+which books by kerouac were published by viking press,media type,hardcover,1
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,1
+which books by kerouac were published by viking press,publisher,viking press,4
+which books by kerouac were published by viking press,subsequent work,good blonde   others,2
+which books by kerouac were published by viking press,country,united states,2
+which books by kerouac were published by viking press,followed by,good blonde   others,2
+which books by kerouac were published by viking press,genre,beat generation,2
+which books by kerouac were published by viking press,genre,short story collection,1
+which books by kerouac were published by viking press,language,english,1
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,1
+which books by kerouac were published by viking press,release date,NUM,2
+which countries have places with more than two caves,area km,NUM,0
+which countries have places with more than two caves,area magnitude,NUM,0
+which countries have places with more than two caves,area sq mi,NUM,0
+which countries have places with more than two caves,capital,cardiff,2
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,city,aberdare,0
+which countries have places with more than two caves,city,barry  wales barry,0
+which countries have places with more than two caves,city,blackwood  wales blackwood,4
+which countries have places with more than two caves,city,bridgend,1
+which countries have places with more than two caves,city,caerphilly,0
+which countries have places with more than two caves,city,cardiff,2
+which countries have places with more than two caves,city,colwyn bay,0
+which countries have places with more than two caves,city,cwmbran,0
+which countries have places with more than two caves,city,llanelli,1
+which countries have places with more than two caves,city,maesteg,1
+which countries have places with more than two caves,city,merthyr tydfil,0
+which countries have places with more than two caves,city,neath,0
+which countries have places with more than two caves,city,newport  wales newport,0
+which countries have places with more than two caves,city,penarth,0
+which countries have places with more than two caves,city,pontypool,0
+which countries have places with more than two caves,city,pontypridd,0
+which countries have places with more than two caves,city,port talbot,0
+which countries have places with more than two caves,city,rhyl,0
+which countries have places with more than two caves,city,swansea,0
+which countries have places with more than two caves,city,wrexham,1
+which countries have places with more than two caves,class,info,0
+which countries have places with more than two caves,country,wales,4
+which countries have places with more than two caves,demonym,welsh,0
+which countries have places with more than two caves,div,bridgend county borough,0
+which countries have places with more than two caves,div,caerphilly county borough,0
+which countries have places with more than two caves,div,cardiff council city   county of cardiff,1
+which countries have places with more than two caves,div,carmarthenshire,0
+which countries have places with more than two caves,div,city and county of swansea council city   county of swansea,0
+which countries have places with more than two caves,div,conwy county borough,1
+which countries have places with more than two caves,div,denbighshire,0
+which countries have places with more than two caves,div,merthyr tydfil,0
+which countries have places with more than two caves,div,neath port talbot,0
+which countries have places with more than two caves,div,newport city council newport city,0
+which countries have places with more than two caves,div,rhondda cynon taf,0
+which countries have places with more than two caves,div,torfaen,0
+which countries have places with more than two caves,div,vale of glamorgan,0
+which countries have places with more than two caves,div,wrexham county borough,0
+which countries have places with more than two caves,div name,council area,0
+which countries have places with more than two caves,established date,NUM,1
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,established event,unification by,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,gdp ppp,ALPHANUM,0
+which countries have places with more than two caves,gdp ppp per capita,NUM,0
+which countries have places with more than two caves,gdp year,NUM,0
+which countries have places with more than two caves,government type,devolved parliamentary legislature within parliamentary constitutional monarchy,1
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,largest city,capital,0
+which countries have places with more than two caves,latd,NUM,0
+which countries have places with more than two caves,latm,NUM,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,list by pop,list of towns and cities in wales by population,0
+which countries have places with more than two caves,longd,NUM,0
+which countries have places with more than two caves,longm,NUM,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,patron saint,saint david,1
+which countries have places with more than two caves,politics link,politics of wales,1
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,population census,NUM,1
+which countries have places with more than two caves,population census year,NUM,0
+which countries have places with more than two caves,population density km,NUM,0
+which countries have places with more than two caves,population density sq mi,NUM,0
+which countries have places with more than two caves,prime minister,david cameron,3
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,stat ref,ALPHANUM,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+which countries have places with more than two caves,title,articles relating to wales,0
+which countries have places with more than two caves,foaf homepage,http   www visitwales com,2
+who produces orangina,founding year,NUM,2
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,net income,ALPHANUM,1
+who produces orangina,number of employees,NUM,1
+who produces orangina,operating income,ALPHANUM,0
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,2
+who produces orangina,product,tizer,1
+who produces orangina,revenue,ALPHANUM,0
+who produces orangina,foundation,NUM,2
+who produces orangina,founder,robert barr,2
+who produces orangina,homepage,http   www agbarr co uk,2
+who produces orangina,key people,roger white  chief executive,1
+who produces orangina,key people,ronnie hanna  chairman,1
+who produces orangina,num employees,NUM,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2
+who produces orangina,products,american cream soda,1
+who produces orangina,products,appleade,1
+who produces orangina,products,bubblegum,1
+who produces orangina,products,d n b,1
+who produces orangina,products,ka,1
+who produces orangina,products,limeade,1
+who produces orangina,foaf homepage,http   www agbarr co uk,1

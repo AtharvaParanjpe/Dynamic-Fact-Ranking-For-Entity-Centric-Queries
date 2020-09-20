@@ -1,0 +1,594 @@
+einstein relativity theory,birth date,NUM,0
+einstein relativity theory,birth year,NUM,0
+einstein relativity theory,death date,NUM,0
+einstein relativity theory,death year,NUM,0
+einstein relativity theory,date of birth,NUM,0
+einstein relativity theory,date of death,NUM,0
+einstein relativity theory,short description,german physicist,1
+eloan line of credit,founded by,chris larsen,1
+eloan line of credit,founding year,NUM,0
+eloan line of credit,industry,financial services,1
+eloan line of credit,location,rosemont  illinois,1
+eloan line of credit,location,united states,1
+eloan line of credit,number of employees,NUM,0
+eloan line of credit,parent company,popular  inc,1
+eloan line of credit,company slogan,radically simple,0
+eloan line of credit,foundation,NUM,0
+eloan line of credit,founder,janina pawlowski and chris larsen,0
+eloan line of credit,homepage,http   www eloan com,1
+eloan line of credit,key people,mark lefanowicz  president,1
+eloan line of credit,num employees,NUM,0
+eloan line of credit,parent,popular  inc,0
+eloan line of credit,products,savings accounts   c ds,1
+eloan line of credit,foaf homepage,http   www eloan com,1
+europe solar power facility,color,forestgreen,0
+europe solar power facility,color,pink,0
+europe solar power facility,direction,horizontal,0
+europe solar power facility,thumb,right,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,width,NUM,0
+famous computer scientists disappeared at sea,alma mater,university of california  berkeley,1
+famous computer scientists disappeared at sea,award,turing award,1
+famous computer scientists disappeared at sea,birth date,NUM,0
+famous computer scientists disappeared at sea,birth place,san francisco,1
+famous computer scientists disappeared at sea,birth year,NUM,1
+famous computer scientists disappeared at sea,death date,NUM,1
+famous computer scientists disappeared at sea,death year,NUM,0
+famous computer scientists disappeared at sea,employer,digital equipment corporation,1
+famous computer scientists disappeared at sea,employer,ibm,1
+famous computer scientists disappeared at sea,employer,microsoft,0
+famous computer scientists disappeared at sea,employer,tandem computers,0
+famous computer scientists disappeared at sea,known for,database,0
+famous computer scientists disappeared at sea,known for,transaction processing,0
+famous computer scientists disappeared at sea,nationality,united states,1
+famous computer scientists disappeared at sea,occupation,computer scientist,1
+famous computer scientists disappeared at sea,occupation,ALPHANUM,2
+famous computer scientists disappeared at sea,state of origin,united states,0
+famous computer scientists disappeared at sea,awards,turing award,0
+famous computer scientists disappeared at sea,children,NUM,0
+famous computer scientists disappeared at sea,date of birth,NUM,1
+famous computer scientists disappeared at sea,date of death,NUM,1
+famous computer scientists disappeared at sea,disappeared place,waters near san francisco,1
+famous computer scientists disappeared at sea,disappeared status,NUM,0
+famous computer scientists disappeared at sea,doctoral advisor,michael harrison,0
+famous computer scientists disappeared at sea,place of birth,san francisco  california,0
+famous computer scientists disappeared at sea,short description,american computer scientist,1
+famous computer scientists disappeared at sea,spouse,loretta   donna carnes,0
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,0
+give me all current methodist national leaders,alma mater,madison business college,0
+give me all current methodist national leaders,alma mater,university of colorado boulder,0
+give me all current methodist national leaders,birth date,NUM,0
+give me all current methodist national leaders,birth place,liberia,1
+give me all current methodist national leaders,birth place,monrovia,0
+give me all current methodist national leaders,birth year,NUM,1
+give me all current methodist national leaders,office,ALPHANUM,1
+give me all current methodist national leaders,party,unity party  liberia,0
+give me all current methodist national leaders,predecessor,gyude bryant,0
+give me all current methodist national leaders,religion,methodism,1
+give me all current methodist national leaders,term period,ALPHANUM,1
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,children,NUM,0
+give me all current methodist national leaders,date of birth,NUM,1
+give me all current methodist national leaders,minister,amara mohamed konneh,1
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,0
+give me all current methodist national leaders,minister,george wallace  diplomat,1
+give me all current methodist national leaders,minister,joseph boakai,1
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,0
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,alphonso gaye,1
+give me all current methodist national leaders,minister,ambullai johnson,0
+give me all current methodist national leaders,minister,antoinette weeks,1
+give me all current methodist national leaders,minister,augustine ngafuan,0
+give me all current methodist national leaders,minister,axel addy,0
+give me all current methodist national leaders,minister,benedict f  sannoh,0
+give me all current methodist national leaders,minister,blamo nelson,0
+give me all current methodist national leaders,minister,christiana tah,1
+give me all current methodist national leaders,minister,christopher toe,1
+give me all current methodist national leaders,minister,e  othello gongar,1
+give me all current methodist national leaders,minister,edward b  mc clain  jr,1
+give me all current methodist national leaders,minister,ellen johnson sirleaf,2
+give me all current methodist national leaders,minister,etmonia david tarpeh,0
+give me all current methodist national leaders,minister,etmonia tarpeh,1
+give me all current methodist national leaders,minister,eugene shannon,1
+give me all current methodist national leaders,minister,florence chenoweth,1
+give me all current methodist national leaders,minister,frances johnson morris,0
+give me all current methodist national leaders,minister,frederick b  norkeh,1
+give me all current methodist national leaders,minister,gyude moore,0
+give me all current methodist national leaders,minister,harrison kahnweah,1
+give me all current methodist national leaders,minister,jackson e  doe,0
+give me all current methodist national leaders,minister,jamesetta howard wolokollie,0
+give me all current methodist national leaders,minister,jeremiah sulunteh,0
+give me all current methodist national leaders,minister,johnny mc clain,0
+give me all current methodist national leaders,minister,juah lawson,0
+give me all current methodist national leaders,minister,julia duncan cassell,1
+give me all current methodist national leaders,minister,lawrence bropleh,0
+give me all current methodist national leaders,minister,lenn eugene nagbe,1
+give me all current methodist national leaders,minister,lewis brown,0
+give me all current methodist national leaders,minister,luseni donzo,1
+give me all current methodist national leaders,minister,miatta beysolow,0
+give me all current methodist national leaders,minister,morris dukuly,1
+give me all current methodist national leaders,minister,neto z  lighe,0
+give me all current methodist national leaders,minister,patrick sendolo,1
+give me all current methodist national leaders,minister,philip a  z  banks,0
+give me all current methodist national leaders,minister,roosevelt jayjay,0
+give me all current methodist national leaders,minister,samuel kofi woods,1
+give me all current methodist national leaders,minister,tiawon gongloe,1
+give me all current methodist national leaders,minister,toga mc intosh,0
+give me all current methodist national leaders,minister,tornorlah vapilah,0
+give me all current methodist national leaders,minister,vabah gayflor,0
+give me all current methodist national leaders,minister,walter gwenigale,1
+give me all current methodist national leaders,minister,willard russell,0
+give me all current methodist national leaders,minister,willis knuckles,0
+give me all current methodist national leaders,place of birth,monrovia  liberia,0
+give me all current methodist national leaders,short description,president of liberia,2
+give me all current methodist national leaders,spouse,james sirleaf,0
+give me all current methodist national leaders,term start,NUM,1
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,2
+give me all current methodist national leaders,title,vice president of liberia,2
+give me all current methodist national leaders,title,culture and tourism,0
+give me all current methodist national leaders,title,economic affairs,0
+give me all current methodist national leaders,title,minister of agriculture,0
+give me all current methodist national leaders,title,minister of commerce,1
+give me all current methodist national leaders,title,minister of education,0
+give me all current methodist national leaders,title,minister of finance,0
+give me all current methodist national leaders,title,minister of foreign affairs,0
+give me all current methodist national leaders,title,minister of gender  children,0
+give me all current methodist national leaders,title,minister of health and,0
+give me all current methodist national leaders,title,minister of information,0
+give me all current methodist national leaders,title,minister of internal affairs,0
+give me all current methodist national leaders,title,minister of justice,0
+give me all current methodist national leaders,title,minister of labor,0
+give me all current methodist national leaders,title,minister of lands  mines,0
+give me all current methodist national leaders,title,minister of national defense,0
+give me all current methodist national leaders,title,minister of planning and,0
+give me all current methodist national leaders,title,minister of posts and,0
+give me all current methodist national leaders,title,minister of public works,1
+give me all current methodist national leaders,title,minister of state for,0
+give me all current methodist national leaders,title,minister of transport,0
+give me all current methodist national leaders,title,minister of youth and,0
+give me all current methodist national leaders,title,presidential affairs,0
+give me all current methodist national leaders,title,social welfare,0
+give me all current methodist national leaders,title,sports,0
+give me all current methodist national leaders,title,telecommunications,0
+give me all current methodist national leaders,title,the sirleaf cabinet,0
+give me all current methodist national leaders,title,and attorney general,0
+give me all current methodist national leaders,title,and energy,0
+give me all current methodist national leaders,title,and industry,0
+give me all current methodist national leaders,title,and social protection,0
+give me all current methodist national leaders,with,leymah gbowee,0
+give me all current methodist national leaders,with,tawakkol karman,0
+give me all current methodist national leaders,years,NUM,0
+give me all current methodist national leaders,years,NUM,0
+give me all current methodist national leaders,foaf homepage,http   www emansion gov lr,0
+give me all members of prodigy,active years start year,NUM,0
+give me all members of prodigy,associated band,the prodigy,2
+give me all members of prodigy,associated musical artist,the prodigy,2
+give me all members of prodigy,background,non vocal instrumentalist,0
+give me all members of prodigy,birth date,NUM,0
+give me all members of prodigy,birth place,braintree  essex,0
+give me all members of prodigy,birth year,NUM,0
+give me all members of prodigy,genre,alternative dance,0
+give me all members of prodigy,genre,alternative rock,0
+give me all members of prodigy,genre,big beat,0
+give me all members of prodigy,genre,breakbeat,0
+give me all members of prodigy,genre,breakbeat hardcore,0
+give me all members of prodigy,genre,electronic dance music,0
+give me all members of prodigy,genre,electropunk,0
+give me all members of prodigy,genre,hardcore  electronic dance music genre,0
+give me all members of prodigy,instrument,direct drive turntable,0
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,0
+give me all members of prodigy,record label,xl recordings,0
+give me all members of prodigy,active,NUM,0
+give me all members of prodigy,associated acts,ALPHANUM,1
+give me all members of prodigy,date of birth,NUM,1
+give me all members of prodigy,landscape,yes,0
+give me all members of prodigy,place of birth,braintree  essex  england,0
+give me all members of prodigy,short description,english musician  dj and record producer,2
+give me all members of prodigy,years active,NUM,0
+guitar classical bach,birth date,NUM,0
+guitar classical bach,birth year,NUM,0
+guitar classical bach,death date,NUM,0
+guitar classical bach,death year,NUM,0
+guitar classical bach,bot,ALPHANUM,0
+guitar classical bach,date,ALPHANUM,0
+guitar classical bach,date of birth,NUM,2
+guitar classical bach,date of death,NUM,0
+guitar classical bach,place of birth,sopiki  greece,0
+guitar classical bach,place of death,alexandria  virginia  usa,0
+guitar classical bach,short description,greek musician,0
+james clayton md,alma mater,university of delaware,0
+james clayton md,birth date,NUM,0
+james clayton md,birth place,cecil county  maryland,2
+james clayton md,birth place,maryland,0
+james clayton md,birth year,NUM,0
+james clayton md,death date,NUM,1
+james clayton md,death place,delaware,0
+james clayton md,death place,new castle  delaware,0
+james clayton md,death year,NUM,2
+james clayton md,office,chief justice of delaware,0
+james clayton md,office,united states senator,0
+james clayton md,office,from delaware,0
+james clayton md,party,federalist party,0
+james clayton md,party,whig party  united states,0
+james clayton md,predecessor,caesar augustus rodney,0
+james clayton md,predecessor,henry m  ridgely,0
+james clayton md,predecessor,john m  clayton,0
+james clayton md,region,delaware s at large congressional district,1
+james clayton md,region,delaware,0
+james clayton md,religion,presbyterian church in the united states of america,0
+james clayton md,residence,delaware,0
+james clayton md,residence,dover  delaware,0
+james clayton md,successor,john m  clayton,0
+james clayton md,successor,louis mc lane,0
+james clayton md,successor,presley spruance,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,after,louis mc lane,0
+james clayton md,after,presley spruance,0
+james clayton md,before,caesar augustus rodney,0
+james clayton md,before,henry m  ridgely,0
+james clayton md,before,john m  clayton,0
+james clayton md,date of birth,NUM,2
+james clayton md,date of death,NUM,0
+james clayton md,district,delaware s at large congressional district,0
+james clayton md,district,al,0
+james clayton md,place of birth,cecil county  maryland,2
+james clayton md,place of birth,maryland,0
+james clayton md,place of death,delaware,1
+james clayton md,place of death,new castle  delaware,0
+james clayton md,profession,lawyer,0
+james clayton md,short description,american politician,0
+james clayton md,spouse,jennette macomb,1
+james clayton md,state,delaware,0
+james clayton md,state,delaware,0
+james clayton md,term end,NUM,0
+james clayton md,term end,NUM,0
+james clayton md,term end,NUM,0
+james clayton md,term end,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,term start,NUM,0
+james clayton md,years,NUM,0
+james clayton md,years,NUM,0
+james clayton md,years,NUM,0
+japanese players in major league baseball,birth date,NUM,2
+japanese players in major league baseball,birth place,osaka,1
+japanese players in major league baseball,birth year,NUM,0
+japanese players in major league baseball,debut team,osaka kintetsu buffaloes,0
+japanese players in major league baseball,position,pitcher,1
+japanese players in major league baseball,after,a  j  burnett,0
+japanese players in major league baseball,after,al leiter,0
+japanese players in major league baseball,after,derek lowe,0
+japanese players in major league baseball,after,john smoltz,0
+japanese players in major league baseball,after,joichiro tatsuyoshi,0
+japanese players in major league baseball,after,kevin brown  right handed pitcher,0
+japanese players in major league baseball,bats,right,0
+japanese players in major league baseball,before,chiyonofuji mitsugu,0
+japanese players in major league baseball,before,dwight gooden,0
+japanese players in major league baseball,before,eric milton,0
+japanese players in major league baseball,before,greg maddux,0
+japanese players in major league baseball,before,kevin brown  right handed pitcher,0
+japanese players in major league baseball,brm,ALPHANUM,0
+japanese players in major league baseball,cube,hideo nomo,1
+japanese players in major league baseball,date of birth,NUM,0
+japanese players in major league baseball,debutdate,NUM,0
+japanese players in major league baseball,debutleague,nippon professional baseball,1
+japanese players in major league baseball,debutyear,NUM,0
+japanese players in major league baseball,fangraphs,NUM,0
+japanese players in major league baseball,finalleague,npb,0
+japanese players in major league baseball,finalteam,kintetsu buffaloes,0
+japanese players in major league baseball,finalyear,NUM,0
+japanese players in major league baseball,highlights,npb,0
+japanese players in major league baseball,hofdate,NUM,0
+japanese players in major league baseball,hoflink,japanese baseball hall of fame,0
+japanese players in major league baseball,hoftype,japanese,1
+japanese players in major league baseball,place of birth,osaka,0
+japanese players in major league baseball,short description,baseball player,1
+japanese players in major league baseball,statleague,npb,0
+japanese players in major league baseball,throws,right,0
+japanese players in major league baseball,title,hits per nine innings,0
+japanese players in major league baseball,title,japan professional sports grand prize,0
+japanese players in major league baseball,title,los angeles dodgers,1
+japanese players in major league baseball,title,no hitter,0
+japanese players in major league baseball,title,opening day,0
+japanese players in major league baseball,title,national league all star game starting pitcher,0
+japanese players in major league baseball,title,starting pitcher,1
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+japanese players in major league baseball,years,NUM,0
+most beautiful railway stations world cities located,populated place area total,NUM,0
+most beautiful railway stations world cities located,area code,NUM,0
+most beautiful railway stations world cities located,area total,NUM,0
+most beautiful railway stations world cities located,country,india,1
+most beautiful railway stations world cities located,is part of,kerala,1
+most beautiful railway stations world cities located,is part of,malappuram,2
+most beautiful railway stations world cities located,postal code,NUM,0
+most beautiful railway stations world cities located,synonym,parappnad,0
+most beautiful railway stations world cities located,time zone,indian standard time,0
+most beautiful railway stations world cities located,area code type,telephone code,0
+most beautiful railway stations world cities located,area total km,NUM,0
+most beautiful railway stations world cities located,demographics type,languages,0
+most beautiful railway stations world cities located,governing body,parappanangadi panchayat,0
+most beautiful railway stations world cities located,latd,NUM,0
+most beautiful railway stations world cities located,latm,NUM,0
+most beautiful railway stations world cities located,lats,NUM,0
+most beautiful railway stations world cities located,longd,NUM,0
+most beautiful railway stations world cities located,longm,NUM,0
+most beautiful railway stations world cities located,longs,NUM,0
+most beautiful railway stations world cities located,population density km,auto,0
+most beautiful railway stations world cities located,postal code type,postal index number,0
+most beautiful railway stations world cities located,pushpin label position,right,0
+most beautiful railway stations world cities located,pushpin map,india kerala,1
+most beautiful railway stations world cities located,registration plate,ALPHANUM,0
+most beautiful railway stations world cities located,settlement type,town,0
+most beautiful railway stations world cities located,subdivision name,kerala,0
+most beautiful railway stations world cities located,subdivision name,malappuram,1
+most beautiful railway stations world cities located,subdivision type,list of districts in india,0
+most beautiful railway stations world cities located,subdivision type,states and union territories of india,0
+most beautiful railway stations world cities located,subdivision type,country,0
+most beautiful railway stations world cities located,unit pref,metric,0
+most beautiful railway stations world cities located,website,http   www parappanangadipanchayath com,0
+most beautiful railway stations world cities located,foaf homepage,http   www parappanangadipanchayath com,0
+most beautiful railway stations world cities located,geo lat,NUM,0
+most beautiful railway stations world cities located,geo long,NUM,0
+most beautiful railway stations world cities located,georss point,NUM,0
+most famous award winning actor singer,active years start year,NUM,0
+most famous award winning actor singer,birth date,NUM,0
+most famous award winning actor singer,birth place,myanmar,0
+most famous award winning actor singer,birth place,yangon,0
+most famous award winning actor singer,birth year,NUM,1
+most famous award winning actor singer,occupation,actor,2
+most famous award winning actor singer,occupation,singing,0
+most famous award winning actor singer,occupation,ALPHANUM,0
+most famous award winning actor singer,parent,kawleikgyin ne win,0
+most famous award winning actor singer,date of birth,NUM,1
+most famous award winning actor singer,parents,kawleikgyin ne win  khin marla,0
+most famous award winning actor singer,place of birth,myanmar,0
+most famous award winning actor singer,place of birth,yangon,0
+most famous award winning actor singer,short description,burmese actor,0
+most famous award winning actor singer,yearsactive,NUM,0
+permanent members of the un security council,membership,full member,1
+permanent members of the un security council,nation,the united states of america,2
+permanent members of the un security council,representative,samantha power,0
+permanent members of the un security council,representative title,united states ambassador to the united nations,1
+permanent members of the un security council,sc seat,permanent members of the united nations security council,2
+permanent members of the un security council,foaf homepage,http   www usunnewyork usmission gov,1
+plymouth police department,agencyname,devon and cornwall police,2
+plymouth police department,airbases,NUM,0
+plymouth police department,aircraft,NUM,0
+plymouth police department,budget,ALPHANUM,0
+plymouth police department,constitution,ALPHANUM,0
+plymouth police department,country,united kingdom,1
+plymouth police department,countryabbr,uk,0
+plymouth police department,divname,england,0
+plymouth police department,divtype,country,0
+plymouth police department,electeetype,police and crime commissioner,1
+plymouth police department,employees,NUM,0
+plymouth police department,formedmonthday,NUM,0
+plymouth police department,formedyear,NUM,0
+plymouth police department,headquarters,middlemoor  exeter,0
+plymouth police department,legaljuris,england and wales,0
+plymouth police department,local,yes,0
+plymouth police department,mission,building safer communities together,0
+plymouth police department,motto,in auxilium omnium,0
+plymouth police department,mottotranslated,to the assistance of everybody,0
+plymouth police department,overviewbody,her majesty s inspectorate of constabulary,0
+plymouth police department,overviewbody,independent police complaints commission,0
+plymouth police department,police,yes,0
+plymouth police department,preceding,cornwall county constabulary,0
+plymouth police department,preceding,devon county constabulary,1
+plymouth police department,preceding,plymouth city police,2
+plymouth police department,sizearea,NUM,0
+plymouth police department,sizepopulation,NUM,0
+plymouth police department,stations,NUM,0
+plymouth police department,stationtype,police station,0
+plymouth police department,subdivname,devon and cornwall,0
+plymouth police department,subdivtype,police area,0
+plymouth police department,sworn,NUM,0
+plymouth police department,sworntype,constable,0
+plymouth police department,unitname,NUM,0
+plymouth police department,unittype,basic command unit,0
+plymouth police department,unsworn,NUM,0
+plymouth police department,unsworntype,police community support officer,0
+plymouth police department,volunteers,NUM,0
+plymouth police department,website,http   www devon cornwall police uk,2
+plymouth police department,foaf homepage,http   www devon cornwall police uk,2
+tango culture movies,birth date,NUM,0
+tango culture movies,birth place,buenos aires,0
+tango culture movies,birth year,NUM,1
+tango culture movies,death date,NUM,0
+tango culture movies,death year,NUM,0
+tango culture movies,date of birth,NUM,0
+tango culture movies,date of death,NUM,0
+tango culture movies,place of birth,buenos aires,2
+tango culture movies,short description,argentine musician,0
+universities in catalunya,affiliation,xarxa vives d universitats,1
+universities in catalunya,city,barcelona,1
+universities in catalunya,country,spain,1
+universities in catalunya,endowment,ALPHANUM,0
+universities in catalunya,state,catalonia,1
+universities in catalunya,academic staff,NUM,0
+universities in catalunya,administrative staff,NUM,0
+universities in catalunya,affiliations,xarxa vives d universitats,1
+universities in catalunya,established,NUM,1
+universities in catalunya,financing,public,0
+universities in catalunya,rector,enric fossas colet,0
+universities in catalunya,traduction,polytechnic university of catalonia,2
+universities in catalunya,foaf homepage,http   www upc edu,1
+vietnam food recipes,country,indonesia,0
+vietnam food recipes,ingredient name,deep fried dried starch and other ingredients  the most popular is prawn,2
+vietnam food recipes,region,east asia,0
+vietnam food recipes,region,netherlands,0
+vietnam food recipes,region,southeast asia,1
+vietnam food recipes,serving temperature,room temperature,0
+vietnam food recipes,course,snack,0
+vietnam food recipes,creator,traditional food,0
+vietnam food recipes,main ingredient,deep fried dried starch and other ingredients  the most popular is prawn,1
+vietnam food recipes,served,room temperature,0
+vietnam food recipes,variations,different variations according to ingredients,0
+vietnam food recipes,dc type,snack,0
+vietnam war facts,casualties,NUM,0
+vietnam war facts,date,NUM,0
+vietnam war facts,executed by,ALPHANUM,1
+vietnam war facts,location,south vietnam,1
+vietnam war facts,objective,to support south vietnam against communist attacks,1
+vietnam war facts,partof,the vietnam war,2
+vietnamese food blog,begins,NUM,0
+vietnamese food blog,duration,NUM,0
+vietnamese food blog,ends,NUM,0
+vietnamese food blog,frequency,annual,0
+vietnamese food blog,hangul,NUM,0
+vietnamese food blog,hanja,NUM,0
+vietnamese food blog,holiday name,cold food festival,1
+vietnamese food blog,longtype,cultural,0
+vietnamese food blog,observedby,chinese  koreans  vietnamese,0
+vietnamese food blog,official name,hanshi festival,0
+vietnamese food blog,relatedto,t t h n th c  hanshik,0
+vietnamese food blog,vie,t t h n th c,0
+vietnamese food blog,foaf nick,cold food festival,0
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,isbn,NUM,0
+which books by kerouac were published by viking press,literary genre,beat generation,0
+which books by kerouac were published by viking press,literary genre,short story collection,0
+which books by kerouac were published by viking press,media type,hardcover,0
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,0
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,country,united states,0
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,0
+which books by kerouac were published by viking press,language,english,0
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,0
+which books by kerouac were published by viking press,release date,NUM,0
+which countries have places with more than two caves,area km,NUM,0
+which countries have places with more than two caves,area magnitude,NUM,0
+which countries have places with more than two caves,area sq mi,NUM,0
+which countries have places with more than two caves,capital,cardiff,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,city,aberdare,0
+which countries have places with more than two caves,city,barry  wales barry,0
+which countries have places with more than two caves,city,blackwood  wales blackwood,2
+which countries have places with more than two caves,city,bridgend,0
+which countries have places with more than two caves,city,caerphilly,0
+which countries have places with more than two caves,city,cardiff,1
+which countries have places with more than two caves,city,colwyn bay,0
+which countries have places with more than two caves,city,cwmbran,0
+which countries have places with more than two caves,city,llanelli,0
+which countries have places with more than two caves,city,maesteg,1
+which countries have places with more than two caves,city,merthyr tydfil,0
+which countries have places with more than two caves,city,neath,0
+which countries have places with more than two caves,city,newport  wales newport,0
+which countries have places with more than two caves,city,penarth,0
+which countries have places with more than two caves,city,pontypool,0
+which countries have places with more than two caves,city,pontypridd,0
+which countries have places with more than two caves,city,port talbot,0
+which countries have places with more than two caves,city,rhyl,0
+which countries have places with more than two caves,city,swansea,0
+which countries have places with more than two caves,city,wrexham,0
+which countries have places with more than two caves,class,info,0
+which countries have places with more than two caves,country,wales,2
+which countries have places with more than two caves,demonym,welsh,0
+which countries have places with more than two caves,div,bridgend county borough,0
+which countries have places with more than two caves,div,caerphilly county borough,0
+which countries have places with more than two caves,div,cardiff council city   county of cardiff,0
+which countries have places with more than two caves,div,carmarthenshire,0
+which countries have places with more than two caves,div,city and county of swansea council city   county of swansea,0
+which countries have places with more than two caves,div,conwy county borough,0
+which countries have places with more than two caves,div,denbighshire,0
+which countries have places with more than two caves,div,merthyr tydfil,0
+which countries have places with more than two caves,div,neath port talbot,0
+which countries have places with more than two caves,div,newport city council newport city,0
+which countries have places with more than two caves,div,rhondda cynon taf,0
+which countries have places with more than two caves,div,torfaen,0
+which countries have places with more than two caves,div,vale of glamorgan,0
+which countries have places with more than two caves,div,wrexham county borough,0
+which countries have places with more than two caves,div name,council area,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established date,NUM,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,established event,unification by,0
+which countries have places with more than two caves,first minister,carwyn jones,0
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,gdp ppp,ALPHANUM,0
+which countries have places with more than two caves,gdp ppp per capita,NUM,0
+which countries have places with more than two caves,gdp year,NUM,0
+which countries have places with more than two caves,government type,devolved parliamentary legislature within parliamentary constitutional monarchy,0
+which countries have places with more than two caves,languages,english language,0
+which countries have places with more than two caves,languages,welsh language,0
+which countries have places with more than two caves,languages type,languages of wales,0
+which countries have places with more than two caves,largest city,capital,0
+which countries have places with more than two caves,latd,NUM,0
+which countries have places with more than two caves,latm,NUM,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,list by pop,list of towns and cities in wales by population,0
+which countries have places with more than two caves,longd,NUM,0
+which countries have places with more than two caves,longm,NUM,0
+which countries have places with more than two caves,monarch,elizabeth ii,0
+which countries have places with more than two caves,patron saint,saint david,0
+which countries have places with more than two caves,politics link,politics of wales,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,population census,NUM,0
+which countries have places with more than two caves,population census year,NUM,0
+which countries have places with more than two caves,population density km,NUM,0
+which countries have places with more than two caves,population density sq mi,NUM,0
+which countries have places with more than two caves,prime minister,david cameron,1
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,0
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,stat ref,ALPHANUM,0
+which countries have places with more than two caves,status,countries of the united kingdom,0
+which countries have places with more than two caves,title,articles relating to wales,0
+which countries have places with more than two caves,foaf homepage,http   www visitwales com,1

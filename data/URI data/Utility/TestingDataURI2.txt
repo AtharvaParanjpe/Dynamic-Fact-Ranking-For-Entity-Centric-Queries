@@ -1,0 +1,248 @@
+1994 short story collection alice munro is open,author,alice munro,4
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,3
+1994 short story collection alice munro is open,publisher,ryerson press,1
+1994 short story collection alice munro is open,cinematography,harry makin,1
+1994 short story collection alice munro is open,director,ronald wilson,2
+1994 short story collection alice munro is open,editing,susan shipton,1
+1994 short story collection alice munro is open,genre,bildungsroman,1
+1994 short story collection alice munro is open,genre,short story cycle,1
+1994 short story collection alice munro is open,music,lawrence shragge,1
+1994 short story collection alice munro is open,producer,richard borchiver,2
+1994 short story collection alice munro is open,starring,tanya allen,2
+1994 short story collection alice munro is open,starring,wendy crewson,2
+1994 short story collection alice munro is open,writer,kelly rebar,2
+bond girls,birth place,ostermundigen,3
+bond girls,birth place,switzerland,3
+bond girls,nationality,british people,1
+bond girls,nationality,swiss people,2
+bond girls,occupation,ALPHANUM,2
+bond girls,partner,harry hamlin,1
+bond girls,spouse,john derek,1
+bond girls,state of origin,british people,0
+bond girls,state of origin,swiss people,3
+bond girls,place of birth,ostermundigen,3
+bond girls,place of birth,switzerland,3
+bond girls,title,bond girl,3
+carl lewis,birth place,alabama,3
+carl lewis,birth place,birmingham  alabama,4
+carl lewis,residence,houston,2
+carl lewis,residence,texas,1
+carl lewis,collegeteam,houston cougars,1
+carl lewis,country,united states national athletics team,3
+eloan line of credit,founded by,chris larsen,3
+eloan line of credit,industry,financial services,3
+eloan line of credit,location,rosemont  illinois,2
+eloan line of credit,location,united states,3
+eloan line of credit,parent company,popular  inc,2
+eloan line of credit,parent,popular  inc,2
+famous computer scientists disappeared at sea,alma mater,university of california  berkeley,2
+famous computer scientists disappeared at sea,award,turing award,2
+famous computer scientists disappeared at sea,birth place,san francisco,3
+famous computer scientists disappeared at sea,employer,digital equipment corporation,2
+famous computer scientists disappeared at sea,employer,ibm,2
+famous computer scientists disappeared at sea,employer,microsoft,1
+famous computer scientists disappeared at sea,employer,tandem computers,1
+famous computer scientists disappeared at sea,known for,database,1
+famous computer scientists disappeared at sea,known for,transaction processing,1
+famous computer scientists disappeared at sea,nationality,united states,3
+famous computer scientists disappeared at sea,occupation,computer scientist,3
+famous computer scientists disappeared at sea,occupation,ALPHANUM,4
+famous computer scientists disappeared at sea,state of origin,united states,2
+famous computer scientists disappeared at sea,awards,turing award,1
+give me a list of all lakes in denmark,country,denmark,3
+give me a list of all lakes in denmark,location,jutland,3
+marc anthony,artist,marc anthony,4
+marc anthony,genre,contemporary r b,2
+marc anthony,genre,latin pop,2
+marc anthony,genre,pop music,3
+marc anthony,genre,salsa music,1
+marc anthony,genre,soul music,2
+marc anthony,language,english language,1
+marc anthony,language,spanish language,1
+marc anthony,previous work,contra la corriente  marc anthony album,3
+marc anthony,producer,cory rooney,2
+marc anthony,producer,dan shea  producer,2
+marc anthony,producer,marc anthony,4
+marc anthony,producer,rodney jerkins,2
+marc anthony,record label,columbia records,3
+marc anthony,subsequent work,libre  marc anthony album,1
+marc anthony,rev,all music,0
+marc anthony,title,da la vuelta,0
+marc anthony,title,i need to know  marc anthony song,3
+marc anthony,title,my baby you,3
+marc anthony,title,you sang to me,3
+marc anthony,writer,dan shea  producer,2
+marc anthony,writer,emilio estefan,2
+marc anthony,writer,kike santander,2
+marc anthony,writer,robin thicke,2
+most beautiful railway stations world cities located,country,india,3
+most beautiful railway stations world cities located,is part of,kerala,2
+most beautiful railway stations world cities located,is part of,malappuram,3
+most beautiful railway stations world cities located,time zone,indian standard time,1
+most beautiful railway stations world cities located,postal code type,postal index number,0
+most beautiful railway stations world cities located,subdivision name,kerala,1
+most beautiful railway stations world cities located,subdivision type,list of districts in india,0
+most beautiful railway stations world cities located,subdivision type,states and union territories of india,1
+motorola bluetooth hs850,manufacturer,motorola,4
+motorola bluetooth hs850,operating system,binary runtime environment for wireless,0
+motorola bluetooth hs850,operating system,monta vista,1
+motorola bluetooth hs850,operating system,moto magx,1
+motorola bluetooth hs850,operating system,ALPHANUM,0
+motorola bluetooth hs850,battery,ALPHANUM,0
+motorola bluetooth hs850,carrier,at t,1
+motorola bluetooth hs850,carrier,t mobile,0
+motorola bluetooth hs850,connectivity,bluetooth,1
+motorola bluetooth hs850,connectivity,evolution data optimized,0
+motorola bluetooth hs850,memory,secure digital,0
+motorola bluetooth hs850,memory card,ALPHANUM,0
+motorola bluetooth hs850,music,fm broadcasting,0
+motorola bluetooth hs850,music,i radio,0
+motorola bluetooth hs850,music,real player,0
+motorola bluetooth hs850,networks,general packet radio service,0
+motorola bluetooth hs850,predecessor,ALPHANUM,0
+motorola bluetooth hs850,predecessor,ALPHANUM,1
+motorola bluetooth hs850,ringtone,advanced audio coding,1
+motorola bluetooth hs850,ringtone,midi,0
+motorola bluetooth hs850,ringtone,ALPHANUM,0
+motorola bluetooth hs850,ringtone,polyphony,0
+motorola bluetooth hs850,ringtone,wav,0
+motorola bluetooth hs850,successor,motorola aura,1
+motorola bluetooth hs850,successor,ALPHANUM,0
+provinces and territories of canada,bird,gyrfalcon,0
+provinces and territories of canada,capital,yellowknife,3
+provinces and territories of canada,flower,dryas octopetala,0
+provinces and territories of canada,officiallang,chipewyan language,1
+provinces and territories of canada,officiallang,cree language,1
+provinces and territories of canada,officiallang,dogrib language,1
+provinces and territories of canada,officiallang,english language,2
+provinces and territories of canada,officiallang,french language,2
+provinces and territories of canada,officiallang,gwich in language,1
+provinces and territories of canada,officiallang,inuinnaqtun,1
+provinces and territories of canada,officiallang,inuktitut,1
+provinces and territories of canada,officiallang,inuvialuktun,2
+provinces and territories of canada,officiallang,slavey language,1
+provinces and territories of canada,postalcodeprefix,list of x postal codes of canada,0
+provinces and territories of canada,premier,bob mc leod  politician,2
+provinces and territories of canada,premierparty,consensus government in canada,0
+provinces and territories of canada,tree,larix laricina,0
+provinces and territories of canada,viceroy,george tuccaro,0
+sealy mattress co,foundation place,sealy  texas,2
+sealy mattress co,location city,trinity  north carolina,3
+sealy mattress co,location country,united states,2
+sealy mattress co,parent company,tempur sealy international,4
+sealy mattress co,foundation,sealy  texas,3
+sealy mattress co,parent,tempur sealy international,2
+steak express,country,belgium,1
+steak express,country,france,2
+steak express,ingredient,potato,2
+steak express,ingredient,steak,4
+steak express,course,main course,1
+tango dance history,derivative,maxixe  dance,1
+tango dance history,instrument,accordion,1
+tango dance history,instrument,bandoneon,1
+tango dance history,instrument,double bass,1
+tango dance history,instrument,guitar,1
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,1
+tango dance history,instrument,violin,1
+tango dance history,music subgenre,argentine tango,3
+tango dance history,music subgenre,ballroom tango,2
+tango dance history,music subgenre,finnish tango,2
+tango dance history,music subgenre,nuevo tango,1
+tango dance history,stylistic origin,candombe,2
+tango dance history,stylistic origin,contradanza,2
+tango dance history,stylistic origin,milonga  music,1
+tango dance history,stylistic origin,payada,3
+tango dance history,stylistic origin,polka,2
+tango dance history,stylistic origin,tango  flamenco,3
+tango dance history,stylistic origin,waltz  music,2
+tango dance history,stylistic origin,zarzuela,2
+tango dance history,derivatives,maxixe  dance,1
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,1
+tango dance history,instruments,double bass,1
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,1
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,1
+tango dance history,stylistic origins,candombe,3
+tango dance history,stylistic origins,contradanza,2
+tango dance history,stylistic origins,milonga  music,1
+tango dance history,stylistic origins,payada,3
+tango dance history,stylistic origins,polka,2
+tango dance history,stylistic origins,tango  flamenco,2
+tango dance history,stylistic origins,waltz  music,2
+tango dance history,stylistic origins,zarzuela,2
+tango dance history,subgenres,argentine tango,2
+tango dance history,subgenres,ballroom tango,2
+tango dance history,subgenres,finnish tango,2
+tango dance history,subgenres,nuevo tango,2
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,2
+twelve tribes or sons of israel,majorsites,bethlehem,2
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,2
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,prime minister,david cameron,3
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+which software has been developed by organizations founded in california,author,yahoo,4
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,3
+which software has been developed by organizations founded in california,content license,proprietary software,0
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,2
+who founded intel,birth place,burlington  iowa,4
+who founded intel,birth place,iowa,2
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,3
+who founded intel,occupation,fairchild semiconductor,2
+who founded intel,occupation,intel,3
+who founded intel,occupation,ALPHANUM,2
+who founded intel,spouse,elizabeth noyce,2
+who is the mayor of berlin,alma mater,free university of berlin,2
+who is the mayor of berlin,birth place,berlin,2
+who is the mayor of berlin,birth place,west berlin,3
+who is the mayor of berlin,birth place,west germany,2
+who is the mayor of berlin,nationality,germany,2
+who is the mayor of berlin,party,social democratic party of germany,2
+who is the mayor of berlin,predecessor,andrea nahles,1
+who is the mayor of berlin,predecessor,eberhard diepgen,2
+who is the mayor of berlin,predecessor,frank walter steinmeier,1
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,1
+who is the mayor of berlin,residence,berlin,2
+who is the mayor of berlin,successor,michael m ller  politician,3
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,2
+who is the mayor of berlin,after,michael m ller  politician,1
+who is the mayor of berlin,before,eberhard diepgen,2
+who is the mayor of berlin,title,governing mayor of berlin,4
+who produced the most films,birth place,elmira  new york,2
+who produced the most films,child,hal roach  jr,2
+who produced the most films,death cause,pneumonia,0
+who produced the most films,occupation,ALPHANUM,1
+who produced the most films,resting place,woodlawn cemetery  elmira  new york,1
+who produced the most films,spouse,marguerite nichols,2
+who produced the most films,children,hal roach  jr,1

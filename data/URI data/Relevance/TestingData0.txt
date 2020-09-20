@@ -1,0 +1,182 @@
+08 toyota tundra,assembly,princeton  indiana,0
+08 toyota tundra,assembly,san antonio,0
+08 toyota tundra,assembly,texas,0
+08 toyota tundra,assembly,toyota motor manufacturing indiana,2
+08 toyota tundra,assembly,united states,1
+08 toyota tundra,class,pickup truck,1
+08 toyota tundra,layout,automobile layout,0
+08 toyota tundra,layout,four wheel drive,0
+08 toyota tundra,layout,front engine design,0
+08 toyota tundra,manufacturer,toyota,2
+08 toyota tundra,predecessor,ALPHANUM,0
+08 toyota tundra,related mean of transportation,toyota sequoia,0
+08 toyota tundra,related,toyota sequoia,1
+david suchet,birth place,england,2
+david suchet,birth place,london,2
+david suchet,occupation,ALPHANUM,2
+david suchet,relative,john suchet,1
+david suchet,honorific suffix,order of the british empire,0
+david suchet,relatives,john suchet,2
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,0
+england football player highest paid,former team,harlequin f c,0
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,0
+england football player highest paid,team,harlequin f c,1
+england football player highest paid,clubs,yorkshire carnegie,0
+england football player highest paid,currentclub,harlequin f c,0
+england football player highest paid,repteam,saxons,0
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,0
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+frequently visited sharks gulf indian ocean,country,india,1
+frequently visited sharks gulf indian ocean,country,sri lanka,1
+frequently visited sharks gulf indian ocean,basin countries,india,1
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,1
+frequently visited sharks gulf indian ocean,state,tamil nadu,0
+john lennon  parents,artist,john lennon,2
+john lennon  parents,genre,rock music,0
+john lennon  parents,previous work,lennon legend  the very best of john lennon,0
+john lennon  parents,producer,yoko ono,0
+john lennon  parents,record label,capitol records,0
+john lennon  parents,record label,emi,0
+john lennon  parents,subsequent work,instant karma  all time greatest hits,0
+john lennon  parents,rev,all music,0
+makers of lawn tennis rackets,industry,sports equipment,1
+makers of lawn tennis rackets,parent company,pacific brands,2
+makers of lawn tennis rackets,parent,pacific brands,1
+most famous award winning actor singer,birth place,myanmar,0
+most famous award winning actor singer,birth place,yangon,0
+most famous award winning actor singer,occupation,actor,2
+most famous award winning actor singer,occupation,singing,0
+most famous award winning actor singer,occupation,ALPHANUM,0
+most famous award winning actor singer,parent,kawleikgyin ne win,0
+most famous award winning actor singer,place of birth,myanmar,0
+most famous award winning actor singer,place of birth,yangon,0
+movies about english hooligans,country,united states,0
+movies about english hooligans,director,lexi alexander,0
+movies about english hooligans,distributor,freestyle releasing,0
+movies about english hooligans,distributor,universal studios,0
+movies about english hooligans,music composer,christopher franke,0
+movies about english hooligans,producer,deborah del prete,0
+movies about english hooligans,starring,charlie hunnam,1
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,0
+movies about english hooligans,starring,leo gregory,0
+movies about english hooligans,writer,dougie brimson,0
+movies about english hooligans,writer,lexi alexander,0
+movies about english hooligans,music,christopher franke,0
+movies about english hooligans,screenplay,dougie brimson,0
+movies about english hooligans,screenplay,lexi alexander,0
+movies about english hooligans,studio,odd lot entertainment,0
+new england coffee,location,old compton street,1
+new england coffee,location,soho,1
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route start,fort erie  ontario,1
+niagara falls origin lake,location special,niagara on the lake,2
+niagara falls origin lake,road,clifton hill  niagara falls,2
+niagara falls origin lake,road,fort erie  ontario,0
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,terminus a,fort erie  ontario,0
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,0
+scott county,location,georgetown  kentucky,2
+scott county,architecture,italianate architecture,0
+scott county,architecture,romanesque architecture,0
+sealy mattress co,foundation place,sealy  texas,1
+sealy mattress co,location city,trinity  north carolina,2
+sealy mattress co,location country,united states,1
+sealy mattress co,parent company,tempur sealy international,2
+sealy mattress co,foundation,sealy  texas,1
+sealy mattress co,parent,tempur sealy international,1
+star trek captains,affiliation,starfleet,0
+star trek captains,affiliation,united federation of planets,0
+star trek captains,posting,ALPHANUM,1
+tango culture countries,album,rendez vous  in grid album,0
+tango culture countries,format,cd single,0
+tango culture countries,genre,dance pop,1
+tango culture countries,genre,tango music,2
+tango culture countries,musical artist,in grid,0
+tango culture countries,musical band,in grid,0
+tango culture countries,record label,universal music group,0
+tango culture countries,artist,in grid,0
+tango culture countries,from album,rendez vous  in grid album,0
+which country does the creator of miffy come from,capital,amsterdam,1
+which country does the creator of miffy come from,currency,caribbean netherlands,0
+which country does the creator of miffy come from,currency,euro,0
+which country does the creator of miffy come from,currency,ALPHANUM,0
+which country does the creator of miffy come from,currency,united states dollar,0
+which country does the creator of miffy come from,ethnic group,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic group,dutch people,0
+which country does the creator of miffy come from,ethnic group,european union,0
+which country does the creator of miffy come from,ethnic group,moroccan dutch,0
+which country does the creator of miffy come from,ethnic group,overseas indonesian,0
+which country does the creator of miffy come from,ethnic group,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic group,turks in the netherlands,0
+which country does the creator of miffy come from,government type,unitary state,0
+which country does the creator of miffy come from,language,dutch low saxon,0
+which country does the creator of miffy come from,language,dutch language,0
+which country does the creator of miffy come from,language,english language,0
+which country does the creator of miffy come from,language,limburgish language,0
+which country does the creator of miffy come from,language,papiamento,0
+which country does the creator of miffy come from,language,west frisian language,0
+which country does the creator of miffy come from,leader,mark rutte,0
+which country does the creator of miffy come from,leader,willem alexander of the netherlands,1
+which country does the creator of miffy come from,official language,dutch language,1
+which country does the creator of miffy come from,official language,english language,0
+which country does the creator of miffy come from,official language,papiamento,0
+which country does the creator of miffy come from,official language,west frisian language,0
+which country does the creator of miffy come from,regional language,dutch low saxon,0
+which country does the creator of miffy come from,regional language,limburgish language,0
+which country does the creator of miffy come from,time zone,atlantic time zone,0
+which country does the creator of miffy come from,time zone,central european time,0
+which country does the creator of miffy come from,calling code,telephone numbers in cura ao and the caribbean netherlands,0
+which country does the creator of miffy come from,calling code,telephone numbers in the netherlands,0
+which country does the creator of miffy come from,country code,nld,0
+which country does the creator of miffy come from,established event,act of abjuration,0
+which country does the creator of miffy come from,established event,charter for the kingdom of the netherlands,0
+which country does the creator of miffy come from,established event,peace of m nster,0
+which country does the creator of miffy come from,ethnic groups,caribbean netherlands,0
+which country does the creator of miffy come from,ethnic groups,dutch people,0
+which country does the creator of miffy come from,ethnic groups,european union,0
+which country does the creator of miffy come from,ethnic groups,moroccan dutch,0
+which country does the creator of miffy come from,ethnic groups,overseas indonesian,0
+which country does the creator of miffy come from,ethnic groups,surinamese people in the netherlands,0
+which country does the creator of miffy come from,ethnic groups,turks in the netherlands,0
+which country does the creator of miffy come from,leader name,mark rutte,0
+which country does the creator of miffy come from,leader name,willem alexander of the netherlands,0
+which country does the creator of miffy come from,legislature,states general of the netherlands,1
+which country does the creator of miffy come from,lower house,house of representatives  netherlands,0
+which country does the creator of miffy come from,time zone dst,atlantic time zone,0
+which country does the creator of miffy come from,time zone dst,central european summer time,0
+which country does the creator of miffy come from,upper house,senate  netherlands,0
+which country does the creator of miffy come from,owl different from,holland,1
+which software has been developed by organizations founded in california,author,yahoo,2
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,1
+which software has been developed by organizations founded in california,content license,proprietary software,0
+who painted the storm on the sea of galilee,birth place,dutch republic,0
+who painted the storm on the sea of galilee,birth place,leiden,1
+who painted the storm on the sea of galilee,birth place,netherlands,1
+who painted the storm on the sea of galilee,death place,amsterdam,0
+who painted the storm on the sea of galilee,death place,netherlands,1
+who painted the storm on the sea of galilee,field,printmaking,0
+who painted the storm on the sea of galilee,movement,baroque,0
+who painted the storm on the sea of galilee,movement,dutch golden age painting,1
+who painted the storm on the sea of galilee,nationality,dutch people,0
+who produced the most films,birth place,elmira  new york,0
+who produced the most films,child,hal roach  jr,0
+who produced the most films,death cause,pneumonia,0
+who produced the most films,occupation,ALPHANUM,1
+who produced the most films,resting place,woodlawn cemetery  elmira  new york,0
+who produced the most films,spouse,marguerite nichols,0
+who produced the most films,children,hal roach  jr,0
+ymca tampa,headquarter,geneva,0
+ymca tampa,headquarter,switzerland,0
+ymca tampa,founded place,london,1
+ymca tampa,founded place,united kingdom of great britain and ireland,0
+ymca tampa,founder,george williams  ymca,1
+ymca tampa,headquarters,geneva,0
+ymca tampa,headquarters,switzerland,0
+ymca tampa,main classification,community,0

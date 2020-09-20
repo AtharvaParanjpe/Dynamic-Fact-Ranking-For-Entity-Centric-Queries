@@ -1,0 +1,641 @@
+american embassy nairobi,coordinates,and,0
+american embassy nairobi,date,NUM,2
+american embassy nairobi,fatalities,NUM,0
+american embassy nairobi,injuries,ALPHANUM,0
+american embassy nairobi,location,dar es salaam,0
+american embassy nairobi,location,kenya,1
+american embassy nairobi,location,nairobi,2
+american embassy nairobi,location,tanzania,0
+american embassy nairobi,perpetrators,al qaeda and egyptian islamic jihad,1
+american embassy nairobi,target,list of diplomatic missions of the united states,0
+american embassy nairobi,time,NUM,0
+american embassy nairobi,timezone,ALPHANUM,0
+american embassy nairobi,title,NUM,0
+american embassy nairobi,weapons,ammonium nitrate,0
+american embassy nairobi,weapons,pistol,0
+american embassy nairobi,weapons,stun grenade,0
+american embassy nairobi,weapons,trinitrotoluene,0
+einstein relativity theory,birth date,NUM,0
+einstein relativity theory,birth year,NUM,0
+einstein relativity theory,death date,NUM,0
+einstein relativity theory,death year,NUM,0
+einstein relativity theory,date of birth,NUM,0
+einstein relativity theory,date of death,NUM,0
+einstein relativity theory,short description,german physicist,1
+england football player highest paid,person height,NUM,0
+england football player highest paid,person weight,NUM,0
+england football player highest paid,active years end year,NUM,0
+england football player highest paid,active years start year,NUM,0
+england football player highest paid,birth date,NUM,0
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,0
+england football player highest paid,birth year,NUM,0
+england football player highest paid,former team,harlequin f c,0
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,height,NUM,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,0
+england football player highest paid,team,harlequin f c,1
+england football player highest paid,weight,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,clubnumber,NUM,0
+england football player highest paid,clubs,yorkshire carnegie,0
+england football player highest paid,clubs,harlequins,1
+england football player highest paid,currentclub,harlequin f c,0
+england football player highest paid,date of birth,NUM,0
+england football player highest paid,place of birth,leeds  yorkshire  england,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repteam,saxons,0
+england football player highest paid,repteam,england,0
+england football player highest paid,repteam,england xv,0
+england football player highest paid,repupdate,NUM,0
+england football player highest paid,repyears,NUM,0
+england football player highest paid,ru sevensnationalcomp,NUM,0
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,0
+england football player highest paid,ru sevensnationalyears,NUM,0
+england football player highest paid,short description,english rugby union player,0
+england football player highest paid,years,NUM,0
+england football player highest paid,years,NUM,0
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthclubs,west park bramhope,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+famous computer scientists disappeared at sea,alma mater,university of california  berkeley,1
+famous computer scientists disappeared at sea,award,turing award,1
+famous computer scientists disappeared at sea,birth date,NUM,0
+famous computer scientists disappeared at sea,birth place,san francisco,1
+famous computer scientists disappeared at sea,birth year,NUM,1
+famous computer scientists disappeared at sea,death date,NUM,1
+famous computer scientists disappeared at sea,death year,NUM,0
+famous computer scientists disappeared at sea,employer,digital equipment corporation,1
+famous computer scientists disappeared at sea,employer,ibm,1
+famous computer scientists disappeared at sea,employer,microsoft,0
+famous computer scientists disappeared at sea,employer,tandem computers,0
+famous computer scientists disappeared at sea,known for,database,0
+famous computer scientists disappeared at sea,known for,transaction processing,0
+famous computer scientists disappeared at sea,nationality,united states,1
+famous computer scientists disappeared at sea,occupation,computer scientist,1
+famous computer scientists disappeared at sea,occupation,ALPHANUM,2
+famous computer scientists disappeared at sea,state of origin,united states,0
+famous computer scientists disappeared at sea,awards,turing award,0
+famous computer scientists disappeared at sea,children,NUM,0
+famous computer scientists disappeared at sea,date of birth,NUM,1
+famous computer scientists disappeared at sea,date of death,NUM,1
+famous computer scientists disappeared at sea,disappeared place,waters near san francisco,1
+famous computer scientists disappeared at sea,disappeared status,NUM,0
+famous computer scientists disappeared at sea,doctoral advisor,michael harrison,0
+famous computer scientists disappeared at sea,place of birth,san francisco  california,0
+famous computer scientists disappeared at sea,short description,american computer scientist,1
+famous computer scientists disappeared at sea,spouse,loretta   donna carnes,0
+give me a list of all lakes in denmark,country,denmark,1
+give me a list of all lakes in denmark,location,jutland,1
+give me a list of all lakes in denmark,basin countries,denmark,2
+give me a list of all lakes in denmark,geo lat,NUM,0
+give me a list of all lakes in denmark,geo long,NUM,0
+give me a list of all lakes in denmark,georss point,NUM,0
+give me all members of prodigy,active years start year,NUM,0
+give me all members of prodigy,associated band,the prodigy,2
+give me all members of prodigy,associated musical artist,the prodigy,2
+give me all members of prodigy,background,non vocal instrumentalist,0
+give me all members of prodigy,birth date,NUM,0
+give me all members of prodigy,birth place,braintree  essex,0
+give me all members of prodigy,birth year,NUM,0
+give me all members of prodigy,genre,alternative dance,0
+give me all members of prodigy,genre,alternative rock,0
+give me all members of prodigy,genre,big beat,0
+give me all members of prodigy,genre,breakbeat,0
+give me all members of prodigy,genre,breakbeat hardcore,0
+give me all members of prodigy,genre,electronic dance music,0
+give me all members of prodigy,genre,electropunk,0
+give me all members of prodigy,genre,hardcore  electronic dance music genre,0
+give me all members of prodigy,instrument,direct drive turntable,0
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,0
+give me all members of prodigy,record label,xl recordings,0
+give me all members of prodigy,active,NUM,0
+give me all members of prodigy,associated acts,ALPHANUM,1
+give me all members of prodigy,date of birth,NUM,1
+give me all members of prodigy,landscape,yes,0
+give me all members of prodigy,place of birth,braintree  essex  england,0
+give me all members of prodigy,short description,english musician  dj and record producer,2
+give me all members of prodigy,years active,NUM,0
+most famous award winning actor singer,active years start year,NUM,0
+most famous award winning actor singer,birth date,NUM,0
+most famous award winning actor singer,birth place,myanmar,0
+most famous award winning actor singer,birth place,yangon,0
+most famous award winning actor singer,birth year,NUM,1
+most famous award winning actor singer,occupation,actor,2
+most famous award winning actor singer,occupation,singing,0
+most famous award winning actor singer,occupation,ALPHANUM,0
+most famous award winning actor singer,parent,kawleikgyin ne win,0
+most famous award winning actor singer,date of birth,NUM,1
+most famous award winning actor singer,parents,kawleikgyin ne win  khin marla,0
+most famous award winning actor singer,place of birth,myanmar,0
+most famous award winning actor singer,place of birth,yangon,0
+most famous award winning actor singer,short description,burmese actor,0
+most famous award winning actor singer,yearsactive,NUM,0
+movies about english hooligans,work runtime,NUM,0
+movies about english hooligans,budget,NUM,0
+movies about english hooligans,country,united states,0
+movies about english hooligans,director,lexi alexander,0
+movies about english hooligans,distributor,freestyle releasing,0
+movies about english hooligans,distributor,universal studios,0
+movies about english hooligans,gross,NUM,0
+movies about english hooligans,music composer,christopher franke,0
+movies about english hooligans,producer,deborah del prete,0
+movies about english hooligans,runtime,NUM,0
+movies about english hooligans,starring,charlie hunnam,1
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,0
+movies about english hooligans,starring,leo gregory,0
+movies about english hooligans,writer,dougie brimson,0
+movies about english hooligans,writer,lexi alexander,0
+movies about english hooligans,cinematography,alexander buono,0
+movies about english hooligans,editing,paul trejo,0
+movies about english hooligans,language,english,0
+movies about english hooligans,music,christopher franke,0
+movies about english hooligans,narrator,sam gibson,0
+movies about english hooligans,screenplay,dougie brimson,0
+movies about english hooligans,screenplay,lexi alexander,0
+movies about english hooligans,screenplay,josh shelov,1
+movies about english hooligans,story,dougie brimson,0
+movies about english hooligans,story,lexi alexander,0
+movies about english hooligans,studio,odd lot entertainment,0
+movies about english hooligans,foaf homepage,http   www greenstreethooligans com,1
+nelson mandela john dube,alias,mandela  rolihlahla,0
+nelson mandela john dube,birth date,NUM,2
+nelson mandela john dube,birth place,cape province,1
+nelson mandela john dube,birth place,mvezo,0
+nelson mandela john dube,birth place,union of south africa,2
+nelson mandela john dube,birth year,NUM,2
+nelson mandela john dube,death date,NUM,2
+nelson mandela john dube,death place,gauteng,2
+nelson mandela john dube,death place,johannesburg,2
+nelson mandela john dube,death place,south africa,0
+nelson mandela john dube,death year,NUM,2
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,office,ALPHANUM,1
+nelson mandela john dube,other party,south african communist party,0
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,0
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,1
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,1
+nelson mandela john dube,spouse,gra a machel,1
+nelson mandela john dube,spouse,winnie madikizela mandela,1
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,blank,awards,0
+nelson mandela john dube,blank,known for,0
+nelson mandela john dube,blank,notable work,0
+nelson mandela john dube,commons,nelson mandela,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,data,long walk to freedom,0
+nelson mandela john dube,date of birth,NUM,2
+nelson mandela john dube,date of death,NUM,2
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,0
+nelson mandela john dube,honorific suffix,order of the elephant,0
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,nationality,south african,2
+nelson mandela john dube,place of birth,cape province,1
+nelson mandela john dube,place of birth,mvezo,1
+nelson mandela john dube,place of birth,union of south africa,2
+nelson mandela john dube,place of death,johannesburg  south africa,2
+nelson mandela john dube,quote,that south africa belongs to all who live in it  black and white  and that no government can justly claim authority unless it is based on the will of the people,1
+nelson mandela john dube,short description,south african politician and anti apartheid fighter  president of south africa,2
+nelson mandela john dube,source,ALPHANUM,1
+nelson mandela john dube,source,opening words of the freedom charter,0
+nelson mandela john dube,source,ALPHANUM,0
+nelson mandela john dube,species,no,0
+nelson mandela john dube,term end,NUM,1
+nelson mandela john dube,term start,NUM,0
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,0
+nelson mandela john dube,title,president of south africa,2
+nelson mandela john dube,width,NUM,0
+nelson mandela john dube,wikt,no,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,years,NUM,0
+nelson mandela john dube,foaf nick,dalibunga,0
+nelson mandela john dube,foaf nick,madiba,1
+nelson mandela john dube,foaf nick,tata,0
+science fiction book written in the 1980,author,robert l  forward,1
+science fiction book written in the 1980,cover artist,darrell k  sweet,0
+science fiction book written in the 1980,dcc,NUM,0
+science fiction book written in the 1980,isbn,NUM,0
+science fiction book written in the 1980,lcc,ALPHANUM,0
+science fiction book written in the 1980,literary genre,list of science fiction novels,0
+science fiction book written in the 1980,media type,hardcover,0
+science fiction book written in the 1980,number of pages,NUM,0
+science fiction book written in the 1980,oclc,NUM,0
+science fiction book written in the 1980,publisher,del rey books,1
+science fiction book written in the 1980,subsequent work,starquake  novel,0
+science fiction book written in the 1980,congress,ALPHANUM,0
+science fiction book written in the 1980,country,united states,0
+science fiction book written in the 1980,dewey,NUM,0
+science fiction book written in the 1980,followed by,starquake  novel,2
+science fiction book written in the 1980,genre,list of science fiction novels,1
+science fiction book written in the 1980,language,english,1
+science fiction book written in the 1980,pages,NUM,0
+science fiction book written in the 1980,release date,NUM,2
+science fiction book written in the 1980,series,cheela,1
+scott county,added,NUM,0
+scott county,location,georgetown  kentucky,2
+scott county,nrhp reference number,NUM,0
+scott county,year of construction,NUM,2
+scott county,architect,j w  lucas  j  t  brooks,0
+scott county,architecture,italianate architecture,0
+scott county,architecture,romanesque architecture,0
+scott county,area,less than one acre,0
+scott county,built,NUM,0
+scott county,coord display,inline title,0
+scott county,governing body,local,0
+scott county,lat degrees,NUM,0
+scott county,lat minutes,NUM,0
+scott county,lat seconds,NUM,0
+scott county,locmapin,kentucky,0
+scott county,long degrees,NUM,0
+scott county,long minutes,NUM,0
+scott county,long seconds,NUM,0
+scott county,nrhp type,nrhp,0
+scott county,refnum,NUM,0
+scott county,foaf homepage,http   www artsandculturalcenter org,0
+scott county,geo lat,NUM,0
+scott county,geo long,NUM,0
+scott county,georss point,NUM,0
+steak express,country,belgium,0
+steak express,country,france,1
+steak express,ingredient,potato,1
+steak express,ingredient,steak,2
+steak express,ingredient name,steak potatoes  various sauces,0
+steak express,serving temperature,hot,1
+steak express,course,main course,0
+steak express,main ingredient,steak  potatoes  various sauces,1
+steak express,served,hot,0
+steak express,dc type,main course,1
+summer flowers,binomial authority,carl linnaeus,0
+summer flowers,class,monocotyledon,0
+summer flowers,division,flowering plant,1
+summer flowers,family,liliaceae,1
+summer flowers,genus,lilium,2
+summer flowers,kingdom,plant,0
+summer flowers,order,liliales,1
+summer flowers,binomial,lilium candidum,2
+summer flowers,familia,liliaceae,1
+summer flowers,ordo,liliales,2
+summer flowers,regnum,plantae,1
+summer flowers,species,l  candidum,2
+summer flowers,unranked classis,monocotyledon,0
+summer flowers,unranked divisio,flowering plant,1
+tango culture movies,birth date,NUM,0
+tango culture movies,birth place,buenos aires,0
+tango culture movies,birth year,NUM,1
+tango culture movies,death date,NUM,0
+tango culture movies,death year,NUM,0
+tango culture movies,date of birth,NUM,0
+tango culture movies,date of death,NUM,0
+tango culture movies,place of birth,buenos aires,2
+tango culture movies,short description,argentine musician,0
+tango dance history,derivative,maxixe  dance,0
+tango dance history,instrument,accordion,0
+tango dance history,instrument,bandoneon,0
+tango dance history,instrument,double bass,0
+tango dance history,instrument,guitar,0
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,0
+tango dance history,instrument,violin,0
+tango dance history,music subgenre,argentine tango,2
+tango dance history,music subgenre,ballroom tango,1
+tango dance history,music subgenre,finnish tango,1
+tango dance history,music subgenre,nuevo tango,1
+tango dance history,stylistic origin,candombe,1
+tango dance history,stylistic origin,contradanza,1
+tango dance history,stylistic origin,milonga  music,0
+tango dance history,stylistic origin,payada,2
+tango dance history,stylistic origin,polka,1
+tango dance history,stylistic origin,tango  flamenco,2
+tango dance history,stylistic origin,waltz  music,1
+tango dance history,stylistic origin,zarzuela,1
+tango dance history,bgcolor,blue,0
+tango dance history,color,white,0
+tango dance history,cultural origins,NUM,2
+tango dance history,derivatives,maxixe  dance,0
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,0
+tango dance history,instruments,double bass,0
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,0
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,1
+tango dance history,popularity,ALPHANUM,0
+tango dance history,stylistic origins,candombe,2
+tango dance history,stylistic origins,contradanza,1
+tango dance history,stylistic origins,milonga  music,0
+tango dance history,stylistic origins,payada,2
+tango dance history,stylistic origins,polka,1
+tango dance history,stylistic origins,tango  flamenco,1
+tango dance history,stylistic origins,waltz  music,1
+tango dance history,stylistic origins,zarzuela,1
+tango dance history,subgenrelist,list of tango genres,1
+tango dance history,subgenres,argentine tango,1
+tango dance history,subgenres,ballroom tango,1
+tango dance history,subgenres,finnish tango,1
+tango dance history,subgenres,nuevo tango,1
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place population density,NUM,0
+toledo bend realty,area code,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,country,united states,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,is part of,lucas county  ohio,0
+toledo bend realty,is part of,ohio,2
+toledo bend realty,leader name,paula hicks hudson,0
+toledo bend realty,leader title,mayor,0
+toledo bend realty,population density,NUM,0
+toledo bend realty,population metro,NUM,0
+toledo bend realty,population total,NUM,0
+toledo bend realty,population total ranking,NUM,0
+toledo bend realty,population urban,NUM,0
+toledo bend realty,time zone,eastern time zone,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,area land km,NUM,0
+toledo bend realty,area land sq mi,NUM,0
+toledo bend realty,area total km,NUM,0
+toledo bend realty,area total sq mi,NUM,0
+toledo bend realty,area water km,NUM,0
+toledo bend realty,area water sq mi,NUM,0
+toledo bend realty,blank info,NUM,0
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,centre,toledo,2
+toledo bend realty,coordinates region,us oh,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,elevation ft,NUM,0
+toledo bend realty,elevation m,NUM,0
+toledo bend realty,established date,NUM,0
+toledo bend realty,established title,founded,0
+toledo bend realty,latd,NUM,0
+toledo bend realty,latm,NUM,0
+toledo bend realty,lats,NUM,0
+toledo bend realty,longd,NUM,0
+toledo bend realty,longm,NUM,0
+toledo bend realty,longs,NUM,0
+toledo bend realty,north,bedford township,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,northeast,erie township,0
+toledo bend realty,northwest,whiteford township,0
+toledo bend realty,official name,city of toledo,2
+toledo bend realty,pop est as of,NUM,0
+toledo bend realty,population as of,NUM,0
+toledo bend realty,population blank,toledoan,0
+toledo bend realty,population density km,NUM,0
+toledo bend realty,population est,NUM,0
+toledo bend realty,population rank,ALPHANUM,0
+toledo bend realty,postal code type,zip codes,0
+toledo bend realty,pushpin map,usa,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,0
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,0
+toledo bend realty,unit pref,imperial,0
+toledo bend realty,utc offset dst,NUM,0
+toledo bend realty,website,http   www toledo oh gov,2
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+toledo bend realty,foaf homepage,http   www toledo oh gov,0
+toledo bend realty,foaf nick,the glass city  t town  frogtown,0
+toledo bend realty,geo lat,NUM,0
+toledo bend realty,geo long,NUM,0
+toledo bend realty,georss point,NUM,0
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,1
+twelve tribes or sons of israel,location,israel,2
+twelve tribes or sons of israel,majorsites,bethlehem,1
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,0
+vietnamese food blog,begins,NUM,0
+vietnamese food blog,duration,NUM,0
+vietnamese food blog,ends,NUM,0
+vietnamese food blog,frequency,annual,0
+vietnamese food blog,hangul,NUM,0
+vietnamese food blog,hanja,NUM,0
+vietnamese food blog,holiday name,cold food festival,1
+vietnamese food blog,longtype,cultural,0
+vietnamese food blog,observedby,chinese  koreans  vietnamese,0
+vietnamese food blog,official name,hanshi festival,0
+vietnamese food blog,relatedto,t t h n th c  hanshik,0
+vietnamese food blog,vie,t t h n th c,0
+vietnamese food blog,foaf nick,cold food festival,0
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,isbn,NUM,0
+which books by kerouac were published by viking press,literary genre,beat generation,0
+which books by kerouac were published by viking press,literary genre,short story collection,0
+which books by kerouac were published by viking press,media type,hardcover,0
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,0
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,country,united states,0
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,0
+which books by kerouac were published by viking press,language,english,0
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,0
+which books by kerouac were published by viking press,release date,NUM,0
+which european countries have a constitutional monarchy,populated place area total,NUM,0
+which european countries have a constitutional monarchy,populated place area total,NUM,0
+which european countries have a constitutional monarchy,populated place population density,NUM,0
+which european countries have a constitutional monarchy,populated place population density,NUM,0
+which european countries have a constitutional monarchy,anthem,honors music,0
+which european countries have a constitutional monarchy,anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,anthem,kongesangen,0
+which european countries have a constitutional monarchy,area total,ALPHANUM,0
+which european countries have a constitutional monarchy,area total,ALPHANUM,0
+which european countries have a constitutional monarchy,capital,oslo,1
+which european countries have a constitutional monarchy,currency,norwegian krone,1
+which european countries have a constitutional monarchy,demonym,norwegian,1
+which european countries have a constitutional monarchy,ethnic group,forest finns,0
+which european countries have a constitutional monarchy,ethnic group,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic group,jews,0
+which european countries have a constitutional monarchy,ethnic group,kven people,0
+which european countries have a constitutional monarchy,ethnic group,norwegians,0
+which european countries have a constitutional monarchy,ethnic group,romani people,0
+which european countries have a constitutional monarchy,ethnic group,sami people,0
+which european countries have a constitutional monarchy,government type,unitary state,0
+which european countries have a constitutional monarchy,language,kven language,0
+which european countries have a constitutional monarchy,language,latin alphabet,0
+which european countries have a constitutional monarchy,language,lule sami language,0
+which european countries have a constitutional monarchy,language,northern sami,0
+which european countries have a constitutional monarchy,language,norwegian language,0
+which european countries have a constitutional monarchy,language,romani language,0
+which european countries have a constitutional monarchy,language,scandoromani language,0
+which european countries have a constitutional monarchy,language,southern sami language,0
+which european countries have a constitutional monarchy,leader,erna solberg,1
+which european countries have a constitutional monarchy,leader,harald v of norway,2
+which european countries have a constitutional monarchy,leader,olemic thommessen,0
+which european countries have a constitutional monarchy,leader,tore schei,0
+which european countries have a constitutional monarchy,leader title,chief justice,0
+which european countries have a constitutional monarchy,leader title,monarch,0
+which european countries have a constitutional monarchy,leader title,president of the storting,1
+which european countries have a constitutional monarchy,leader title,prime minister,0
+which european countries have a constitutional monarchy,official language,lule sami language,0
+which european countries have a constitutional monarchy,official language,northern sami,0
+which european countries have a constitutional monarchy,official language,norwegian language,0
+which european countries have a constitutional monarchy,official language,southern sami language,0
+which european countries have a constitutional monarchy,percentage of area water,NUM,0
+which european countries have a constitutional monarchy,population density,NUM,0
+which european countries have a constitutional monarchy,population density,NUM,0
+which european countries have a constitutional monarchy,regional language,kven language,0
+which european countries have a constitutional monarchy,regional language,romani language,0
+which european countries have a constitutional monarchy,regional language,scandoromani language,0
+which european countries have a constitutional monarchy,time zone,central european time,0
+which european countries have a constitutional monarchy,area km,NUM,0
+which european countries have a constitutional monarchy,area magnitude,NUM,0
+which european countries have a constitutional monarchy,area rank,NUM,0
+which european countries have a constitutional monarchy,area sq mi,NUM,0
+which european countries have a constitutional monarchy,calling code,telephone numbers in norway,0
+which european countries have a constitutional monarchy,currency code,nok,0
+which european countries have a constitutional monarchy,date format,dd mm yyyy,0
+which european countries have a constitutional monarchy,drives on,right,0
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established date,NUM,1
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established date,NUM,1
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established date,NUM,0
+which european countries have a constitutional monarchy,established event,constitution of norway,1
+which european countries have a constitutional monarchy,established event,denmark norway,2
+which european countries have a constitutional monarchy,established event,dissolution of the union between norway and sweden,1
+which european countries have a constitutional monarchy,established event,german occupation of norway,0
+which european countries have a constitutional monarchy,established event,kalmar union,1
+which european countries have a constitutional monarchy,established event,unification of norway,0
+which european countries have a constitutional monarchy,established event,union between sweden and norway,0
+which european countries have a constitutional monarchy,established event,restoration from german occupation,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,NUM,0
+which european countries have a constitutional monarchy,ethnic groups,forest finns,0
+which european countries have a constitutional monarchy,ethnic groups,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic groups,jews,0
+which european countries have a constitutional monarchy,ethnic groups,kven people,0
+which european countries have a constitutional monarchy,ethnic groups,norwegians,1
+which european countries have a constitutional monarchy,ethnic groups,romani people,0
+which european countries have a constitutional monarchy,ethnic groups,sami people,0
+which european countries have a constitutional monarchy,gdp nominal,ALPHANUM,0
+which european countries have a constitutional monarchy,gdp nominal per capita,NUM,0
+which european countries have a constitutional monarchy,gdp nominal per capita rank,NUM,0
+which european countries have a constitutional monarchy,gdp nominal rank,NUM,0
+which european countries have a constitutional monarchy,gdp nominal year,NUM,0
+which european countries have a constitutional monarchy,gdp ppp,ALPHANUM,0
+which european countries have a constitutional monarchy,gdp ppp per capita,NUM,0
+which european countries have a constitutional monarchy,gdp ppp per capita rank,NUM,0
+which european countries have a constitutional monarchy,gdp ppp rank,NUM,0
+which european countries have a constitutional monarchy,gdp ppp year,NUM,0
+which european countries have a constitutional monarchy,gini,NUM,0
+which european countries have a constitutional monarchy,gini year,NUM,0
+which european countries have a constitutional monarchy,hdi,NUM,0
+which european countries have a constitutional monarchy,hdi change,steady,0
+which european countries have a constitutional monarchy,hdi rank,NUM,0
+which european countries have a constitutional monarchy,hdi year,NUM,0
+which european countries have a constitutional monarchy,languages,latin,0
+which european countries have a constitutional monarchy,languages type,writing system,0
+which european countries have a constitutional monarchy,largest city,capital,0
+which european countries have a constitutional monarchy,latd,NUM,0
+which european countries have a constitutional monarchy,latm,NUM,0
+which european countries have a constitutional monarchy,leader name,erna solberg,0
+which european countries have a constitutional monarchy,leader name,harald v of norway,1
+which european countries have a constitutional monarchy,leader name,olemic thommessen,0
+which european countries have a constitutional monarchy,leader name,tore schei,1
+which european countries have a constitutional monarchy,legislature,storting,0
+which european countries have a constitutional monarchy,longd,NUM,0
+which european countries have a constitutional monarchy,longm,NUM,0
+which european countries have a constitutional monarchy,motto,alt for noreg,0
+which european countries have a constitutional monarchy,motto,alt for norge,0
+which european countries have a constitutional monarchy,national anthem,honors music,0
+which european countries have a constitutional monarchy,national anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,national anthem,kongesangen,0
+which european countries have a constitutional monarchy,north,norwegian sea barents sea,0
+which european countries have a constitutional monarchy,northeast,barents sea,0
+which european countries have a constitutional monarchy,northwest,norwegian sea,0
+which european countries have a constitutional monarchy,official languages,lule sami language,0
+which european countries have a constitutional monarchy,official languages,northern sami,0
+which european countries have a constitutional monarchy,official languages,norwegian language,1
+which european countries have a constitutional monarchy,official languages,southern sami language,0
+which european countries have a constitutional monarchy,official languages,and,0
+which european countries have a constitutional monarchy,patron saint,olaf ii of norway,0
+which european countries have a constitutional monarchy,percent water,NUM,0
+which european countries have a constitutional monarchy,population census,NUM,0
+which european countries have a constitutional monarchy,population census year,NUM,0
+which european countries have a constitutional monarchy,population density km,NUM,0
+which european countries have a constitutional monarchy,population density rank,NUM,0
+which european countries have a constitutional monarchy,population density sq mi,NUM,0
+which european countries have a constitutional monarchy,regional languages,kven language,0
+which european countries have a constitutional monarchy,regional languages,romani language,0
+which european countries have a constitutional monarchy,regional languages,scandoromani language,0
+which european countries have a constitutional monarchy,religion,church of norway,0
+which european countries have a constitutional monarchy,south,skagerrak,0
+which european countries have a constitutional monarchy,southwest,north sea,0
+which european countries have a constitutional monarchy,sovereignty type,history of norway,2
+which european countries have a constitutional monarchy,state religion,church of norway,1
+which european countries have a constitutional monarchy,time zone dst,central european summer time,0
+which european countries have a constitutional monarchy,title,geographic locale,0
+which european countries have a constitutional monarchy,title,international organizations,0
+which european countries have a constitutional monarchy,west,north atlantic ocean,0
+which european countries have a constitutional monarchy,west,norwegian sea,0
+which european countries have a constitutional monarchy,foaf homepage,http   www norway no,2
+which european countries have a constitutional monarchy,geo lat,NUM,0
+which european countries have a constitutional monarchy,geo long,NUM,0
+which european countries have a constitutional monarchy,georss point,NUM,0
+which european countries have a constitutional monarchy,owl different from,noriega,0

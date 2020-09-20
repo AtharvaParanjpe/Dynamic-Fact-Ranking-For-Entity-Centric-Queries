@@ -1,0 +1,230 @@
+airlines that currently use boeing 747 planes,alliance,sky team,1
+airlines that currently use boeing 747 planes,headquarter,jeddah,3
+airlines that currently use boeing 747 planes,headquarter,saudi arabia,2
+airlines that currently use boeing 747 planes,hub airport,king abdulaziz international airport,2
+airlines that currently use boeing 747 planes,hub airport,king fahd international airport,1
+airlines that currently use boeing 747 planes,hub airport,king khalid international airport,1
+airlines that currently use boeing 747 planes,hub airport,prince mohammad bin abdulaziz airport,1
+airlines that currently use boeing 747 planes,industry,aviation,1
+airlines that currently use boeing 747 planes,headquarters,jeddah,3
+airlines that currently use boeing 747 planes,headquarters,saudi arabia,3
+airlines that currently use boeing 747 planes,hubs,king abdulaziz international airport,2
+airlines that currently use boeing 747 planes,hubs,king fahd international airport,0
+airlines that currently use boeing 747 planes,hubs,king khalid international airport,1
+airlines that currently use boeing 747 planes,hubs,prince mohammad bin abdulaziz airport,1
+airlines that currently use boeing 747 planes,key people,chairman,0
+airlines that currently use boeing 747 planes,key people,chief executive officer,0
+airlines that currently use boeing 747 planes,key people,director general,0
+alexander nevsky cathedral bulgarian city liberation turks,architect,alexander pomerantsev,3
+alexander nevsky cathedral bulgarian city liberation turks,leadership,patriarch of all bulgaria,3
+alexander nevsky cathedral bulgarian city liberation turks,province,sofia,2
+alexander nevsky cathedral bulgarian city liberation turks,religious affiliation,bulgarian orthodox church,3
+alexander nevsky cathedral bulgarian city liberation turks,state,bulgaria,3
+alexander nevsky cathedral bulgarian city liberation turks,status,cathedral,2
+american embassy nairobi,location,dar es salaam,2
+american embassy nairobi,location,kenya,3
+american embassy nairobi,location,nairobi,3
+american embassy nairobi,location,tanzania,2
+american embassy nairobi,target,list of diplomatic missions of the united states,1
+american embassy nairobi,timezone,ALPHANUM,0
+american embassy nairobi,weapons,ammonium nitrate,1
+american embassy nairobi,weapons,pistol,0
+american embassy nairobi,weapons,stun grenade,1
+american embassy nairobi,weapons,trinitrotoluene,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,crew members,buzz aldrin,3
+astronauts who landed on the moon,crew members,michael collins  astronaut,4
+astronauts who landed on the moon,crew members,neil armstrong,4
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,launch site,kennedy space center,1
+astronauts who landed on the moon,launch site,ALPHANUM,2
+astronauts who landed on the moon,next mission,ALPHANUM,2
+astronauts who landed on the moon,operator,nasa,2
+astronauts who landed on the moon,orbit reference,lunar orbit,1
+astronauts who landed on the moon,previous mission,ALPHANUM,1
+astronauts who landed on the moon,programme,apollo program,1
+bicycle holiday nature,location,cook county  illinois,3
+bicycle holiday nature,location,illinois,2
+bicycle holiday nature,nearest city,schaumburg  illinois,0
+frequently visited sharks gulf indian ocean,country,india,2
+frequently visited sharks gulf indian ocean,country,sri lanka,3
+frequently visited sharks gulf indian ocean,basin countries,india,2
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,3
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+give me all canadian grunge record labels,country,canada,2
+give me all canadian grunge record labels,founded by,sloan  band,3
+give me all canadian grunge record labels,genre,alternative rock,2
+give me all canadian grunge record labels,genre,grunge,3
+give me all canadian grunge record labels,genre,indie rock,1
+give me all canadian grunge record labels,location,halifax  nova scotia,2
+give me all canadian grunge record labels,location,nova scotia,2
+give me all canadian grunge record labels,location,ontario,2
+give me all canadian grunge record labels,location,toronto,1
+give me all canadian grunge record labels,parent company,mca records,3
+give me all canadian grunge record labels,founder,sloan  band,2
+give me all canadian grunge record labels,parent,mca records,1
+give me all members of prodigy,associated band,the prodigy,3
+give me all members of prodigy,associated musical artist,the prodigy,3
+give me all members of prodigy,birth place,braintree  essex,2
+give me all members of prodigy,genre,alternative dance,1
+give me all members of prodigy,genre,alternative rock,1
+give me all members of prodigy,genre,big beat,1
+give me all members of prodigy,genre,breakbeat,1
+give me all members of prodigy,genre,breakbeat hardcore,1
+give me all members of prodigy,genre,electronic dance music,1
+give me all members of prodigy,genre,electropunk,1
+give me all members of prodigy,genre,hardcore  electronic dance music genre,1
+give me all members of prodigy,instrument,direct drive turntable,1
+give me all members of prodigy,instrument,drum machine,2
+give me all members of prodigy,instrument,keyboard instrument,2
+give me all members of prodigy,instrument,sampler  musical instrument,2
+give me all members of prodigy,instrument,synthesizer,1
+give me all members of prodigy,record label,xl recordings,1
+give me the apollo 14 astronauts,birth place,durango  colorado,3
+give me the apollo 14 astronauts,death place,falls church  virginia,1
+give me the apollo 14 astronauts,nationality,united states,3
+give me the apollo 14 astronauts,occupation,fighter pilot,1
+give me the apollo 14 astronauts,occupation,test pilot,2
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,previous occupation,fighter pilot,1
+give me the apollo 14 astronauts,previous occupation,test pilot,1
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+makers of lawn tennis rackets,industry,sports equipment,2
+makers of lawn tennis rackets,parent company,pacific brands,4
+makers of lawn tennis rackets,parent,pacific brands,2
+nelson mandela john dube,birth place,cape province,3
+nelson mandela john dube,birth place,mvezo,2
+nelson mandela john dube,birth place,union of south africa,4
+nelson mandela john dube,death place,gauteng,4
+nelson mandela john dube,death place,johannesburg,4
+nelson mandela john dube,death place,south africa,2
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,other party,south african communist party,1
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,1
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,2
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,3
+nelson mandela john dube,spouse,gra a machel,2
+nelson mandela john dube,spouse,winnie madikizela mandela,2
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,1
+nelson mandela john dube,honorific suffix,order of the elephant,1
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,place of birth,cape province,3
+nelson mandela john dube,place of birth,mvezo,3
+nelson mandela john dube,place of birth,union of south africa,4
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,1
+nelson mandela john dube,title,president of south africa,4
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route start,fort erie  ontario,1
+niagara falls origin lake,location special,niagara on the lake,2
+niagara falls origin lake,road,clifton hill  niagara falls,3
+niagara falls origin lake,road,fort erie  ontario,1
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,terminus a,fort erie  ontario,1
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,1
+overeaters anonymous,location,milwaukee,2
+sean parnell is the governor of which u s  state,capital,juneau  alaska,3
+sean parnell is the governor of which u s  state,country,united states,2
+sean parnell is the governor of which u s  state,language,ahtna language,1
+sean parnell is the governor of which u s  state,language,aleut language,1
+sean parnell is the governor of which u s  state,language,alutiiq language,0
+sean parnell is the governor of which u s  state,language,central alaskan yup ik language,1
+sean parnell is the governor of which u s  state,language,central siberian yupik language,1
+sean parnell is the governor of which u s  state,language,deg xinag language,1
+sean parnell is the governor of which u s  state,language,dena ina language,2
+sean parnell is the governor of which u s  state,language,english language,1
+sean parnell is the governor of which u s  state,language,eskimo aleut languages,2
+sean parnell is the governor of which u s  state,language,eyak language,1
+sean parnell is the governor of which u s  state,language,gwich in language,1
+sean parnell is the governor of which u s  state,language,haida language,1
+sean parnell is the governor of which u s  state,language,holikachuk language,1
+sean parnell is the governor of which u s  state,language,h n language,1
+sean parnell is the governor of which u s  state,language,inupiat language,1
+sean parnell is the governor of which u s  state,language,koyukon language,2
+sean parnell is the governor of which u s  state,language,lower tanana language,1
+sean parnell is the governor of which u s  state,language,na dene languages,2
+sean parnell is the governor of which u s  state,language,spanish language,1
+sean parnell is the governor of which u s  state,language,tanacross language,1
+sean parnell is the governor of which u s  state,language,tlingit language,1
+sean parnell is the governor of which u s  state,language,tsimshianic languages,1
+sean parnell is the governor of which u s  state,language,upper kuskokwim language,1
+sean parnell is the governor of which u s  state,language,upper tanana language,1
+sean parnell is the governor of which u s  state,largest city,anchorage  alaska,3
+sean parnell is the governor of which u s  state,flaglink,flag of alaska,1
+sean parnell is the governor of which u s  state,highestpoint,denali,0
+sean parnell is the governor of which u s  state,legislature,alaska legislature,0
+sean parnell is the governor of which u s  state,lowerhouse,alaska house of representatives,0
+sean parnell is the governor of which u s  state,northeast,beaufort sea,0
+sean parnell is the governor of which u s  state,northwest,chukchi sea,0
+sean parnell is the governor of which u s  state,officiallang,ahtna language,1
+sean parnell is the governor of which u s  state,officiallang,aleut language,2
+sean parnell is the governor of which u s  state,officiallang,alutiiq language,1
+sean parnell is the governor of which u s  state,officiallang,central alaskan yup ik language,1
+sean parnell is the governor of which u s  state,officiallang,central siberian yupik language,1
+sean parnell is the governor of which u s  state,officiallang,deg xinag language,1
+sean parnell is the governor of which u s  state,officiallang,dena ina language,2
+sean parnell is the governor of which u s  state,officiallang,english language,2
+sean parnell is the governor of which u s  state,officiallang,eyak language,1
+sean parnell is the governor of which u s  state,officiallang,gwich in language,2
+sean parnell is the governor of which u s  state,officiallang,haida language,1
+sean parnell is the governor of which u s  state,officiallang,holikachuk language,2
+sean parnell is the governor of which u s  state,officiallang,h n language,2
+sean parnell is the governor of which u s  state,officiallang,inupiat language,1
+sean parnell is the governor of which u s  state,officiallang,koyukon language,1
+sean parnell is the governor of which u s  state,officiallang,lower tanana language,1
+sean parnell is the governor of which u s  state,officiallang,tanacross language,1
+sean parnell is the governor of which u s  state,officiallang,tlingit language,1
+sean parnell is the governor of which u s  state,officiallang,tsimshianic languages,1
+sean parnell is the governor of which u s  state,officiallang,upper kuskokwim language,1
+sean parnell is the governor of which u s  state,officiallang,upper tanana language,2
+sean parnell is the governor of which u s  state,senators,lisa murkowski,1
+sean parnell is the governor of which u s  state,southwest,bering sea,0
+sean parnell is the governor of which u s  state,stateanthem,alaska s flag,0
+sean parnell is the governor of which u s  state,timezone,alaska time zone,1
+sean parnell is the governor of which u s  state,timezone,coordinated universal time,1
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian standard time,2
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian time zone,1
+sean parnell is the governor of which u s  state,title,list of u s  states by date of admission to the union,0
+sean parnell is the governor of which u s  state,upperhouse,alaska senate,2
+summer flowers,binomial authority,carl linnaeus,0
+summer flowers,class,monocotyledon,1
+summer flowers,division,flowering plant,3
+summer flowers,family,liliaceae,2
+summer flowers,genus,lilium,4
+summer flowers,kingdom,plant,0
+summer flowers,order,liliales,2
+summer flowers,familia,liliaceae,2
+summer flowers,ordo,liliales,3
+summer flowers,unranked classis,monocotyledon,0
+summer flowers,unranked divisio,flowering plant,2
+ten ancient greek city kingdoms of cyprus,location,cyprus,4
+ten ancient greek city kingdoms of cyprus,location,famagusta district,3
+vietnam travel airports,city,hanoi,3
+vietnam travel airports,location,hanoi,4
+vietnam travel airports,location,vietnam,4
+vietnam travel airports,city served,hanoi,3
+vietnam war facts,location,south vietnam,3
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,3
+what books did paul of tarsus write,category,pauline epistles,0

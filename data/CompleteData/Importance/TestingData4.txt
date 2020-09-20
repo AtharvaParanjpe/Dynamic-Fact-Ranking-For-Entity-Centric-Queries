@@ -1,0 +1,433 @@
+1994 short story collection alice munro is open,author,alice munro,2
+1994 short story collection alice munro is open,isbn,NUM,0
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,2
+1994 short story collection alice munro is open,number of pages,NUM,1
+1994 short story collection alice munro is open,oclc,NUM,0
+1994 short story collection alice munro is open,publisher,ryerson press,1
+1994 short story collection alice munro is open,cinematography,harry makin,1
+1994 short story collection alice munro is open,country,canada,1
+1994 short story collection alice munro is open,director,ronald wilson,2
+1994 short story collection alice munro is open,distributor,octapixx international,1
+1994 short story collection alice munro is open,editing,susan shipton,1
+1994 short story collection alice munro is open,genre,bildungsroman,1
+1994 short story collection alice munro is open,genre,short story cycle,1
+1994 short story collection alice munro is open,language,english,1
+1994 short story collection alice munro is open,music,lawrence shragge,1
+1994 short story collection alice munro is open,pages,NUM,0
+1994 short story collection alice munro is open,producer,richard borchiver,2
+1994 short story collection alice munro is open,pub date,NUM,1
+1994 short story collection alice munro is open,runtime,NUM,0
+1994 short story collection alice munro is open,starring,tanya allen,2
+1994 short story collection alice munro is open,starring,wendy crewson,2
+1994 short story collection alice munro is open,studio,paragon entertainment corporation,1
+1994 short story collection alice munro is open,writer,kelly rebar,2
+1994 short story collection alice munro is open,writer,book alice munro,2
+1994 short story collection alice munro is open,writer,writer charles k  pitts,2
+computer systems that have a recursive acronym for the name,genre,mathematical software,1
+computer systems that have a recursive acronym for the name,latest release version,NUM,1
+computer systems that have a recursive acronym for the name,license,gnu general public license,2
+computer systems that have a recursive acronym for the name,programming language,c,1
+computer systems that have a recursive acronym for the name,developer,christian bauer  alexander frink  richard b  kreckel  et al,1
+computer systems that have a recursive acronym for the name,operating system,cross platform,1
+computer systems that have a recursive acronym for the name,foaf homepage,http   www ginac de,2
+espresso tv stands,author,julian more,2
+espresso tv stands,author,wolf mankowitz,2
+espresso tv stands,lyrics,julian more,1
+espresso tv stands,lyrics,monty norman,2
+espresso tv stands,music by,david heneker,1
+espresso tv stands,music by,monty norman,1
+espresso tv stands,book,julian more  wolf mankowitz,1
+espresso tv stands,cinematography,john wilcox,1
+espresso tv stands,country,united kingdom,1
+espresso tv stands,director,val guest,2
+espresso tv stands,distributor,british lion films,1
+espresso tv stands,editing,bill lenny,1
+espresso tv stands,language,english,1
+espresso tv stands,music,david heneker,2
+espresso tv stands,music,monty norman,2
+espresso tv stands,music,robert farnon,2
+espresso tv stands,producer,jon penington,2
+espresso tv stands,released,NUM,2
+espresso tv stands,runtime,NUM,0
+espresso tv stands,starring,cliff richard,2
+espresso tv stands,starring,eric pohlmann,2
+espresso tv stands,starring,gilbert harding,2
+espresso tv stands,starring,hermione baddeley,2
+espresso tv stands,starring,laurence harvey,2
+espresso tv stands,starring,sylvia syms,1
+espresso tv stands,starring,yolande donlan,2
+espresso tv stands,writer,wolf mankowitz,2
+espresso tv stands,writer,julian more,2
+europe solar power facility,color,forestgreen,0
+europe solar power facility,color,pink,0
+europe solar power facility,direction,horizontal,0
+europe solar power facility,thumb,right,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,width,NUM,0
+frequently visited sharks gulf indian ocean,average depth,NUM,0
+frequently visited sharks gulf indian ocean,country,india,1
+frequently visited sharks gulf indian ocean,country,sri lanka,2
+frequently visited sharks gulf indian ocean,length,NUM,0
+frequently visited sharks gulf indian ocean,area km square,NUM,0
+frequently visited sharks gulf indian ocean,basin countries,india,1
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,2
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+frequently visited sharks gulf indian ocean,geo lat,NUM,0
+frequently visited sharks gulf indian ocean,geo long,NUM,0
+frequently visited sharks gulf indian ocean,georss point,NUM,0
+give me all female german chancellors,alias,merkel  angela dorothea  full name,1
+give me all female german chancellors,alma mater,leipzig university,1
+give me all female german chancellors,birth date,NUM,2
+give me all female german chancellors,birth place,hamburg,2
+give me all female german chancellors,birth place,west germany,2
+give me all female german chancellors,birth year,NUM,2
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,1
+give me all female german chancellors,office,chancellor of germany,2
+give me all female german chancellors,office,leader of the christian democratic union of germany,1
+give me all female german chancellors,office,minister for women and youth,1
+give me all female german chancellors,office,minister for the environment,0
+give me all female german chancellors,party,christian democratic union of germany,2
+give me all female german chancellors,party,democratic awakening,1
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,predecessor,gerhard schr der,1
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,1
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,before,norbert lammert,0
+give me all female german chancellors,chancellor,helmut kohl,1
+give me all female german chancellors,date of birth,NUM,2
+give me all female german chancellors,place of birth,hamburg  germany,2
+give me all female german chancellors,short description,german politician,2
+give me all female german chancellors,term end,NUM,0
+give me all female german chancellors,term end,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,2
+give me all female german chancellors,title,chancellor of germany,2
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,1
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+give me all female german chancellors,title,ALPHANUM,0
+give me all female german chancellors,title,general secretary of the christian democratic union,2
+give me all female german chancellors,title,leader of the christian democratic union,2
+give me all female german chancellors,title,speaker at the invocation of the college of europe,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,1
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,foaf homepage,http   www bundeskanzlerin de webs bk en,0
+give me all members of prodigy,active years start year,NUM,1
+give me all members of prodigy,associated band,the prodigy,1
+give me all members of prodigy,associated musical artist,the prodigy,1
+give me all members of prodigy,background,non vocal instrumentalist,0
+give me all members of prodigy,birth date,NUM,2
+give me all members of prodigy,birth place,braintree  essex,2
+give me all members of prodigy,birth year,NUM,2
+give me all members of prodigy,genre,alternative dance,1
+give me all members of prodigy,genre,alternative rock,1
+give me all members of prodigy,genre,big beat,1
+give me all members of prodigy,genre,breakbeat,1
+give me all members of prodigy,genre,breakbeat hardcore,1
+give me all members of prodigy,genre,electronic dance music,1
+give me all members of prodigy,genre,electropunk,1
+give me all members of prodigy,genre,hardcore  electronic dance music genre,1
+give me all members of prodigy,instrument,direct drive turntable,1
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,1
+give me all members of prodigy,record label,xl recordings,1
+give me all members of prodigy,active,NUM,1
+give me all members of prodigy,associated acts,ALPHANUM,1
+give me all members of prodigy,date of birth,NUM,2
+give me all members of prodigy,landscape,yes,0
+give me all members of prodigy,place of birth,braintree  essex  england,2
+give me all members of prodigy,short description,english musician  dj and record producer,2
+give me all members of prodigy,years active,NUM,0
+guitar classical bach,birth date,NUM,2
+guitar classical bach,birth year,NUM,2
+guitar classical bach,death date,NUM,2
+guitar classical bach,death year,NUM,2
+guitar classical bach,bot,ALPHANUM,0
+guitar classical bach,date,ALPHANUM,0
+guitar classical bach,date of birth,NUM,2
+guitar classical bach,date of death,NUM,2
+guitar classical bach,place of birth,sopiki  greece,2
+guitar classical bach,place of death,alexandria  virginia  usa,2
+guitar classical bach,short description,greek musician,2
+movies about english hooligans,work runtime,NUM,0
+movies about english hooligans,budget,NUM,0
+movies about english hooligans,country,united states,1
+movies about english hooligans,director,lexi alexander,2
+movies about english hooligans,distributor,freestyle releasing,1
+movies about english hooligans,distributor,universal studios,1
+movies about english hooligans,gross,NUM,0
+movies about english hooligans,music composer,christopher franke,2
+movies about english hooligans,producer,deborah del prete,2
+movies about english hooligans,runtime,NUM,0
+movies about english hooligans,starring,charlie hunnam,2
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,2
+movies about english hooligans,starring,leo gregory,1
+movies about english hooligans,writer,dougie brimson,1
+movies about english hooligans,writer,lexi alexander,2
+movies about english hooligans,cinematography,alexander buono,1
+movies about english hooligans,editing,paul trejo,1
+movies about english hooligans,language,english,1
+movies about english hooligans,music,christopher franke,1
+movies about english hooligans,narrator,sam gibson,1
+movies about english hooligans,screenplay,dougie brimson,2
+movies about english hooligans,screenplay,lexi alexander,1
+movies about english hooligans,screenplay,josh shelov,1
+movies about english hooligans,story,dougie brimson,2
+movies about english hooligans,story,lexi alexander,2
+movies about english hooligans,studio,odd lot entertainment,1
+movies about english hooligans,foaf homepage,http   www greenstreethooligans com,1
+nordic authors who are known for children s literature,birth date,NUM,2
+nordic authors who are known for children s literature,birth place,denmark,2
+nordic authors who are known for children s literature,birth place,funen,2
+nordic authors who are known for children s literature,birth place,odense,2
+nordic authors who are known for children s literature,birth year,NUM,2
+nordic authors who are known for children s literature,death date,NUM,2
+nordic authors who are known for children s literature,death place,copenhagen,2
+nordic authors who are known for children s literature,death place,denmark,2
+nordic authors who are known for children s literature,death year,NUM,2
+nordic authors who are known for children s literature,genre,children s literature,1
+nordic authors who are known for children s literature,genre,travel literature,1
+nordic authors who are known for children s literature,influenced by,brothers grimm,1
+nordic authors who are known for children s literature,influenced by,heinrich heine,1
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,1
+nordic authors who are known for children s literature,date of birth,NUM,2
+nordic authors who are known for children s literature,date of death,NUM,2
+nordic authors who are known for children s literature,death cause,liver cancer,1
+nordic authors who are known for children s literature,influences,brothers grimm,1
+nordic authors who are known for children s literature,influences,heinrich heine,1
+nordic authors who are known for children s literature,influences,ludvig holberg,1
+nordic authors who are known for children s literature,influences,william shakespeare,1
+nordic authors who are known for children s literature,language,danish,1
+nordic authors who are known for children s literature,nationality,danish,2
+nordic authors who are known for children s literature,occupation,writer,2
+nordic authors who are known for children s literature,place of birth,odense  denmark,2
+nordic authors who are known for children s literature,place of death,copenhagen  denmark,2
+nordic authors who are known for children s literature,short description,danish novelist  short story writer  fairy tales writer  and poet,2
+nordic authors who are known for children s literature,width,NUM,0
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,1
+radio italia online,broadcast area,fm broadcasting,2
+radio italia online,broadcast area,internet radio,0
+radio italia online,broadcast area,italy,1
+radio italia online,broadcast area,monaco,2
+radio italia online,broadcast area,san marino,2
+radio italia online,owner,rcs media group,2
+radio italia online,programme format,rock music,2
+radio italia online,sister station,ALPHANUM,1
+radio italia online,sister station,radio monte carlo,0
+radio italia online,slogan,style rock,0
+radio italia online,slogan,the music we all love,0
+radio italia online,webcast,ALPHANUM,1
+radio italia online,airdate,NUM,2
+radio italia online,area,fm frequencies in italy and monaco  dab  dab   dvb s on hotbird and worldwide with live audio streaming,1
+radio italia online,format,rock music,1
+radio italia online,frequency,fm several frequencies  change from geographical side to side,0
+radio italia online,frequency,ALPHANUM,0
+radio italia online,sister stations,ALPHANUM,0
+radio italia online,sister stations,radio monte carlo,1
+radio italia online,website,http   www virginradioitaly it,1
+radio italia online,foaf homepage,http   www virginradioitaly it,0
+star trek captains,affiliation,starfleet,1
+star trek captains,affiliation,united federation of planets,1
+star trek captains,born,NUM,2
+star trek captains,planet,earth,0
+star trek captains,portrayer,chris pine,1
+star trek captains,portrayer,jimmy bennett,1
+star trek captains,portrayer,sandra smith,2
+star trek captains,portrayer,william shatner,1
+star trek captains,posting,ALPHANUM,1
+star trek captains,posting,chief of starfleet operations,1
+star trek captains,posting,commanding officer,1
+star trek captains,posting,executive officer,1
+star trek captains,rank,admiral,2
+star trek captains,rank,captain,1
+star trek captains,rank,commander,1
+star trek captains,species,human,0
+star trek captains,title,james tiberius kirk,2
+ten ancient greek city kingdoms of cyprus,latd,NUM,0
+ten ancient greek city kingdoms of cyprus,latm,NUM,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,2
+ten ancient greek city kingdoms of cyprus,longd,NUM,0
+ten ancient greek city kingdoms of cyprus,longm,NUM,0
+ten ancient greek city kingdoms of cyprus,map type,cyprus,0
+ten ancient greek city kingdoms of cyprus,native name,NUM,0
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,1
+twelve tribes or sons of israel,location,israel,2
+twelve tribes or sons of israel,majorsites,bethlehem,1
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,2
+universities in catalunya,affiliation,xarxa vives d universitats,0
+universities in catalunya,city,barcelona,1
+universities in catalunya,country,spain,2
+universities in catalunya,endowment,ALPHANUM,0
+universities in catalunya,state,catalonia,2
+universities in catalunya,academic staff,NUM,0
+universities in catalunya,administrative staff,NUM,1
+universities in catalunya,affiliations,xarxa vives d universitats,1
+universities in catalunya,established,NUM,2
+universities in catalunya,financing,public,1
+universities in catalunya,rector,enric fossas colet,1
+universities in catalunya,traduction,polytechnic university of catalonia,0
+universities in catalunya,foaf homepage,http   www upc edu,1
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,ingredient name,deep fried dried starch and other ingredients  the most popular is prawn,0
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,1
+vietnam food recipes,serving temperature,room temperature,0
+vietnam food recipes,course,snack,0
+vietnam food recipes,creator,traditional food,2
+vietnam food recipes,main ingredient,deep fried dried starch and other ingredients  the most popular is prawn,2
+vietnam food recipes,served,room temperature,2
+vietnam food recipes,variations,different variations according to ingredients,0
+vietnam food recipes,dc type,snack,1
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,1
+what books did paul of tarsus write,booknum,NUM,0
+what books did paul of tarsus write,category,pauline epistles,0
+what books did paul of tarsus write,letname,NUM,0
+what books did paul of tarsus write,nextletter,ALPHANUM,0
+what books did paul of tarsus write,nextlink,NUM,0
+what books did paul of tarsus write,previousletter,ALPHANUM,0
+what books did paul of tarsus write,previouslink,NUM,0
+what books did paul of tarsus write,size,NUM,0
+which mountain is the highest after the annapurna,elevation,NUM,0
+which mountain is the highest after the annapurna,first ascent person,adam bielecki  climber,1
+which mountain is the highest after the annapurna,first ascent person,janusz go  b,0
+which mountain is the highest after the annapurna,first ascent year,NUM,2
+which mountain is the highest after the annapurna,first ascent year,NUM,0
+which mountain is the highest after the annapurna,located in area,pakistan,2
+which mountain is the highest after the annapurna,mountain range,karakoram,1
+which mountain is the highest after the annapurna,prominence,NUM,0
+which mountain is the highest after the annapurna,easiest route,snow ice climb,0
+which mountain is the highest after the annapurna,elevation m,NUM,0
+which mountain is the highest after the annapurna,elevation ref,ALPHANUM,1
+which mountain is the highest after the annapurna,first ascent,NUM,0
+which mountain is the highest after the annapurna,label position,right,0
+which mountain is the highest after the annapurna,lat d,NUM,0
+which mountain is the highest after the annapurna,lat m,NUM,0
+which mountain is the highest after the annapurna,lat s,NUM,0
+which mountain is the highest after the annapurna,listing,eight thousander,0
+which mountain is the highest after the annapurna,listing,ultra prominent peak,0
+which mountain is the highest after the annapurna,location,pakistan china border,2
+which mountain is the highest after the annapurna,long d,NUM,0
+which mountain is the highest after the annapurna,long m,NUM,0
+which mountain is the highest after the annapurna,long s,NUM,0
+which mountain is the highest after the annapurna,prominence m,NUM,0
+which mountain is the highest after the annapurna,range,karakoram,2
+which mountain is the highest after the annapurna,geo lat,NUM,0
+which mountain is the highest after the annapurna,geo long,NUM,0
+which mountain is the highest after the annapurna,georss point,NUM,0
+who painted the storm on the sea of galilee,alias,rembrandt,0
+who painted the storm on the sea of galilee,birth date,NUM,2
+who painted the storm on the sea of galilee,birth place,dutch republic,2
+who painted the storm on the sea of galilee,birth place,leiden,2
+who painted the storm on the sea of galilee,birth place,netherlands,2
+who painted the storm on the sea of galilee,birth year,NUM,2
+who painted the storm on the sea of galilee,death date,NUM,2
+who painted the storm on the sea of galilee,death place,amsterdam,2
+who painted the storm on the sea of galilee,death place,netherlands,2
+who painted the storm on the sea of galilee,death year,NUM,2
+who painted the storm on the sea of galilee,field,printmaking,2
+who painted the storm on the sea of galilee,movement,baroque,1
+who painted the storm on the sea of galilee,movement,dutch golden age painting,1
+who painted the storm on the sea of galilee,nationality,dutch people,2
+who painted the storm on the sea of galilee,colwidth,NUM,0
+who painted the storm on the sea of galilee,date of birth,NUM,2
+who painted the storm on the sea of galilee,date of death,NUM,2
+who painted the storm on the sea of galilee,place of birth,leiden  netherlands,2
+who painted the storm on the sea of galilee,place of death,amsterdam  netherlands,2
+who painted the storm on the sea of galilee,short description,painter,1
+who painted the storm on the sea of galilee,works,ALPHANUM,1
+who painted the storm on the sea of galilee,works,ALPHANUM,1
+who painted the storm on the sea of galilee,works,ALPHANUM,1
+who painted the storm on the sea of galilee,works,ALPHANUM,1
+who painted the storm on the sea of galilee,works,ALPHANUM,2
+who produces orangina,founding year,NUM,2
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,net income,ALPHANUM,1
+who produces orangina,number of employees,NUM,1
+who produces orangina,operating income,ALPHANUM,0
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,1
+who produces orangina,revenue,ALPHANUM,0
+who produces orangina,foundation,NUM,2
+who produces orangina,founder,robert barr,2
+who produces orangina,homepage,http   www agbarr co uk,1
+who produces orangina,key people,roger white  chief executive,1
+who produces orangina,key people,ronnie hanna  chairman,1
+who produces orangina,num employees,NUM,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2
+who produces orangina,products,american cream soda,1
+who produces orangina,products,appleade,1
+who produces orangina,products,bubblegum,1
+who produces orangina,products,d n b,1
+who produces orangina,products,ka,1
+who produces orangina,products,limeade,1
+who produces orangina,foaf homepage,http   www agbarr co uk,1

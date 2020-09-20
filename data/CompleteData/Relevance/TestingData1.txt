@@ -1,0 +1,540 @@
+alexander nevsky cathedral bulgarian city liberation turks,architect,alexander pomerantsev,1
+alexander nevsky cathedral bulgarian city liberation turks,architecture,yes,0
+alexander nevsky cathedral bulgarian city liberation turks,dome height outer,ALPHANUM,0
+alexander nevsky cathedral bulgarian city liberation turks,height max,ALPHANUM,0
+alexander nevsky cathedral bulgarian city liberation turks,latitude,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,leadership,patriarch of all bulgaria,1
+alexander nevsky cathedral bulgarian city liberation turks,longitude,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,map type,bulgaria,0
+alexander nevsky cathedral bulgarian city liberation turks,province,sofia,1
+alexander nevsky cathedral bulgarian city liberation turks,religious affiliation,bulgarian orthodox church,1
+alexander nevsky cathedral bulgarian city liberation turks,specifications,yes,0
+alexander nevsky cathedral bulgarian city liberation turks,state,bulgaria,1
+alexander nevsky cathedral bulgarian city liberation turks,status,cathedral,1
+alexander nevsky cathedral bulgarian city liberation turks,year completed,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,geo lat,NUM,0
+alexander nevsky cathedral bulgarian city liberation turks,geo long,NUM,0
+ashley wagner,person height,NUM,0
+ashley wagner,birth date,NUM,2
+ashley wagner,birth place,germany,2
+ashley wagner,birth place,heidelberg,2
+ashley wagner,birth year,NUM,1
+ashley wagner,choreographer,shae lynn bourne,0
+ashley wagner,coach,nadezda kanaeva,1
+ashley wagner,coach,rafael arutyunyan,0
+ashley wagner,country,united states,1
+ashley wagner,former choreographer,adam rippon,1
+ashley wagner,former choreographer,david wilson  figure skating,0
+ashley wagner,former choreographer,irina romanova  figure skater,0
+ashley wagner,former choreographer,jeffrey buttle,0
+ashley wagner,former choreographer,shawn sawyer,0
+ashley wagner,former coach,john nicks,0
+ashley wagner,former coach,priscilla hill,1
+ashley wagner,height,NUM,0
+ashley wagner,residence,aliso viejo  california,1
+ashley wagner,beganskating,NUM,0
+ashley wagner,combined date,NUM,0
+ashley wagner,combined total,NUM,0
+ashley wagner,currenttraininglocations,artesia  california,1
+ashley wagner,date of birth,NUM,2
+ashley wagner,formertraininglocations,aliso viejo  california,0
+ashley wagner,formertraininglocations,lake arrowhead  california,0
+ashley wagner,formertraininglocations,wilmington  delaware,1
+ashley wagner,fs date,NUM,0
+ashley wagner,fs score,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,pbrankings,NUM,0
+ashley wagner,place of birth,heidelberg  germany,1
+ashley wagner,short description,american figure skater,2
+ashley wagner,show medals,yes,0
+ashley wagner,skating club,sc of wilmington,1
+ashley wagner,sp date,NUM,0
+ashley wagner,sp score,NUM,0
+ashley wagner,worldranking,NUM,1
+ashley wagner,foaf homepage,http   www figureskatersonline com ashleywagner,1
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,after,ALPHANUM,0
+astronauts who landed on the moon,apsis,selene,0
+astronauts who landed on the moon,before,ALPHANUM,0
+astronauts who landed on the moon,crew callsign,csm  columbia,0
+astronauts who landed on the moon,crew callsign,lm  eagle,0
+astronauts who landed on the moon,crew callsign,on surface  tranquility base,0
+astronauts who landed on the moon,crew members,buzz aldrin,2
+astronauts who landed on the moon,crew members,michael collins  astronaut,2
+astronauts who landed on the moon,crew members,neil armstrong,2
+astronauts who landed on the moon,crew size,NUM,0
+astronauts who landed on the moon,direction,horizontal,0
+astronauts who landed on the moon,docking,NUM,0
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,interplanetary,NUM,0
+astronauts who landed on the moon,landing date,NUM,0
+astronauts who landed on the moon,landing site,north pacific ocean,0
+astronauts who landed on the moon,launch date,NUM,0
+astronauts who landed on the moon,launch rocket,ALPHANUM,0
+astronauts who landed on the moon,launch site,kennedy space center,0
+astronauts who landed on the moon,launch site,ALPHANUM,0
+astronauts who landed on the moon,manufacturer,csm  north american rockwell,0
+astronauts who landed on the moon,manufacturer,lm  grumman,0
+astronauts who landed on the moon,mission duration,NUM,0
+astronauts who landed on the moon,mission type,manned lunar landing,1
+astronauts who landed on the moon,next mission,ALPHANUM,1
+astronauts who landed on the moon,operator,nasa,0
+astronauts who landed on the moon,orbit epoch,NUM,0
+astronauts who landed on the moon,orbit inclination,NUM,0
+astronauts who landed on the moon,orbit period,NUM,0
+astronauts who landed on the moon,orbit reference,lunar orbit,0
+astronauts who landed on the moon,pos,left,0
+astronauts who landed on the moon,position,command module pilot,0
+astronauts who landed on the moon,position,commander,1
+astronauts who landed on the moon,position,lunar module pilot,0
+astronauts who landed on the moon,previous mission,ALPHANUM,0
+astronauts who landed on the moon,programme,apollo program,1
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,spacecraft,ALPHANUM,0
+astronauts who landed on the moon,spacecraft,ALPHANUM,1
+astronauts who landed on the moon,terminology,astronaut,1
+astronauts who landed on the moon,title,ALPHANUM,2
+astronauts who landed on the moon,title,ALPHANUM,2
+astronauts who landed on the moon,title,ALPHANUM,1
+astronauts who landed on the moon,title,ALPHANUM,1
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,foaf homepage,http   buzzaldrin com the man space missions,1
+david suchet,active years start year,NUM,1
+david suchet,birth date,NUM,2
+david suchet,birth place,england,2
+david suchet,birth place,london,2
+david suchet,birth year,NUM,1
+david suchet,occupation,ALPHANUM,2
+david suchet,relative,john suchet,1
+david suchet,children,NUM,0
+david suchet,date of birth,NUM,2
+david suchet,honorific suffix,order of the british empire,0
+david suchet,place of birth,london  england  uk,2
+david suchet,relatives,john suchet,2
+david suchet,short description,actor,2
+david suchet,spouse,NUM,0
+david suchet,spouse,sheila ferris,1
+david suchet,whole name,david suchet,2
+david suchet,years active,NUM,0
+england football player highest paid,person height,NUM,0
+england football player highest paid,person weight,NUM,0
+england football player highest paid,active years end year,NUM,0
+england football player highest paid,active years start year,NUM,0
+england football player highest paid,birth date,NUM,0
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,0
+england football player highest paid,birth year,NUM,0
+england football player highest paid,former team,harlequin f c,0
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,height,NUM,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,0
+england football player highest paid,team,harlequin f c,1
+england football player highest paid,weight,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,caps points,NUM,0
+england football player highest paid,clubnumber,NUM,0
+england football player highest paid,clubs,yorkshire carnegie,0
+england football player highest paid,clubs,harlequins,1
+england football player highest paid,currentclub,harlequin f c,0
+england football player highest paid,date of birth,NUM,0
+england football player highest paid,place of birth,leeds  yorkshire  england,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repcaps points,NUM,0
+england football player highest paid,repteam,saxons,0
+england football player highest paid,repteam,england,0
+england football player highest paid,repteam,england xv,0
+england football player highest paid,repupdate,NUM,0
+england football player highest paid,repyears,NUM,0
+england football player highest paid,ru sevensnationalcomp,NUM,0
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,0
+england football player highest paid,ru sevensnationalyears,NUM,0
+england football player highest paid,short description,english rugby union player,0
+england football player highest paid,years,NUM,0
+england football player highest paid,years,NUM,0
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthclubs,west park bramhope,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepcaps points,NUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthrepyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+england football player highest paid,youthyears,NUM,0
+famous computer scientists disappeared at sea,alma mater,university of california  berkeley,1
+famous computer scientists disappeared at sea,award,turing award,1
+famous computer scientists disappeared at sea,birth date,NUM,0
+famous computer scientists disappeared at sea,birth place,san francisco,1
+famous computer scientists disappeared at sea,birth year,NUM,1
+famous computer scientists disappeared at sea,death date,NUM,1
+famous computer scientists disappeared at sea,death year,NUM,0
+famous computer scientists disappeared at sea,employer,digital equipment corporation,1
+famous computer scientists disappeared at sea,employer,ibm,1
+famous computer scientists disappeared at sea,employer,microsoft,0
+famous computer scientists disappeared at sea,employer,tandem computers,0
+famous computer scientists disappeared at sea,known for,database,0
+famous computer scientists disappeared at sea,known for,transaction processing,0
+famous computer scientists disappeared at sea,nationality,united states,1
+famous computer scientists disappeared at sea,occupation,computer scientist,1
+famous computer scientists disappeared at sea,occupation,ALPHANUM,2
+famous computer scientists disappeared at sea,state of origin,united states,0
+famous computer scientists disappeared at sea,awards,turing award,0
+famous computer scientists disappeared at sea,children,NUM,0
+famous computer scientists disappeared at sea,date of birth,NUM,1
+famous computer scientists disappeared at sea,date of death,NUM,1
+famous computer scientists disappeared at sea,disappeared place,waters near san francisco,1
+famous computer scientists disappeared at sea,disappeared status,NUM,0
+famous computer scientists disappeared at sea,doctoral advisor,michael harrison,0
+famous computer scientists disappeared at sea,place of birth,san francisco  california,0
+famous computer scientists disappeared at sea,short description,american computer scientist,1
+famous computer scientists disappeared at sea,spouse,loretta   donna carnes,0
+give me a list of all american inventions,designer,john g  kemeny,1
+give me a list of all american inventions,designer,thomas e  kurtz,1
+give me a list of all american inventions,influenced,auto hotkey,0
+give me a list of all american inventions,influenced,auto it,0
+give me a list of all american inventions,influenced,comal,0
+give me a list of all american inventions,influenced,grass  programming language,0
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,0
+give me a list of all american inventions,influenced,xojo,0
+give me a list of all american inventions,influenced by,ALPHANUM,0
+give me a list of all american inventions,influenced by,fortran,0
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,generation,NUM,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,0
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,0
+give me a list of all american inventions,implementations,free basic,0
+give me a list of all american inventions,implementations,integer basic,0
+give me a list of all american inventions,implementations,liberty basic,0
+give me a list of all american inventions,implementations,microsoft basic,0
+give me a list of all american inventions,implementations,sinclair basic,0
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,0
+give me a list of all american inventions,paradigm,unstructured  later procedural  later object oriented,0
+give me the apollo 14 astronauts,astronaut time in space,NUM,0
+give me the apollo 14 astronauts,birth date,NUM,1
+give me the apollo 14 astronauts,birth place,durango  colorado,1
+give me the apollo 14 astronauts,birth year,NUM,1
+give me the apollo 14 astronauts,death date,NUM,0
+give me the apollo 14 astronauts,death place,falls church  virginia,0
+give me the apollo 14 astronauts,death year,NUM,0
+give me the apollo 14 astronauts,nationality,united states,1
+give me the apollo 14 astronauts,occupation,fighter pilot,0
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,status,deceased,0
+give me the apollo 14 astronauts,time in space,NUM,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,alma mater,ALPHANUM,0
+give me the apollo 14 astronauts,date of birth,NUM,1
+give me the apollo 14 astronauts,date of death,NUM,1
+give me the apollo 14 astronauts,date of ret,NUM,0
+give me the apollo 14 astronauts,insignia,NUM,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,place of birth,durango  colorado  u s,0
+give me the apollo 14 astronauts,place of death,falls church  virginia  u s,0
+give me the apollo 14 astronauts,previous occupation,fighter pilot,0
+give me the apollo 14 astronauts,previous occupation,test pilot,0
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+give me the apollo 14 astronauts,short description,american astronaut,1
+give me the apollo 14 astronauts,time,NUM,0
+give me the apollo 14 astronauts,foaf homepage,http   www jsc nasa gov bios htmlbios roosa sa html,2
+makers of lawn tennis rackets,founding year,NUM,1
+makers of lawn tennis rackets,industry,sports equipment,1
+makers of lawn tennis rackets,parent company,pacific brands,2
+makers of lawn tennis rackets,foundation,NUM,0
+makers of lawn tennis rackets,homepage,http   www dunlopfootwear com au,1
+makers of lawn tennis rackets,parent,pacific brands,1
+makers of lawn tennis rackets,foaf homepage,http   www dunlopfootwear com au,1
+music conferences,genre,electronic music,0
+music conferences,location,worldwide,0
+music conferences,website,http   www computermusic org,1
+music conferences,years active,NUM,0
+music conferences,foaf homepage,http   www computermusic org,1
+new england coffee,location,old compton street,1
+new england coffee,location,soho,1
+new england coffee,closed,NUM,0
+new england coffee,opened,NUM,1
+new england coffee,owner,paul lincoln,0
+niagara falls origin lake,infrastructure length,NUM,0
+niagara falls origin lake,length,NUM,0
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route end direction,north,0
+niagara falls origin lake,route start,fort erie  ontario,1
+niagara falls origin lake,route start direction,south,0
+niagara falls origin lake,col,NUM,0
+niagara falls origin lake,direction a,south,0
+niagara falls origin lake,direction b,north,0
+niagara falls origin lake,division,niagara,0
+niagara falls origin lake,keys,closed,0
+niagara falls origin lake,length km,NUM,0
+niagara falls origin lake,location,chippawa,0
+niagara falls origin lake,location,fort erie,1
+niagara falls origin lake,location,niagara falls,2
+niagara falls origin lake,location,queenston,0
+niagara falls origin lake,location special,niagara on the lake,2
+niagara falls origin lake,location special,black creek,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,parkway detours to cross welland river,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,tourist district for niagara falls,0
+niagara falls origin lake,province,on,0
+niagara falls origin lake,road,NUM,0
+niagara falls origin lake,road,clifton hill  niagara falls,2
+niagara falls origin lake,road,fort erie  ontario,0
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,road,queen street,0
+niagara falls origin lake,road,victoria avenue,0
+niagara falls origin lake,terminus a,fort erie  ontario,0
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,0
+permanent members of the un security council,membership,full member,1
+permanent members of the un security council,nation,the united states of america,2
+permanent members of the un security council,representative,samantha power,0
+permanent members of the un security council,representative title,united states ambassador to the united nations,1
+permanent members of the un security council,sc seat,permanent members of the united nations security council,2
+permanent members of the un security council,foaf homepage,http   www usunnewyork usmission gov,1
+ten ancient greek city kingdoms of cyprus,latd,NUM,0
+ten ancient greek city kingdoms of cyprus,latm,NUM,0
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,1
+ten ancient greek city kingdoms of cyprus,longd,NUM,0
+ten ancient greek city kingdoms of cyprus,longm,NUM,0
+ten ancient greek city kingdoms of cyprus,map type,cyprus,1
+ten ancient greek city kingdoms of cyprus,native name,NUM,0
+vietnam travel airports,city,hanoi,1
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,iata location identifier,han,0
+vietnam travel airports,icao location identifier,vvnb,0
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway surface,asphalt,0
+vietnam travel airports,runway surface,concrete,0
+vietnam travel airports,city served,hanoi,1
+vietnam travel airports,elevation f,NUM,0
+vietnam travel airports,elevation m,NUM,0
+vietnam travel airports,iata,han,0
+vietnam travel airports,icao,vvnb,0
+vietnam travel airports,latd,NUM,0
+vietnam travel airports,latm,NUM,0
+vietnam travel airports,lats,NUM,0
+vietnam travel airports,longd,NUM,0
+vietnam travel airports,longm,NUM,0
+vietnam travel airports,longs,NUM,0
+vietnam travel airports,operator,noi bai international airport operation,1
+vietnam travel airports,owner,airports corporation of vietnam,1
+vietnam travel airports,pushpin label,han,0
+vietnam travel airports,pushpin map,vietnam,1
+vietnam travel airports,pushpin mapsize,NUM,0
+vietnam travel airports,stat year,NUM,0
+vietnam travel airports,geo lat,NUM,0
+vietnam travel airports,geo long,NUM,0
+vietnam travel airports,georss point,NUM,0
+vietnam war facts,casualties,NUM,0
+vietnam war facts,date,NUM,0
+vietnam war facts,executed by,ALPHANUM,1
+vietnam war facts,location,south vietnam,1
+vietnam war facts,objective,to support south vietnam against communist attacks,1
+vietnam war facts,partof,the vietnam war,2
+which mountain is the highest after the annapurna,elevation,NUM,0
+which mountain is the highest after the annapurna,first ascent person,adam bielecki  climber,0
+which mountain is the highest after the annapurna,first ascent person,janusz go  b,0
+which mountain is the highest after the annapurna,first ascent year,NUM,0
+which mountain is the highest after the annapurna,first ascent year,NUM,0
+which mountain is the highest after the annapurna,located in area,pakistan,1
+which mountain is the highest after the annapurna,mountain range,karakoram,1
+which mountain is the highest after the annapurna,prominence,NUM,0
+which mountain is the highest after the annapurna,easiest route,snow ice climb,0
+which mountain is the highest after the annapurna,elevation m,NUM,0
+which mountain is the highest after the annapurna,elevation ref,ALPHANUM,1
+which mountain is the highest after the annapurna,first ascent,NUM,0
+which mountain is the highest after the annapurna,label position,right,0
+which mountain is the highest after the annapurna,lat d,NUM,0
+which mountain is the highest after the annapurna,lat m,NUM,0
+which mountain is the highest after the annapurna,lat s,NUM,0
+which mountain is the highest after the annapurna,listing,eight thousander,0
+which mountain is the highest after the annapurna,listing,ultra prominent peak,1
+which mountain is the highest after the annapurna,location,pakistan china border,0
+which mountain is the highest after the annapurna,long d,NUM,0
+which mountain is the highest after the annapurna,long m,NUM,0
+which mountain is the highest after the annapurna,long s,NUM,0
+which mountain is the highest after the annapurna,prominence m,NUM,0
+which mountain is the highest after the annapurna,range,karakoram,0
+which mountain is the highest after the annapurna,geo lat,NUM,0
+which mountain is the highest after the annapurna,geo long,NUM,0
+which mountain is the highest after the annapurna,georss point,NUM,0
+which music albums contain the song last christmas,work runtime,NUM,0
+which music albums contain the song last christmas,artist,alcazar  band,0
+which music albums contain the song last christmas,genre,eurodance,0
+which music albums contain the song last christmas,genre,europop,0
+which music albums contain the song last christmas,genre,nu disco,0
+which music albums contain the song last christmas,previous work,a tribute to abba  alcazar album,0
+which music albums contain the song last christmas,producer,anders hansson  songwriter,0
+which music albums contain the song last christmas,producer,figge bostr m,0
+which music albums contain the song last christmas,record label,universal music group,0
+which music albums contain the song last christmas,release date,NUM,0
+which music albums contain the song last christmas,runtime,NUM,0
+which music albums contain the song last christmas,collapsed,yes,0
+which music albums contain the song last christmas,headline,ALPHANUM,0
+which music albums contain the song last christmas,headline,ALPHANUM,0
+which music albums contain the song last christmas,headline,german and polish edition,0
+which music albums contain the song last christmas,last album,a tribute to abba,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,length,NUM,0
+which music albums contain the song last christmas,next album,NUM,0
+which music albums contain the song last christmas,next album,disco defenders  greatest hits,0
+which music albums contain the song last christmas,note,extended version,0
+which music albums contain the song last christmas,note,music video,0
+which music albums contain the song last christmas,recorded,NUM,0
+which music albums contain the song last christmas,released,NUM,1
+which music albums contain the song last christmas,rev,teentoday co uk,0
+which music albums contain the song last christmas,this album,disco defenders,2
+which music albums contain the song last christmas,title,alcastar,0
+which music albums contain the song last christmas,title,burning  alcazar song,0
+which music albums contain the song last christmas,title,crying at the discoteque,1
+which music albums contain the song last christmas,title,disco defenders,0
+which music albums contain the song last christmas,title,don t you want me,0
+which music albums contain the song last christmas,title,funkytown,0
+which music albums contain the song last christmas,title,inhibitions  song,0
+which music albums contain the song last christmas,title,last christmas,2
+which music albums contain the song last christmas,title,love life  song,0
+which music albums contain the song last christmas,title,m nage   trois  song,0
+which music albums contain the song last christmas,title,not a sinner nor a saint,2
+which music albums contain the song last christmas,title,physical  alcazar song,0
+which music albums contain the song last christmas,title,ritmo del amor,0
+which music albums contain the song last christmas,title,sexual guarantee,0
+which music albums contain the song last christmas,title,shine on  alcazar song,0
+which music albums contain the song last christmas,title,someday  alcazar song,0
+which music albums contain the song last christmas,title,start the fire  alcazar song,0
+which music albums contain the song last christmas,title,stay the night  alcazar song,2
+which music albums contain the song last christmas,title,this is the world we live in,0
+which music albums contain the song last christmas,title,we keep on rockin,0
+which music albums contain the song last christmas,title,baby,0
+which music albums contain the song last christmas,title,harlem nights,0
+which music albums contain the song last christmas,title,jump straight into the fire,0
+which music albums contain the song last christmas,title,my my me and mine,0
+which music albums contain the song last christmas,title,one two three four,0
+which music albums contain the song last christmas,title,put the top down,0
+which music albums contain the song last christmas,title,stay the night,0
+which music albums contain the song last christmas,title,thank you,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,total length,NUM,0
+which music albums contain the song last christmas,writer,a  hansson,0
+which music albums contain the song last christmas,writer,a  hansson  f  persson  m  grauers  anton malmberg hard af segerstad,0
+which music albums contain the song last christmas,writer,a  hansson  m  sanden  t  merkel  a  lundstedt  l  hedlund,0
+which music albums contain the song last christmas,writer,a  hansson  n  chinn,0
+which music albums contain the song last christmas,writer,a  hansson  s  vaughn,0
+which music albums contain the song last christmas,writer,a  hansson  s  vaughn  t  merkel  a  lundstedt  l  hedlund,0
+which music albums contain the song last christmas,writer,fredrik figge bostrom  jackie kavan,0
+which music albums contain the song last christmas,writer,joakim udd  karl euren  johan fjellstrom,0
+which music albums contain the song last christmas,writer,n  tennant  c  lowe,0
+which music albums contain the song last christmas,writer,oscar g rres  danny saucedo,0
+which music albums contain the song last christmas,writer,steven greenberg,0
+which music albums contain the song last christmas,writer,thomas thornholm  danne attlerud  figge bostrom,1
+which music albums contain the song last christmas,writing credits,yes,0
+which music albums contain the song last christmas,foaf homepage,http   www alcazarofficial com,0
+which software has been developed by organizations founded in california,author,yahoo,2
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,1
+which software has been developed by organizations founded in california,commercial,yes,0
+which software has been developed by organizations founded in california,content license,proprietary software,0
+which software has been developed by organizations founded in california,current status,online,0
+which software has been developed by organizations founded in california,num users,NUM,0
+which software has been developed by organizations founded in california,registration,required,0
+which software has been developed by organizations founded in california,screenshot,NUM,0
+which software has been developed by organizations founded in california,foaf homepage,https   mail yahoo com,2
+who is the mayor of berlin,alma mater,free university of berlin,0
+who is the mayor of berlin,birth date,NUM,0
+who is the mayor of berlin,birth place,berlin,0
+who is the mayor of berlin,birth place,west berlin,1
+who is the mayor of berlin,birth place,west germany,0
+who is the mayor of berlin,birth year,NUM,0
+who is the mayor of berlin,nationality,germany,0
+who is the mayor of berlin,office,governing mayor of berlin,2
+who is the mayor of berlin,office,member of the berlin house of representatives,0
+who is the mayor of berlin,office,vice chairman of spd,0
+who is the mayor of berlin,party,social democratic party of germany,1
+who is the mayor of berlin,predecessor,andrea nahles,1
+who is the mayor of berlin,predecessor,eberhard diepgen,1
+who is the mayor of berlin,predecessor,frank walter steinmeier,0
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,0
+who is the mayor of berlin,residence,berlin,1
+who is the mayor of berlin,successor,michael m ller  politician,2
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,2
+who is the mayor of berlin,after,michael m ller  politician,1
+who is the mayor of berlin,before,eberhard diepgen,1
+who is the mayor of berlin,date of birth,NUM,1
+who is the mayor of berlin,partner,j rn kubicki,0
+who is the mayor of berlin,place of birth,berlin  germany,2
+who is the mayor of berlin,short description,german politician,1
+who is the mayor of berlin,term end,NUM,0
+who is the mayor of berlin,term end,NUM,0
+who is the mayor of berlin,term start,NUM,0
+who is the mayor of berlin,term start,NUM,0
+who is the mayor of berlin,term start,NUM,0
+who is the mayor of berlin,title,governing mayor of berlin,2
+who is the mayor of berlin,website,http   www klaus wowereit de,0
+who is the mayor of berlin,years,NUM,0
+who is the mayor of berlin,foaf homepage,http   www klaus wowereit de,2

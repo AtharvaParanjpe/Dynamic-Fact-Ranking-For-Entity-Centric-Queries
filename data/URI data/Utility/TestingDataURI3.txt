@@ -1,0 +1,187 @@
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,crew members,buzz aldrin,3
+astronauts who landed on the moon,crew members,michael collins  astronaut,4
+astronauts who landed on the moon,crew members,neil armstrong,4
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,launch site,kennedy space center,1
+astronauts who landed on the moon,launch site,ALPHANUM,2
+astronauts who landed on the moon,next mission,ALPHANUM,2
+astronauts who landed on the moon,operator,nasa,2
+astronauts who landed on the moon,orbit reference,lunar orbit,1
+astronauts who landed on the moon,previous mission,ALPHANUM,1
+astronauts who landed on the moon,programme,apollo program,1
+axis powers of world war ii,event,pact of steel,1
+axis powers of world war ii,event,tripartite pact,0
+axis powers of world war ii,event end,dissolution  law,0
+axis powers of world war ii,event start,anti comintern pact,1
+axis powers of world war ii,status,collective security,1
+axis powers of world war ii,owl different from,socialist republic of croatia,0
+david suchet,birth place,england,4
+david suchet,birth place,london,4
+david suchet,occupation,ALPHANUM,2
+david suchet,relative,john suchet,2
+david suchet,honorific suffix,order of the british empire,0
+david suchet,relatives,john suchet,3
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,2
+england football player highest paid,former team,harlequin f c,1
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,1
+england football player highest paid,team,harlequin f c,3
+england football player highest paid,clubs,yorkshire carnegie,1
+england football player highest paid,currentclub,harlequin f c,1
+england football player highest paid,repteam,saxons,1
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,2
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+frequently visited sharks gulf indian ocean,country,india,2
+frequently visited sharks gulf indian ocean,country,sri lanka,3
+frequently visited sharks gulf indian ocean,basin countries,india,2
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,3
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+give me a list of all lakes in denmark,country,denmark,3
+give me a list of all lakes in denmark,location,jutland,3
+give me all female german chancellors,alma mater,leipzig university,2
+give me all female german chancellors,birth place,hamburg,3
+give me all female german chancellors,birth place,west germany,3
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,2
+give me all female german chancellors,party,christian democratic union of germany,3
+give me all female german chancellors,party,democratic awakening,2
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,2
+give me all female german chancellors,predecessor,gerhard schr der,2
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,3
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,1
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,term period,ALPHANUM,2
+give me all female german chancellors,before,norbert lammert,1
+give me all female german chancellors,chancellor,helmut kohl,2
+give me all female german chancellors,title,chancellor of germany,3
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,2
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+in which uk city are the headquarters of the mi6,country,united kingdom,4
+in which uk city are the headquarters of the mi6,governing body,greater london authority,0
+in which uk city are the headquarters of the mi6,government type,devolution in the united kingdom,1
+in which uk city are the headquarters of the mi6,is part of,england,0
+in which uk city are the headquarters of the mi6,is part of,greater london,0
+in which uk city are the headquarters of the mi6,leader name,boris johnson,0
+in which uk city are the headquarters of the mi6,leader name,list of london assembly constituencies,0
+in which uk city are the headquarters of the mi6,leader name,list of parliamentary constituencies in london,0
+in which uk city are the headquarters of the mi6,leader name,london  european parliament constituency,0
+in which uk city are the headquarters of the mi6,leader name,london assembly,0
+in which uk city are the headquarters of the mi6,time zone,british summer time,1
+in which uk city are the headquarters of the mi6,time zone,greenwich mean time,0
+in which uk city are the headquarters of the mi6,blank info,city of london police,0
+in which uk city are the headquarters of the mi6,blank info,metropolitan police service,0
+in which uk city are the headquarters of the mi6,blank info sec,london,0
+in which uk city are the headquarters of the mi6,blank name sec,geo tld,0
+in which uk city are the headquarters of the mi6,parts,city of london,0
+in which uk city are the headquarters of the mi6,parts type,districts of england,0
+in which uk city are the headquarters of the mi6,postal code type,postcodes in the united kingdom,0
+in which uk city are the headquarters of the mi6,seat,city of london,0
+in which uk city are the headquarters of the mi6,seat,greater london,0
+in which uk city are the headquarters of the mi6,seat type,counties of england,0
+in which uk city are the headquarters of the mi6,subdivision name,england,0
+in which uk city are the headquarters of the mi6,subdivision name,greater london,3
+in which uk city are the headquarters of the mi6,subdivision name,united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,countries of the united kingdom,0
+in which uk city are the headquarters of the mi6,subdivision type,list of sovereign states,0
+in which uk city are the headquarters of the mi6,subdivision type,regions of england,0
+in which uk city are the headquarters of the mi6,timezone dst,british summer time,1
+in which uk city are the headquarters of the mi6,title,religion in london,0
+in which uk city are the headquarters of the mi6,total type,greater london,0
+major leagues in the united states,champion,san francisco giants,3
+major leagues in the united states,commissioner,rob manfred,2
+major leagues in the united states,countries,canada,0
+major leagues in the united states,countries,united states,3
+major leagues in the united states,most champs,new york yankees,2
+makers of lawn tennis rackets,industry,sports equipment,2
+makers of lawn tennis rackets,parent company,pacific brands,4
+makers of lawn tennis rackets,parent,pacific brands,2
+marc anthony,artist,marc anthony,4
+marc anthony,genre,contemporary r b,2
+marc anthony,genre,latin pop,2
+marc anthony,genre,pop music,3
+marc anthony,genre,salsa music,1
+marc anthony,genre,soul music,2
+marc anthony,language,english language,1
+marc anthony,language,spanish language,1
+marc anthony,previous work,contra la corriente  marc anthony album,3
+marc anthony,producer,cory rooney,2
+marc anthony,producer,dan shea  producer,2
+marc anthony,producer,marc anthony,4
+marc anthony,producer,rodney jerkins,2
+marc anthony,record label,columbia records,3
+marc anthony,subsequent work,libre  marc anthony album,1
+marc anthony,rev,all music,0
+marc anthony,title,da la vuelta,0
+marc anthony,title,i need to know  marc anthony song,3
+marc anthony,title,my baby you,3
+marc anthony,title,you sang to me,3
+marc anthony,writer,dan shea  producer,2
+marc anthony,writer,emilio estefan,2
+marc anthony,writer,kike santander,2
+marc anthony,writer,robin thicke,2
+nordic authors who are known for children s literature,birth place,denmark,3
+nordic authors who are known for children s literature,birth place,funen,3
+nordic authors who are known for children s literature,birth place,odense,4
+nordic authors who are known for children s literature,death place,copenhagen,3
+nordic authors who are known for children s literature,death place,denmark,2
+nordic authors who are known for children s literature,genre,children s literature,3
+nordic authors who are known for children s literature,genre,travel literature,1
+nordic authors who are known for children s literature,influenced by,brothers grimm,3
+nordic authors who are known for children s literature,influenced by,heinrich heine,1
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,1
+nordic authors who are known for children s literature,influences,brothers grimm,1
+nordic authors who are known for children s literature,influences,heinrich heine,1
+nordic authors who are known for children s literature,influences,ludvig holberg,1
+nordic authors who are known for children s literature,influences,william shakespeare,1
+permanent members of the un security council,representative,samantha power,2
+permanent members of the un security council,representative title,united states ambassador to the united nations,1
+permanent members of the un security council,sc seat,permanent members of the united nations security council,2
+the morning call lehigh valley pa,editor,david v  erdman,3
+the morning call lehigh valley pa,format,broadsheet,2
+the morning call lehigh valley pa,headquarter,allentown  pennsylvania,3
+the morning call lehigh valley pa,owner,tribune media,2
+the morning call lehigh valley pa,owners,tribune media,2
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,2
+vietnam travel airports,city,hanoi,3
+vietnam travel airports,location,hanoi,4
+vietnam travel airports,location,vietnam,4
+vietnam travel airports,city served,hanoi,3
+which cities does the weser flow through,country,germany,3
+which cities does the weser flow through,federal state,bremen,3
+which cities does the weser flow through,leader party,social democratic party of germany,0
+which cities does the weser flow through,party,social democratic party of germany,0
+which cities does the weser flow through,source,deutscher wetterdienst,0
+which cities does the weser flow through,source,european climate assessment dataset,0
+which software has been developed by organizations founded in california,author,yahoo,4
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,3
+which software has been developed by organizations founded in california,content license,proprietary software,0
+ymca tampa,headquarter,geneva,2
+ymca tampa,headquarter,switzerland,2
+ymca tampa,founded place,london,3
+ymca tampa,founded place,united kingdom of great britain and ireland,2
+ymca tampa,founder,george williams  ymca,3
+ymca tampa,headquarters,geneva,2
+ymca tampa,headquarters,switzerland,2
+ymca tampa,main classification,community,0

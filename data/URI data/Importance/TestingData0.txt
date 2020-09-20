@@ -1,0 +1,203 @@
+david suchet,birth place,england,2
+david suchet,birth place,london,2
+david suchet,occupation,ALPHANUM,0
+david suchet,relative,john suchet,1
+david suchet,honorific suffix,order of the british empire,0
+david suchet,relatives,john suchet,1
+give me all female german chancellors,alma mater,leipzig university,1
+give me all female german chancellors,birth place,hamburg,2
+give me all female german chancellors,birth place,west germany,2
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,1
+give me all female german chancellors,party,christian democratic union of germany,2
+give me all female german chancellors,party,democratic awakening,1
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,predecessor,gerhard schr der,1
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,1
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,before,norbert lammert,0
+give me all female german chancellors,chancellor,helmut kohl,1
+give me all female german chancellors,title,chancellor of germany,2
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,1
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+give me all members of prodigy,associated band,the prodigy,1
+give me all members of prodigy,associated musical artist,the prodigy,1
+give me all members of prodigy,birth place,braintree  essex,2
+give me all members of prodigy,genre,alternative dance,1
+give me all members of prodigy,genre,alternative rock,1
+give me all members of prodigy,genre,big beat,1
+give me all members of prodigy,genre,breakbeat,1
+give me all members of prodigy,genre,breakbeat hardcore,1
+give me all members of prodigy,genre,electronic dance music,1
+give me all members of prodigy,genre,electropunk,1
+give me all members of prodigy,genre,hardcore  electronic dance music genre,1
+give me all members of prodigy,instrument,direct drive turntable,1
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,1
+give me all members of prodigy,record label,xl recordings,1
+give me the apollo 14 astronauts,birth place,durango  colorado,2
+give me the apollo 14 astronauts,death place,falls church  virginia,1
+give me the apollo 14 astronauts,nationality,united states,2
+give me the apollo 14 astronauts,occupation,fighter pilot,1
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,0
+give me the apollo 14 astronauts,previous occupation,fighter pilot,1
+give me the apollo 14 astronauts,previous occupation,test pilot,1
+give me the apollo 14 astronauts,rank,colonel  united states,0
+give me the apollo 14 astronauts,rank,united states air force,0
+members of the beaux arts trio,birth place,newark  new jersey,2
+members of the beaux arts trio,death place,wellfleet  massachusetts,2
+members of the beaux arts trio,occupation,ALPHANUM,0
+members of the beaux arts trio,occupation,cello,2
+members of the beaux arts trio,place of birth,newark  new jersey,2
+members of the beaux arts trio,place of death,wellfleet  massachusetts,2
+movies with eight or more academy awards,cinematography,boris kaufman,1
+movies with eight or more academy awards,director,elia kazan,2
+movies with eight or more academy awards,distributor,columbia pictures,1
+movies with eight or more academy awards,editing,gene milford,1
+movies with eight or more academy awards,music composer,leonard bernstein,2
+movies with eight or more academy awards,producer,sam spiegel,2
+movies with eight or more academy awards,writer,budd schulberg,2
+movies with eight or more academy awards,music,leonard bernstein,2
+movies with eight or more academy awards,studio,horizon pictures,1
+nordic authors who are known for children s literature,birth place,denmark,2
+nordic authors who are known for children s literature,birth place,funen,2
+nordic authors who are known for children s literature,birth place,odense,2
+nordic authors who are known for children s literature,death place,copenhagen,2
+nordic authors who are known for children s literature,death place,denmark,2
+nordic authors who are known for children s literature,genre,children s literature,1
+nordic authors who are known for children s literature,genre,travel literature,1
+nordic authors who are known for children s literature,influenced by,brothers grimm,1
+nordic authors who are known for children s literature,influenced by,heinrich heine,1
+nordic authors who are known for children s literature,influenced by,ludvig holberg,0
+nordic authors who are known for children s literature,influenced by,william shakespeare,1
+nordic authors who are known for children s literature,influences,brothers grimm,1
+nordic authors who are known for children s literature,influences,heinrich heine,1
+nordic authors who are known for children s literature,influences,ludvig holberg,1
+nordic authors who are known for children s literature,influences,william shakespeare,1
+professional baseball team in japan,after,taih  k ki,1
+professional baseball team in japan,ballpark,tokyo dome,2
+professional baseball team in japan,before,shozo saijo,0
+professional baseball team in japan,former leagues,japanese baseball league,2
+professional baseball team in japan,manager,tatsunori hara,1
+professional baseball team in japan,owner,yomiuri shimbun,2
+professional baseball team in japan,pastparks,korakuen stadium,1
+revolutionaries of 1959 in cuba,birth place,cuba,2
+revolutionaries of 1959 in cuba,birth place,havana,2
+revolutionaries of 1959 in cuba,birth place,lawton  havana,2
+revolutionaries of 1959 in cuba,death place,cuba,2
+revolutionaries of 1959 in cuba,death place,straits of florida,1
+revolutionaries of 1959 in cuba,nationality,cuba,2
+revolutionaries of 1959 in cuba,state of origin,cuba,1
+revolutionaries of 1959 in cuba,place of birth,cuba,2
+revolutionaries of 1959 in cuba,place of birth,havana,2
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,2
+revolutionaries of 1959 in cuba,place of death,straits of florida,2
+steak express,country,belgium,1
+steak express,country,france,1
+steak express,ingredient,potato,1
+steak express,ingredient,steak,2
+steak express,course,main course,1
+summer flowers,binomial authority,carl linnaeus,0
+summer flowers,class,monocotyledon,1
+summer flowers,division,flowering plant,2
+summer flowers,family,liliaceae,1
+summer flowers,genus,lilium,2
+summer flowers,kingdom,plant,0
+summer flowers,order,liliales,1
+summer flowers,familia,liliaceae,1
+summer flowers,ordo,liliales,1
+summer flowers,unranked classis,monocotyledon,0
+summer flowers,unranked divisio,flowering plant,1
+tango culture countries,album,rendez vous  in grid album,1
+tango culture countries,format,cd single,1
+tango culture countries,genre,dance pop,1
+tango culture countries,genre,tango music,2
+tango culture countries,musical artist,in grid,2
+tango culture countries,musical band,in grid,2
+tango culture countries,record label,universal music group,1
+tango culture countries,artist,in grid,1
+tango culture countries,from album,rendez vous  in grid album,1
+toledo bend realty,country,united states,2
+toledo bend realty,is part of,lucas county  ohio,1
+toledo bend realty,is part of,ohio,1
+toledo bend realty,leader name,paula hicks hudson,1
+toledo bend realty,time zone,eastern time zone,1
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,1
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,1
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+twelve tribes or sons of israel,followedby,kingdom of israel  united monarchy,1
+twelve tribes or sons of israel,majorsites,bethlehem,1
+twelve tribes or sons of israel,period,book of judges,0
+twelve tribes or sons of israel,precededby,new kingdom of egypt,0
+twelve tribes or sons of israel,region,western asia,2
+vietnam travel airports,city,hanoi,2
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,city served,hanoi,2
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,1
+what books did paul of tarsus write,category,pauline epistles,0
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,literary genre,beat generation,1
+which books by kerouac were published by viking press,literary genre,short story collection,1
+which books by kerouac were published by viking press,media type,hardcover,1
+which books by kerouac were published by viking press,previous work,old angel midnight,1
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,1
+which books by kerouac were published by viking press,preceded by,old angel midnight,1
+who painted the storm on the sea of galilee,birth place,dutch republic,2
+who painted the storm on the sea of galilee,birth place,leiden,2
+who painted the storm on the sea of galilee,birth place,netherlands,2
+who painted the storm on the sea of galilee,death place,amsterdam,2
+who painted the storm on the sea of galilee,death place,netherlands,2
+who painted the storm on the sea of galilee,field,printmaking,2
+who painted the storm on the sea of galilee,movement,baroque,1
+who painted the storm on the sea of galilee,movement,dutch golden age painting,1
+who painted the storm on the sea of galilee,nationality,dutch people,2
+who produced the most films,birth place,elmira  new york,2
+who produced the most films,child,hal roach  jr,2
+who produced the most films,death cause,pneumonia,0
+who produced the most films,occupation,ALPHANUM,0
+who produced the most films,resting place,woodlawn cemetery  elmira  new york,1
+who produced the most films,spouse,marguerite nichols,2
+who produced the most films,children,hal roach  jr,1

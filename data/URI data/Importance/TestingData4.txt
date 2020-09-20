@@ -1,0 +1,365 @@
+bond girls,birth place,ostermundigen,2
+bond girls,birth place,switzerland,2
+bond girls,nationality,british people,1
+bond girls,nationality,swiss people,1
+bond girls,occupation,ALPHANUM,0
+bond girls,partner,harry hamlin,1
+bond girls,spouse,john derek,1
+bond girls,state of origin,british people,0
+bond girls,state of origin,swiss people,1
+bond girls,place of birth,ostermundigen,2
+bond girls,place of birth,switzerland,2
+bond girls,title,bond girl,1
+carolina,capital,columbia  south carolina,2
+carolina,country,united states,2
+carolina,amphibian,salamander,0
+carolina,bird,carolina wren,0
+carolina,bird,wild turkey,0
+carolina,borderingstates,georgia  u s  state,0
+carolina,borderingstates,north carolina,0
+carolina,butterfly,papilio glaucus,0
+carolina,dance,carolina shag,0
+carolina,fish,striped bass,0
+carolina,flaglink,flag of south carolina,0
+carolina,flower,gelsemium sempervirens,0
+carolina,food,boiled peanuts,0
+carolina,food,collard greens,0
+carolina,food,peach,0
+carolina,fossil,columbian mammoth,0
+carolina,governor,nikki haley,1
+carolina,highestpoint,sassafras mountain,0
+carolina,insect,carolina mantis,0
+carolina,largestmetro,greenville  south carolina metropolitan area,0
+carolina,legislature,south carolina general assembly,0
+carolina,lieutenant governor,henry mc master,1
+carolina,lowerhouse,south carolina house of representatives,0
+carolina,mammal,boykin spaniel,0
+carolina,mammal,carolina marsh tacky,0
+carolina,mammal,white tailed deer,0
+carolina,mineral,amethyst,0
+carolina,reptile,loggerhead sea turtle,0
+carolina,senators,lindsey graham,1
+carolina,senators,tim scott,1
+carolina,timezone,coordinated universal time,0
+carolina,timezone,eastern time zone,1
+carolina,title,list of u s  states by date of admission to the union,0
+carolina,tree,sabal palmetto,0
+carolina,upperhouse,south carolina senate,0
+directed bela glen glenda bride monster plan 9 outer space,cinematography,ted allan,1
+directed bela glen glenda bride monster plan 9 outer space,cinematography,william c  thompson,1
+directed bela glen glenda bride monster plan 9 outer space,country,ALPHANUM,1
+directed bela glen glenda bride monster plan 9 outer space,director,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,distributor,banner pictures,2
+directed bela glen glenda bride monster plan 9 outer space,editing,warren adams,1
+directed bela glen glenda bride monster plan 9 outer space,music composer,frank worth,1
+directed bela glen glenda bride monster plan 9 outer space,producer,ed wood,1
+directed bela glen glenda bride monster plan 9 outer space,starring,bela lugosi,2
+directed bela glen glenda bride monster plan 9 outer space,starring,loretta king hadler,2
+directed bela glen glenda bride monster plan 9 outer space,starring,tor johnson,2
+directed bela glen glenda bride monster plan 9 outer space,writer,alex gordon  writer producer,2
+directed bela glen glenda bride monster plan 9 outer space,writer,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,music,frank worth,1
+give me a list of all american inventions,designer,john g  kemeny,2
+give me a list of all american inventions,designer,thomas e  kurtz,2
+give me a list of all american inventions,influenced,auto hotkey,1
+give me a list of all american inventions,influenced,auto it,1
+give me a list of all american inventions,influenced,comal,1
+give me a list of all american inventions,influenced,grass  programming language,1
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,1
+give me a list of all american inventions,influenced,xojo,1
+give me a list of all american inventions,influenced by,ALPHANUM,1
+give me a list of all american inventions,influenced by,fortran,1
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,1
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,1
+give me a list of all american inventions,implementations,free basic,1
+give me a list of all american inventions,implementations,integer basic,1
+give me a list of all american inventions,implementations,liberty basic,1
+give me a list of all american inventions,implementations,microsoft basic,1
+give me a list of all american inventions,implementations,sinclair basic,1
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,1
+john lennon  parents,artist,john lennon,2
+john lennon  parents,genre,rock music,2
+john lennon  parents,previous work,lennon legend  the very best of john lennon,0
+john lennon  parents,producer,yoko ono,2
+john lennon  parents,record label,capitol records,2
+john lennon  parents,record label,emi,1
+john lennon  parents,subsequent work,instant karma  all time greatest hits,0
+john lennon  parents,rev,all music,0
+permanent members of the un security council,representative,samantha power,2
+permanent members of the un security council,representative title,united states ambassador to the united nations,0
+permanent members of the un security council,sc seat,permanent members of the united nations security council,0
+revolutionaries of 1959 in cuba,birth place,cuba,2
+revolutionaries of 1959 in cuba,birth place,havana,2
+revolutionaries of 1959 in cuba,birth place,lawton  havana,2
+revolutionaries of 1959 in cuba,death place,cuba,2
+revolutionaries of 1959 in cuba,death place,straits of florida,1
+revolutionaries of 1959 in cuba,nationality,cuba,2
+revolutionaries of 1959 in cuba,state of origin,cuba,1
+revolutionaries of 1959 in cuba,place of birth,cuba,2
+revolutionaries of 1959 in cuba,place of birth,havana,2
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,2
+revolutionaries of 1959 in cuba,place of death,straits of florida,2
+sealy mattress co,foundation place,sealy  texas,1
+sealy mattress co,location city,trinity  north carolina,1
+sealy mattress co,location country,united states,1
+sealy mattress co,parent company,tempur sealy international,2
+sealy mattress co,foundation,sealy  texas,2
+sealy mattress co,parent,tempur sealy international,1
+sean parnell is the governor of which u s  state,capital,juneau  alaska,2
+sean parnell is the governor of which u s  state,country,united states,2
+sean parnell is the governor of which u s  state,language,ahtna language,1
+sean parnell is the governor of which u s  state,language,aleut language,1
+sean parnell is the governor of which u s  state,language,alutiiq language,0
+sean parnell is the governor of which u s  state,language,central alaskan yup ik language,1
+sean parnell is the governor of which u s  state,language,central siberian yupik language,1
+sean parnell is the governor of which u s  state,language,deg xinag language,1
+sean parnell is the governor of which u s  state,language,dena ina language,2
+sean parnell is the governor of which u s  state,language,english language,1
+sean parnell is the governor of which u s  state,language,eskimo aleut languages,2
+sean parnell is the governor of which u s  state,language,eyak language,1
+sean parnell is the governor of which u s  state,language,gwich in language,1
+sean parnell is the governor of which u s  state,language,haida language,1
+sean parnell is the governor of which u s  state,language,holikachuk language,1
+sean parnell is the governor of which u s  state,language,h n language,1
+sean parnell is the governor of which u s  state,language,inupiat language,1
+sean parnell is the governor of which u s  state,language,koyukon language,2
+sean parnell is the governor of which u s  state,language,lower tanana language,1
+sean parnell is the governor of which u s  state,language,na dene languages,2
+sean parnell is the governor of which u s  state,language,spanish language,1
+sean parnell is the governor of which u s  state,language,tanacross language,1
+sean parnell is the governor of which u s  state,language,tlingit language,1
+sean parnell is the governor of which u s  state,language,tsimshianic languages,1
+sean parnell is the governor of which u s  state,language,upper kuskokwim language,1
+sean parnell is the governor of which u s  state,language,upper tanana language,1
+sean parnell is the governor of which u s  state,largest city,anchorage  alaska,1
+sean parnell is the governor of which u s  state,flaglink,flag of alaska,0
+sean parnell is the governor of which u s  state,highestpoint,denali,0
+sean parnell is the governor of which u s  state,legislature,alaska legislature,0
+sean parnell is the governor of which u s  state,lowerhouse,alaska house of representatives,0
+sean parnell is the governor of which u s  state,northeast,beaufort sea,0
+sean parnell is the governor of which u s  state,northwest,chukchi sea,0
+sean parnell is the governor of which u s  state,officiallang,ahtna language,1
+sean parnell is the governor of which u s  state,officiallang,aleut language,2
+sean parnell is the governor of which u s  state,officiallang,alutiiq language,1
+sean parnell is the governor of which u s  state,officiallang,central alaskan yup ik language,1
+sean parnell is the governor of which u s  state,officiallang,central siberian yupik language,1
+sean parnell is the governor of which u s  state,officiallang,deg xinag language,1
+sean parnell is the governor of which u s  state,officiallang,dena ina language,2
+sean parnell is the governor of which u s  state,officiallang,english language,2
+sean parnell is the governor of which u s  state,officiallang,eyak language,1
+sean parnell is the governor of which u s  state,officiallang,gwich in language,2
+sean parnell is the governor of which u s  state,officiallang,haida language,1
+sean parnell is the governor of which u s  state,officiallang,holikachuk language,2
+sean parnell is the governor of which u s  state,officiallang,h n language,2
+sean parnell is the governor of which u s  state,officiallang,inupiat language,1
+sean parnell is the governor of which u s  state,officiallang,koyukon language,1
+sean parnell is the governor of which u s  state,officiallang,lower tanana language,1
+sean parnell is the governor of which u s  state,officiallang,tanacross language,1
+sean parnell is the governor of which u s  state,officiallang,tlingit language,1
+sean parnell is the governor of which u s  state,officiallang,tsimshianic languages,1
+sean parnell is the governor of which u s  state,officiallang,upper kuskokwim language,1
+sean parnell is the governor of which u s  state,officiallang,upper tanana language,2
+sean parnell is the governor of which u s  state,senators,lisa murkowski,1
+sean parnell is the governor of which u s  state,southwest,bering sea,0
+sean parnell is the governor of which u s  state,stateanthem,alaska s flag,0
+sean parnell is the governor of which u s  state,timezone,alaska time zone,1
+sean parnell is the governor of which u s  state,timezone,coordinated universal time,1
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian standard time,2
+sean parnell is the governor of which u s  state,timezone,hawaii aleutian time zone,1
+sean parnell is the governor of which u s  state,title,list of u s  states by date of admission to the union,0
+sean parnell is the governor of which u s  state,upperhouse,alaska senate,1
+summer flowers,binomial authority,carl linnaeus,0
+summer flowers,class,monocotyledon,1
+summer flowers,division,flowering plant,2
+summer flowers,family,liliaceae,1
+summer flowers,genus,lilium,2
+summer flowers,kingdom,plant,0
+summer flowers,order,liliales,1
+summer flowers,familia,liliaceae,1
+summer flowers,ordo,liliales,1
+summer flowers,unranked classis,monocotyledon,0
+summer flowers,unranked divisio,flowering plant,1
+tango dance history,derivative,maxixe  dance,1
+tango dance history,instrument,accordion,1
+tango dance history,instrument,bandoneon,1
+tango dance history,instrument,double bass,1
+tango dance history,instrument,guitar,1
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,1
+tango dance history,instrument,violin,1
+tango dance history,music subgenre,argentine tango,1
+tango dance history,music subgenre,ballroom tango,1
+tango dance history,music subgenre,finnish tango,1
+tango dance history,music subgenre,nuevo tango,0
+tango dance history,stylistic origin,candombe,1
+tango dance history,stylistic origin,contradanza,1
+tango dance history,stylistic origin,milonga  music,1
+tango dance history,stylistic origin,payada,1
+tango dance history,stylistic origin,polka,1
+tango dance history,stylistic origin,tango  flamenco,1
+tango dance history,stylistic origin,waltz  music,1
+tango dance history,stylistic origin,zarzuela,1
+tango dance history,derivatives,maxixe  dance,1
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,1
+tango dance history,instruments,double bass,1
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,1
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,0
+tango dance history,stylistic origins,candombe,1
+tango dance history,stylistic origins,contradanza,1
+tango dance history,stylistic origins,milonga  music,1
+tango dance history,stylistic origins,payada,1
+tango dance history,stylistic origins,polka,1
+tango dance history,stylistic origins,tango  flamenco,1
+tango dance history,stylistic origins,waltz  music,1
+tango dance history,stylistic origins,zarzuela,1
+tango dance history,subgenres,argentine tango,1
+tango dance history,subgenres,ballroom tango,1
+tango dance history,subgenres,finnish tango,1
+tango dance history,subgenres,nuevo tango,1
+ten ancient greek city kingdoms of cyprus,location,cyprus,2
+ten ancient greek city kingdoms of cyprus,location,famagusta district,2
+vietnam war facts,location,south vietnam,2
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,1
+what books did paul of tarsus write,category,pauline epistles,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,prime minister,david cameron,2
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+which european countries have a constitutional monarchy,anthem,honors music,0
+which european countries have a constitutional monarchy,anthem,ja  vi elsker dette landet,0
+which european countries have a constitutional monarchy,anthem,kongesangen,1
+which european countries have a constitutional monarchy,capital,oslo,2
+which european countries have a constitutional monarchy,currency,norwegian krone,2
+which european countries have a constitutional monarchy,ethnic group,forest finns,0
+which european countries have a constitutional monarchy,ethnic group,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic group,jews,0
+which european countries have a constitutional monarchy,ethnic group,kven people,0
+which european countries have a constitutional monarchy,ethnic group,norwegians,1
+which european countries have a constitutional monarchy,ethnic group,romani people,0
+which european countries have a constitutional monarchy,ethnic group,sami people,1
+which european countries have a constitutional monarchy,government type,unitary state,1
+which european countries have a constitutional monarchy,language,kven language,1
+which european countries have a constitutional monarchy,language,latin alphabet,1
+which european countries have a constitutional monarchy,language,lule sami language,1
+which european countries have a constitutional monarchy,language,northern sami,1
+which european countries have a constitutional monarchy,language,norwegian language,2
+which european countries have a constitutional monarchy,language,romani language,2
+which european countries have a constitutional monarchy,language,scandoromani language,2
+which european countries have a constitutional monarchy,language,southern sami language,1
+which european countries have a constitutional monarchy,leader,erna solberg,2
+which european countries have a constitutional monarchy,leader,harald v of norway,1
+which european countries have a constitutional monarchy,leader,olemic thommessen,1
+which european countries have a constitutional monarchy,leader,tore schei,2
+which european countries have a constitutional monarchy,official language,lule sami language,2
+which european countries have a constitutional monarchy,official language,northern sami,2
+which european countries have a constitutional monarchy,official language,norwegian language,2
+which european countries have a constitutional monarchy,official language,southern sami language,2
+which european countries have a constitutional monarchy,regional language,kven language,1
+which european countries have a constitutional monarchy,regional language,romani language,1
+which european countries have a constitutional monarchy,regional language,scandoromani language,1
+which european countries have a constitutional monarchy,time zone,central european time,0
+which european countries have a constitutional monarchy,calling code,telephone numbers in norway,0
+which european countries have a constitutional monarchy,established event,constitution of norway,0
+which european countries have a constitutional monarchy,established event,denmark norway,0
+which european countries have a constitutional monarchy,established event,dissolution of the union between norway and sweden,0
+which european countries have a constitutional monarchy,established event,german occupation of norway,0
+which european countries have a constitutional monarchy,established event,kalmar union,0
+which european countries have a constitutional monarchy,established event,unification of norway,1
+which european countries have a constitutional monarchy,established event,union between sweden and norway,0
+which european countries have a constitutional monarchy,ethnic groups,forest finns,0
+which european countries have a constitutional monarchy,ethnic groups,immigration to norway,0
+which european countries have a constitutional monarchy,ethnic groups,jews,1
+which european countries have a constitutional monarchy,ethnic groups,kven people,1
+which european countries have a constitutional monarchy,ethnic groups,norwegians,0
+which european countries have a constitutional monarchy,ethnic groups,romani people,0
+which european countries have a constitutional monarchy,ethnic groups,sami people,0
+which european countries have a constitutional monarchy,languages type,writing system,0
+which european countries have a constitutional monarchy,leader name,erna solberg,1
+which european countries have a constitutional monarchy,leader name,harald v of norway,2
+which european countries have a constitutional monarchy,leader name,olemic thommessen,1
+which european countries have a constitutional monarchy,leader name,tore schei,2
+which european countries have a constitutional monarchy,national anthem,honors music,2
+which european countries have a constitutional monarchy,national anthem,ja  vi elsker dette landet,1
+which european countries have a constitutional monarchy,national anthem,kongesangen,2
+which european countries have a constitutional monarchy,official languages,lule sami language,1
+which european countries have a constitutional monarchy,official languages,northern sami,2
+which european countries have a constitutional monarchy,official languages,norwegian language,1
+which european countries have a constitutional monarchy,official languages,southern sami language,2
+which european countries have a constitutional monarchy,patron saint,olaf ii of norway,1
+which european countries have a constitutional monarchy,regional languages,kven language,0
+which european countries have a constitutional monarchy,regional languages,romani language,1
+which european countries have a constitutional monarchy,regional languages,scandoromani language,1
+which european countries have a constitutional monarchy,religion,church of norway,1
+which european countries have a constitutional monarchy,sovereignty type,history of norway,0
+which european countries have a constitutional monarchy,state religion,church of norway,1
+which european countries have a constitutional monarchy,time zone dst,central european summer time,0
+which european countries have a constitutional monarchy,owl different from,noriega,0
+which mountain is the highest after the annapurna,first ascent person,adam bielecki  climber,1
+which mountain is the highest after the annapurna,first ascent person,janusz go  b,0
+which mountain is the highest after the annapurna,located in area,pakistan,2
+which mountain is the highest after the annapurna,mountain range,karakoram,1
+which mountain is the highest after the annapurna,listing,eight thousander,0
+which mountain is the highest after the annapurna,listing,ultra prominent peak,0
+which mountain is the highest after the annapurna,range,karakoram,2
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2
+ymca tampa,headquarter,geneva,2
+ymca tampa,headquarter,switzerland,2
+ymca tampa,founded place,london,2
+ymca tampa,founded place,united kingdom of great britain and ireland,2
+ymca tampa,founder,george williams  ymca,2
+ymca tampa,headquarters,geneva,2
+ymca tampa,headquarters,switzerland,2
+ymca tampa,main classification,community,0

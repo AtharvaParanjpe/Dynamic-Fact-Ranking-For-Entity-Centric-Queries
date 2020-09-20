@@ -1,0 +1,549 @@
+1994 short story collection alice munro is open,author,alice munro,2
+1994 short story collection alice munro is open,isbn,NUM,0
+1994 short story collection alice munro is open,literary genre,bildungsroman,0
+1994 short story collection alice munro is open,literary genre,short story cycle,2
+1994 short story collection alice munro is open,number of pages,NUM,1
+1994 short story collection alice munro is open,oclc,NUM,0
+1994 short story collection alice munro is open,publisher,ryerson press,1
+1994 short story collection alice munro is open,cinematography,harry makin,1
+1994 short story collection alice munro is open,country,canada,1
+1994 short story collection alice munro is open,director,ronald wilson,2
+1994 short story collection alice munro is open,distributor,octapixx international,1
+1994 short story collection alice munro is open,editing,susan shipton,1
+1994 short story collection alice munro is open,genre,bildungsroman,1
+1994 short story collection alice munro is open,genre,short story cycle,1
+1994 short story collection alice munro is open,language,english,1
+1994 short story collection alice munro is open,music,lawrence shragge,1
+1994 short story collection alice munro is open,pages,NUM,0
+1994 short story collection alice munro is open,producer,richard borchiver,2
+1994 short story collection alice munro is open,pub date,NUM,1
+1994 short story collection alice munro is open,runtime,NUM,0
+1994 short story collection alice munro is open,starring,tanya allen,2
+1994 short story collection alice munro is open,starring,wendy crewson,2
+1994 short story collection alice munro is open,studio,paragon entertainment corporation,1
+1994 short story collection alice munro is open,writer,kelly rebar,2
+1994 short story collection alice munro is open,writer,book alice munro,2
+1994 short story collection alice munro is open,writer,writer charles k  pitts,2
+did nicole kidman have any siblings,birth date,NUM,2
+did nicole kidman have any siblings,birth place,australia,2
+did nicole kidman have any siblings,birth place,melbourne,2
+did nicole kidman have any siblings,birth year,NUM,2
+did nicole kidman have any siblings,imdb id,NUM,0
+did nicole kidman have any siblings,occupation,ALPHANUM,0
+did nicole kidman have any siblings,occupation,journalist,2
+did nicole kidman have any siblings,relative,nicole kidman,1
+did nicole kidman have any siblings,children,NUM,0
+did nicole kidman have any siblings,date of birth,NUM,2
+did nicole kidman have any siblings,nationality,australian,2
+did nicole kidman have any siblings,place of birth,australia,2
+did nicole kidman have any siblings,place of birth,melbourne,2
+did nicole kidman have any siblings,relatives,nicole kidman,1
+did nicole kidman have any siblings,residence,singapore,1
+did nicole kidman have any siblings,short description,australian journalist,2
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,NUM,0
+did nicole kidman have any siblings,spouse,angus hawley,1
+did nicole kidman have any siblings,spouse,craig marran,1
+eloan line of credit,founded by,chris larsen,2
+eloan line of credit,founding year,NUM,2
+eloan line of credit,industry,financial services,2
+eloan line of credit,location,rosemont  illinois,1
+eloan line of credit,location,united states,2
+eloan line of credit,number of employees,NUM,2
+eloan line of credit,parent company,popular  inc,1
+eloan line of credit,company slogan,radically simple,0
+eloan line of credit,foundation,NUM,2
+eloan line of credit,founder,janina pawlowski and chris larsen,2
+eloan line of credit,homepage,http   www eloan com,1
+eloan line of credit,key people,mark lefanowicz  president,1
+eloan line of credit,num employees,NUM,0
+eloan line of credit,parent,popular  inc,2
+eloan line of credit,products,savings accounts   c ds,1
+eloan line of credit,foaf homepage,http   www eloan com,2
+europe solar power facility,color,forestgreen,0
+europe solar power facility,color,pink,0
+europe solar power facility,direction,horizontal,0
+europe solar power facility,thumb,right,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,value,NUM,0
+europe solar power facility,width,NUM,0
+frequently visited sharks gulf indian ocean,average depth,NUM,0
+frequently visited sharks gulf indian ocean,country,india,1
+frequently visited sharks gulf indian ocean,country,sri lanka,2
+frequently visited sharks gulf indian ocean,length,NUM,0
+frequently visited sharks gulf indian ocean,area km square,NUM,0
+frequently visited sharks gulf indian ocean,basin countries,india,1
+frequently visited sharks gulf indian ocean,basin countries,sri lanka,2
+frequently visited sharks gulf indian ocean,state,tamil nadu,1
+frequently visited sharks gulf indian ocean,geo lat,NUM,0
+frequently visited sharks gulf indian ocean,geo long,NUM,0
+frequently visited sharks gulf indian ocean,georss point,NUM,0
+give me all members of prodigy,active years start year,NUM,1
+give me all members of prodigy,associated band,the prodigy,1
+give me all members of prodigy,associated musical artist,the prodigy,1
+give me all members of prodigy,background,non vocal instrumentalist,0
+give me all members of prodigy,birth date,NUM,2
+give me all members of prodigy,birth place,braintree  essex,2
+give me all members of prodigy,birth year,NUM,2
+give me all members of prodigy,genre,alternative dance,1
+give me all members of prodigy,genre,alternative rock,1
+give me all members of prodigy,genre,big beat,1
+give me all members of prodigy,genre,breakbeat,1
+give me all members of prodigy,genre,breakbeat hardcore,1
+give me all members of prodigy,genre,electronic dance music,1
+give me all members of prodigy,genre,electropunk,1
+give me all members of prodigy,genre,hardcore  electronic dance music genre,1
+give me all members of prodigy,instrument,direct drive turntable,1
+give me all members of prodigy,instrument,drum machine,1
+give me all members of prodigy,instrument,keyboard instrument,1
+give me all members of prodigy,instrument,sampler  musical instrument,1
+give me all members of prodigy,instrument,synthesizer,1
+give me all members of prodigy,record label,xl recordings,1
+give me all members of prodigy,active,NUM,1
+give me all members of prodigy,associated acts,ALPHANUM,1
+give me all members of prodigy,date of birth,NUM,2
+give me all members of prodigy,landscape,yes,0
+give me all members of prodigy,place of birth,braintree  essex  england,2
+give me all members of prodigy,short description,english musician  dj and record producer,2
+give me all members of prodigy,years active,NUM,0
+give me all people with first name jimmy,birth date,NUM,2
+give me all people with first name jimmy,birth year,NUM,2
+give me all people with first name jimmy,imdb id,NUM,0
+give me all people with first name jimmy,area,writer,2
+give me all people with first name jimmy,birth place,taiwan,2
+give me all people with first name jimmy,birth place,yilan county  taiwan,2
+give me all people with first name jimmy,date of birth,NUM,2
+give me all people with first name jimmy,name nonen,NUM,0
+give me all people with first name jimmy,nationality,taiwanese,2
+give me all people with first name jimmy,notable works,sound of colors,2
+give me all people with first name jimmy,notable works,turn left  turn right,2
+give me all people with first name jimmy,short description,taiwanese writer and artist,2
+give me all people with first name jimmy,spouse,peng chienwen,1
+give me all people with first name jimmy,website,http   www jimmyspa com,0
+give me all people with first name jimmy,foaf homepage,http   www jimmyspa com,1
+marc anthony,artist,marc anthony,2
+marc anthony,genre,contemporary r b,2
+marc anthony,genre,latin pop,1
+marc anthony,genre,pop music,2
+marc anthony,genre,salsa music,1
+marc anthony,genre,soul music,2
+marc anthony,language,english language,1
+marc anthony,language,spanish language,1
+marc anthony,previous work,contra la corriente  marc anthony album,1
+marc anthony,producer,cory rooney,2
+marc anthony,producer,dan shea  producer,2
+marc anthony,producer,marc anthony,2
+marc anthony,producer,rodney jerkins,2
+marc anthony,record label,columbia records,2
+marc anthony,release date,NUM,2
+marc anthony,subsequent work,libre  marc anthony album,0
+marc anthony,autocat,yes,0
+marc anthony,award,gold,1
+marc anthony,award,platinum,1
+marc anthony,certyear,NUM,0
+marc anthony,last album,contra la corriente,1
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,length,NUM,0
+marc anthony,misc,NUM,0
+marc anthony,next album,libre,0
+marc anthony,number,NUM,0
+marc anthony,number,NUM,0
+marc anthony,recorded,NUM,2
+marc anthony,region,canada,0
+marc anthony,region,norway,0
+marc anthony,region,sweden,0
+marc anthony,region,switzerland,1
+marc anthony,region,united states,0
+marc anthony,released,NUM,2
+marc anthony,relyear,NUM,2
+marc anthony,rev,all music,0
+marc anthony,rev,entertainment weekly,0
+marc anthony,rev,rolling stone,0
+marc anthony,rev,wilson   alroy s record reviews,0
+marc anthony,this album,marc anthony,2
+marc anthony,title,da la vuelta,0
+marc anthony,title,i need to know  marc anthony song,1
+marc anthony,title,my baby you,2
+marc anthony,title,you sang to me,1
+marc anthony,title,am i the only one,0
+marc anthony,title,como ella me quiere a m,1
+marc anthony,title,don t let me leave,1
+marc anthony,title,d melo,1
+marc anthony,title,how could i,0
+marc anthony,title,love is all,0
+marc anthony,title,marc anthony,2
+marc anthony,title,no one,1
+marc anthony,title,remember me,2
+marc anthony,title,she s been good to me,1
+marc anthony,title,that s okay,0
+marc anthony,title,when i dream at night,1
+marc anthony,writer,dan shea  producer,2
+marc anthony,writer,emilio estefan,2
+marc anthony,writer,kike santander,2
+marc anthony,writer,robin thicke,2
+marc anthony,writer,arnie roman,1
+marc anthony,writer,gordon chambers  cory rooney  dan shea,1
+marc anthony,writer,jonnie most  denise rich,2
+marc anthony,writer,marc anthony  cory rooney,2
+marc anthony,writer,marc anthony  cory rooney  angie chirino  roberto blades,1
+marc anthony,writer,marc anthony  cory rooney  ira antelis,2
+marc anthony,writer,marc anthony  walter afanasieff,1
+marc anthony,writer,rodney jerkins  marc anthony  corey rooney  harvey mason  jr   la shawn daniels  fred jerkins iii,2
+marc anthony,writer,rodney jerkins  marc anthony  corey rooney  harvey mason  jr   la shawn daniels  fred jerkins iii  angie chirino  roberto blades,1
+marc anthony,writing credits,yes,0
+most beautiful railway stations world cities located,populated place area total,NUM,0
+most beautiful railway stations world cities located,area code,NUM,0
+most beautiful railway stations world cities located,area total,NUM,0
+most beautiful railway stations world cities located,country,india,2
+most beautiful railway stations world cities located,is part of,kerala,1
+most beautiful railway stations world cities located,is part of,malappuram,1
+most beautiful railway stations world cities located,postal code,NUM,1
+most beautiful railway stations world cities located,synonym,parappnad,0
+most beautiful railway stations world cities located,time zone,indian standard time,1
+most beautiful railway stations world cities located,area code type,telephone code,0
+most beautiful railway stations world cities located,area total km,NUM,1
+most beautiful railway stations world cities located,demographics type,languages,0
+most beautiful railway stations world cities located,governing body,parappanangadi panchayat,1
+most beautiful railway stations world cities located,latd,NUM,0
+most beautiful railway stations world cities located,latm,NUM,0
+most beautiful railway stations world cities located,lats,NUM,0
+most beautiful railway stations world cities located,longd,NUM,0
+most beautiful railway stations world cities located,longm,NUM,0
+most beautiful railway stations world cities located,longs,NUM,0
+most beautiful railway stations world cities located,population density km,auto,0
+most beautiful railway stations world cities located,postal code type,postal index number,0
+most beautiful railway stations world cities located,pushpin label position,right,0
+most beautiful railway stations world cities located,pushpin map,india kerala,1
+most beautiful railway stations world cities located,registration plate,ALPHANUM,0
+most beautiful railway stations world cities located,settlement type,town,1
+most beautiful railway stations world cities located,subdivision name,kerala,1
+most beautiful railway stations world cities located,subdivision name,malappuram,1
+most beautiful railway stations world cities located,subdivision type,list of districts in india,0
+most beautiful railway stations world cities located,subdivision type,states and union territories of india,1
+most beautiful railway stations world cities located,subdivision type,country,0
+most beautiful railway stations world cities located,unit pref,metric,0
+most beautiful railway stations world cities located,website,http   www parappanangadipanchayath com,1
+most beautiful railway stations world cities located,foaf homepage,http   www parappanangadipanchayath com,0
+most beautiful railway stations world cities located,geo lat,NUM,0
+most beautiful railway stations world cities located,geo long,NUM,0
+most beautiful railway stations world cities located,georss point,NUM,0
+movies about english hooligans,work runtime,NUM,0
+movies about english hooligans,budget,NUM,0
+movies about english hooligans,country,united states,1
+movies about english hooligans,director,lexi alexander,2
+movies about english hooligans,distributor,freestyle releasing,1
+movies about english hooligans,distributor,universal studios,1
+movies about english hooligans,gross,NUM,0
+movies about english hooligans,music composer,christopher franke,2
+movies about english hooligans,producer,deborah del prete,2
+movies about english hooligans,runtime,NUM,0
+movies about english hooligans,starring,charlie hunnam,2
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,2
+movies about english hooligans,starring,leo gregory,1
+movies about english hooligans,writer,dougie brimson,1
+movies about english hooligans,writer,lexi alexander,2
+movies about english hooligans,cinematography,alexander buono,1
+movies about english hooligans,editing,paul trejo,1
+movies about english hooligans,language,english,1
+movies about english hooligans,music,christopher franke,1
+movies about english hooligans,narrator,sam gibson,1
+movies about english hooligans,screenplay,dougie brimson,2
+movies about english hooligans,screenplay,lexi alexander,1
+movies about english hooligans,screenplay,josh shelov,1
+movies about english hooligans,story,dougie brimson,2
+movies about english hooligans,story,lexi alexander,2
+movies about english hooligans,studio,odd lot entertainment,1
+movies about english hooligans,foaf homepage,http   www greenstreethooligans com,1
+niagara falls origin lake,infrastructure length,NUM,0
+niagara falls origin lake,length,NUM,0
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route end direction,north,0
+niagara falls origin lake,route start,fort erie  ontario,0
+niagara falls origin lake,route start direction,south,1
+niagara falls origin lake,col,NUM,0
+niagara falls origin lake,direction a,south,0
+niagara falls origin lake,direction b,north,0
+niagara falls origin lake,division,niagara,1
+niagara falls origin lake,keys,closed,0
+niagara falls origin lake,length km,NUM,0
+niagara falls origin lake,location,chippawa,2
+niagara falls origin lake,location,fort erie,2
+niagara falls origin lake,location,niagara falls,2
+niagara falls origin lake,location,queenston,0
+niagara falls origin lake,location special,niagara on the lake,0
+niagara falls origin lake,location special,black creek,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,lspan,NUM,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,parkway detours to cross welland river,0
+niagara falls origin lake,notes,ALPHANUM,0
+niagara falls origin lake,notes,tourist district for niagara falls,0
+niagara falls origin lake,province,on,1
+niagara falls origin lake,road,NUM,0
+niagara falls origin lake,road,clifton hill  niagara falls,1
+niagara falls origin lake,road,fort erie  ontario,1
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,road,queen street,0
+niagara falls origin lake,road,victoria avenue,0
+niagara falls origin lake,terminus a,fort erie  ontario,1
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,1
+permanent members of the un security council,membership,full member,0
+permanent members of the un security council,nation,the united states of america,0
+permanent members of the un security council,representative,samantha power,2
+permanent members of the un security council,representative title,united states ambassador to the united nations,0
+permanent members of the un security council,sc seat,permanent members of the united nations security council,0
+permanent members of the un security council,foaf homepage,http   www usunnewyork usmission gov,0
+star trek captains,affiliation,starfleet,1
+star trek captains,affiliation,united federation of planets,1
+star trek captains,born,NUM,2
+star trek captains,planet,earth,0
+star trek captains,portrayer,chris pine,1
+star trek captains,portrayer,jimmy bennett,1
+star trek captains,portrayer,sandra smith,2
+star trek captains,portrayer,william shatner,1
+star trek captains,posting,ALPHANUM,1
+star trek captains,posting,chief of starfleet operations,1
+star trek captains,posting,commanding officer,1
+star trek captains,posting,executive officer,1
+star trek captains,rank,admiral,2
+star trek captains,rank,captain,1
+star trek captains,rank,commander,1
+star trek captains,species,human,0
+star trek captains,title,james tiberius kirk,2
+steak express,country,belgium,1
+steak express,country,france,1
+steak express,ingredient,potato,1
+steak express,ingredient,steak,2
+steak express,ingredient name,steak potatoes  various sauces,1
+steak express,serving temperature,hot,0
+steak express,course,main course,1
+steak express,main ingredient,steak  potatoes  various sauces,2
+steak express,served,hot,0
+steak express,dc type,main course,0
+toledo bend realty,populated place area total,NUM,1
+toledo bend realty,populated place area total,NUM,0
+toledo bend realty,populated place population density,NUM,0
+toledo bend realty,area code,NUM,2
+toledo bend realty,area land,NUM,0
+toledo bend realty,area land,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area total,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,area water,NUM,0
+toledo bend realty,country,united states,2
+toledo bend realty,elevation,NUM,0
+toledo bend realty,elevation,NUM,0
+toledo bend realty,is part of,lucas county  ohio,1
+toledo bend realty,is part of,ohio,1
+toledo bend realty,leader name,paula hicks hudson,1
+toledo bend realty,leader title,mayor,0
+toledo bend realty,population density,NUM,0
+toledo bend realty,population metro,NUM,0
+toledo bend realty,population total,NUM,2
+toledo bend realty,population total ranking,NUM,0
+toledo bend realty,population urban,NUM,1
+toledo bend realty,time zone,eastern time zone,1
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,utc offset,NUM,0
+toledo bend realty,area land km,NUM,1
+toledo bend realty,area land sq mi,NUM,2
+toledo bend realty,area total km,NUM,0
+toledo bend realty,area total sq mi,NUM,0
+toledo bend realty,area water km,NUM,0
+toledo bend realty,area water sq mi,NUM,0
+toledo bend realty,blank info,NUM,0
+toledo bend realty,blank name,federal information processing standards,0
+toledo bend realty,centre,toledo,0
+toledo bend realty,coordinates region,us oh,0
+toledo bend realty,east,oregon  ohio,0
+toledo bend realty,elevation ft,NUM,0
+toledo bend realty,elevation m,NUM,0
+toledo bend realty,established date,NUM,2
+toledo bend realty,established title,founded,0
+toledo bend realty,latd,NUM,0
+toledo bend realty,latm,NUM,0
+toledo bend realty,lats,NUM,0
+toledo bend realty,longd,NUM,0
+toledo bend realty,longm,NUM,0
+toledo bend realty,longs,NUM,0
+toledo bend realty,north,bedford township,0
+toledo bend realty,northeast,washington township  lucas county  ohio,0
+toledo bend realty,northeast,erie township,0
+toledo bend realty,northwest,whiteford township,0
+toledo bend realty,official name,city of toledo,0
+toledo bend realty,pop est as of,NUM,0
+toledo bend realty,population as of,NUM,0
+toledo bend realty,population blank,toledoan,0
+toledo bend realty,population density km,NUM,0
+toledo bend realty,population est,NUM,1
+toledo bend realty,population rank,ALPHANUM,0
+toledo bend realty,postal code type,zip codes,0
+toledo bend realty,pushpin map,usa,0
+toledo bend realty,settlement type,city,0
+toledo bend realty,south,maumee  ohio,0
+toledo bend realty,south,perrysburg township  wood county  ohio,0
+toledo bend realty,southeast,northwood  ohio,0
+toledo bend realty,southeast,rossford  ohio,0
+toledo bend realty,southwest,monclova township  lucas county  ohio,0
+toledo bend realty,subdivision name,lucas county  ohio,1
+toledo bend realty,subdivision name,ohio,0
+toledo bend realty,subdivision name,united states,0
+toledo bend realty,subdivision type,list of counties in ohio,0
+toledo bend realty,subdivision type,list of sovereign states,0
+toledo bend realty,subdivision type,political divisions of the united states,0
+toledo bend realty,timezone dst,eastern time zone,1
+toledo bend realty,unit pref,imperial,0
+toledo bend realty,utc offset dst,NUM,0
+toledo bend realty,website,http   www toledo oh gov,1
+toledo bend realty,west,ottawa hills  ohio,0
+toledo bend realty,west,springfield township  lucas county  ohio,0
+toledo bend realty,west,sylvania township  lucas county  ohio,0
+toledo bend realty,foaf homepage,http   www toledo oh gov,1
+toledo bend realty,foaf nick,the glass city  t town  frogtown,1
+toledo bend realty,geo lat,NUM,0
+toledo bend realty,geo long,NUM,0
+toledo bend realty,georss point,NUM,0
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,ingredient name,deep fried dried starch and other ingredients  the most popular is prawn,0
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,1
+vietnam food recipes,serving temperature,room temperature,0
+vietnam food recipes,course,snack,0
+vietnam food recipes,creator,traditional food,2
+vietnam food recipes,main ingredient,deep fried dried starch and other ingredients  the most popular is prawn,2
+vietnam food recipes,served,room temperature,2
+vietnam food recipes,variations,different variations according to ingredients,0
+vietnam food recipes,dc type,snack,1
+vietnam travel airports,city,hanoi,2
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,elevation,NUM,0
+vietnam travel airports,iata location identifier,han,1
+vietnam travel airports,icao location identifier,vvnb,0
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway designation,ALPHANUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway length,NUM,0
+vietnam travel airports,runway surface,asphalt,1
+vietnam travel airports,runway surface,concrete,0
+vietnam travel airports,city served,hanoi,2
+vietnam travel airports,elevation f,NUM,0
+vietnam travel airports,elevation m,NUM,0
+vietnam travel airports,iata,han,0
+vietnam travel airports,icao,vvnb,0
+vietnam travel airports,latd,NUM,0
+vietnam travel airports,latm,NUM,0
+vietnam travel airports,lats,NUM,0
+vietnam travel airports,longd,NUM,0
+vietnam travel airports,longm,NUM,0
+vietnam travel airports,longs,NUM,0
+vietnam travel airports,operator,noi bai international airport operation,0
+vietnam travel airports,owner,airports corporation of vietnam,2
+vietnam travel airports,pushpin label,han,0
+vietnam travel airports,pushpin map,vietnam,0
+vietnam travel airports,pushpin mapsize,NUM,0
+vietnam travel airports,stat year,NUM,1
+vietnam travel airports,geo lat,NUM,0
+vietnam travel airports,geo long,NUM,0
+vietnam travel airports,georss point,NUM,0
+which books by kerouac were published by viking press,author,jack kerouac,2
+which books by kerouac were published by viking press,isbn,NUM,1
+which books by kerouac were published by viking press,literary genre,beat generation,1
+which books by kerouac were published by viking press,literary genre,short story collection,1
+which books by kerouac were published by viking press,media type,hardcover,1
+which books by kerouac were published by viking press,number of pages,NUM,0
+which books by kerouac were published by viking press,oclc,NUM,0
+which books by kerouac were published by viking press,previous work,old angel midnight,1
+which books by kerouac were published by viking press,publisher,viking press,2
+which books by kerouac were published by viking press,subsequent work,good blonde   others,1
+which books by kerouac were published by viking press,country,united states,2
+which books by kerouac were published by viking press,followed by,good blonde   others,1
+which books by kerouac were published by viking press,genre,beat generation,1
+which books by kerouac were published by viking press,genre,short story collection,1
+which books by kerouac were published by viking press,language,english,1
+which books by kerouac were published by viking press,pages,NUM,0
+which books by kerouac were published by viking press,preceded by,old angel midnight,1
+which books by kerouac were published by viking press,release date,NUM,2
+who produced the most films,active years start year,NUM,1
+who produced the most films,alias,roach  harold eugene,0
+who produced the most films,birth date,NUM,2
+who produced the most films,birth place,elmira  new york,2
+who produced the most films,birth year,NUM,2
+who produced the most films,child,hal roach  jr,2
+who produced the most films,death cause,pneumonia,0
+who produced the most films,death date,NUM,2
+who produced the most films,death year,NUM,2
+who produced the most films,imdb id,NUM,0
+who produced the most films,occupation,ALPHANUM,0
+who produced the most films,resting place,woodlawn cemetery  elmira  new york,1
+who produced the most films,spouse,marguerite nichols,2
+who produced the most films,children,hal roach  jr,1
+who produced the most films,children,bridget anderson,2
+who produced the most films,children,elizabeth roach,0
+who produced the most films,children,jeanne roach,2
+who produced the most films,children,margaret roach,1
+who produced the most films,children,maria watkins,1
+who produced the most films,date of birth,NUM,2
+who produced the most films,date of death,NUM,2
+who produced the most films,death place,los angeles  california  united states,2
+who produced the most films,place of birth,elmira  new york  us,2
+who produced the most films,place of death,los angeles  california  us,2
+who produced the most films,short description,film producer,2
+who produced the most films,years active,NUM,1
+winners of the acm athena award,alias,needham  karen,0
+winners of the acm athena award,birth date,NUM,2
+winners of the acm athena award,birth place,huddersfield,2
+winners of the acm athena award,birth place,yorkshire,2
+winners of the acm athena award,birth year,NUM,2
+winners of the acm athena award,death date,NUM,2
+winners of the acm athena award,death place,willingham  cambridgeshire,2
+winners of the acm athena award,death year,NUM,2
+winners of the acm athena award,known for,natural language processing,1
+winners of the acm athena award,nationality,united kingdom,2
+winners of the acm athena award,spouse,roger needham,2
+winners of the acm athena award,after,martin kay,0
+winners of the acm athena award,alma mater,university of cambridge,2
+winners of the acm athena award,before,makoto nagao,0
+winners of the acm athena award,date of birth,NUM,2
+winners of the acm athena award,date of death,NUM,2
+winners of the acm athena award,doctoral advisor,richard braithwaite,1
+winners of the acm athena award,field,computer science,2
+winners of the acm athena award,place of birth,huddersfield,2
+winners of the acm athena award,place of birth,yorkshire,2
+winners of the acm athena award,place of death,willingham  cambridgeshire,2
+winners of the acm athena award,prizes,acl lifetime achievement award  bcs lovelace medal  acm aaai allen newell award  acm sigir salton award  american society for information science and technology s award of merit,1
+winners of the acm athena award,residence,united kingdom,1
+winners of the acm athena award,short description,computer science,2
+winners of the acm athena award,thesis title,synonymy and semantic classi cation,1
+winners of the acm athena award,thesis year,NUM,0
+winners of the acm athena award,title,acl lifetime achievement award,1
+winners of the acm athena award,work institution,computer laboratory  university of cambridge,1
+winners of the acm athena award,years,NUM,0

@@ -1,0 +1,254 @@
+directed bela glen glenda bride monster plan 9 outer space,cinematography,ted allan,1
+directed bela glen glenda bride monster plan 9 outer space,cinematography,william c  thompson,1
+directed bela glen glenda bride monster plan 9 outer space,country,ALPHANUM,1
+directed bela glen glenda bride monster plan 9 outer space,director,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,distributor,banner pictures,2
+directed bela glen glenda bride monster plan 9 outer space,editing,warren adams,1
+directed bela glen glenda bride monster plan 9 outer space,music composer,frank worth,1
+directed bela glen glenda bride monster plan 9 outer space,producer,ed wood,1
+directed bela glen glenda bride monster plan 9 outer space,starring,bela lugosi,2
+directed bela glen glenda bride monster plan 9 outer space,starring,loretta king hadler,2
+directed bela glen glenda bride monster plan 9 outer space,starring,tor johnson,2
+directed bela glen glenda bride monster plan 9 outer space,writer,alex gordon  writer producer,2
+directed bela glen glenda bride monster plan 9 outer space,writer,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,music,frank worth,1
+espresso tv stands,author,julian more,2
+espresso tv stands,author,wolf mankowitz,2
+espresso tv stands,lyrics,julian more,1
+espresso tv stands,lyrics,monty norman,2
+espresso tv stands,music by,david heneker,1
+espresso tv stands,music by,monty norman,1
+espresso tv stands,director,val guest,2
+espresso tv stands,distributor,british lion films,1
+espresso tv stands,editing,bill lenny,1
+espresso tv stands,music,david heneker,2
+espresso tv stands,music,monty norman,2
+espresso tv stands,music,robert farnon,2
+espresso tv stands,producer,jon penington,2
+espresso tv stands,starring,cliff richard,2
+espresso tv stands,starring,eric pohlmann,2
+espresso tv stands,starring,gilbert harding,2
+espresso tv stands,starring,hermione baddeley,2
+espresso tv stands,starring,laurence harvey,2
+espresso tv stands,starring,sylvia syms,1
+espresso tv stands,starring,yolande donlan,2
+espresso tv stands,writer,wolf mankowitz,2
+give me a list of all american inventions,designer,john g  kemeny,2
+give me a list of all american inventions,designer,thomas e  kurtz,2
+give me a list of all american inventions,influenced,auto hotkey,1
+give me a list of all american inventions,influenced,auto it,1
+give me a list of all american inventions,influenced,comal,1
+give me a list of all american inventions,influenced,grass  programming language,1
+give me a list of all american inventions,influenced,visual basic,0
+give me a list of all american inventions,influenced,visual basic  net,1
+give me a list of all american inventions,influenced,xojo,1
+give me a list of all american inventions,influenced by,ALPHANUM,1
+give me a list of all american inventions,influenced by,fortran,1
+give me a list of all american inventions,influenced by,joss,0
+give me a list of all american inventions,implementations,atari basic,1
+give me a list of all american inventions,implementations,bbc basic,1
+give me a list of all american inventions,implementations,commodore basic,1
+give me a list of all american inventions,implementations,dartmouth basic,1
+give me a list of all american inventions,implementations,free basic,1
+give me a list of all american inventions,implementations,integer basic,1
+give me a list of all american inventions,implementations,liberty basic,1
+give me a list of all american inventions,implementations,microsoft basic,1
+give me a list of all american inventions,implementations,sinclair basic,1
+give me a list of all american inventions,implementations,ti basic,0
+give me a list of all american inventions,implementations,visual basic,1
+give me the apollo 14 astronauts,birth place,durango  colorado,2
+give me the apollo 14 astronauts,death place,falls church  virginia,1
+give me the apollo 14 astronauts,nationality,united states,2
+give me the apollo 14 astronauts,occupation,fighter pilot,1
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,0
+give me the apollo 14 astronauts,previous occupation,fighter pilot,1
+give me the apollo 14 astronauts,previous occupation,test pilot,1
+give me the apollo 14 astronauts,rank,colonel  united states,0
+give me the apollo 14 astronauts,rank,united states air force,0
+japanese players in major league baseball,birth place,osaka,2
+japanese players in major league baseball,debut team,osaka kintetsu buffaloes,1
+japanese players in major league baseball,position,pitcher,2
+japanese players in major league baseball,after,a  j  burnett,0
+japanese players in major league baseball,after,al leiter,0
+japanese players in major league baseball,after,derek lowe,0
+japanese players in major league baseball,after,john smoltz,0
+japanese players in major league baseball,after,joichiro tatsuyoshi,1
+japanese players in major league baseball,after,kevin brown  right handed pitcher,0
+japanese players in major league baseball,before,chiyonofuji mitsugu,0
+japanese players in major league baseball,before,dwight gooden,0
+japanese players in major league baseball,before,eric milton,0
+japanese players in major league baseball,before,greg maddux,0
+japanese players in major league baseball,before,kevin brown  right handed pitcher,0
+japanese players in major league baseball,debutleague,nippon professional baseball,1
+japanese players in major league baseball,place of birth,osaka,2
+japanese players in major league baseball,title,hits per nine innings,0
+japanese players in major league baseball,title,japan professional sports grand prize,1
+japanese players in major league baseball,title,los angeles dodgers,0
+japanese players in major league baseball,title,no hitter,0
+japanese players in major league baseball,title,opening day,0
+makers of lawn tennis rackets,industry,sports equipment,1
+makers of lawn tennis rackets,parent company,pacific brands,2
+makers of lawn tennis rackets,parent,pacific brands,1
+music conferences,genre,electronic music,1
+provinces and territories of canada,bird,gyrfalcon,0
+provinces and territories of canada,capital,yellowknife,2
+provinces and territories of canada,flower,dryas octopetala,0
+provinces and territories of canada,officiallang,chipewyan language,1
+provinces and territories of canada,officiallang,cree language,1
+provinces and territories of canada,officiallang,dogrib language,1
+provinces and territories of canada,officiallang,english language,2
+provinces and territories of canada,officiallang,french language,2
+provinces and territories of canada,officiallang,gwich in language,1
+provinces and territories of canada,officiallang,inuinnaqtun,1
+provinces and territories of canada,officiallang,inuktitut,1
+provinces and territories of canada,officiallang,inuvialuktun,2
+provinces and territories of canada,officiallang,slavey language,1
+provinces and territories of canada,postalcodeprefix,list of x postal codes of canada,0
+provinces and territories of canada,premier,bob mc leod  politician,2
+provinces and territories of canada,premierparty,consensus government in canada,0
+provinces and territories of canada,tree,larix laricina,0
+provinces and territories of canada,viceroy,george tuccaro,0
+radio italia online,broadcast area,dvb s,0
+radio italia online,broadcast area,digital audio broadcasting,1
+radio italia online,broadcast area,fm broadcasting,2
+radio italia online,broadcast area,internet radio,0
+radio italia online,broadcast area,italy,1
+radio italia online,broadcast area,monaco,2
+radio italia online,broadcast area,san marino,2
+radio italia online,owner,rcs media group,2
+radio italia online,programme format,rock music,2
+radio italia online,sister station,ALPHANUM,1
+radio italia online,sister station,radio monte carlo,0
+radio italia online,format,rock music,1
+revolutionaries of 1959 in cuba,birth place,cuba,2
+revolutionaries of 1959 in cuba,birth place,havana,2
+revolutionaries of 1959 in cuba,birth place,lawton  havana,2
+revolutionaries of 1959 in cuba,death place,cuba,2
+revolutionaries of 1959 in cuba,death place,straits of florida,1
+revolutionaries of 1959 in cuba,nationality,cuba,2
+revolutionaries of 1959 in cuba,state of origin,cuba,1
+revolutionaries of 1959 in cuba,place of birth,cuba,2
+revolutionaries of 1959 in cuba,place of birth,havana,2
+revolutionaries of 1959 in cuba,place of birth,lawton  havana,2
+revolutionaries of 1959 in cuba,place of death,straits of florida,2
+tango culture movies,birth place,buenos aires,2
+tango culture movies,place of birth,buenos aires,2
+the morning call lehigh valley pa,editor,david v  erdman,2
+the morning call lehigh valley pa,format,broadsheet,1
+the morning call lehigh valley pa,headquarter,allentown  pennsylvania,2
+the morning call lehigh valley pa,owner,tribune media,2
+the morning call lehigh valley pa,owners,tribune media,2
+universities in catalunya,affiliation,xarxa vives d universitats,0
+universities in catalunya,city,barcelona,1
+universities in catalunya,country,spain,2
+universities in catalunya,state,catalonia,2
+universities in catalunya,affiliations,xarxa vives d universitats,1
+vietnam travel airports,city,hanoi,2
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,city served,hanoi,2
+what is the capital of canada,country,canada,2
+what is the capital of canada,is part of,national capital region  canada,2
+what is the capital of canada,is part of,ontario,1
+what is the capital of canada,leader name,jim watson  canadian politician,1
+what is the capital of canada,leader name,ottawa city council,1
+what is the capital of canada,time zone,eastern time zone,1
+what is the capital of canada,east,clarence rockland,0
+what is the capital of canada,established title,merger  politics,0
+what is the capital of canada,established title,municipal corporation,0
+what is the capital of canada,north,gatineau,0
+what is the capital of canada,north,pontiac  quebec,0
+what is the capital of canada,northeast,lochaber partie ouest  quebec,0
+what is the capital of canada,northwest,arnprior,0
+what is the capital of canada,source,environment canada,0
+what is the capital of canada,south,north dundas  ontario,0
+what is the capital of canada,south,north grenville,0
+what is the capital of canada,southeast,russell  ontario,1
+what is the capital of canada,southeast,the nation  ontario,0
+what is the capital of canada,southwest,merrickville wolford,0
+what is the capital of canada,subdivision name,canada,0
+what is the capital of canada,subdivision name,national capital region  canada,0
+what is the capital of canada,subdivision name,ontario,1
+what is the capital of canada,subdivision type,list of regions of canada,0
+what is the capital of canada,subdivision type,provinces and territories of canada,0
+what is the capital of canada,timezone dst,eastern time zone,1
+what is the capital of canada,west,beckwith  ontario,0
+what is the capital of canada,west,mississippi mills  ontario,0
+what is the capital of canada,west,montague  ontario,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,prime minister,david cameron,2
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+which mountain is the highest after the annapurna,first ascent person,adam bielecki  climber,1
+which mountain is the highest after the annapurna,first ascent person,janusz go  b,0
+which mountain is the highest after the annapurna,located in area,pakistan,2
+which mountain is the highest after the annapurna,mountain range,karakoram,1
+which mountain is the highest after the annapurna,listing,eight thousander,0
+which mountain is the highest after the annapurna,listing,ultra prominent peak,0
+which mountain is the highest after the annapurna,range,karakoram,2
+who is the mayor of berlin,alma mater,free university of berlin,2
+who is the mayor of berlin,birth place,berlin,2
+who is the mayor of berlin,birth place,west berlin,2
+who is the mayor of berlin,birth place,west germany,2
+who is the mayor of berlin,nationality,germany,2
+who is the mayor of berlin,party,social democratic party of germany,1
+who is the mayor of berlin,predecessor,andrea nahles,0
+who is the mayor of berlin,predecessor,eberhard diepgen,1
+who is the mayor of berlin,predecessor,frank walter steinmeier,1
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,1
+who is the mayor of berlin,residence,berlin,1
+who is the mayor of berlin,successor,michael m ller  politician,1
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,after,michael m ller  politician,0
+who is the mayor of berlin,before,eberhard diepgen,1
+who is the mayor of berlin,title,governing mayor of berlin,2
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2

@@ -1,0 +1,286 @@
+american embassy nairobi,location,dar es salaam,2
+american embassy nairobi,location,kenya,2
+american embassy nairobi,location,nairobi,1
+american embassy nairobi,location,tanzania,2
+american embassy nairobi,target,list of diplomatic missions of the united states,1
+american embassy nairobi,timezone,ALPHANUM,0
+american embassy nairobi,weapons,ammonium nitrate,1
+american embassy nairobi,weapons,pistol,0
+american embassy nairobi,weapons,stun grenade,1
+american embassy nairobi,weapons,trinitrotoluene,0
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,1
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,1
+baguio quezon city manila official independence 1945,capital,baguio,2
+baguio quezon city manila official independence 1945,capital,manila,2
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,1
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,2
+baguio quezon city manila official independence 1945,common languages,tagalog language,1
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,1
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+david suchet,birth place,england,2
+david suchet,birth place,london,2
+david suchet,occupation,ALPHANUM,0
+david suchet,relative,john suchet,1
+david suchet,honorific suffix,order of the british empire,0
+david suchet,relatives,john suchet,1
+england football player highest paid,birth place,england national rugby union team,0
+england football player highest paid,birth place,leeds,2
+england football player highest paid,former team,harlequin f c,1
+england football player highest paid,former team,yorkshire carnegie,0
+england football player highest paid,position,rugby union positions,0
+england football player highest paid,school,prince henry s grammar school  otley,1
+england football player highest paid,team,harlequin f c,2
+england football player highest paid,clubs,yorkshire carnegie,1
+england football player highest paid,currentclub,harlequin f c,1
+england football player highest paid,repteam,saxons,1
+england football player highest paid,ru sevensnationalteam,england national rugby union team  sevens,2
+england football player highest paid,youthclubs,otley r u f c,0
+england football player highest paid,youthrepteam,ALPHANUM,0
+give me all current methodist national leaders,alma mater,john f  kennedy school of government,1
+give me all current methodist national leaders,alma mater,madison business college,1
+give me all current methodist national leaders,alma mater,university of colorado boulder,1
+give me all current methodist national leaders,birth place,liberia,2
+give me all current methodist national leaders,birth place,monrovia,2
+give me all current methodist national leaders,party,unity party  liberia,2
+give me all current methodist national leaders,predecessor,gyude bryant,1
+give me all current methodist national leaders,religion,methodism,1
+give me all current methodist national leaders,term period,ALPHANUM,0
+give me all current methodist national leaders,vice president,joseph boakai,0
+give me all current methodist national leaders,minister,amara mohamed konneh,0
+give me all current methodist national leaders,minister,antoinette sayeh,0
+give me all current methodist national leaders,minister,brownie samukai,1
+give me all current methodist national leaders,minister,george wallace  diplomat,0
+give me all current methodist national leaders,minister,joseph boakai,0
+give me all current methodist national leaders,minister,joseph korto,0
+give me all current methodist national leaders,minister,olubanke king akerele,1
+give me all current methodist national leaders,minister,samuel kofi woods,0
+give me all current methodist national leaders,title,nobel peace prize,0
+give me all current methodist national leaders,title,president of liberia,2
+give me all current methodist national leaders,title,vice president of liberia,1
+give me all current methodist national leaders,with,leymah gbowee,1
+give me all current methodist national leaders,with,tawakkol karman,0
+give me all female german chancellors,alma mater,leipzig university,1
+give me all female german chancellors,birth place,hamburg,2
+give me all female german chancellors,birth place,west germany,2
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,1
+give me all female german chancellors,party,christian democratic union of germany,2
+give me all female german chancellors,party,democratic awakening,1
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,predecessor,gerhard schr der,1
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,1
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,before,norbert lammert,0
+give me all female german chancellors,chancellor,helmut kohl,1
+give me all female german chancellors,title,chancellor of germany,2
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,1
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+james clayton md,alma mater,university of delaware,1
+james clayton md,birth place,cecil county  maryland,2
+james clayton md,birth place,maryland,2
+james clayton md,death place,delaware,2
+james clayton md,death place,new castle  delaware,2
+james clayton md,party,federalist party,1
+james clayton md,party,whig party  united states,1
+james clayton md,predecessor,caesar augustus rodney,1
+james clayton md,predecessor,henry m  ridgely,0
+james clayton md,predecessor,john m  clayton,1
+james clayton md,region,delaware s at large congressional district,0
+james clayton md,region,delaware,1
+james clayton md,religion,presbyterian church in the united states of america,1
+james clayton md,residence,delaware,1
+james clayton md,residence,dover  delaware,1
+james clayton md,successor,john m  clayton,0
+james clayton md,successor,louis mc lane,1
+james clayton md,successor,presley spruance,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,term period,ALPHANUM,0
+james clayton md,after,louis mc lane,0
+james clayton md,after,presley spruance,0
+james clayton md,before,caesar augustus rodney,0
+james clayton md,before,henry m  ridgely,0
+james clayton md,before,john m  clayton,1
+james clayton md,district,delaware s at large congressional district,0
+james clayton md,place of birth,cecil county  maryland,2
+james clayton md,place of birth,maryland,2
+james clayton md,place of death,delaware,2
+james clayton md,place of death,new castle  delaware,2
+james clayton md,state,delaware,1
+japanese players in major league baseball,birth place,osaka,2
+japanese players in major league baseball,debut team,osaka kintetsu buffaloes,1
+japanese players in major league baseball,position,pitcher,2
+japanese players in major league baseball,after,a  j  burnett,0
+japanese players in major league baseball,after,al leiter,0
+japanese players in major league baseball,after,derek lowe,0
+japanese players in major league baseball,after,john smoltz,0
+japanese players in major league baseball,after,joichiro tatsuyoshi,1
+japanese players in major league baseball,after,kevin brown  right handed pitcher,0
+japanese players in major league baseball,before,chiyonofuji mitsugu,0
+japanese players in major league baseball,before,dwight gooden,0
+japanese players in major league baseball,before,eric milton,0
+japanese players in major league baseball,before,greg maddux,0
+japanese players in major league baseball,before,kevin brown  right handed pitcher,0
+japanese players in major league baseball,debutleague,nippon professional baseball,1
+japanese players in major league baseball,place of birth,osaka,2
+japanese players in major league baseball,title,hits per nine innings,0
+japanese players in major league baseball,title,japan professional sports grand prize,1
+japanese players in major league baseball,title,los angeles dodgers,0
+japanese players in major league baseball,title,no hitter,0
+japanese players in major league baseball,title,opening day,0
+list of films from the surrealist category,director,alejandro jodorowsky,2
+list of films from the surrealist category,music composer,simon boswell,1
+list of films from the surrealist category,producer,claudio argento,2
+list of films from the surrealist category,starring,adan jodorowsky,2
+list of films from the surrealist category,starring,blanca guerra,2
+list of films from the surrealist category,starring,crist bal jodorowsky,2
+list of films from the surrealist category,starring,guy stockwell,2
+list of films from the surrealist category,writer,alejandro jodorowsky,2
+list of films from the surrealist category,writer,claudio argento,2
+list of films from the surrealist category,writer,roberto leoni,2
+list of films from the surrealist category,music,simon boswell,2
+makers of lawn tennis rackets,industry,sports equipment,1
+makers of lawn tennis rackets,parent company,pacific brands,2
+makers of lawn tennis rackets,parent,pacific brands,1
+movies about english hooligans,country,united states,1
+movies about english hooligans,director,lexi alexander,2
+movies about english hooligans,distributor,freestyle releasing,1
+movies about english hooligans,distributor,universal studios,1
+movies about english hooligans,music composer,christopher franke,2
+movies about english hooligans,producer,deborah del prete,2
+movies about english hooligans,starring,charlie hunnam,2
+movies about english hooligans,starring,claire forlani,2
+movies about english hooligans,starring,elijah wood,2
+movies about english hooligans,starring,leo gregory,1
+movies about english hooligans,writer,dougie brimson,1
+movies about english hooligans,writer,lexi alexander,2
+movies about english hooligans,music,christopher franke,1
+movies about english hooligans,screenplay,dougie brimson,2
+movies about english hooligans,screenplay,lexi alexander,1
+movies about english hooligans,studio,odd lot entertainment,1
+music conferences,genre,electronic music,1
+nelson mandela john dube,birth place,cape province,2
+nelson mandela john dube,birth place,mvezo,2
+nelson mandela john dube,birth place,union of south africa,2
+nelson mandela john dube,death place,gauteng,2
+nelson mandela john dube,death place,johannesburg,2
+nelson mandela john dube,death place,south africa,2
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,other party,south african communist party,1
+nelson mandela john dube,party,african national congress,0
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,1
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,1
+nelson mandela john dube,resting place position,ALPHANUM,0
+nelson mandela john dube,spouse,evelyn mase,2
+nelson mandela john dube,spouse,gra a machel,1
+nelson mandela john dube,spouse,winnie madikizela mandela,1
+nelson mandela john dube,successor,thabo mbeki,0
+nelson mandela john dube,term period,ALPHANUM,0
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,0
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,1
+nelson mandela john dube,honorific suffix,order of the elephant,1
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,place of birth,cape province,2
+nelson mandela john dube,place of birth,mvezo,2
+nelson mandela john dube,place of birth,union of south africa,2
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,1
+nelson mandela john dube,title,president of south africa,2
+niagara falls origin lake,route end,fort george  ontario,0
+niagara falls origin lake,route start,fort erie  ontario,0
+niagara falls origin lake,location special,niagara on the lake,0
+niagara falls origin lake,road,clifton hill  niagara falls,1
+niagara falls origin lake,road,fort erie  ontario,1
+niagara falls origin lake,road,fort george  ontario,0
+niagara falls origin lake,terminus a,fort erie  ontario,1
+niagara falls origin lake,terminus b,fort george  ontario,0
+niagara falls origin lake,terminus b,niagara on the lake,1
+overeaters anonymous,location,milwaukee,2
+vietnam food recipes,country,indonesia,2
+vietnam food recipes,region,east asia,1
+vietnam food recipes,region,netherlands,2
+vietnam food recipes,region,southeast asia,1
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,1
+who founded intel,birth place,burlington  iowa,2
+who founded intel,birth place,iowa,2
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,2
+who founded intel,occupation,fairchild semiconductor,1
+who founded intel,occupation,intel,1
+who founded intel,occupation,ALPHANUM,0
+who founded intel,spouse,elizabeth noyce,1
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2
+winners of the acm athena award,birth place,huddersfield,2
+winners of the acm athena award,birth place,yorkshire,2
+winners of the acm athena award,death place,willingham  cambridgeshire,2
+winners of the acm athena award,known for,natural language processing,1
+winners of the acm athena award,nationality,united kingdom,2
+winners of the acm athena award,spouse,roger needham,2
+winners of the acm athena award,after,martin kay,0
+winners of the acm athena award,before,makoto nagao,0
+winners of the acm athena award,place of birth,huddersfield,2
+winners of the acm athena award,place of birth,yorkshire,2
+winners of the acm athena award,place of death,willingham  cambridgeshire,2
+winners of the acm athena award,short description,computer science,2
+winners of the acm athena award,work institution,computer laboratory  university of cambridge,1

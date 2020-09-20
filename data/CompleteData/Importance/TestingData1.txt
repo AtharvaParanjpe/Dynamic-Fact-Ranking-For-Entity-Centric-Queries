@@ -1,0 +1,626 @@
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,cospar id,ALPHANUM,0
+astronauts who landed on the moon,sound recording,ALPHANUM,0
+astronauts who landed on the moon,after,ALPHANUM,1
+astronauts who landed on the moon,apsis,selene,0
+astronauts who landed on the moon,before,ALPHANUM,1
+astronauts who landed on the moon,crew callsign,csm  columbia,0
+astronauts who landed on the moon,crew callsign,lm  eagle,0
+astronauts who landed on the moon,crew callsign,on surface  tranquility base,0
+astronauts who landed on the moon,crew members,buzz aldrin,1
+astronauts who landed on the moon,crew members,michael collins  astronaut,2
+astronauts who landed on the moon,crew members,neil armstrong,2
+astronauts who landed on the moon,crew size,NUM,1
+astronauts who landed on the moon,direction,horizontal,0
+astronauts who landed on the moon,docking,NUM,0
+astronauts who landed on the moon,format,ogg,0
+astronauts who landed on the moon,interplanetary,NUM,0
+astronauts who landed on the moon,landing date,NUM,2
+astronauts who landed on the moon,landing site,north pacific ocean,1
+astronauts who landed on the moon,launch date,NUM,1
+astronauts who landed on the moon,launch rocket,ALPHANUM,1
+astronauts who landed on the moon,launch site,kennedy space center,1
+astronauts who landed on the moon,launch site,ALPHANUM,2
+astronauts who landed on the moon,manufacturer,csm  north american rockwell,2
+astronauts who landed on the moon,manufacturer,lm  grumman,2
+astronauts who landed on the moon,mission duration,NUM,0
+astronauts who landed on the moon,mission type,manned lunar landing,2
+astronauts who landed on the moon,next mission,ALPHANUM,1
+astronauts who landed on the moon,operator,nasa,2
+astronauts who landed on the moon,orbit epoch,NUM,0
+astronauts who landed on the moon,orbit inclination,NUM,0
+astronauts who landed on the moon,orbit period,NUM,0
+astronauts who landed on the moon,orbit reference,lunar orbit,1
+astronauts who landed on the moon,pos,left,0
+astronauts who landed on the moon,position,command module pilot,0
+astronauts who landed on the moon,position,commander,0
+astronauts who landed on the moon,position,lunar module pilot,1
+astronauts who landed on the moon,previous mission,ALPHANUM,1
+astronauts who landed on the moon,programme,apollo program,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,satcat,ALPHANUM,0
+astronauts who landed on the moon,spacecraft,ALPHANUM,2
+astronauts who landed on the moon,spacecraft,ALPHANUM,1
+astronauts who landed on the moon,terminology,astronaut,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,title,ALPHANUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,width,NUM,0
+astronauts who landed on the moon,foaf homepage,http   buzzaldrin com the man space missions,1
+axis powers of world war ii,dissolution date,NUM,2
+axis powers of world war ii,dissolution year,NUM,1
+axis powers of world war ii,founding date,NUM,2
+axis powers of world war ii,founding year,NUM,2
+axis powers of world war ii,noautocat,yes,0
+axis powers of world war ii,continent,europe,1
+axis powers of world war ii,date end,NUM,1
+axis powers of world war ii,date event,NUM,0
+axis powers of world war ii,date event,NUM,2
+axis powers of world war ii,date start,NUM,2
+axis powers of world war ii,era,world war ii,1
+axis powers of world war ii,event,pact of steel,1
+axis powers of world war ii,event,tripartite pact,0
+axis powers of world war ii,event end,dissolution  law,0
+axis powers of world war ii,event start,anti comintern pact,1
+axis powers of world war ii,life span,NUM,1
+axis powers of world war ii,native name,achsenm chte,2
+axis powers of world war ii,native name,potenze dell asse,0
+axis powers of world war ii,native name,NUM,0
+axis powers of world war ii,status,collective security,1
+axis powers of world war ii,year end,NUM,2
+axis powers of world war ii,year start,NUM,2
+axis powers of world war ii,owl different from,socialist republic of croatia,0
+bond girls,active years end year,NUM,1
+bond girls,active years start year,NUM,1
+bond girls,alias,andress  ursula,1
+bond girls,birth date,NUM,2
+bond girls,birth place,ostermundigen,2
+bond girls,birth place,switzerland,2
+bond girls,birth year,NUM,2
+bond girls,nationality,british people,1
+bond girls,nationality,swiss people,1
+bond girls,occupation,ALPHANUM,0
+bond girls,partner,harry hamlin,1
+bond girls,spouse,john derek,1
+bond girls,state of origin,british people,0
+bond girls,state of origin,swiss people,1
+bond girls,children,dimitri hamlin,1
+bond girls,date of birth,NUM,2
+bond girls,place of birth,ostermundigen,2
+bond girls,place of birth,switzerland,2
+bond girls,short description,swiss actress and model,2
+bond girls,title,bond girl,1
+bond girls,years,NUM,0
+bond girls,years active,NUM,1
+directed bela glen glenda bride monster plan 9 outer space,work runtime,NUM,0
+directed bela glen glenda bride monster plan 9 outer space,budget,NUM,0
+directed bela glen glenda bride monster plan 9 outer space,cinematography,ted allan,1
+directed bela glen glenda bride monster plan 9 outer space,cinematography,william c  thompson,1
+directed bela glen glenda bride monster plan 9 outer space,country,ALPHANUM,1
+directed bela glen glenda bride monster plan 9 outer space,director,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,distributor,banner pictures,2
+directed bela glen glenda bride monster plan 9 outer space,editing,warren adams,1
+directed bela glen glenda bride monster plan 9 outer space,imdb id,NUM,0
+directed bela glen glenda bride monster plan 9 outer space,music composer,frank worth,1
+directed bela glen glenda bride monster plan 9 outer space,producer,ed wood,1
+directed bela glen glenda bride monster plan 9 outer space,runtime,NUM,0
+directed bela glen glenda bride monster plan 9 outer space,starring,bela lugosi,2
+directed bela glen glenda bride monster plan 9 outer space,starring,loretta king hadler,2
+directed bela glen glenda bride monster plan 9 outer space,starring,tor johnson,2
+directed bela glen glenda bride monster plan 9 outer space,writer,alex gordon  writer producer,2
+directed bela glen glenda bride monster plan 9 outer space,writer,ed wood,2
+directed bela glen glenda bride monster plan 9 outer space,language,english,1
+directed bela glen glenda bride monster plan 9 outer space,music,frank worth,1
+directed bela glen glenda bride monster plan 9 outer space,studio,rolling m  productions,1
+directed bela glen glenda bride monster plan 9 outer space,title,bride of the monster,2
+earl may,blazon,the coat of arms of the earls of carnarvon,0
+earl may,creation date,NUM,2
+earl may,family seat,highclere castle,1
+earl may,first holder,ALPHANUM,2
+earl may,heir apparent,george kenneth oliver molyneux herbert,0
+earl may,monarch,george iii of the united kingdom,1
+earl may,peerage,peerage of great britain,0
+earl may,present holder,ALPHANUM,2
+earl may,subsidiary titles,lord porchester,0
+einstein relativity theory,birth date,NUM,2
+einstein relativity theory,birth year,NUM,2
+einstein relativity theory,death date,NUM,2
+einstein relativity theory,death year,NUM,2
+einstein relativity theory,date of birth,NUM,2
+einstein relativity theory,date of death,NUM,2
+einstein relativity theory,short description,german physicist,2
+give me all canadian grunge record labels,country,canada,1
+give me all canadian grunge record labels,founded by,sloan  band,2
+give me all canadian grunge record labels,founding year,NUM,2
+give me all canadian grunge record labels,genre,alternative rock,1
+give me all canadian grunge record labels,genre,grunge,1
+give me all canadian grunge record labels,genre,indie rock,1
+give me all canadian grunge record labels,location,halifax  nova scotia,2
+give me all canadian grunge record labels,location,nova scotia,2
+give me all canadian grunge record labels,location,ontario,2
+give me all canadian grunge record labels,location,toronto,1
+give me all canadian grunge record labels,parent company,mca records,2
+give me all canadian grunge record labels,founded,NUM,2
+give me all canadian grunge record labels,founder,sloan  band,2
+give me all canadian grunge record labels,parent,mca records,1
+give me all canadian grunge record labels,url,http   www sloanmusic com murderecords,1
+give me all canadian grunge record labels,foaf homepage,http   www sloanmusic com murderecords,1
+give me all female german chancellors,alias,merkel  angela dorothea  full name,1
+give me all female german chancellors,alma mater,leipzig university,1
+give me all female german chancellors,birth date,NUM,2
+give me all female german chancellors,birth place,hamburg,2
+give me all female german chancellors,birth place,west germany,2
+give me all female german chancellors,birth year,NUM,2
+give me all female german chancellors,deputy,frank walter steinmeier,0
+give me all female german chancellors,deputy,franz m ntefering,1
+give me all female german chancellors,deputy,guido westerwelle,0
+give me all female german chancellors,deputy,philipp r sler,1
+give me all female german chancellors,deputy,sigmar gabriel,1
+give me all female german chancellors,office,chancellor of germany,2
+give me all female german chancellors,office,leader of the christian democratic union of germany,1
+give me all female german chancellors,office,minister for women and youth,1
+give me all female german chancellors,office,minister for the environment,0
+give me all female german chancellors,party,christian democratic union of germany,2
+give me all female german chancellors,party,democratic awakening,1
+give me all female german chancellors,predecessor,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,predecessor,gerhard schr der,1
+give me all female german chancellors,predecessor,klaus t pfer,0
+give me all female german chancellors,predecessor,wolfgang sch uble,0
+give me all female german chancellors,president,christian wulff,0
+give me all female german chancellors,president,horst k hler,0
+give me all female german chancellors,president,joachim gauck,1
+give me all female german chancellors,religion,lutheranism,0
+give me all female german chancellors,spouse,joachim sauer,2
+give me all female german chancellors,successor,claudia nolte,0
+give me all female german chancellors,successor,j rgen trittin,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,term period,ALPHANUM,0
+give me all female german chancellors,before,norbert lammert,0
+give me all female german chancellors,chancellor,helmut kohl,1
+give me all female german chancellors,date of birth,NUM,2
+give me all female german chancellors,place of birth,hamburg  germany,2
+give me all female german chancellors,short description,german politician,2
+give me all female german chancellors,term end,NUM,0
+give me all female german chancellors,term end,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,1
+give me all female german chancellors,term start,NUM,2
+give me all female german chancellors,title,chancellor of germany,2
+give me all female german chancellors,title,federal ministry for the environment  nature conservation  building and nuclear safety,1
+give me all female german chancellors,title,federal ministry of family affairs  senior citizens  women and youth,1
+give me all female german chancellors,title,german order of precedence,0
+give me all female german chancellors,title,ALPHANUM,0
+give me all female german chancellors,title,general secretary of the christian democratic union,2
+give me all female german chancellors,title,leader of the christian democratic union,2
+give me all female german chancellors,title,speaker at the invocation of the college of europe,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,years,NUM,1
+give me all female german chancellors,years,NUM,0
+give me all female german chancellors,foaf homepage,http   www bundeskanzlerin de webs bk en,0
+give me all people with first name jimmy,birth date,NUM,2
+give me all people with first name jimmy,birth year,NUM,2
+give me all people with first name jimmy,imdb id,NUM,0
+give me all people with first name jimmy,area,writer,2
+give me all people with first name jimmy,birth place,taiwan,2
+give me all people with first name jimmy,birth place,yilan county  taiwan,2
+give me all people with first name jimmy,date of birth,NUM,2
+give me all people with first name jimmy,name nonen,NUM,0
+give me all people with first name jimmy,nationality,taiwanese,2
+give me all people with first name jimmy,notable works,sound of colors,2
+give me all people with first name jimmy,notable works,turn left  turn right,2
+give me all people with first name jimmy,short description,taiwanese writer and artist,2
+give me all people with first name jimmy,spouse,peng chienwen,1
+give me all people with first name jimmy,website,http   www jimmyspa com,0
+give me all people with first name jimmy,foaf homepage,http   www jimmyspa com,1
+makers of lawn tennis rackets,founding year,NUM,2
+makers of lawn tennis rackets,industry,sports equipment,1
+makers of lawn tennis rackets,parent company,pacific brands,2
+makers of lawn tennis rackets,foundation,NUM,2
+makers of lawn tennis rackets,homepage,http   www dunlopfootwear com au,1
+makers of lawn tennis rackets,parent,pacific brands,1
+makers of lawn tennis rackets,foaf homepage,http   www dunlopfootwear com au,1
+sacred heart u,address,ALPHANUM,2
+sacred heart u,city,coconut grove,2
+sacred heart u,city,miami,2
+sacred heart u,county,miami dade county  florida,2
+sacred heart u,founding year,NUM,2
+sacred heart u,grades,pre kindergarten,0
+sacred heart u,head label,headmistress,0
+sacred heart u,number of students,NUM,1
+sacred heart u,postal code,NUM,0
+sacred heart u,religion,catholic church,2
+sacred heart u,religion,society of the sacred heart,1
+sacred heart u,state,florida,1
+sacred heart u,team name,cyclones,1
+sacred heart u,accreditation,southern association of colleges and schools,0
+sacred heart u,colors,blue and gold,0
+sacred heart u,country,us,2
+sacred heart u,established,NUM,2
+sacred heart u,free label,admissions director,0
+sacred heart u,free label,athletic director,0
+sacred heart u,free text,ana roye,0
+sacred heart u,free text,matt althage,0
+sacred heart u,head,suzanne cooke  rscj,1
+sacred heart u,homepage,http   www carrollton org,1
+sacred heart u,president,suzanne cooke  rscj,2
+sacred heart u,streetaddress,NUM,0
+sacred heart u,students,NUM,0
+sacred heart u,zipcode,NUM,1
+sacred heart u,foaf homepage,http   www carrollton org,2
+sacred heart u,geo lat,NUM,0
+sacred heart u,geo long,NUM,0
+sacred heart u,georss point,NUM,0
+star trek captains,affiliation,starfleet,1
+star trek captains,affiliation,united federation of planets,1
+star trek captains,born,NUM,2
+star trek captains,planet,earth,0
+star trek captains,portrayer,chris pine,1
+star trek captains,portrayer,jimmy bennett,1
+star trek captains,portrayer,sandra smith,2
+star trek captains,portrayer,william shatner,1
+star trek captains,posting,ALPHANUM,1
+star trek captains,posting,chief of starfleet operations,1
+star trek captains,posting,commanding officer,1
+star trek captains,posting,executive officer,1
+star trek captains,rank,admiral,2
+star trek captains,rank,captain,1
+star trek captains,rank,commander,1
+star trek captains,species,human,0
+star trek captains,title,james tiberius kirk,2
+to which countries does the himalayan mountain system extend,populated place area total,NUM,0
+to which countries does the himalayan mountain system extend,populated place area total,NUM,1
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,populated place population density,NUM,0
+to which countries does the himalayan mountain system extend,anthem,druk tsendhen,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,area total,NUM,0
+to which countries does the himalayan mountain system extend,capital,thimphu,2
+to which countries does the himalayan mountain system extend,currency,bhutanese ngultrum,1
+to which countries does the himalayan mountain system extend,currency,ALPHANUM,0
+to which countries does the himalayan mountain system extend,currency,indian rupee,1
+to which countries does the himalayan mountain system extend,demonym,bhutanese,1
+to which countries does the himalayan mountain system extend,founding date,NUM,2
+to which countries does the himalayan mountain system extend,founding date,NUM,2
+to which countries does the himalayan mountain system extend,government type,unitary state,0
+to which countries does the himalayan mountain system extend,language,dzongkha,2
+to which countries does the himalayan mountain system extend,leader,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader,tshering tobgay,2
+to which countries does the himalayan mountain system extend,leader title,king,1
+to which countries does the himalayan mountain system extend,leader title,prime minister,0
+to which countries does the himalayan mountain system extend,official language,dzongkha,1
+to which countries does the himalayan mountain system extend,percentage of area water,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population density,NUM,0
+to which countries does the himalayan mountain system extend,population total,NUM,0
+to which countries does the himalayan mountain system extend,time zone,bhutan time,0
+to which countries does the himalayan mountain system extend,area km,NUM,1
+to which countries does the himalayan mountain system extend,area magnitude,NUM,0
+to which countries does the himalayan mountain system extend,area rank,NUM,0
+to which countries does the himalayan mountain system extend,area sq mi,NUM,0
+to which countries does the himalayan mountain system extend,calling code,telephone numbers in bhutan,0
+to which countries does the himalayan mountain system extend,cctld,bt,0
+to which countries does the himalayan mountain system extend,drives on,right  and left hand traffic,0
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established date,NUM,2
+to which countries does the himalayan mountain system extend,established event,bhutan india relations,0
+to which countries does the himalayan mountain system extend,established event,constitutional monarchy,1
+to which countries does the himalayan mountain system extend,established event,house of wangchuck,0
+to which countries does the himalayan mountain system extend,gdp nominal,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp nominal per capita,NUM,1
+to which countries does the himalayan mountain system extend,gdp nominal per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp nominal year,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp,ALPHANUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp per capita rank,NUM,0
+to which countries does the himalayan mountain system extend,gdp ppp year,NUM,0
+to which countries does the himalayan mountain system extend,gini,NUM,0
+to which countries does the himalayan mountain system extend,gini year,NUM,0
+to which countries does the himalayan mountain system extend,hdi,NUM,0
+to which countries does the himalayan mountain system extend,hdi change,steadu,0
+to which countries does the himalayan mountain system extend,hdi rank,NUM,0
+to which countries does the himalayan mountain system extend,hdi year,NUM,0
+to which countries does the himalayan mountain system extend,height,NUM,0
+to which countries does the himalayan mountain system extend,largest city,capital,0
+to which countries does the himalayan mountain system extend,latd,NUM,0
+to which countries does the himalayan mountain system extend,latm,NUM,0
+to which countries does the himalayan mountain system extend,leader name,jigme khesar namgyel wangchuck,2
+to which countries does the himalayan mountain system extend,leader name,tshering tobgay,2
+to which countries does the himalayan mountain system extend,legislature,parliament of bhutan,0
+to which countries does the himalayan mountain system extend,longd,NUM,0
+to which countries does the himalayan mountain system extend,longm,NUM,0
+to which countries does the himalayan mountain system extend,lower house,national assembly  bhutan,0
+to which countries does the himalayan mountain system extend,national anthem,druk tsendhen,1
+to which countries does the himalayan mountain system extend,official languages,dzongkha,2
+to which countries does the himalayan mountain system extend,percent water,NUM,0
+to which countries does the himalayan mountain system extend,population census,NUM,0
+to which countries does the himalayan mountain system extend,population census year,NUM,0
+to which countries does the himalayan mountain system extend,population density km,NUM,0
+to which countries does the himalayan mountain system extend,population density rank,NUM,0
+to which countries does the himalayan mountain system extend,population density sq mi,NUM,0
+to which countries does the himalayan mountain system extend,population estimate,NUM,0
+to which countries does the himalayan mountain system extend,population estimate rank,NUM,0
+to which countries does the himalayan mountain system extend,population estimate year,NUM,0
+to which countries does the himalayan mountain system extend,religion,vajrayana,1
+to which countries does the himalayan mountain system extend,sovereignty note,ALPHANUM,0
+to which countries does the himalayan mountain system extend,sovereignty type,history of bhutan,0
+to which countries does the himalayan mountain system extend,symbol type,emblem,0
+to which countries does the himalayan mountain system extend,time zone dst,not observed,0
+to which countries does the himalayan mountain system extend,title,religions of bhutan,0
+to which countries does the himalayan mountain system extend,upper house,national council  bhutan,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,width,NUM,0
+to which countries does the himalayan mountain system extend,foaf homepage,http   www bhutan gov bt,1
+to which countries does the himalayan mountain system extend,geo lat,NUM,0
+to which countries does the himalayan mountain system extend,geo long,NUM,0
+to which countries does the himalayan mountain system extend,georss point,NUM,0
+to which countries does the himalayan mountain system extend,owl different from,bohtan,0
+to which countries does the himalayan mountain system extend,owl different from,butuan,0
+vietnamese food blog,begins,NUM,0
+vietnamese food blog,duration,NUM,0
+vietnamese food blog,ends,NUM,0
+vietnamese food blog,frequency,annual,1
+vietnamese food blog,hangul,NUM,0
+vietnamese food blog,hanja,NUM,0
+vietnamese food blog,holiday name,cold food festival,2
+vietnamese food blog,longtype,cultural,0
+vietnamese food blog,observedby,chinese  koreans  vietnamese,1
+vietnamese food blog,official name,hanshi festival,2
+vietnamese food blog,relatedto,t t h n th c  hanshik,0
+vietnamese food blog,vie,t t h n th c,0
+vietnamese food blog,foaf nick,cold food festival,0
+which countries have places with more than two caves,area km,NUM,0
+which countries have places with more than two caves,area magnitude,NUM,0
+which countries have places with more than two caves,area sq mi,NUM,0
+which countries have places with more than two caves,capital,cardiff,2
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,0
+which countries have places with more than two caves,city,aberdare,0
+which countries have places with more than two caves,city,barry  wales barry,0
+which countries have places with more than two caves,city,blackwood  wales blackwood,2
+which countries have places with more than two caves,city,bridgend,1
+which countries have places with more than two caves,city,caerphilly,0
+which countries have places with more than two caves,city,cardiff,1
+which countries have places with more than two caves,city,colwyn bay,0
+which countries have places with more than two caves,city,cwmbran,0
+which countries have places with more than two caves,city,llanelli,1
+which countries have places with more than two caves,city,maesteg,0
+which countries have places with more than two caves,city,merthyr tydfil,0
+which countries have places with more than two caves,city,neath,0
+which countries have places with more than two caves,city,newport  wales newport,0
+which countries have places with more than two caves,city,penarth,0
+which countries have places with more than two caves,city,pontypool,0
+which countries have places with more than two caves,city,pontypridd,0
+which countries have places with more than two caves,city,port talbot,0
+which countries have places with more than two caves,city,rhyl,0
+which countries have places with more than two caves,city,swansea,0
+which countries have places with more than two caves,city,wrexham,1
+which countries have places with more than two caves,class,info,0
+which countries have places with more than two caves,country,wales,2
+which countries have places with more than two caves,demonym,welsh,0
+which countries have places with more than two caves,div,bridgend county borough,0
+which countries have places with more than two caves,div,caerphilly county borough,0
+which countries have places with more than two caves,div,cardiff council city   county of cardiff,1
+which countries have places with more than two caves,div,carmarthenshire,0
+which countries have places with more than two caves,div,city and county of swansea council city   county of swansea,0
+which countries have places with more than two caves,div,conwy county borough,1
+which countries have places with more than two caves,div,denbighshire,0
+which countries have places with more than two caves,div,merthyr tydfil,0
+which countries have places with more than two caves,div,neath port talbot,0
+which countries have places with more than two caves,div,newport city council newport city,0
+which countries have places with more than two caves,div,rhondda cynon taf,0
+which countries have places with more than two caves,div,torfaen,0
+which countries have places with more than two caves,div,vale of glamorgan,0
+which countries have places with more than two caves,div,wrexham county borough,0
+which countries have places with more than two caves,div name,council area,0
+which countries have places with more than two caves,established date,NUM,1
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established date,NUM,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,established event,unification by,0
+which countries have places with more than two caves,first minister,carwyn jones,2
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,gdp ppp,ALPHANUM,0
+which countries have places with more than two caves,gdp ppp per capita,NUM,0
+which countries have places with more than two caves,gdp year,NUM,0
+which countries have places with more than two caves,government type,devolved parliamentary legislature within parliamentary constitutional monarchy,1
+which countries have places with more than two caves,languages,english language,1
+which countries have places with more than two caves,languages,welsh language,1
+which countries have places with more than two caves,languages type,languages of wales,2
+which countries have places with more than two caves,largest city,capital,0
+which countries have places with more than two caves,latd,NUM,0
+which countries have places with more than two caves,latm,NUM,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,list by pop,list of towns and cities in wales by population,0
+which countries have places with more than two caves,longd,NUM,0
+which countries have places with more than two caves,longm,NUM,0
+which countries have places with more than two caves,monarch,elizabeth ii,1
+which countries have places with more than two caves,patron saint,saint david,1
+which countries have places with more than two caves,politics link,politics of wales,1
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,2
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,pop,NUM,0
+which countries have places with more than two caves,population census,NUM,1
+which countries have places with more than two caves,population census year,NUM,0
+which countries have places with more than two caves,population density km,NUM,0
+which countries have places with more than two caves,population density sq mi,NUM,0
+which countries have places with more than two caves,prime minister,david cameron,2
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,1
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,stat ref,ALPHANUM,0
+which countries have places with more than two caves,status,countries of the united kingdom,1
+which countries have places with more than two caves,title,articles relating to wales,0
+which countries have places with more than two caves,foaf homepage,http   www visitwales com,1
+which software has been developed by organizations founded in california,author,yahoo,2
+which software has been developed by organizations founded in california,language,multilingualism,0
+which software has been developed by organizations founded in california,owner,yahoo,2
+which software has been developed by organizations founded in california,commercial,yes,0
+which software has been developed by organizations founded in california,content license,proprietary software,0
+which software has been developed by organizations founded in california,current status,online,1
+which software has been developed by organizations founded in california,num users,NUM,0
+which software has been developed by organizations founded in california,registration,required,0
+which software has been developed by organizations founded in california,screenshot,NUM,0
+which software has been developed by organizations founded in california,foaf homepage,https   mail yahoo com,1
+who founded intel,alias,noyce  bob,1
+who founded intel,alma mater,grinnell college,1
+who founded intel,alma mater,massachusetts institute of technology,1
+who founded intel,award,faraday medal,1
+who founded intel,award,harold pender award,1
+who founded intel,award,john fritz medal,1
+who founded intel,birth date,NUM,2
+who founded intel,birth place,burlington  iowa,2
+who founded intel,birth place,iowa,2
+who founded intel,birth year,NUM,2
+who founded intel,death date,NUM,2
+who founded intel,death place,austin  texas,2
+who founded intel,death place,texas,2
+who founded intel,death year,NUM,2
+who founded intel,occupation,fairchild semiconductor,1
+who founded intel,occupation,intel,1
+who founded intel,occupation,ALPHANUM,0
+who founded intel,spouse,elizabeth noyce,1
+who founded intel,awards,faraday medal,1
+who founded intel,awards,harold pender award,1
+who founded intel,awards,john fritz medal,1
+who founded intel,children,william b  noyce pendred noyce priscilla noyce margaret noyce,2
+who founded intel,date of birth,NUM,2
+who founded intel,date of death,NUM,2
+who founded intel,parents,ralph brewster noyce  harriet may norton,1
+who founded intel,place of birth,burlington  iowa,2
+who founded intel,place of death,austin  texas,1
+who founded intel,short description,co founder of fairchild semiconductor and intel,2
+who founded intel,title,intel ceo,2
+who founded intel,years,NUM,1
+who is the mayor of berlin,alma mater,free university of berlin,2
+who is the mayor of berlin,birth date,NUM,2
+who is the mayor of berlin,birth place,berlin,2
+who is the mayor of berlin,birth place,west berlin,2
+who is the mayor of berlin,birth place,west germany,2
+who is the mayor of berlin,birth year,NUM,2
+who is the mayor of berlin,nationality,germany,2
+who is the mayor of berlin,office,governing mayor of berlin,1
+who is the mayor of berlin,office,member of the berlin house of representatives,1
+who is the mayor of berlin,office,vice chairman of spd,1
+who is the mayor of berlin,party,social democratic party of germany,1
+who is the mayor of berlin,predecessor,andrea nahles,0
+who is the mayor of berlin,predecessor,eberhard diepgen,1
+who is the mayor of berlin,predecessor,frank walter steinmeier,1
+who is the mayor of berlin,predecessor,peer steinbr ck,0
+who is the mayor of berlin,religion,catholic church,1
+who is the mayor of berlin,residence,berlin,1
+who is the mayor of berlin,successor,michael m ller  politician,1
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,term period,ALPHANUM,0
+who is the mayor of berlin,after,michael m ller  politician,0
+who is the mayor of berlin,before,eberhard diepgen,1
+who is the mayor of berlin,date of birth,NUM,2
+who is the mayor of berlin,partner,j rn kubicki,1
+who is the mayor of berlin,place of birth,berlin  germany,2
+who is the mayor of berlin,short description,german politician,2
+who is the mayor of berlin,term end,NUM,1
+who is the mayor of berlin,term end,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,term start,NUM,1
+who is the mayor of berlin,title,governing mayor of berlin,2
+who is the mayor of berlin,website,http   www klaus wowereit de,1
+who is the mayor of berlin,years,NUM,0
+who is the mayor of berlin,foaf homepage,http   www klaus wowereit de,1
+who produces orangina,founding year,NUM,2
+who produces orangina,industry,drink,1
+who produces orangina,key person,roger white  executive,2
+who produces orangina,location,cumbernauld,2
+who produces orangina,location,north lanarkshire,2
+who produces orangina,location,scotland,2
+who produces orangina,location,united kingdom,1
+who produces orangina,net income,ALPHANUM,1
+who produces orangina,number of employees,NUM,1
+who produces orangina,operating income,ALPHANUM,0
+who produces orangina,product,ade  drink suffix,1
+who produces orangina,product,barr cola,1
+who produces orangina,product,cherryade,1
+who produces orangina,product,ginger beer,1
+who produces orangina,product,irn bru,1
+who produces orangina,product,lemonade,1
+who produces orangina,product,lipton,1
+who produces orangina,product,red kola,1
+who produces orangina,product,saint clement s  cocktail,1
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,1
+who produces orangina,revenue,ALPHANUM,0
+who produces orangina,foundation,NUM,2
+who produces orangina,founder,robert barr,2
+who produces orangina,homepage,http   www agbarr co uk,1
+who produces orangina,key people,roger white  chief executive,1
+who produces orangina,key people,ronnie hanna  chairman,1
+who produces orangina,num employees,NUM,1
+who produces orangina,products,ade  drink suffix,1
+who produces orangina,products,barr cola,1
+who produces orangina,products,cherryade,1
+who produces orangina,products,ginger beer,1
+who produces orangina,products,irn bru,1
+who produces orangina,products,lemonade,1
+who produces orangina,products,lipton,1
+who produces orangina,products,red kola,1
+who produces orangina,products,saint clement s  cocktail,1
+who produces orangina,products,shandy,1
+who produces orangina,products,tizer,2
+who produces orangina,products,american cream soda,1
+who produces orangina,products,appleade,1
+who produces orangina,products,bubblegum,1
+who produces orangina,products,d n b,1
+who produces orangina,products,ka,1
+who produces orangina,products,limeade,1
+who produces orangina,foaf homepage,http   www agbarr co uk,1
+ymca tampa,headquarter,geneva,2
+ymca tampa,headquarter,switzerland,2
+ymca tampa,area,worldwide,1
+ymca tampa,founded date,NUM,2
+ymca tampa,founded place,london,2
+ymca tampa,founded place,united kingdom of great britain and ireland,2
+ymca tampa,founder,george williams  ymca,2
+ymca tampa,headquarters,geneva,2
+ymca tampa,headquarters,switzerland,2
+ymca tampa,main classification,community,0
+ymca tampa,website,http   www ymca int,2
+ymca tampa,foaf homepage,http   www ymca int,2

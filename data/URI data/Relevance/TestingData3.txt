@@ -1,0 +1,246 @@
+baguio quezon city manila official independence 1945,anthem,awit sa paglikha ng bagong pilipinas,0
+baguio quezon city manila official independence 1945,anthem,lupang hinirang,0
+baguio quezon city manila official independence 1945,capital,baguio,1
+baguio quezon city manila official independence 1945,capital,manila,1
+baguio quezon city manila official independence 1945,currency,japanese government issued philippine peso,0
+baguio quezon city manila official independence 1945,government type,single party state,0
+baguio quezon city manila official independence 1945,common languages,japanese language,0
+baguio quezon city manila official independence 1945,common languages,tagalog language,0
+baguio quezon city manila official independence 1945,deputy,benigno aquino  sr,0
+baguio quezon city manila official independence 1945,empire,empire of japan,0
+baguio quezon city manila official independence 1945,legislature,national assembly  second philippine republic,0
+baguio quezon city manila official independence 1945,title deputy,national assembly  second philippine republic,1
+baguio quezon city manila official independence 1945,title leader,president of the philippines,1
+earl may,family seat,highclere castle,0
+earl may,first holder,ALPHANUM,0
+earl may,monarch,george iii of the united kingdom,0
+earl may,peerage,peerage of great britain,0
+earl may,present holder,ALPHANUM,0
+eloan line of credit,founded by,chris larsen,1
+eloan line of credit,industry,financial services,1
+eloan line of credit,location,rosemont  illinois,1
+eloan line of credit,location,united states,1
+eloan line of credit,parent company,popular  inc,1
+eloan line of credit,parent,popular  inc,0
+give me the apollo 14 astronauts,birth place,durango  colorado,1
+give me the apollo 14 astronauts,death place,falls church  virginia,0
+give me the apollo 14 astronauts,nationality,united states,1
+give me the apollo 14 astronauts,occupation,fighter pilot,0
+give me the apollo 14 astronauts,occupation,test pilot,1
+give me the apollo 14 astronauts,selection,list of astronauts by year of selection,0
+give me the apollo 14 astronauts,alma mater,oklahoma state university stillwater,0
+give me the apollo 14 astronauts,alma mater,university of arizona,0
+give me the apollo 14 astronauts,mission,ALPHANUM,1
+give me the apollo 14 astronauts,previous occupation,fighter pilot,0
+give me the apollo 14 astronauts,previous occupation,test pilot,0
+give me the apollo 14 astronauts,rank,colonel  united states,1
+give me the apollo 14 astronauts,rank,united states air force,0
+marc anthony,artist,marc anthony,2
+marc anthony,genre,contemporary r b,0
+marc anthony,genre,latin pop,1
+marc anthony,genre,pop music,1
+marc anthony,genre,salsa music,0
+marc anthony,genre,soul music,0
+marc anthony,language,english language,0
+marc anthony,language,spanish language,0
+marc anthony,previous work,contra la corriente  marc anthony album,2
+marc anthony,producer,cory rooney,0
+marc anthony,producer,dan shea  producer,0
+marc anthony,producer,marc anthony,2
+marc anthony,producer,rodney jerkins,0
+marc anthony,record label,columbia records,1
+marc anthony,subsequent work,libre  marc anthony album,1
+marc anthony,rev,all music,0
+marc anthony,title,da la vuelta,0
+marc anthony,title,i need to know  marc anthony song,2
+marc anthony,title,my baby you,1
+marc anthony,title,you sang to me,2
+marc anthony,writer,dan shea  producer,0
+marc anthony,writer,emilio estefan,0
+marc anthony,writer,kike santander,0
+marc anthony,writer,robin thicke,0
+music conferences,genre,electronic music,0
+nelson mandela john dube,birth place,cape province,1
+nelson mandela john dube,birth place,mvezo,0
+nelson mandela john dube,birth place,union of south africa,2
+nelson mandela john dube,death place,gauteng,2
+nelson mandela john dube,death place,johannesburg,2
+nelson mandela john dube,death place,south africa,0
+nelson mandela john dube,deputy,f  w  de klerk,0
+nelson mandela john dube,deputy,thabo mbeki,0
+nelson mandela john dube,other party,south african communist party,0
+nelson mandela john dube,party,african national congress,1
+nelson mandela john dube,predecessor,f  w  de klerk,0
+nelson mandela john dube,predecessor,state president of south africa,0
+nelson mandela john dube,religion,methodism,0
+nelson mandela john dube,resting place,eastern cape,0
+nelson mandela john dube,resting place,qunu,1
+nelson mandela john dube,resting place position,ALPHANUM,1
+nelson mandela john dube,spouse,evelyn mase,1
+nelson mandela john dube,spouse,gra a machel,1
+nelson mandela john dube,spouse,winnie madikizela mandela,1
+nelson mandela john dube,successor,thabo mbeki,1
+nelson mandela john dube,term period,ALPHANUM,2
+nelson mandela john dube,data,internal resistance to apartheid,0
+nelson mandela john dube,honorific prefix,excellency,0
+nelson mandela john dube,honorific suffix,order of australia,1
+nelson mandela john dube,honorific suffix,order of canada,0
+nelson mandela john dube,honorific suffix,order of jamaica,0
+nelson mandela john dube,honorific suffix,order of mapungubwe,0
+nelson mandela john dube,honorific suffix,order of merit,0
+nelson mandela john dube,honorific suffix,order of prince henry,0
+nelson mandela john dube,honorific suffix,ALPHANUM,0
+nelson mandela john dube,honorific suffix,order of the elephant,0
+nelson mandela john dube,honorific suffix,queen s counsel,0
+nelson mandela john dube,place of birth,cape province,1
+nelson mandela john dube,place of birth,mvezo,1
+nelson mandela john dube,place of birth,union of south africa,2
+nelson mandela john dube,title,history of the african national congress,0
+nelson mandela john dube,title,non aligned movement,0
+nelson mandela john dube,title,president of south africa,2
+sacred heart u,city,coconut grove,1
+sacred heart u,city,miami,0
+sacred heart u,county,miami dade county  florida,0
+sacred heart u,grades,pre kindergarten,0
+sacred heart u,religion,catholic church,0
+sacred heart u,religion,society of the sacred heart,1
+sacred heart u,state,florida,1
+sacred heart u,accreditation,southern association of colleges and schools,0
+science fiction book written in the 1980,author,robert l  forward,1
+science fiction book written in the 1980,cover artist,darrell k  sweet,0
+science fiction book written in the 1980,literary genre,list of science fiction novels,0
+science fiction book written in the 1980,media type,hardcover,0
+science fiction book written in the 1980,publisher,del rey books,1
+science fiction book written in the 1980,subsequent work,starquake  novel,0
+science fiction book written in the 1980,followed by,starquake  novel,2
+science fiction book written in the 1980,genre,list of science fiction novels,1
+scott county,location,georgetown  kentucky,2
+scott county,architecture,italianate architecture,0
+scott county,architecture,romanesque architecture,0
+sealy mattress co,foundation place,sealy  texas,1
+sealy mattress co,location city,trinity  north carolina,2
+sealy mattress co,location country,united states,1
+sealy mattress co,parent company,tempur sealy international,2
+sealy mattress co,foundation,sealy  texas,1
+sealy mattress co,parent,tempur sealy international,1
+summer flowers,binomial authority,carl linnaeus,0
+summer flowers,class,monocotyledon,0
+summer flowers,division,flowering plant,1
+summer flowers,family,liliaceae,1
+summer flowers,genus,lilium,2
+summer flowers,kingdom,plant,0
+summer flowers,order,liliales,1
+summer flowers,familia,liliaceae,1
+summer flowers,ordo,liliales,2
+summer flowers,unranked classis,monocotyledon,0
+summer flowers,unranked divisio,flowering plant,1
+tango dance history,derivative,maxixe  dance,0
+tango dance history,instrument,accordion,0
+tango dance history,instrument,bandoneon,0
+tango dance history,instrument,double bass,0
+tango dance history,instrument,guitar,0
+tango dance history,instrument,human voice,0
+tango dance history,instrument,piano,0
+tango dance history,instrument,violin,0
+tango dance history,music subgenre,argentine tango,2
+tango dance history,music subgenre,ballroom tango,1
+tango dance history,music subgenre,finnish tango,1
+tango dance history,music subgenre,nuevo tango,1
+tango dance history,stylistic origin,candombe,1
+tango dance history,stylistic origin,contradanza,1
+tango dance history,stylistic origin,milonga  music,0
+tango dance history,stylistic origin,payada,2
+tango dance history,stylistic origin,polka,1
+tango dance history,stylistic origin,tango  flamenco,2
+tango dance history,stylistic origin,waltz  music,1
+tango dance history,stylistic origin,zarzuela,1
+tango dance history,derivatives,maxixe  dance,0
+tango dance history,instruments,accordion,0
+tango dance history,instruments,bandoneon,0
+tango dance history,instruments,double bass,0
+tango dance history,instruments,guitar,0
+tango dance history,instruments,human voice,0
+tango dance history,instruments,piano,0
+tango dance history,instruments,violin,0
+tango dance history,other topics,tango music,1
+tango dance history,stylistic origins,candombe,2
+tango dance history,stylistic origins,contradanza,1
+tango dance history,stylistic origins,milonga  music,0
+tango dance history,stylistic origins,payada,2
+tango dance history,stylistic origins,polka,1
+tango dance history,stylistic origins,tango  flamenco,1
+tango dance history,stylistic origins,waltz  music,1
+tango dance history,stylistic origins,zarzuela,1
+tango dance history,subgenres,argentine tango,1
+tango dance history,subgenres,ballroom tango,1
+tango dance history,subgenres,finnish tango,1
+tango dance history,subgenres,nuevo tango,1
+vietnam travel airports,city,hanoi,1
+vietnam travel airports,location,hanoi,2
+vietnam travel airports,location,vietnam,2
+vietnam travel airports,city served,hanoi,1
+vietnam war facts,location,south vietnam,1
+what books did paul of tarsus write,biblepart,new testament,0
+what books did paul of tarsus write,book,first epistle to the corinthians,2
+what books did paul of tarsus write,category,pauline epistles,0
+which countries have places with more than two caves,cctld,cymru,0
+which countries have places with more than two caves,cctld,wales,2
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,gruffydd ap llywelyn,0
+which countries have places with more than two caves,established event,ALPHANUM,0
+which countries have places with more than two caves,established event,statute of rhuddlan,0
+which countries have places with more than two caves,first minister,carwyn jones,0
+which countries have places with more than two caves,first minister,member of the national assembly for wales,0
+which countries have places with more than two caves,languages,english language,0
+which countries have places with more than two caves,languages,welsh language,0
+which countries have places with more than two caves,languages type,languages of wales,0
+which countries have places with more than two caves,legislature,national assembly for wales,0
+which countries have places with more than two caves,legislature,parliament of the united kingdom,0
+which countries have places with more than two caves,monarch,elizabeth ii,0
+which countries have places with more than two caves,prime minister,david cameron,1
+which countries have places with more than two caves,prime minister,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,ALPHANUM,0
+which countries have places with more than two caves,secretary of state,stephen crabb,0
+which countries have places with more than two caves,sovereignty type,wales in the high middle ages,0
+which countries have places with more than two caves,status,countries of the united kingdom,0
+who produces orangina,industry,drink,0
+who produces orangina,key person,roger white  executive,0
+who produces orangina,location,cumbernauld,0
+who produces orangina,location,north lanarkshire,0
+who produces orangina,location,scotland,0
+who produces orangina,location,united kingdom,0
+who produces orangina,product,ade  drink suffix,0
+who produces orangina,product,barr cola,0
+who produces orangina,product,cherryade,0
+who produces orangina,product,ginger beer,0
+who produces orangina,product,irn bru,0
+who produces orangina,product,lemonade,0
+who produces orangina,product,lipton,0
+who produces orangina,product,red kola,0
+who produces orangina,product,saint clement s  cocktail,0
+who produces orangina,product,shandy,1
+who produces orangina,product,tizer,0
+who produces orangina,products,ade  drink suffix,0
+who produces orangina,products,barr cola,0
+who produces orangina,products,cherryade,0
+who produces orangina,products,ginger beer,0
+who produces orangina,products,irn bru,0
+who produces orangina,products,lemonade,0
+who produces orangina,products,lipton,0
+who produces orangina,products,red kola,0
+who produces orangina,products,saint clement s  cocktail,0
+who produces orangina,products,shandy,0
+who produces orangina,products,tizer,0
+winners of the acm athena award,birth place,huddersfield,0
+winners of the acm athena award,birth place,yorkshire,0
+winners of the acm athena award,death place,willingham  cambridgeshire,0
+winners of the acm athena award,known for,natural language processing,0
+winners of the acm athena award,nationality,united kingdom,1
+winners of the acm athena award,spouse,roger needham,0
+winners of the acm athena award,after,martin kay,0
+winners of the acm athena award,before,makoto nagao,1
+winners of the acm athena award,place of birth,huddersfield,1
+winners of the acm athena award,place of birth,yorkshire,0
+winners of the acm athena award,place of death,willingham  cambridgeshire,0
+winners of the acm athena award,short description,computer science,0
+winners of the acm athena award,work institution,computer laboratory  university of cambridge,0
