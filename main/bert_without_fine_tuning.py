@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import re
@@ -7,18 +6,17 @@ import tensorflow as tf
 import math
 
 from sklearn.utils import shuffle
-from sklearn.metrics import ndcg_score, dcg_score 
+
+from transformers import BertTokenizer, TFBertModel,TFBertForSequenceClassification
 
 class MyModel(tf.keras.Model):
     def __init__(self):
         super(MyModel, self).__init__()
-        self.bert_layer = TFBertModel.from_pretrained('bert-base-uncased')
         self.dense_layer = tf.keras.layers.Dense(1, activation="sigmoid")
         ## 50 x 768
 
     def __call__(self, x_train):
-        intermediate = self.bert_layer(x_train)
-        output = self.dense_layer(intermediate[1])
+        output = self.dense_layer(x_train[1])
         return output
 
 ## homogeneous encoding for all the queries,predicates, objects
@@ -27,9 +25,12 @@ maxLengthPadding = 50
 
 input_dictionary = {}
 
+## final datasets
 # df = pd.read_csv("../data/Complete_Data_With_Targets.csv")
 df = pd.read_csv("../data/URI_with_targets.csv")
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+
+## create the position id and segment id
 
 def getBertParameters(tokens):
     attn_mask = []
@@ -61,6 +62,8 @@ train_accuracy = tf.keras.metrics.MeanSquaredError(name='train_accuracy')
 test_loss = tf.keras.metrics.Mean(name='test_loss')
 test_accuracy = tf.keras.metrics.MeanSquaredError(name='test_accuracy')
 
+## group data by query
+
 groupedDataset = df.groupby('query')
 queries = []
 for q,g in groupedDataset:
@@ -68,13 +71,11 @@ for q,g in groupedDataset:
 
 queries = shuffle(queries)
 
-## data length = 95
 data_length = len(groupedDataset)
 split_length = int(0.8*data_length)
 
 queries_for_training = queries[:split_length]
 queries_for_testing = queries[split_length:]
-
 
 test_data =[]
 count = 0
@@ -86,25 +87,25 @@ objTrainList = []
 y_train = []
 
 for query,group in groupedDataset:
-    if(query in queries_for_testing):
-      test_data.append([query,group["pred"].values,group["obj"].values,group["imp"].values])
-    else: 
-      for i in range(len(group["pred"].values)):
-        queryTrainList.append(query)
-        predTrainList.append(group["pred"].values[i])
-        objTrainList.append(group["obj"].values[i])
-        y_train.append(group["imp"].values[i])
-    count+=1
+  if(query in queries_for_testing):
+    test_data.append([query,group["pred"].values,group["obj"].values,group["rel"].values])
+  else: 
+    for i in range(len(group["pred"].values)):
+      queryTrainList.append(query)
+      predTrainList.append(group["pred"].values[i])
+      objTrainList.append(group["obj"].values[i])
+      y_train.append(group["rel"].values[i])
+  count+=1
 
 ## To give a higher importance to a higher utility value
-def normalizeRanks(rankArray):
-  maximum = 2
+def invertRanks(rankArray):
+  maximum = 2 
   for i in range(len(rankArray)):
     rankArray[i]=rankArray[i]/maximum
   return rankArray
 
 
-y_train = normalizeRanks(y_train)
+y_train = invertRanks(y_train)
 
 
 
@@ -112,11 +113,16 @@ queryTrainList,predTrainList,objTrainList,y_train = shuffle(queryTrainList,predT
 
 
 print(y_train[0:10])    
-print(len(queryTrainList),len(predTrainList),len(objTrainList),len(test_data),len(y_train),data_length)
+print(len(queryTrainList),len(predTrainList),len(objTrainList),len(test_data),len(y_train))
+
+print(944/16
+      )
 
 batch_size = 16
 num_batches = math.floor(len(queryTrainList)/batch_size)
-EPOCHS = 20
+EPOCHS = 10
+
+bert_layer = TFBertModel.from_pretrained('bert-base-uncased')
 
 
 def train_step(query,pred,obj,target):
@@ -126,6 +132,11 @@ def train_step(query,pred,obj,target):
 
     for k in range(len(query)):
           in_id = tokenizer.encode(query[k],pred[k]+" "+obj[k], add_special_tokens=True)  # Batch size 1
+          # print(query[k])
+          # print(pred[k])
+          # print(obj[k])
+          # print(in_id)
+          # input()
           attn,seg = getBertParameters(tokenizer.convert_ids_to_tokens(in_id))
           in_id += [0]*(maxLengthPadding-len(in_id))
           input_ids.append(in_id)
@@ -137,18 +148,16 @@ def train_step(query,pred,obj,target):
         input_dictionary['input_ids'] = tf.convert_to_tensor(np.array(input_ids)) ## [None, :]
         input_dictionary['attention_mask'] = tf.convert_to_tensor(np.array(attn_mask))  ## [None, :]
         input_dictionary['token_type_ids'] = tf.convert_to_tensor(np.array(segment_ids))  ## [None, :]
-        output = model(input_dictionary)
+        output = bert_layer(input_dictionary)
+        output = model(output)
         loss = (target-output)**2
         gradients = tape.gradient(loss, model.trainable_variables)
         optimizer.apply_gradients(zip(gradients, model.trainable_variables))
-        # input()
+    
     return loss
   
         
     
-ndcg_epoch_array = {
-    
-}
 
 ## [CLS] + [Query] + [SEP] + [PRED + OBJ] +[SEP]
 for j in range(EPOCHS):
@@ -159,35 +168,24 @@ for j in range(EPOCHS):
         o = objTrainList[index:index+batch_size]
         actual_y = np.array(y_train[index:index+batch_size]).reshape(batch_size,1)
         loss = train_step(q,p,o,actual_y)
-
-    q = queryTrainList[num_batches*batch_size:]
-    p = predTrainList[num_batches*batch_size:]
-    o = objTrainList[num_batches*batch_size:]
-    if(len(q)>0):
+        q = queryTrainList[num_batches*batch_size:]
+        p = predTrainList[num_batches*batch_size:]
+        o = objTrainList[num_batches*batch_size:]
         actual_y = y_train[num_batches*batch_size:]
         actual_y = np.array(actual_y).reshape(len(actual_y),1)
-        print(actual_y)
-        
+    if(len(q)>1):  
+    
         loss = train_step(q,p,o,actual_y)
-        print("Loss after epoch "+str(j)+" :", loss)   
+    # print("Loss after epoch "+str(j)+" :", loss)   
     n5,n10 = test_step()
+    print(n5,n10)
 
-    print("n5,n10:",n5,n10)
-
-
-    ndcg_epoch_array[j] = [n5,n10]
-
-ndcg_epoch_array
 
 # ## grouping the dataset by query to get the ndcg scores
 def test_step():
-    predictedQueryRanks = []
-    groundTruthRanks = []
-
-    integerValuedQueryRanks = []
-
     count = 0
-
+    integerValuedQueryRanks = []
+    groundTruthRanks = []
     for x_test in test_data:
         query = x_test[0]
         predPerQuery = list(x_test[1])
@@ -203,30 +201,29 @@ def test_step():
             input_dictionary['input_ids'] = tf.constant(input_ids)[None, :]
             input_dictionary['attention_mask'] = tf.constant(attn_mask)[None, :]
             input_dictionary['token_type_ids'] = tf.constant(segment_id)[None, :]
-            output = model(input_dictionary)
-            predictedRanksPerQuery.append(output.numpy().tolist()[0][0])
+            output = bert_layer(input_dictionary)
+            output = model(output)
+            # predictedRanksPerQuery.append(output.numpy().tolist()[0][0])
             i_ranks.append(round(output.numpy().tolist()[0][0]*2))
         integerValuedQueryRanks.append(i_ranks)
 
         groundTruthRanks.append(target) 
-        predictedQueryRanks.append(predictedRanksPerQuery)
+        # predictedQueryRanks.append(predictedRanksPerQuery)
         count+=1
-    print(groundTruthRanks[0])
-    print(integerValuedQueryRanks[0])
-    
-    return compute_ndcg_scores(groundTruthRanks,integerValuedQueryRanks)
+    return ndcg_scores(groundTruthRanks,integerValuedQueryRanks)
 
+from sklearn.metrics import ndcg_score, dcg_score 
+def ndcg_scores(groundTruthRanks,integerValuedQueryRanks):  
+  ndcg_scores_5 = []
+  ndcg_scores_10 = []
+  count = 0
+  for x,y in zip(groundTruthRanks,integerValuedQueryRanks):
+      if(len(x)>1):
+          true_relevance = np.asarray([x]) 
+          relevance_score = np.asarray([y]) 
+          ndcg_scores_5.append(ndcg_score(true_relevance, relevance_score,k=5))
+          ndcg_scores_10.append(ndcg_score(true_relevance, relevance_score,k=10))
+  n5 = sum(ndcg_scores_5)/len(ndcg_scores_5)
+  n10 = sum(ndcg_scores_10)/len(ndcg_scores_10)
 
-
-def compute_ndcg_scores(groundTruthRanks,integerValuedQueryRanks): 
-    ndcg_scores_5 = []
-    ndcg_scores_10 = []
-    count = 0
-    for x,y in zip(groundTruthRanks,integerValuedQueryRanks):
-        if(len(x)>1):
-            true_relevance = np.asarray([x]) 
-            relevance_score = np.asarray([y]) 
-            ndcg_scores_5.append(ndcg_score(true_relevance, relevance_score,k=5))
-            ndcg_scores_10.append(ndcg_score(true_relevance, relevance_score,k=10))
-    return (sum(ndcg_scores_5)/len(ndcg_scores_5)),(sum(ndcg_scores_10)/len(ndcg_scores_10))
-
+  return n5,n10

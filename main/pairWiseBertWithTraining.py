@@ -6,6 +6,7 @@ import math
 from sklearn.utils import shuffle
 
 from transformers import BertTokenizer, TFBertModel,TFBertForSequenceClassification
+from sklearn.metrics import ndcg_score, dcg_score
 
 # tf.config.experimental.list_physical_devices('GPU')
 
@@ -24,18 +25,18 @@ class MyModel(tf.keras.Model):
 maxLengthPadding = 50
 
 
+## File names can be changed with respect to the target being predicted
+## i.e rel, imp, or utility
 
-train_data = open("./URI_5_fold_data/TrainingDataURI4.txt",'r')
-# train_data = open("/content/drive/My Drive/Independent Study/Shuffled_Complete_Training_Data.txt",'r')
+train_data = open("../data/CompleteData/Utility/TrainingData2.txt",'r')
 train_data = train_data.readlines()
 train_data = shuffle(train_data)
-test_data = open("./URI_5_fold_data/TestingDataURI4.txt",'r')
+test_data = open("../data/CompleteData/Utility/TestingData2.txt",'r')
 test_data = test_data.readlines()
 
 
 for j in range(len(test_data)):
     test_data[j]=test_data[j].split(',')
-
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
@@ -190,8 +191,6 @@ def test_step():
     
     return compute_ndcg_scores(groundTruthRanks,integerValuedQueryRanks)
 
-from sklearn.metrics import ndcg_score, dcg_score 
-
 def compute_ndcg_scores(groundTruthRanks,integerValuedQueryRanks): 
     ndcg_scores_5 = []
     ndcg_scores_10 = []
@@ -227,14 +226,11 @@ for j in range(EPOCHS):
     if(len(curr_batch)>0):
         loss = train_step(curr_batch)
         print("Loss after epoch "+str(j)+" :", loss)   
-    model.save_weights(filepath="/common/users/ap1746/BertModel",overwrite=True)
     
     n5,n10 = test_step()
     
-    print("After epoch "+str(j+1)+" n5,n10:",n5,n10)
+    print("After epoch "+str(j+1)+" n5,n10 for Utility:",n5,n10)
 
     ndcg_epoch_array[j] = [n5,n10]
-    
-
-
-print(ndcg_epoch_array)
+ 
+ print(ndcg_epoch_array)
